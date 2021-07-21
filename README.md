@@ -14,7 +14,8 @@
     - [Installing SMAPI](#installing-smapi)
     - [Steam Config](#steam-config)
       - [Disable the Steam Cloud](#disable-the-steam-cloud)
-      - [Change Steams Update Behaviour](#change-steams-update-behaviour)
+    - [GoG Galaxy Config](#gog-galaxy-config)
+      - [Disable the Gog Galaxy Cloud](#disable-the-gog-galaxy-cloud)
     - [Game Config](#game-config)
       - [Set the Game language to English](#set-the-game-language-to-english)
     - [Using Wabbajack](#using-wabbajack)
@@ -67,15 +68,15 @@ Stardew Valley mods depend on a special mod loader known as SMAPI. Go to the [SM
 
 ![Steam_General_Settings](assets/images/Steam_General_Settings.png)
 
-Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Keep games saves in the Steam Cloud_.
+Open the Properties window (right click the game in your Library -> Properties), navigate to the _General_ tab and un-tick the _Keep games saves in the Steam Cloud_.
 
-#### Change Steams Update Behaviour
+### GoG Galaxy Config
 
-![Steam_Update_Settings](assets/images/Steam_Update_Settings.png)
+#### Disable the Gog Galaxy Cloud
 
-Stardew Valley is still being updated by Concerned Ape. Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime or SMAPI runtime version.
+![Galaxy_General_Settings](assets/images/Galaxy_General_Settings.png)
 
-To ensure that Steam does not automatically update the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
+Open the Configure window (right click the game in Installed -> Manage installation -> Configure), navigate to _Features_ and un-tick _Sync local saves with the GOG Galaxy Cloud_.
 
 ### Game Config
 
