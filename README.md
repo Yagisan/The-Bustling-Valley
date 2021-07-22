@@ -27,10 +27,12 @@
 - [Noteworthy Mods](#noteworthy-mods)
   - [Overhauls](#overhauls)
   - [Skills and Professions](#skills-and-professions)
+  - [Automation](#automation)
 - [Other Post Installation FAQ](#other-post-installation-faq)
   - [Slow start](#slow-start)
   - [Removing the Modlist](#removing-the-modlist)
   - [Updating SMAPI](#updating-smapi)
+  - [The JSON Shuffle](#the-json-shuffle)
   - [Unofficial 64 bit Stardew Valley](#unofficial-64-bit-stardew-valley)
   - [Contact and Technical Support](#contact-and-technical-support)
 
@@ -156,6 +158,18 @@ Updating is like installing. You only have to make sure that you select the same
 
 **[Capstone Professions](https://www.nexusmods.com/stardewvalley/mods/7636)** adds a final choice of professions once you max out all your skills.
 
+## Automation
+
+**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** by placing a chest next to a machine (like a furnace or crystalarium), the machine will automatically pull raw items from the chest and push processed items into it. Connect multiple machines with a chest to link them.
+
+**[Water Bot](https://www.nexusmods.com/stardewvalley/mods/8167)** by right-clicking with your watering can your farmer will go crop by crop watering them, expending the same amount of time and energy as if you had done it yourself to keep as vanilla as possible, but a lot less tedious!
+
+**[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** significantly improves Junimos: automatically plant crops, fertilize, work for a fee, increase range, and more!
+
+**[Better Junimos Forestry](https://www.nexusmods.com/stardewvalley/mods/8992)** and new skills to the Junimos. They can hoe your fields, grow wild trees for timber, look after your fruit trees, clear debris, and mow the lawn.
+
+**[Deluxe Grabber Redux](https://www.nexusmods.com/stardewvalley/mods/7920)** improves your Auto-Grabber to grab other things in its area: harvest crops, forage, chop down wood, dig up artefacts, collect ores.
+
 # Other Post Installation FAQ
 
 ## Slow start
@@ -169,6 +183,10 @@ Simply delete the installation folder (`C:\WJ\TBV` if you have been following th
 ## Updating SMAPI
 
 In addition to being a mod loader, SMAPI also contains fixes and runtime updates to help make mods work with different versions of Stardew Valley. If you are having problems it is a good idea to update to the [latest version of SMAPI](#installing-smapi) and try again.
+
+## The JSON Shuffle
+
+This is described [in depth here](https://stardewmodding.wiki/wiki/Json_Shuffle), but the short version is that adding, removing, or updating mods that use JSON assets in an ongoing save results in the items becoming messed up. It's not fixable. Please don't alter this modlist once you start playing.
 
 ## Unofficial 64 bit Stardew Valley
 
