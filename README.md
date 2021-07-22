@@ -25,9 +25,10 @@
 - [Starting the Game](#starting-the-game)
 - [Updating](#updating)
 - [Noteworthy Mods](#noteworthy-mods)
-  - [Category 1](#category-1)
-  - [Category 2](#category-2)
+  - [Overhauls](#overhauls)
+  - [Skills and Professions](#skills-and-professions)
 - [Other Post Installation FAQ](#other-post-installation-faq)
+  - [Slow start](#slow-start)
   - [Removing the Modlist](#removing-the-modlist)
   - [Updating SMAPI](#updating-smapi)
   - [Unofficial 64 bit Stardew Valley](#unofficial-64-bit-stardew-valley)
@@ -137,11 +138,29 @@ Updating is like installing. You only have to make sure that you select the same
 
 # Noteworthy Mods
 
-## Category 1
+## Overhauls
 
-## Category 2
+**[Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753)** is a huge expansion with 25 new NPCs, multiple locations, a new farm, quests and more. **This mod significantly changes Pelican town, and as a result many mods need to be specifically made compatible with it. Updates to the modlist may be delayed as all SVE patches are updated.**
+
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** is a huge expansion with 24 new NPCs, a new village to the east of Pelican town, new quests and more.
+
+**[Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)** adds a boarding house behind the bus stop with several new NPCs. NPCs from other mods can make their homes here.
+
+**[East Scarpe](https://www.nexusmods.com/stardewvalley/mods/5787)** adds a village to the west of Pelican town, and several new NPCs. NPCs from other mods can make their homes here.
+
+**[Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)** adds a new village, a special quest, new crops, fish and more.
+
+## Skills and Professions
+
+**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** overhauls the game's professions to be more balanced and unique. Previously suboptimal choices are now competitive money-making alternatives and overlooked mechanics are now engaging endgame objectives.
+
+**[Capstone Professions](https://www.nexusmods.com/stardewvalley/mods/7636)** adds a final choice of professions once you max out all your skills.
 
 # Other Post Installation FAQ
+
+## Slow start
+
+Unfortunately JSON Assets slows down the start time of the game. The length of start up depends on how many JSON assets need to be loaded. Bigger mods, have many, many more assets than smaller mods. It doesn't affect runtime performance though.
 
 ## Removing the Modlist
 
@@ -153,7 +172,7 @@ In addition to being a mod loader, SMAPI also contains fixes and runtime updates
 
 ## Unofficial 64 bit Stardew Valley
 
-64-bit mode for Stardew Valley is **unofficial**. The Bustling Valley has not been tested with 64-bit mode.
+64-bit mode for Stardew Valley is **unofficial**. The Bustling Valley has not been successfully tested with 64-bit mode.
 
 ## Contact and Technical Support
 
