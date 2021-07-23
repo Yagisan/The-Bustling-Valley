@@ -42,6 +42,7 @@
 
 # Quick Links
 - [Patreon](https://patreon.com/yagisan) contains update posts and provides a way of showing support for the project.
+- [Ko-fi](https://ko-fi.com/yagisan) contains update posts and provides a way of showing support for the project.
 - [Downloads](https://github.com/Yagisan/The-Bustling-Valley/releases) for the most recent releases.
 - [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) for the tool to install this modlist.
 - [Issues](https://github.com/Yagisan/The-Bustling-Valley/issues) for technical support with this mod list.
@@ -166,7 +167,9 @@ Updating is like installing. You only have to make sure that you select the same
 
 **[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** significantly improves Junimos: automatically plant crops, fertilize, work for a fee, increase range, and more!
 
-**[Better Junimos Forestry](https://www.nexusmods.com/stardewvalley/mods/8992)** and new skills to the Junimos. They can hoe your fields, grow wild trees for timber, look after your fruit trees, clear debris, and mow the lawn.
+**[Better Junimos Forestry](https://www.nexusmods.com/stardewvalley/mods/8992)** adds new skills to the Junimos. They can hoe your fields, grow wild trees for timber, look after your fruit trees, clear debris, and mow the lawn.
+
+**[Greenhouse Gatherers](https://www.nexusmods.com/stardewvalley/mods/7619)** adds a way for Junimos to harvest crops inside buildings.
 
 **[Deluxe Grabber Redux](https://www.nexusmods.com/stardewvalley/mods/7920)** improves your Auto-Grabber to grab other things in its area: harvest crops, forage, chop down wood, dig up artefacts, collect ores.
 
