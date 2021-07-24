@@ -24,6 +24,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
       - [Downloading and Installing](#downloading-and-installing)
       - [Problems with Wabbajack](#problems-with-wabbajack)
 - [Starting the Game](#starting-the-game)
+- [Choosing a Farm](#choosing-a-farm)
 - [Updating](#updating)
 - [Noteworthy Mods](#noteworthy-mods)
   - [Overhauls](#overhauls)
@@ -133,6 +134,10 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 # Starting the Game
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. This will be `C:\WJ\TBV\ModOrganizer.exe` if you have followed the recommended settings. Once it is launched, there will be a dropdown box on the top right and a big run button right next to it. Ensure it is set to SMAPI by selecting it in the dropdown box and then hitting the run button. You have to run SMAPI through Mod Organizer 2 in order to play The Bustling Valley.
+
+# Choosing a Farm
+
+This modlist has been selected to run with, and tested on **Grandpa's Farm** from Stardew Valley Expanded. While in theory any farm should work, they not all been extensively tested. The beach farm is known to have issues with NPC Map Locations, Stardew Valley Expanded and Ridgeside Village (no one has made a world map merging all those locations together.) Support may not be available if you are not running **Grandpa's Farm**.
 
 # Updating
 
