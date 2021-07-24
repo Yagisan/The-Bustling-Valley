@@ -1,0 +1,60 @@
+{
+    "VanillaShops": [
+        {
+            "ShopName": "PierreShop",
+            "ItemStocks": [
+                {
+                    "ItemType": "Object",
+                    "ItemNames": [
+                        "Bok Choy Seeds",
+                        "Hops Starter",
+                        "Wheat Seeds"
+                    ],
+                    "When": [
+                        "!z spring"
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "ItemNames": [
+                        "Bok Choy Seeds",
+                        "Garlic Seeds",
+                        "Rhubarb Seeds",
+                        "Rice Shoot"
+                    ],
+                    "When": [
+                        "!z summer"
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "ItemNames": [
+                        "Garlic Seeds",
+                        "Hops Starter",
+                        "Rhubarb Seeds",
+                        "Rice Shoot"
+                    ],
+                    "When": [
+                        "!z fall"
+                    ]
+                },
+                {
+                    "ItemType": "Object",
+                    "ItemNames": [
+                        "Bok Choy Seeds",
+                        "Cauliflower Seeds",
+                        "Garlic Seeds",
+                        "Hops Starter",
+                        "Kale Seeds",
+                        "Rhubarb Seeds",
+                        "Rice Shoot",
+                        "Wheat Seeds"
+                    ],
+                    "When": [
+                        "!z winter"
+                    ]
+                }
+            ]
+        }
+    ]
+}

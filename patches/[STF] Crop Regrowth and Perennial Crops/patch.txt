@@ -1,0 +1,1 @@
+Invert the season stock logic to avoid duplicate items for sale.
