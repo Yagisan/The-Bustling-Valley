@@ -2,7 +2,7 @@
  
 ![GitHub all releases](https://img.shields.io/github/downloads/Yagisan/The-Bustling-Valley/total?logo=GitHub&style=for-the-badge)![GitHub issues](https://img.shields.io/github/issues/Yagisan/The-Bustling-Valley?logo=GitHub&style=for-the-badge)
 
- The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. It includes new villages, new NPCs, and of course a farming expansion. It is expected that players will not add additional mods or otherwise change this modlist.
+The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. It includes new villages, new NPCs, and of course a farming expansion. **It is expected that players will not add additional mods or otherwise change this modlist.**
 
  [![patreon](assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) [![ko-fi](assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan)
 
@@ -29,6 +29,7 @@
   - [Overhauls](#overhauls)
   - [Skills and Professions](#skills-and-professions)
   - [Automation](#automation)
+  - [Gameplay](#gameplay)
 - [Other Post Installation FAQ](#other-post-installation-faq)
   - [Slow start](#slow-start)
   - [Removing the Modlist](#removing-the-modlist)
@@ -39,6 +40,9 @@
 
 # Preamble
 
+The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. Designed for experienced players, it comes with 2 huge expansions (Stardew Valley Expanded, and Ridgeside Village), and several smaller expansions including new NPCS.. With an enormous variety of new crops, new artisan goods, and new recipes, you'll find something new to specialise your farm in. **It is expected that players will not add additional mods or otherwise change this modlist.**
+
+Please be aware that this modlist may make perfection very hard or impossible to get.
 
 
 # Quick Links
@@ -173,6 +177,20 @@ Updating is like installing. You only have to make sure that you select the same
 **[Greenhouse Gatherers](https://www.nexusmods.com/stardewvalley/mods/7619)** adds a way for Junimos to harvest crops inside buildings.
 
 **[Deluxe Grabber Redux](https://www.nexusmods.com/stardewvalley/mods/7920)** improves your Auto-Grabber to grab other things in its area: harvest crops, forage, chop down wood, dig up artefacts, collect ores.
+
+## Gameplay
+
+**[Multiple Mini-Obelisks](https://www.nexusmods.com/stardewvalley/mods/7900)** allows you to place more than 2 mini-obelisks, including outside the farm.
+
+**[Horse Overhaul](https://www.nexusmods.com/stardewvalley/mods/7911)** makes the horse the way it should be, thin, fast and useful.
+
+**[Better Ranching](https://www.nexusmods.com/stardewvalley/mods/859)** prevents failing milking/shearing attempts and adds an indicator when animals can be petted, milked, or sheared.
+
+**[Better Mixed Seeds](https://www.nexusmods.com/stardewvalley/mods/3012)**  allows for every seed to be found in mixed seeds, including mod added ones.
+
+**[Watering Grants Experience And Crops Can Wither](https://www.nexusmods.com/stardewvalley/mods/7768)** does exactly what it says. Manual watering grants some farming experience, and if not watered, your crops will die.
+
+**[Multiple Spouses](https://www.nexusmods.com/stardewvalley/mods/6227)**  allows you to have multiple spouses, kisses, pregnancies, spouse rooms, etc.
 
 # Other Post Installation FAQ
 
