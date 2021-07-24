@@ -4,6 +4,8 @@
 
 The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. It includes new villages, new NPCs, and of course a farming expansion. **It is expected that players will not add additional mods or otherwise change this modlist.**
 
+![Early_Farm_Heroshot](assets/images/Early_Farm_Heroshot.png)
+
  [![patreon](assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) [![ko-fi](assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan)
 
 - [The Bustling Valley](#the-bustling-valley)
