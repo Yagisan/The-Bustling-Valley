@@ -28,6 +28,14 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 PATCH: [STF] Crop Regrowth and Perennial Crops
 Invert the season stock logic to avoid duplicate items for sale.
 
+### Updates <!-- omit in toc -->
+
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.23.3
+
+**[Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)** updated to 1.1.6
+
+**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.23.2
+
 ## 0.1.0
 
 **Released:** `25 Jul 2021`
