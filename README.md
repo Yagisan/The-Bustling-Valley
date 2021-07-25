@@ -1,5 +1,5 @@
 # The Bustling Valley
- 
+
 ![GitHub all releases](https://img.shields.io/github/downloads/Yagisan/The-Bustling-Valley/total?logo=GitHub&style=for-the-badge)![GitHub issues](https://img.shields.io/github/issues/Yagisan/The-Bustling-Valley?logo=GitHub&style=for-the-badge)
 
 The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. It includes new villages, new NPCs, and of course a farming expansion. **It is expected that players will not add additional mods or otherwise change this modlist.**
@@ -47,8 +47,8 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
 
 Please be aware that this modlist may make perfection very hard or impossible to get.
 
-
 # Quick Links
+
 - [Patreon](https://patreon.com/yagisan) contains update posts and provides a way of showing support for the project.
 - [Ko-fi](https://ko-fi.com/yagisan) contains update posts and provides a way of showing support for the project.
 - [Downloads](https://github.com/Yagisan/The-Bustling-Valley/releases) for the most recent releases.
@@ -180,10 +180,6 @@ Updating is like installing. You only have to make sure that you select the same
 **[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** significantly improves Junimos: automatically plant crops, fertilize, work for a fee, increase range, and more!
 
 **[Better Junimos Forestry](https://www.nexusmods.com/stardewvalley/mods/8992)** adds new skills to the Junimos. They can hoe your fields, grow wild trees for timber, look after your fruit trees, clear debris, and mow the lawn.
-
-**[Greenhouse Gatherers](https://www.nexusmods.com/stardewvalley/mods/7619)** adds a way for Junimos to harvest crops inside buildings.
-
-**[Deluxe Grabber Redux](https://www.nexusmods.com/stardewvalley/mods/7920)** improves your Auto-Grabber to grab other things in its area: harvest crops, forage, chop down wood, dig up artefacts, collect ores.
 
 ## Gameplay
 
