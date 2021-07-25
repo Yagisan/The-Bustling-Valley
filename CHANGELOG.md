@@ -28,6 +28,14 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 PATCH: [STF] Crop Regrowth and Perennial Crops
 Invert the season stock logic to avoid duplicate items for sale.
 
+### Additions <!-- omit in toc -->
+
+**[Seasonal Outfits - Slightly Cuter Aesthetic](https://www.nexusmods.com/stardewvalley/mods/5450)**
+
+**[Seasonal Outfits - Slightly Cuter Aesthetic - Swimwear](https://www.nexusmods.com/stardewvalley/mods/5450)**
+
+**[Seasonal Outfits - Slightly Cuter Aesthetic for SVE](https://www.nexusmods.com/stardewvalley/mods/5969)**
+
 ### Updates <!-- omit in toc -->
 
 **[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.23.3
@@ -40,7 +48,14 @@ Invert the season stock logic to avoid duplicate items for sale.
 
 ### Removed <!-- omit in toc -->
 
-**[Better Mixed Seeds](https://www.nexusmods.com/stardewvalley/mods/3012)** 
+**[Better Mixed Seeds](https://www.nexusmods.com/stardewvalley/mods/3012)** temporary. Needs extensive configuration after list is finalised.
+
+**[Boarding House and Bus Stop Extension - Foragables](https://www.nexusmods.com/stardewvalley/mods/4120)** redundant.
+
+**[Seasonal Villager Outfits](https://www.nexusmods.com/stardewvalley/mods/2449)** **Deleted by Author**
+
+**[Seasonal Outfits for SVE (Vanilla Style)](https://www.nexusmods.com/stardewvalley/mods/5975)** matching style mod was deleted.
+
 
 ## 0.1.0
 
@@ -51,5 +66,3 @@ Invert the season stock logic to avoid duplicate items for sale.
 **This is a pre-release of The Bustling Valley. It is subject to change, and should not be used for a non-testing playthrough.**
 
 Initial release. This is to help identify potential mod incompatibilities and bugs in the mod list.
-
-### Additions <!-- omit in toc -->
