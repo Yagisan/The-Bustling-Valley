@@ -1,0 +1,20 @@
+{
+  "PullGemstonesFromJunimoHuts": false,
+  "AutomationInterval": 60,
+  "Controls": {
+    "ToggleOverlay": "U"
+  },
+  "ConnectorNames": [
+    "Workbench",
+    "Wood Path"
+  ],
+  "ModCompatibility": {
+    "BetterJunimos": true,
+    "WarnForMissingBridgeMod": true
+  },
+  "MachineOverrides": {
+    "ShippingBin": {
+        "Enabled": false
+    }
+}
+}

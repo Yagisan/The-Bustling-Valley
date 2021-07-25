@@ -1,0 +1,20 @@
+{
+  "SeasonalEdits": "true",
+  "ReplaceDefaultFences": "true",
+  "ReplaceHardwoodFences": "false",
+  "ImmersiveShadows": "true",
+  "MistEffects": "true",
+  "CanWalkOverBeachTidepools": "false",
+  "MountainMinecart": "false",
+  "RemoveObjectsFromGrandpasShed": "false",
+  "RemoveSouthernCactusesFromDesert": "false",
+  "LowerProfitMargins": "false",
+  "BalancedCrafting": "true",
+  "HarderBuildingConstruction": "true",
+  "StrongerMonsters": "false",
+  "OlderSophiaPortraits": "false",
+  "VanillaSandyPortraits": "false",
+  "MatureEvents": "false",
+  "UseGaldoranThemeAllTimes": "false",
+  "DisableGaldoranTheme": "false"
+}
