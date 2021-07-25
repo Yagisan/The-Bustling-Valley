@@ -193,8 +193,6 @@ Updating is like installing. You only have to make sure that you select the same
 
 **[Better Ranching](https://www.nexusmods.com/stardewvalley/mods/859)** prevents failing milking/shearing attempts and adds an indicator when animals can be petted, milked, or sheared.
 
-**[Better Mixed Seeds](https://www.nexusmods.com/stardewvalley/mods/3012)**  allows for every seed to be found in mixed seeds, including mod added ones.
-
 **[Watering Grants Experience And Crops Can Wither](https://www.nexusmods.com/stardewvalley/mods/7768)** does exactly what it says. Manual watering grants some farming experience, and if not watered, your crops will die.
 
 **[Multiple Spouses](https://www.nexusmods.com/stardewvalley/mods/6227)**  allows you to have multiple spouses, kisses, pregnancies, spouse rooms, etc.
