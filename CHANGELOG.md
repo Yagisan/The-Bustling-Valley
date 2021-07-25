@@ -52,7 +52,7 @@ Invert the season stock logic to avoid duplicate items for sale.
 
 **[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.23.2
 
-**[Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720)** updated to 1.8.2
+**[JSON Assets](https://www.nexusmods.com/stardewvalley/mods/1720)** updated to 1.8.2
 
 ### Removed <!-- omit in toc -->
 
@@ -65,6 +65,10 @@ Invert the season stock logic to avoid duplicate items for sale.
 **[Seasonal Outfits for SVE (Vanilla Style)](https://www.nexusmods.com/stardewvalley/mods/5975)** matching style mod was deleted.
 
 **[Last Day To Plant](https://www.nexusmods.com/stardewvalley/mods/7917)** configuration needs hard-coded paths.
+
+**[Greenhouse Gatherers](https://www.nexusmods.com/stardewvalley/mods/7619)**
+
+**[Deluxe Grabber Redux](https://www.nexusmods.com/stardewvalley/mods/7920)**
 
 ## 0.1.0
 
