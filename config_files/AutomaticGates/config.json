@@ -1,0 +1,12 @@
+{
+  "HideOverlayScroll": false,
+  "GateDelay": 0,
+  "DelayIncrement": 100,
+  "ToggleOverlay": "NumPad9",
+  "HideOverlayScrollKey": "NumPad0",
+  "AddIgnore": "MouseLeft",
+  "RemoveIgnore": "MouseRight",
+  "IncreaseDelay": "Add",
+  "DecreaseDelay": "Subtract",
+  "IgnoredGates": null
+}
