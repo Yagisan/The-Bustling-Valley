@@ -36,6 +36,8 @@ Invert the season stock logic to avoid duplicate items for sale.
 
 **[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.23.2
 
+**[Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720)** updated to 1.8.2
+
 ## 0.1.0
 
 **Released:** `25 Jul 2021`
