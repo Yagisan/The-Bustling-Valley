@@ -64,6 +64,7 @@ Invert the season stock logic to avoid duplicate items for sale.
 
 **[Seasonal Outfits for SVE (Vanilla Style)](https://www.nexusmods.com/stardewvalley/mods/5975)** matching style mod was deleted.
 
+**[Last Day To Plant](https://www.nexusmods.com/stardewvalley/mods/7917)** configuration needs hard-coded paths.
 
 ## 0.1.0
 
