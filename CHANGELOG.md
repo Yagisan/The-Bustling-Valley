@@ -36,6 +36,14 @@ Invert the season stock logic to avoid duplicate items for sale.
 
 **[Seasonal Outfits - Slightly Cuter Aesthetic for SVE](https://www.nexusmods.com/stardewvalley/mods/5969)**
 
+**[Bonster's Crops](https://www.nexusmods.com/stardewvalley/mods/3438)**
+
+**[Zosa and Bonster's Recipes](https://www.nexusmods.com/stardewvalley/mods/5203)**
+
+**[SSaturn's Tropical Farm](https://www.nexusmods.com/stardewvalley/mods/5585)**
+
+**[SSaturn's Oriental Kitchen](https://www.nexusmods.com/stardewvalley/mods/6010)**
+
 ### Updates <!-- omit in toc -->
 
 **[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.23.3
