@@ -38,6 +38,10 @@ Invert the season stock logic to avoid duplicate items for sale.
 
 **[Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720)** updated to 1.8.2
 
+### Removed <!-- omit in toc -->
+
+**[Better Mixed Seeds](https://www.nexusmods.com/stardewvalley/mods/3012)** 
+
 ## 0.1.0
 
 **Released:** `25 Jul 2021`
