@@ -11,6 +11,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
 - [The Bustling Valley](#the-bustling-valley)
 - [Preamble](#preamble)
 - [Quick Links](#quick-links)
+- [Requirements](#requirements)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -48,8 +49,6 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
 
 Please be aware that this modlist may make perfection very hard or impossible to get.
 
-This mod list will download **435MB**, and use an additional **453MB** of disk space.
-
 # Quick Links
 
 - [Patreon](https://patreon.com/yagisan) contains update posts and provides a way of showing support for the project.
@@ -58,6 +57,17 @@ This mod list will download **435MB**, and use an additional **453MB** of disk s
 - [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) for the tool to install this modlist.
 - [Issues](https://github.com/Yagisan/The-Bustling-Valley/issues) for technical support with this mod list.
 - [Nexus](https://www.nexusmods.com/stardewvalley/mods/9134) for user to user community support.
+
+# Requirements
+
+- The latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases)
+- The latest version of [SMAPI](https://smapi.io/)
+- An up to date, unmodded, Stardew Valley installation.
+  - **Acquired through either [GOG](https://www.gog.com/game/stardew_valley) or [Steam](https://store.steampowered.com/app/413150/Stardew_Valley/).**
+- Around **1.5GB** of free space.
+  - Around 550MB for Stardew Valley.
+  - Around 450MB for the mod downloads.
+  - Around 500MB for the mod list installation.
 
 # Installation
 
