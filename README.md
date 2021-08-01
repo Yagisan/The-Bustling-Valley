@@ -167,8 +167,6 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Skills and Professions
 
-**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** overhauls the game's professions to be more balanced and unique. Previously suboptimal choices are now competitive money-making alternatives and overlooked mechanics are now engaging endgame objectives.
-
 **[Capstone Professions](https://www.nexusmods.com/stardewvalley/mods/7636)** adds a final choice of professions once you max out all your skills.
 
 ## Automation
