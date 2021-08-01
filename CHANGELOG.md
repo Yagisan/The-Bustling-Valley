@@ -17,7 +17,7 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 ## 0.1.1
 
-**Released:** `DD MMM YYYY`
+**Released:** `1 Aug 2021`
 
 ### Info <!-- omit in toc -->
 
