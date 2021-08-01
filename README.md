@@ -113,9 +113,10 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-1. [Download the latest release from GitHub](https://github.com/Yagisan/The-Bustling-Valley/releases). Extract it to a temporary folder. The recommended temporary folder is `C:\Temp\Valley`.
+1. [Download the latest release from GitHub](https://github.com/Yagisan/The-Bustling-Valley/releases). It will be named `The.Bustling.Valley.wabbajack
+` Save it to a temporary folder. The recommended temporary folder is `C:\Temp\Valley`.
 2. Open Wabbajack.
-3. Click on Install form Disk. Set the target modlist to `C:\Temp\Rebuild\The Bustling Valley.wabbajack`
+3. Click on Install form Disk. Set the target modlist to `C:\Temp\Valley\The Bustling Valley.wabbajack`
 4. Set the _installation location_. The recommended installation location is `C:\WJ\TBV`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. **The rest of this document will assume you are using the recommended installation path.**
 5. Set the _download location_. The recommended download location is `C:\WJ\TBV_downloads`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder.
 6. Click the Go/Begin button
