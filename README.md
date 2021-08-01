@@ -48,6 +48,8 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
 
 Please be aware that this modlist may make perfection very hard or impossible to get.
 
+This mod list will download **435MB**, and use an additional **453MB** of disk space.
+
 # Quick Links
 
 - [Patreon](https://patreon.com/yagisan) contains update posts and provides a way of showing support for the project.
