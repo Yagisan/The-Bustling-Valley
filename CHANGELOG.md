@@ -44,6 +44,8 @@ Invert the season stock logic to avoid duplicate items for sale.
 
 **[SSaturn's Oriental Kitchen](https://www.nexusmods.com/stardewvalley/mods/6010)**
 
+**[Animal Husbandry Mod](https://www.nexusmods.com/stardewvalley/mods/1538)**
+
 ### Updates <!-- omit in toc -->
 
 **[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.23.3
@@ -69,6 +71,8 @@ Invert the season stock logic to avoid duplicate items for sale.
 **[Greenhouse Gatherers](https://www.nexusmods.com/stardewvalley/mods/7619)**
 
 **[Deluxe Grabber Redux](https://www.nexusmods.com/stardewvalley/mods/7920)**
+
+**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)**
 
 ## 0.1.0
 
