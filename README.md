@@ -41,6 +41,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [The JSON Shuffle](#the-json-shuffle)
   - [Unofficial 64 bit Stardew Valley](#unofficial-64-bit-stardew-valley)
   - [Out of Memory Errors](#out-of-memory-errors)
+  - [Festivals and Custom NPCs](#festivals-and-custom-npcs)
   - [Contact and Technical Support](#contact-and-technical-support)
 
 # Preamble
@@ -230,6 +231,10 @@ This is described [in depth here](https://stardewmodding.wiki/wiki/Json_Shuffle)
 ## Out of Memory Errors
 
 Stardew Valley on Windows is a 32bit application. Regardless of how much memory your system may have, it can only use a maximum of 4GB of RAM. As a practical matter Stardew Valley begins to show out of memory errors after 3.3GB of memory has been used. This mod list consumes approximately 2.5GB of memory while running. It is strongly recommended that you do not add any more mods to this list. If you experience an Out of Memory error, it is recommended that you immediately quit, and restart the day.
+
+## Festivals and Custom NPCs
+
+Most custom NPC mods cooperate with each other for placing NPCs into the Stardew Valley festivals. Unfortunately [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753) does not. It is not uncommon for custom NPCs to move their festival locations to accommodate Stardew Valley Expanded changes, only for Stardew Valley Expanded to change their locations again in the next patch. As a result more and more custom NPCs are no longer trying to maintain compatibility with Stardew Valley Expanded festival locations. As a result I do not consider festival issues a significant "bug". Patches fixing festival placement are welcome, but should also be sent to the custom NPC author too.
 
 ## Contact and Technical Support
 
