@@ -48,6 +48,10 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 **[Custom Spouse Patio](https://www.nexusmods.com/stardewvalley/mods/6630)** updated to 0.10.0
 
+**[Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.13.9
+
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** re-released 1.2.13 for SMAPI 3.12.0
+
 ## 0.1.1
 
 **Released:** `1 Aug 2021`
