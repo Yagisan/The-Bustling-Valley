@@ -133,9 +133,10 @@ The download and installation process can take a very long time depending on you
 3. Click on **Install from Disk**. Set the target modlist to `C:\Temp\Valley\The Bustling Valley.wabbajack`
 4. Set the _installation location_. The recommended installation location is `C:\WJ\TBV`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. **The rest of this document will assume you are using the recommended installation path.**
 5. Set the _download location_. The recommended download location is `C:\WJ\TBV_downloads`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder.
-6. Click the Go/Begin button
-7. Wait for Wabbajack to finish
-8. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
+6. Check **Overwrite Installation**
+7. Click the Go/Begin button
+8. Wait for Wabbajack to finish
+9. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
 
 #### Problems with Wabbajack
 
