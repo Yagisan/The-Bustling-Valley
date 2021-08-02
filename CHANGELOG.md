@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.1.2](#012)
   - [0.1.1](#011)
   - [0.1.0](#010)
 
@@ -14,6 +15,34 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 3. PATCH version when you make backwards compatible bug fixes.
 
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
+
+## 0.1.2
+
+**Released:** `DD MMM YYYY`
+
+### Additions <!-- omit in toc -->
+
+**[Statue of Generosity](https://www.nexusmods.com/stardewvalley/mods/7532)**
+
+**[Luck Skill](https://www.nexusmods.com/stardewvalley/mods/521)**
+
+### Updates <!-- omit in toc -->
+
+**[Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)** updated to 1.1.7
+
+**[SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)** updated to 1.5.10
+
+**[JSON Assets](https://www.nexusmods.com/stardewvalley/mods/1720)** updated to 1.8.3
+
+**[Capstone Professions](https://www.nexusmods.com/stardewvalley/mods/7636)** updated to 1.0.4
+
+**[Bigger Craftables](https://www.nexusmods.com/stardewvalley/mods/7530)** updated to 1.1.1
+
+**[More Giant Crops](https://www.nexusmods.com/stardewvalley/mods/5263)** updated to 1.0.2
+
+**[Automatic Gates](https://www.nexusmods.com/stardewvalley/mods/3109)** updated to 2.5.2
+
+**[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)** updated to Discord release 27 Jul 2021
 
 ## 0.1.1
 
