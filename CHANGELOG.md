@@ -46,6 +46,8 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 **[Multiple Spouses](https://www.nexusmods.com/stardewvalley/mods/6227)** updated to 3.2.0
 
+**[Custom Spouse Patio](https://www.nexusmods.com/stardewvalley/mods/6630)** updated to 0.10.0
+
 ## 0.1.1
 
 **Released:** `1 Aug 2021`
