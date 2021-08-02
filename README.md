@@ -63,6 +63,7 @@ Please be aware that this modlist may make perfection very hard or impossible to
 
 - The latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases)
 - The latest version of [SMAPI](https://smapi.io/)
+- A [Nexus Mods](https://www.nexusmods.com/) account.
 - An up to date, unmodded, Stardew Valley installation.
   - **Acquired through either [GOG](https://www.gog.com/game/stardew_valley) or [Steam](https://store.steampowered.com/app/413150/Stardew_Valley/).**
 - Around **1.5GB** of free space.
@@ -129,7 +130,7 @@ The download and installation process can take a very long time depending on you
 1. [Download the latest release from GitHub](https://github.com/Yagisan/The-Bustling-Valley/releases). It will be named `The.Bustling.Valley.wabbajack
 ` Save it to a temporary folder. The recommended temporary folder is `C:\Temp\Valley`.
 2. Open Wabbajack.
-3. Click on Install form Disk. Set the target modlist to `C:\Temp\Valley\The Bustling Valley.wabbajack`
+3. Click on **Install from Disk**. Set the target modlist to `C:\Temp\Valley\The Bustling Valley.wabbajack`
 4. Set the _installation location_. The recommended installation location is `C:\WJ\TBV`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. **The rest of this document will assume you are using the recommended installation path.**
 5. Set the _download location_. The recommended download location is `C:\WJ\TBV_downloads`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder.
 6. Click the Go/Begin button
