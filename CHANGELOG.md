@@ -44,6 +44,8 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 **[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)** updated to Discord release 27 Jul 2021
 
+**[Multiple Spouses](https://www.nexusmods.com/stardewvalley/mods/6227)** updated to 3.2.0
+
 ## 0.1.1
 
 **Released:** `1 Aug 2021`
