@@ -52,6 +52,10 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 **[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** re-released 1.2.13 for SMAPI 3.12.0
 
+**[Event Repeater](https://www.nexusmods.com/stardewvalley/mods/3642)** updated to 6.3.0
+
+**[Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)** updated to 3.4.5
+
 ## 0.1.1
 
 **Released:** `1 Aug 2021`
