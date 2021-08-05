@@ -56,6 +56,8 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 **[Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)** updated to 3.4.5
 
+**[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 1.6.2
+
 ## 0.1.1
 
 **Released:** `1 Aug 2021`
