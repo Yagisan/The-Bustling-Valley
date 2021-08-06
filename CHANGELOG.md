@@ -58,6 +58,8 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 **[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 1.6.2
 
+**[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.4.6
+
 ## 0.1.1
 
 **Released:** `1 Aug 2021`
