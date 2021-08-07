@@ -60,6 +60,8 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 **[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.4.6
 
+**[Special Orders for Auto-Petter](https://www.nexusmods.com/stardewvalley/mods/7534)** updated to 1.0.4
+
 ## 0.1.1
 
 **Released:** `1 Aug 2021`
