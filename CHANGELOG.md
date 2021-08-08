@@ -64,6 +64,10 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 **[Special Orders for Auto-Petter](https://www.nexusmods.com/stardewvalley/mods/7534)** updated to 1.0.4
 
+### Removed <!-- omit in toc -->
+
+**[Quest Essentials](https://www.nexusmods.com/stardewvalley/mods/8827)** broke total money earned, breaking Grandpa's evaluation in year 2, and Ridgeside Village quests.
+
 ## 0.1.1
 
 **Released:** `1 Aug 2021`
