@@ -28,6 +28,8 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 ### Updates <!-- omit in toc -->
 
+**[Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)** updated to 1.1.8
+
 **[Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)** updated to 1.1.7
 
 **[SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)** updated to 1.5.10
@@ -56,7 +58,7 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 **[Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)** updated to 3.4.5
 
-**[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 1.6.2
+**[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 1.6.3
 
 **[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.4.6
 
