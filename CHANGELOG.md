@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.1.3](#013)
   - [0.1.2](#012)
   - [0.1.1](#011)
   - [0.1.0](#010)
@@ -17,6 +18,22 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.1.3
+
+**Released:** `9 Aug 2021`
+
+### Info <!-- omit in toc -->
+
+**This is a required update.**
+
+**Broken download links fixed.**
+
+On 9 Aug 2021, Nexus decided that the configuration files, and all my own supporting mod files, violated a non-existent part of their terms and conditions. It was especially odd considering that they just forced all mod authors remaining on Nexus to accept being included in mod packs as of 5 Aug 2021. **So they deleted them.**
+
+![9_Aug_Nexus_TOS_Breach](assets/images/Nexus/09_Aug_2021_Support_Files_Deletion/Nexus_Against_Non-existant_ToS.png)
+
+![9_Aug_Nexus_Deleted_My_Files](assets/images/Nexus/09_Aug_2021_Support_Files_Deletion/Nexus_Deleted_Support_Mods.png)
 
 ## 0.1.2
 
