@@ -16,11 +16,19 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
+Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
 ## 0.1.2
 
 **Released:** `DD MMM YYYY`
 
+### Info <!-- omit in toc -->
+
+**This is a pre-release of The Bustling Valley. It is subject to change, and should not be used for a non-testing playthrough.**
+
 ### Additions <!-- omit in toc -->
+
+**[Yagisan - Krobus Sells Scrolls](https://www.nexusmods.com/stardewvalley/mods/9134)** Krobus will now sell random dwarf scrolls after reaching 4 hearts.
 
 **[Statue of Generosity](https://www.nexusmods.com/stardewvalley/mods/7532)**
 
@@ -78,8 +86,7 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 ### Modifications <!-- omit in toc -->
 
-PATCH: [STF] Crop Regrowth and Perennial Crops
-Invert the season stock logic to avoid duplicate items for sale.
+**[Yagisan - Crop Regrowth and Perennial Crops Patch](https://www.nexusmods.com/stardewvalley/mods/9134)** Invert the season stock logic to avoid duplicate items for sale.
 
 ### Additions <!-- omit in toc -->
 
