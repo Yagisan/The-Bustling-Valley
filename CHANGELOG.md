@@ -20,7 +20,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.1.2
 
-**Released:** `DD MMM YYYY`
+**Released:** `9 Aug 2021`
 
 ### Info <!-- omit in toc -->
 
