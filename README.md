@@ -2,7 +2,7 @@
 
 ![GitHub all releases](https://img.shields.io/github/downloads/Yagisan/The-Bustling-Valley/total?logo=GitHub&style=for-the-badge)![GitHub issues](https://img.shields.io/github/issues/Yagisan/The-Bustling-Valley?logo=GitHub&style=for-the-badge)
 
-The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. It includes new villages, new NPCs, and of course a farming expansion. **It is expected that players will not add additional mods or otherwise change this modlist.**
+The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. It includes new villages, new NPCs, and of course a farming expansion. **It is expected that players will not add additional mods or otherwise change this modlist. THIS WILL REPLACE YOUR EXISTING MODLIST.**
 
 ![Early_Farm_Heroshot](assets/images/Early_Farm_Heroshot.png)
 
@@ -46,7 +46,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
 
 # Preamble
 
-The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. Designed for experienced players, it comes with 2 huge expansions (Stardew Valley Expanded, and Ridgeside Village), and several smaller expansions including new NPCS. With an enormous variety of new crops, new artisan goods, and new recipes, you'll find something new to specialise your farm in. **It is expected that players will not add additional mods or otherwise change this modlist.**
+The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. Designed for experienced players, it comes with 2 huge expansions (Stardew Valley Expanded, and Ridgeside Village), and several smaller expansions including new NPCS. With an enormous variety of new crops, new artisan goods, and new recipes, you'll find something new to specialise your farm in. **It is expected that players will not add additional mods or otherwise change this modlist. THIS WILL REPLACE YOUR EXISTING MODLIST.**
 
 Please be aware that this modlist may make perfection very hard or impossible to get.
 
@@ -71,6 +71,8 @@ Please be aware that this modlist may make perfection very hard or impossible to
   - Around 500MB for the mod list installation.
 
 # Installation
+
+**A final reminder.  THIS WILL REPLACE YOUR EXISTING MODLIST.**
 
 ## Pre-Installation
 
