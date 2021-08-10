@@ -2,7 +2,9 @@
 
 ![GitHub all releases](https://img.shields.io/github/downloads/Yagisan/The-Bustling-Valley/total?logo=GitHub&style=for-the-badge)![GitHub issues](https://img.shields.io/github/issues/Yagisan/The-Bustling-Valley?logo=GitHub&style=for-the-badge)
 
-The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. It includes new villages, new NPCs, and of course a farming expansion. **It is expected that players will not add additional mods or otherwise change this modlist. THIS WILL REPLACE YOUR EXISTING MODLIST.**
+The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. It includes new villages, new NPCs, and of course a farming expansion. **It is expected that players will not add additional mods or otherwise change this modlist.**
+
+**You should NOT be installing this onto an already modded Stardew Valley. Remove existing installed mods before installing this mod list.**
 
 ![Early_Farm_Heroshot](assets/images/Early_Farm_Heroshot.png)
 
@@ -46,7 +48,9 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
 
 # Preamble
 
-The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. Designed for experienced players, it comes with 2 huge expansions (Stardew Valley Expanded, and Ridgeside Village), and several smaller expansions including new NPCS. With an enormous variety of new crops, new artisan goods, and new recipes, you'll find something new to specialise your farm in. **It is expected that players will not add additional mods or otherwise change this modlist. THIS WILL REPLACE YOUR EXISTING MODLIST.**
+The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. Designed for experienced players, it comes with 2 huge expansions (Stardew Valley Expanded, and Ridgeside Village), and several smaller expansions including new NPCS. With an enormous variety of new crops, new artisan goods, and new recipes, you'll find something new to specialise your farm in. **It is expected that players will not add additional mods or otherwise change this modlist.**
+
+**You should NOT be installing this onto an already modded Stardew Valley. Remove existing installed mods before installing this mod list.**
 
 Please be aware that this modlist may make perfection very hard or impossible to get.
 
@@ -74,7 +78,7 @@ Please be aware that this modlist may make perfection very hard or impossible to
 
 # Installation
 
-**A final reminder.  THIS WILL REPLACE YOUR EXISTING MODLIST.**
+**A final reminder. You should NOT be installing this onto an already modded Stardew Valley. Remove existing installed mods before installing this mod list.**
 
 ## Pre-Installation
 
