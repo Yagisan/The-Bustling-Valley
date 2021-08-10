@@ -1,6 +1,6 @@
 # The Bustling Valley - Complete Modlist
 
-Last update **0.1.3**
+Last update **0.1.4**
 
 This is a complete list of all mods included in The Bustling Valley. The ordering is somewhat arbitary and grouping matches my internal classification.
 
@@ -101,7 +101,6 @@ All links to third party mods are clickable, and will take you to the original s
 - [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
 - [Upgrade Empty Cabins](https://www.nexusmods.com/stardewvalley/mods/5253)
 - [Prepare for New Day](https://www.nexusmods.com/stardewvalley/mods/7638)
-- [Social Page Order Button](https://www.nexusmods.com/stardewvalley/mods/7871)
 - [Pierre Sells Tree Fertilizer](https://www.nexusmods.com/stardewvalley/mods/7194)
 - [(CP) More Bar Transmutations](https://www.nexusmods.com/stardewvalley/mods/5996)
 - [(PFM) Wine to Vinegar](https://www.nexusmods.com/stardewvalley/mods/5037)
@@ -164,7 +163,7 @@ All links to third party mods are clickable, and will take you to the original s
 
 - [Immersive Shops - Pierre's](https://www.nexusmods.com/stardewvalley/mods/9127)
 - [Gus' Recipe Book](https://www.nexusmods.com/stardewvalley/mods/9066)
-- **Yagisan's - Krobus Sells Scrolls**
+- **[Yagisan's - Krobus Sells Scrolls](https://www.nexusmods.com/stardewvalley/mods/9248)**
 
 ## Greenhouses and Cellars
 
