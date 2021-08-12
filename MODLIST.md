@@ -2,7 +2,7 @@
 
 Last update **0.1.4**
 
-This is a complete list of all mods included in The Bustling Valley. The ordering is somewhat arbitary and grouping matches my internal classification.
+This is a complete list of all mods included in The Bustling Valley. The ordering is somewhat arbitrary and grouping matches my internal classification.
 
 All links to third party mods are clickable, and will take you to the original source. My own mods and patches are not necessarily available elsewhere.
 
@@ -110,7 +110,6 @@ All links to third party mods are clickable, and will take you to the original s
 
 - [Seasonal Outfits - Slightly Cuter Aesthetic](https://www.nexusmods.com/stardewvalley/mods/5450)
   - [Swimwear](https://www.nexusmods.com/stardewvalley/mods/5450)
-- [Seasonal Outfits - Slightly Cuter Aesthetic for SVE](https://www.nexusmods.com/stardewvalley/mods/5969)
 - [Realistic Random Names](https://www.nexusmods.com/stardewvalley/mods/6269)
 - [Elle's Seasonal Vanilla Buildings](https://www.nexusmods.com/stardewvalley/mods/6330)
 - [Snow-Covered Craftables](https://www.nexusmods.com/stardewvalley/mods/3990)
@@ -127,6 +126,7 @@ All links to third party mods are clickable, and will take you to the original s
 - [Displays](https://www.nexusmods.com/stardewvalley/mods/7635)
 - [Flower Dance Fix](https://www.nexusmods.com/stardewvalley/mods/8535)
 - [Flower Dancing - A Flower Dance Mod](https://www.nexusmods.com/stardewvalley/mods/8107)
+- **[Yagisan's Bountiful Valley](https://www.nexusmods.com/stardewvalley/mods/9259)**
 
 ## Spouse Changes
 

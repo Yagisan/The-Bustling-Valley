@@ -30,11 +30,17 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **A NEW farm is required. Stardew Valley Expanded was removed and all maps have changed as a result.**
 
+### Additions <!-- omit in toc -->
+
+**[Yagisan's Bountiful Valley](https://www.nexusmods.com/stardewvalley/mods/9259)**
+
 ### Updates <!-- omit in toc -->
 
 ### Removed <!-- omit in toc -->
 
 **[Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753)**
+
+**[Seasonal Outfits - Slightly Cuter Aesthetic for SVE](https://www.nexusmods.com/stardewvalley/mods/5969)**
 
 **[Social Page Order Button](https://www.nexusmods.com/stardewvalley/mods/7871)**
 
