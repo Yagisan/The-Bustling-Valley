@@ -32,9 +32,23 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Additions <!-- omit in toc -->
 
-**[Yagisan's Bountiful Valley](https://www.nexusmods.com/stardewvalley/mods/9259)**
+**[Yagisan's Bountiful Valley](https://www.nexusmods.com/stardewvalley/mods/9259)** The valley will have a much larger selection of forage based on weather, location and date.
+
+**[The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)**
+
+**[Mister Ginger](https://www.nexusmods.com/stardewvalley/mods/5295)**
+
+**[Community Center Reimagined](https://www.nexusmods.com/stardewvalley/mods/6966)**
+
+**[A Cleaner Sewer](https://www.nexusmods.com/stardewvalley/mods/5751)**
+
+**[Egg Festival Winner Randomized](https://www.nexusmods.com/stardewvalley/mods/8574)**
 
 ### Updates <!-- omit in toc -->
+
+**[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** updated to 2.0.0-beta8
+
+**[Better Junimos Forestry](https://www.nexusmods.com/stardewvalley/mods/8992)** updated to 1.0.3
 
 ### Removed <!-- omit in toc -->
 
