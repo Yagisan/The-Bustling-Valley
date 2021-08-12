@@ -50,6 +50,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Better Junimos Forestry](https://www.nexusmods.com/stardewvalley/mods/8992)** updated to 1.0.3
 
+**[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)** rollback to 1.0.6
+
 ### Removed <!-- omit in toc -->
 
 **[Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753)**
