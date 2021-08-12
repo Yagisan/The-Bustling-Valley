@@ -13,7 +13,7 @@ All links to third party mods are clickable, and will take you to the original s
   - [QOL Changes](#qol-changes)
   - [Immersion](#immersion)
   - [Spouse Changes](#spouse-changes)
-  - [Crops and Recipies](#crops-and-recipies)
+  - [Crops and Recipes](#crops-and-recipes)
   - [Shop Changes](#shop-changes)
   - [Greenhouses and Cellars](#greenhouses-and-cellars)
   - [Skills and Professions](#skills-and-professions)
@@ -39,6 +39,8 @@ All links to third party mods are clickable, and will take you to the original s
   - [Spouse Room](https://www.nexusmods.com/stardewvalley/mods/5510)
 - [Denver - Male - Boarding House](https://www.nexusmods.com/stardewvalley/mods/4594)
 - [Cecilia - Forest Home](https://www.nexusmods.com/stardewvalley/mods/6246)
+- [The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)
+- [Mister Ginger](https://www.nexusmods.com/stardewvalley/mods/5295)
 
 ## Frameworks
 
@@ -127,6 +129,10 @@ All links to third party mods are clickable, and will take you to the original s
 - [Flower Dance Fix](https://www.nexusmods.com/stardewvalley/mods/8535)
 - [Flower Dancing - A Flower Dance Mod](https://www.nexusmods.com/stardewvalley/mods/8107)
 - **[Yagisan's Bountiful Valley](https://www.nexusmods.com/stardewvalley/mods/9259)**
+- [Community Center Reimagined](https://www.nexusmods.com/stardewvalley/mods/6966)
+- [A Cleaner Sewer](https://www.nexusmods.com/stardewvalley/mods/5751)
+  - [Krobus Spouse Room](https://www.nexusmods.com/stardewvalley/mods/5751)
+- [Egg Festival Winner Randomized](https://www.nexusmods.com/stardewvalley/mods/8574)
 
 ## Spouse Changes
 
@@ -136,7 +142,7 @@ All links to third party mods are clickable, and will take you to the original s
 - [Spouse Patios for LASV Mod](https://www.nexusmods.com/stardewvalley/mods/6698)
 - [Custom Spouse Patio Wizard](https://www.nexusmods.com/stardewvalley/mods/7775)
 
-## Crops and Recipies
+## Crops and Recipes
 
 - [Animal Husbandry Mod](https://www.nexusmods.com/stardewvalley/mods/1538)
 - [Watering Grants Experience And Crops Can Wither](https://www.nexusmods.com/stardewvalley/mods/7768)
