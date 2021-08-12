@@ -23,8 +23,6 @@ All links to third party mods are clickable, and will take you to the original s
 
 - [Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)
 - [MissCoriel's NPC Unique Courtship Response 4](https://www.nexusmods.com/stardewvalley/mods/3312)
-- [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753)
-  - [Grandpa's Farm](https://www.nexusmods.com/stardewvalley/mods/3753)
 - [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)
 - [Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)
 - [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)

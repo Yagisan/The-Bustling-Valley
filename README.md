@@ -43,12 +43,11 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [The JSON Shuffle](#the-json-shuffle)
   - [Unofficial 64 bit Stardew Valley](#unofficial-64-bit-stardew-valley)
   - [Out of Memory Errors](#out-of-memory-errors)
-  - [Festivals and Custom NPCs](#festivals-and-custom-npcs)
   - [Contact and Technical Support](#contact-and-technical-support)
 
 # Preamble
 
-The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. Designed for experienced players, it comes with 2 huge expansions (Stardew Valley Expanded, and Ridgeside Village), and several smaller expansions including new NPCS. With an enormous variety of new crops, new artisan goods, and new recipes, you'll find something new to specialise your farm in. **It is expected that players will not add additional mods or otherwise change this modlist.**
+The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. Designed for experienced players, it comes with 2 big expansions (Ridgeside Village and East Scarp), and several smaller expansions including new NPCS. With an enormous variety of new crops, new artisan goods, and new recipes, you'll find something new to specialise your farm in. **It is expected that players will not add additional mods or otherwise change this modlist.**
 
 **You should NOT be installing this onto an already modded Stardew Valley. Remove existing installed mods before installing this mod list.**
 
@@ -179,13 +178,11 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Overhauls
 
-**[Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753)** is a huge expansion with 25 new NPCs, multiple locations, a new farm, quests and more. **This mod significantly changes Pelican town, and as a result many mods need to be specifically made compatible with it. Updates to the modlist may be delayed as all SVE patches are updated.**
-
 **[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** is a huge expansion with 24 new NPCs, a new village to the east of Pelican town, new quests and more.
 
 **[Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)** adds a boarding house behind the bus stop with several new NPCs. NPCs from other mods can make their homes here.
 
-**[East Scarpe](https://www.nexusmods.com/stardewvalley/mods/5787)** adds a village to the west of Pelican town, and several new NPCs. NPCs from other mods can make their homes here.
+**[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** adds a village to the west of Pelican town, and several new NPCs. NPCs from other mods can make their homes here.
 
 **[Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)** adds a new village, a special quest, new crops, fish and more.
 
@@ -239,11 +236,7 @@ This is described [in depth here](https://stardewmodding.wiki/wiki/Json_Shuffle)
 
 ## Out of Memory Errors
 
-Stardew Valley on Windows is a 32bit application. Regardless of how much memory your system may have, it can only use a maximum of 4GB of RAM. As a practical matter Stardew Valley begins to show out of memory errors after 3.3GB of memory has been used. This mod list consumes approximately 2.5GB of memory while running. It is strongly recommended that you do not add any more mods to this list. If you experience an Out of Memory error, it is recommended that you immediately quit, and restart the day.
-
-## Festivals and Custom NPCs
-
-Most custom NPC mods cooperate with each other for placing NPCs into the Stardew Valley festivals. Unfortunately [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753) does not. It is not uncommon for custom NPCs to move their festival locations to accommodate Stardew Valley Expanded changes, only for Stardew Valley Expanded to change their locations again in the next patch. As a result more and more custom NPCs are no longer trying to maintain compatibility with Stardew Valley Expanded festival locations. As a result I do not consider festival issues a significant "bug". Patches fixing festival placement are welcome, but should also be sent to the custom NPC author too.
+Stardew Valley on Windows is a 32bit application. Regardless of how much memory your system may have, it can only use a maximum of 4GB of RAM. As a practical matter Stardew Valley begins to show out of memory errors after 3.3GB of memory has been used. This mod list consumes approximately 2GB of memory while running. It is strongly recommended that you do not add any more mods to this list. If you experience an Out of Memory error, it is recommended that you immediately quit, and restart the day.
 
 ## Contact and Technical Support
 

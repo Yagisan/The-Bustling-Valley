@@ -28,11 +28,13 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **This is a pre-release of The Bustling Valley. It is subject to change, and should not be used for a non-testing playthrough.**
 
+**A NEW farm is required. Stardew Valley Expanded was removed and all maps have changed as a result.**
+
 ### Updates <!-- omit in toc -->
 
-**[Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.13.10
-
 ### Removed <!-- omit in toc -->
+
+**[Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753)**
 
 **[Social Page Order Button](https://www.nexusmods.com/stardewvalley/mods/7871)**
 
