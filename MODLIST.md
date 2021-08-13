@@ -131,6 +131,7 @@ All links to third party mods are clickable, and will take you to the original s
 - [Flower Dancing - A Flower Dance Mod](https://www.nexusmods.com/stardewvalley/mods/8107)
 - **[Yagisan's Bountiful Valley](https://www.nexusmods.com/stardewvalley/mods/9259)**
 - **[Yagisan's Bountiful Valley for Boarding House](https://www.nexusmods.com/stardewvalley/mods/9263)**
+- **[Yagisan's Bountiful Valley for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/9272)**
 - [Community Center Reimagined](https://www.nexusmods.com/stardewvalley/mods/6966)
 - [A Cleaner Sewer](https://www.nexusmods.com/stardewvalley/mods/5751)
   - [Krobus Spouse Room](https://www.nexusmods.com/stardewvalley/mods/5751)
