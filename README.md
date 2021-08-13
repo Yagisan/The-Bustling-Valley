@@ -198,6 +198,8 @@ Updating is like installing. You only have to make sure that you select the same
 
 **[Water Bot](https://www.nexusmods.com/stardewvalley/mods/8167)** by right-clicking with your watering can your farmer will go crop by crop watering them, expending the same amount of time and energy as if you had done it yourself to keep as vanilla as possible, but a lot less tedious!
 
+**[Fishing Assistant](https://www.nexusmods.com/stardewvalley/mods/5815)** reduces the tediousness of fishing by automatically catching the fish for you. If you change your mind, and want the challenge of fishing yourself, it toggles on and off by pressing F5.
+
 **[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** significantly improves Junimos: automatically plant crops, fertilize, work for a fee, increase range, and more!
 
 **[Better Junimos Forestry](https://www.nexusmods.com/stardewvalley/mods/8992)** adds new skills to the Junimos. They can hoe your fields, grow wild trees for timber, look after your fruit trees, clear debris, and mow the lawn.
