@@ -46,6 +46,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Egg Festival Winner Randomized](https://www.nexusmods.com/stardewvalley/mods/8574)**
 
+**[Fishing Assistant](https://www.nexusmods.com/stardewvalley/mods/5815)**
+
 ### Updates <!-- omit in toc -->
 
 **[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** updated to 2.0.0-beta8
