@@ -26,7 +26,7 @@ All links to third party mods are clickable, and will take you to the original s
 - [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)
 - [Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)
 - [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)
-- [East Scarpe](https://www.nexusmods.com/stardewvalley/mods/5787)
+- [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
 - [Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)
 - [Jade](https://www.nexusmods.com/stardewvalley/mods/5559)
 - [Aspen](https://www.nexusmods.com/stardewvalley/mods/6754)
