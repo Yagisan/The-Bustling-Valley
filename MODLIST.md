@@ -90,6 +90,7 @@ All links to third party mods are clickable, and will take you to the original s
 - [Better Hay](https://www.nexusmods.com/stardewvalley/mods/1430)
 - [Horse Overhaul](https://www.nexusmods.com/stardewvalley/mods/7911)
 - [Statue of Generosity](https://www.nexusmods.com/stardewvalley/mods/7532)
+- [Fishing Assistant](https://www.nexusmods.com/stardewvalley/mods/5815)
 
 ## QOL Changes
 
