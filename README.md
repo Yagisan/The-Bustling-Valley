@@ -37,6 +37,8 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Automation](#automation)
   - [Gameplay](#gameplay)
 - [Other Post Installation FAQ](#other-post-installation-faq)
+  - [Using the WaterBot](#using-the-waterbot)
+  - [Using the Fishing Assistant.](#using-the-fishing-assistant)
   - [Slow start](#slow-start)
   - [Removing the Modlist](#removing-the-modlist)
   - [Updating SMAPI](#updating-smapi)
@@ -162,7 +164,7 @@ Head over to the installation folder and locate an executable named `ModOrganize
 
 # Choosing a Farm
 
-This modlist has been selected to run with, and tested on **Grandpa's Farm** from Stardew Valley Expanded. While in theory any farm should work, they not all been extensively tested. The beach farm is known to have issues with NPC Map Locations, Stardew Valley Expanded and Ridgeside Village (no one has made a world map merging all those locations together.) Support may not be available if you are not running **Grandpa's Farm**.
+This mod list should work with any farm, however they not all been extensively tested. The beach farm is known to have issues with NPC Map Locations, and Ridgeside Village (no one has made a world map merging all those locations together.)
 
 # Updating
 
@@ -213,6 +215,14 @@ Updating is like installing. You only have to make sure that you select the same
 **[Multiple Spouses](https://www.nexusmods.com/stardewvalley/mods/6227)**  allows you to have multiple spouses, kisses, pregnancies, spouse rooms, etc.
 
 # Other Post Installation FAQ
+
+## Using the WaterBot
+
+To use the WaterBot, select the watering can, then **right click** on a crop. Your farm will automatically travel to, and water every crop they can reach. The will refill the watering can as needed, from the closest water source, and will stop when either all crops are watered, or the farmer is out of energy.
+
+## Using the Fishing Assistant.
+
+Press F5 to enable the Fishing Assistant. Bait, tackle, and cast your Fishing line as usual. If you get a bite, Fishing Assistant will automatically hook, and catch the fish. It is **not** an instant catch. Better rods, bait and tackle will improve this.
 
 ## Slow start
 
