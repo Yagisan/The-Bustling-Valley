@@ -22,7 +22,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.1.4
 
-**Released:** `DD MMM YYYY`
+**Released:** `14 Aug 2021`
 
 ### Info <!-- omit in toc -->
 
@@ -35,6 +35,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Yagisan's Bountiful Valley](https://www.nexusmods.com/stardewvalley/mods/9259)** The valley will have a much larger selection of forage based on weather, location and date.
 
 **[Yagisan's Bountiful Valley for Boarding House](https://www.nexusmods.com/stardewvalley/mods/9263)**
+
+**[Yagisan's Bountiful Valley for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/9272)**
 
 **[The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)**
 
