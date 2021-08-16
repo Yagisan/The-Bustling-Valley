@@ -108,6 +108,7 @@ All links to third party mods are clickable, and will take you to the original s
 - [Auto Animal Doors](https://www.nexusmods.com/stardewvalley/mods/1019)
 - [Automatic Gates](https://www.nexusmods.com/stardewvalley/mods/3109)
 - [Better Ranching](https://www.nexusmods.com/stardewvalley/mods/859)
+- [Stardew Auto GC](https://www.nexusmods.com/stardewvalley/mods/9293)
 
 ## Immersion
 
