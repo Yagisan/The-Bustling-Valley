@@ -1,10 +1,10 @@
 {
   "Config": null,
-  "MaxDancePairs": 9,
+  "MaxDancePairs": 7,
   "NPCsHaveRandomPartners": false,
   "ForceHeteroPartners": false,
   "AllowNonBinaryPartners": false,
   "AllowTouristPartners": true,
-  "DancerBlackList": "Cecilia/Delores/Denver/Sorren",
+  "DancerBlackList": "Cecilia/Delores/Denver/Sorren/MisterGinger",
   "AllowCrowdAnimation": false
 }
