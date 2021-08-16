@@ -45,6 +45,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [The JSON Shuffle](#the-json-shuffle)
   - [Unofficial 64 bit Stardew Valley](#unofficial-64-bit-stardew-valley)
   - [Out of Memory Errors](#out-of-memory-errors)
+  - [Resetting the configuration files](#resetting-the-configuration-files)
   - [Contact and Technical Support](#contact-and-technical-support)
 
 # Preamble
@@ -224,7 +225,9 @@ To use the WaterBot, select the watering can, then **right click** on a crop. Yo
 
 ## Using the Fishing Assistant.
 
-Press F5 to enable the Fishing Assistant. Bait, tackle, and cast your Fishing line as usual. If you get a bite, Fishing Assistant will automatically hook, and catch the fish. It is **not** an instant catch. Better rods, bait and tackle will improve this.
+Press **F5** to enable the Fishing Assistant. Bait, tackle, and cast your Fishing line as usual. If you get a bite, Fishing Assistant will automatically hook, and catch the fish. It is **not** an instant catch. Better rods, bait and tackle will improve this.
+
+Press **F7** to enable automatic treasure chest collection. If there is a treasure chest, Fishing Assistant will attempt to collect it, while catching the fish.
 
 ## Slow start
 
@@ -249,6 +252,14 @@ This is described [in depth here](https://stardewmodding.wiki/wiki/Json_Shuffle)
 ## Out of Memory Errors
 
 Stardew Valley on Windows is a 32bit application. Regardless of how much memory your system may have, it can only use a maximum of 4GB of RAM. As a practical matter Stardew Valley begins to show out of memory errors after 3.3GB of memory has been used. This mod list consumes approximately 2GB of memory while running. It is strongly recommended that you do not add any more mods to this list. If you experience an Out of Memory error, it is recommended that you immediately quit, and restart the day.
+
+## Resetting the configuration files
+
+Sometimes configuration files need to be reset. This is sometimes needed after the modlist is updated. Resetting the configuration files is very easy to do. Scroll to the very bottom of the mod list. The is a menu item named Overwrite.
+
+![Rest_Config_Image](assets/images/Reset_COnfig.png)
+
+**Right click** on it, and select **Clear Overwrite**. That's it. The game will regenerate any needed configuration files when you next start.
 
 ## Contact and Technical Support
 
