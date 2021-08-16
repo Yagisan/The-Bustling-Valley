@@ -33,7 +33,7 @@
   "AutoLootTreasure": true,
   "AutoAttachBait": false,
   "AutoAttachTackles": false,
-  "EnableAutoPauseFishing": true,
+  "EnableAutoPauseFishing": false,
   "PauseFishingTime": 24,
   "EnableAutoEatFood": false,
   "EnergyPrecentToEat": 0,
