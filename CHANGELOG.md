@@ -37,6 +37,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)**  updated to 1.0.20
 
+**[Yagisan's Bountiful Valley](https://www.nexusmods.com/stardewvalley/mods/9259)** updated to 1.0.1
+
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 1.2.14
+
 ## 0.1.4
 
 **Released:** `14 Aug 2021`
