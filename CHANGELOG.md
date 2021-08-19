@@ -39,8 +39,6 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Boarding House Nut Butters](https://www.nexusmods.com/stardewvalley/mods/6342)**
 
-**[Safe Lightning](https://www.nexusmods.com/stardewvalley/mods/2039)**. Updated to use the [unoffical update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/page-60#post-41713)
-
 ### Updates <!-- omit in toc -->
 
 **[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)**  updated to 1.0.20
