@@ -109,7 +109,6 @@ All links to third party mods are clickable, and will take you to the original s
 - [Automatic Gates](https://www.nexusmods.com/stardewvalley/mods/3109)
 - [Better Ranching](https://www.nexusmods.com/stardewvalley/mods/859)
 - [Stardew Auto GC](https://www.nexusmods.com/stardewvalley/mods/9293)
-- [Safe Lightning](https://www.nexusmods.com/stardewvalley/mods/2039). Updated to use the [unoffical update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/page-60#post-41713)
 
 ## Immersion
 
