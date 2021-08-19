@@ -29,9 +29,17 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **This is a pre-release of The Bustling Valley. It is subject to change, and should not be used for a non-testing playthrough.**
 
+**You will need to reset the configuration files. See [here for details](README.md#resetting-the-configuration-files)**
+
+**You may get a JSON shuffle on this update. See [here for details](README.md#the-json-shuffle)**
+
 ### Additions <!-- omit in toc -->
 
 **[Stardew Auto GC](https://www.nexusmods.com/stardewvalley/mods/9293)** automatically triggers memory garbage collection at the end of each day. This does not eliminate OOM errors, but does help reduce excessive memory usage.
+
+**[Boarding House Nut Butters](https://www.nexusmods.com/stardewvalley/mods/6342)**
+
+**[Safe Lightning](https://www.nexusmods.com/stardewvalley/mods/2039)**. Updated to use the [unoffical update](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/page-60#post-41713)
 
 ### Updates <!-- omit in toc -->
 
@@ -40,6 +48,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Yagisan's Bountiful Valley](https://www.nexusmods.com/stardewvalley/mods/9259)** updated to 1.0.1
 
 **[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 1.2.14
+
+**[Please Remember My Birthday](https://www.nexusmods.com/stardewvalley/mods/6525)** updated to 1.0.6
 
 ## 0.1.4
 
