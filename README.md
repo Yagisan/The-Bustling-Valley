@@ -243,7 +243,7 @@ In addition to being a mod loader, SMAPI also contains fixes and runtime updates
 
 ## The JSON Shuffle
 
-This is described [in depth here](https://stardewmodding.wiki/wiki/Json_Shuffle), but the short version is that adding, removing, or updating mods that use JSON assets in an ongoing save results in the items becoming messed up. It's not fixable. Please don't alter this modlist once you start playing.
+This is described [in depth here](https://stardewmodding.wiki/wiki/Json_Shuffle), but the short version is that adding, removing, or updating mods that use JSON assets in an ongoing save results in the items becoming messed up. It's not fixable. Please don't alter this modlist once you start playing. **If you do get a shuffle, the best thing to do is to put all shuffled items in the shipping bin, or trash it.**
 
 ## Unofficial 64 bit Stardew Valley
 
@@ -257,7 +257,7 @@ Stardew Valley on Windows is a 32bit application. Regardless of how much memory 
 
 Sometimes configuration files need to be reset. This is sometimes needed after the modlist is updated. Resetting the configuration files is very easy to do. Scroll to the very bottom of the mod list. The is a menu item named Overwrite.
 
-![Rest_Config_Image](assets/images/Reset_COnfig.png)
+![Rest_Config_Image](assets/images/Reset_Config.png)
 
 **Right click** on it, and select **Clear Overwrite**. That's it. The game will regenerate any needed configuration files when you next start.
 
