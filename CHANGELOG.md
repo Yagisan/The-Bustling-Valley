@@ -39,6 +39,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Boarding House Nut Butters](https://www.nexusmods.com/stardewvalley/mods/6342)**
 
+**[Joja Immersion (Joja Needs Nuance)](https://www.nexusmods.com/stardewvalley/mods/8586)**
+
+**[Lore-Friendly JojaMart Prices](https://www.nexusmods.com/stardewvalley/mods/2658)**
+
 ### Updates <!-- omit in toc -->
 
 **[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)**  updated to 1.0.20
@@ -48,6 +52,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 1.2.14
 
 **[Please Remember My Birthday](https://www.nexusmods.com/stardewvalley/mods/6525)** updated to 1.0.6
+
+**[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.6.5
 
 ## 0.1.4
 
@@ -161,7 +167,7 @@ On 9 Aug 2021, Nexus decided that the configuration files, and all my own suppor
 
 **[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 1.6.3
 
-**[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.4.6
+**[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.6.4
 
 **[Special Orders for Auto-Petter](https://www.nexusmods.com/stardewvalley/mods/7534)** updated to 1.0.4
 
