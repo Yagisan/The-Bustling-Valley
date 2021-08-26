@@ -43,17 +43,25 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Lore-Friendly JojaMart Prices](https://www.nexusmods.com/stardewvalley/mods/2658)**
 
+**[Better Artisan Good Icons Fix](https://www.nexusmods.com/stardewvalley/mods/9366)**
+
 ### Updates <!-- omit in toc -->
 
 **[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)**  updated to 1.0.20
 
 **[Yagisan's Bountiful Valley](https://www.nexusmods.com/stardewvalley/mods/9259)** updated to 1.0.1
 
+**[Yagisan's Bountiful Valley for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/9272)** updated to 1.0.1
+
+**[Yagisan's Bountiful Valley for Boarding House](https://www.nexusmods.com/stardewvalley/mods/9263)** updated to 1.0.1
+
 **[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 1.2.14
 
 **[Please Remember My Birthday](https://www.nexusmods.com/stardewvalley/mods/6525)** updated to 1.0.6
 
-**[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.6.5
+**[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.6.6
+
+**[Multiple Spouses](https://www.nexusmods.com/stardewvalley/mods/6227)** updated to 3.2.1
 
 ## 0.1.4
 
