@@ -127,6 +127,7 @@ All links to third party mods are clickable, and will take you to the original s
 - [Canon-Friendly Dialogue Expansion for All Friend-able Characters](https://www.nexusmods.com/stardewvalley/mods/2544)
 - [Lumisteria Special Orders](https://www.nexusmods.com/stardewvalley/mods/7417)
 - [Better Artisan Good Icons](https://www.nexusmods.com/stardewvalley/mods/2080)
+- [Better Artisan Good Icons Fix](https://www.nexusmods.com/stardewvalley/mods/9366)
 - [Displays](https://www.nexusmods.com/stardewvalley/mods/7635)
 - [Flower Dance Fix](https://www.nexusmods.com/stardewvalley/mods/8535)
 - [Flower Dancing - A Flower Dance Mod](https://www.nexusmods.com/stardewvalley/mods/8107)
