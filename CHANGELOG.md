@@ -31,7 +31,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **You will need to reset the configuration files. See [here for details](README.md#resetting-the-configuration-files)**
 
-**You may get a JSON shuffle on this update. See [here for details](README.md#the-json-shuffle)**
+**You may get a JSON shuffle on this update. See [here for details](README.md#the-json-shuffle). To minimise the chance of a shuffle, please wait until all your machines have finished processing before updating.**
 
 ### Additions <!-- omit in toc -->
 
