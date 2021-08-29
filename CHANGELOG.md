@@ -23,7 +23,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.1.5
 
-**Released:** `DD MM YYYY`
+**Released:** `29 Aug 2021`
 
 ### Info <!-- omit in toc -->
 
@@ -55,7 +55,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Yagisan's Bountiful Valley for Boarding House](https://www.nexusmods.com/stardewvalley/mods/9263)** updated to 1.0.1
 
-**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 1.2.14
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 1.2.16
 
 **[Please Remember My Birthday](https://www.nexusmods.com/stardewvalley/mods/6525)** updated to 1.0.6
 
