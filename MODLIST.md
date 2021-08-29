@@ -91,6 +91,7 @@ All links to third party mods are clickable, and will take you to the original s
 - [Horse Overhaul](https://www.nexusmods.com/stardewvalley/mods/7911)
 - [Statue of Generosity](https://www.nexusmods.com/stardewvalley/mods/7532)
 - [Fishing Assistant](https://www.nexusmods.com/stardewvalley/mods/5815)
+- [Greenhouse Sprinklers](https://www.nexusmods.com/stardewvalley/mods/7456)
 
 ## QOL Changes
 
@@ -109,6 +110,7 @@ All links to third party mods are clickable, and will take you to the original s
 - [Automatic Gates](https://www.nexusmods.com/stardewvalley/mods/3109)
 - [Better Ranching](https://www.nexusmods.com/stardewvalley/mods/859)
 - [Stardew Auto GC](https://www.nexusmods.com/stardewvalley/mods/9293)
+- [Faster Path Speed](https://www.nexusmods.com/stardewvalley/mods/9344)
 
 ## Immersion
 
