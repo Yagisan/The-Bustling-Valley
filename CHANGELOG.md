@@ -45,6 +45,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Better Artisan Good Icons Fix](https://www.nexusmods.com/stardewvalley/mods/9366)**
 
+**[Faster Path Speed](https://www.nexusmods.com/stardewvalley/mods/9344)**
+
+**[Greenhouse Sprinklers](https://www.nexusmods.com/stardewvalley/mods/7456)**
+
 ### Updates <!-- omit in toc -->
 
 **[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)**  updated to 1.0.20
