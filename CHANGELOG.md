@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.1.6](#016)
   - [0.1.5](#015)
   - [0.1.4](#014)
   - [0.1.3](#013)
@@ -20,6 +21,20 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.1.6
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+**This is a pre-release of The Bustling Valley. It is subject to change, and should not be used for a non-testing playthrough.**
+
+**You will need to reset the configuration files. See [here for details](README.md#resetting-the-configuration-files)**
+
+### Updates <!-- omit in toc -->
+
+**[Please Remember My Birthday](https://www.nexusmods.com/stardewvalley/mods/6525)** updated to 1.0.7
 
 ## 0.1.5
 
