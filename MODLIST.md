@@ -41,6 +41,7 @@ All links to third party mods are clickable, and will take you to the original s
 - [Cecilia - Forest Home](https://www.nexusmods.com/stardewvalley/mods/6246)
 - [The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)
 - [Mister Ginger](https://www.nexusmods.com/stardewvalley/mods/5295)
+- [Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)
 
 ## Frameworks
 
