@@ -30,11 +30,21 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **This is a pre-release of The Bustling Valley. It is subject to change, and should not be used for a non-testing playthrough.**
 
+**[Jade](https://www.nexusmods.com/stardewvalley/mods/5559) has has a rewrite of story and events. A new game is needed to best experience these.**
+
 **You will need to reset the configuration files. See [here for details](README.md#resetting-the-configuration-files)**
+
+### Additions <!-- omit in toc -->
+
+**[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** introduces Pika's wife and Keahi's mother from Ridgeside Village!
 
 ### Updates <!-- omit in toc -->
 
 **[Please Remember My Birthday](https://www.nexusmods.com/stardewvalley/mods/6525)** updated to 1.0.7
+
+**[Aspen](https://www.nexusmods.com/stardewvalley/mods/6754)** updated to 0.0.37
+
+**[Jade](https://www.nexusmods.com/stardewvalley/mods/5559)** updated to 2.3.0
 
 ## 0.1.5
 
