@@ -68,6 +68,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)** updated to 4.0.3
 
+**[Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)** updated to 1.1.12
+
 ## 0.1.5
 
 **Released:** `29 Aug 2021`
