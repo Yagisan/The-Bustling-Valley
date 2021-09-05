@@ -42,9 +42,25 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Please Remember My Birthday](https://www.nexusmods.com/stardewvalley/mods/6525)** updated to 1.0.7
 
-**[Aspen](https://www.nexusmods.com/stardewvalley/mods/6754)** updated to 0.0.37
+**[Aspen](https://www.nexusmods.com/stardewvalley/mods/6754)** updated to 0.0.38
 
 **[Jade](https://www.nexusmods.com/stardewvalley/mods/5559)** updated to 2.3.0
+
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.23.4
+
+**[SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)** updated to 1.5.11
+
+**[JSON Assets](https://www.nexusmods.com/stardewvalley/mods/1720)** updated to 1.9.0
+
+**[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)** updated to 1.10.15
+
+**[Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)** updated to 1.1.8
+
+**[Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)** updated to 1.9.2
+
+**[Capstone Professions](https://www.nexusmods.com/stardewvalley/mods/7636)** updated to 1.0.5
+
+**[Displays](https://www.nexusmods.com/stardewvalley/mods/7635)** updated to 1.0.4
 
 ## 0.1.5
 
