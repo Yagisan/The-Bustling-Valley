@@ -1,0 +1,13 @@
+{
+  "Portrait-Spring": "Default-WhiteHoodie",
+  "Portrait-Summer": "Default-Tanktop",
+  "Portrait-Fall": "Default-Flannel",
+  "Portrait-Winter": "Default-Academia",
+  "Portrait-Resort": "Default-BlackBra",
+  "Spritesheet-Spring": "Default-WhiteHoodie",
+  "Spritesheet-Summer": "Default-Tanktop",
+  "Spritesheet-Fall": "Default-Flannel",
+  "Spritesheet-Winter": "Default-Academia",
+  "Spritesheet-Resort": "Default-BlackSwimsuit",
+  "jadeSimilarChildren": "true"
+}
