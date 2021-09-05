@@ -30,6 +30,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **This is a pre-release of The Bustling Valley. It is subject to change, and should not be used for a non-testing playthrough.**
 
+**[You will need to upgrade to at least SMAPI 3.12.6 before upgrading The Bustling Valley](https://smapi.io/)**
+
 **[Jade](https://www.nexusmods.com/stardewvalley/mods/5559) has has a rewrite of story and events. A new game is needed to best experience these.**
 
 **You will need to reset the configuration files. See [here for details](README.md#resetting-the-configuration-files)**
@@ -61,6 +63,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Capstone Professions](https://www.nexusmods.com/stardewvalley/mods/7636)** updated to 1.0.5
 
 **[Displays](https://www.nexusmods.com/stardewvalley/mods/7635)** updated to 1.0.4
+
+**[Faster Path Speed](https://www.nexusmods.com/stardewvalley/mods/9344)** updated to 1.2.0
+
+**[Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)** updated to 4.0.3
 
 ## 0.1.5
 
