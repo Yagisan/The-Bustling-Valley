@@ -1,6 +1,6 @@
 # The Bustling Valley - Complete Modlist
 
-Last update **0.1.5**
+Last update **0.1.6**
 
 This is a complete list of all mods included in The Bustling Valley. The ordering is somewhat arbitrary and grouping matches my internal classification.
 
@@ -41,6 +41,7 @@ All links to third party mods are clickable, and will take you to the original s
 - [Cecilia - Forest Home](https://www.nexusmods.com/stardewvalley/mods/6246)
 - [The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)
 - [Mister Ginger](https://www.nexusmods.com/stardewvalley/mods/5295)
+- [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)
 - [Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)
 
 ## Frameworks
