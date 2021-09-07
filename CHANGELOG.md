@@ -64,11 +64,15 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Displays](https://www.nexusmods.com/stardewvalley/mods/7635)** updated to 1.0.4
 
-**[Faster Path Speed](https://www.nexusmods.com/stardewvalley/mods/9344)** updated to 1.2.0
+**[Faster Path Speed](https://www.nexusmods.com/stardewvalley/mods/9344)** updated to 1.2.1
 
 **[Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)** updated to 4.0.3
 
 **[Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)** updated to 1.1.12
+
+**[Auto Animal Doors](https://www.nexusmods.com/stardewvalley/mods/1019)** updated to 3.1.0
+
+**[Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)** updated to 1.3.5
 
 ## 0.1.5
 
