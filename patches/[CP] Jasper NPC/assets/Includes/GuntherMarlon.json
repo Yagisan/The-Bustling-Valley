@@ -1,0 +1,244 @@
+{
+	"Changes": [
+		//Brings Marlon and Gunther into the game
+		{
+			"LogName": "NPC Manifestation",
+			"Action": "EditData",
+			"Target": "Data/NPCDispositions",
+			"Entries": {
+				"Gunther": "adult/polite/outgoing/neutral/male/not-datable/null/Town/fall 8//ArchaeologyHouse 3 8/{{i18n:NPCD.Gunther}}"
+			},
+			"When": {
+				"HasMod |contains=FlashShifter.StardewValleyExpandedALL,Yoshimax.BefriendMarlon,andril11.charlie, ChicoLopes.GuntherToNPC, Wolf.Gun": false,
+				"SocialGuntherandMarlon": "true"
+			}
+		},
+		{
+			"LogName": "NPC Gift Tastes",
+			"Action": "EditData",
+			"Target": "Data/NPCGiftTastes",
+			"Entries": {
+				"Gunther": "{{i18n:gift.love.Gun}}/226 104/{{i18n:gift.like.Gun}}/106 123 124 125 107 108 115 119 120 121 122 96 97 98 99 -2 -12/{{i18n:gift.dislike.Gun}}/78 110/{{i18n:gift.hate.Gun}}//{{i18n:gift.neutral.Gun}}/-4/"
+			},
+			"When": {
+				"HasMod |contains=FlashShifter.StardewValleyExpandedALL, Yoshimax.BefriendMarlon, andril11.charlie, ChicoLopes.GuntherToNPC, Wolf.Gun": false,
+				"SocialGuntherandMarlon": "true"
+			}
+		},
+		{
+			"LogName": "NPC Gift Tastes",
+			"Action": "EditData",
+			"Target": "Data/NPCGiftTastes",
+			"Entries": {
+				"Marlon": "{{i18n:gift.love.Marl}}/125 222/{{i18n:gift.like.Marl}}/109 -2/{{i18n:gift.dislike.Marl}}/-23 78/{{i18n:gift.hate.Marl}}/796/{{i18n:gift.neutral.Marl}}//"
+			},
+			"When": {
+				"HasMod |contains=FlashShifter.StardewValleyExpandedALL, Yoshimax.BefriendMarlon, Wolf.Marlon": false,
+				"SocialGuntherandMarlon": "true"
+			}
+		},
+		{
+			"LogName": "Dialogue",
+			"Action": "Load",
+			"Target": "Characters/Dialogue/Gunther",
+			"FromFile": "assets/Blank.json",
+			"When": {
+				"HasMod |contains=ChicoLopes.GuntherToNPC,FlashShifter.StardewValleyExpandedALL,Yoshimax.BefriendMarlon, andril11.charlie, Wolf.Gun": false
+			}
+		},
+		{
+			"LogName": "Gunther Dialogue",
+			"Action": "Include",
+			"FromFile": "assets/Dialogue/Gunther.json",
+			"When": {
+				"HasMod |contains=Wolf.Gun": false
+			}
+		},
+		{
+			"LogName": "Dialogue",
+			"Action": "Load",
+			"Target": "Characters/Dialogue/Marlon",
+			"FromFile": "assets/Blank.json",
+			"When": {
+				"HasMod |contains=FlashShifter.StardewValleyExpandedALL, Yoshimax.BefriendMarlon, Wolf.Marlon": false
+			}
+		},
+		{
+			"LogName": "Marlon Dialogue",
+			"Action": "Include",
+			"FromFile": "assets/Dialogue/Marlon.json",
+			"When": {
+				"HasMod |contains=Wolf.Marlon": false
+			}
+		},
+		//Remove obstacles from museum so you can reach Gunther
+		{
+			"LogName": "Removes obstacles from museum",
+			"Action": "EditMap",
+			"Target": "Maps/ArchaeologyHouse",
+			"MapTiles": [
+				{
+					"Position": {
+						"X": 4,
+						"Y": 7
+					},
+					"Layer": "Front",
+					"Remove": true
+				}
+			],
+			"When": {
+				"HasMod |contains=ChicoLopes.GuntherToNPC,Karmylla.ImmersiveMaps, andril11.charlie, FlashShifter.StardewValleyExpandedALL, Yoshimax.BefriendMarlon, Wolf.Gun": false
+			}
+		},
+		{
+			"LogName": "Removes obstacles from museum",
+			"Action": "EditMap",
+			"Target": "Maps/ArchaeologyHouse",
+			"MapTiles": [
+				{
+					"Position": {
+						"X": 4,
+						"Y": 8
+					},
+					"Layer": "Buildings",
+					"Remove": true
+				},
+				{
+					"Position": {
+						"X": 5,
+						"Y": 8
+					},
+					"Layer": "Buildings",
+					"Remove": true
+				}
+			],
+			"When": {
+				"HasMod |contains=ChicoLopes.GuntherToNPC,Karmylla.ImmersiveMaps, andril11.charlie, FlashShifter.StardewValleyExpandedALL, Yoshimax.BefriendMarlon, Wolf.Gun": false
+			}
+		},
+		/*{
+			"Action": "EditMap",
+			"Target": "Maps/ArchaeologyHouse",
+			"FromFile": "assets/Maps/ArchaeologyDesk.tmx",
+			"ToArea": {
+				"X": 4,
+				"Y": 8,
+				"Width": 2,
+				"Height": 2
+			},
+			"When": {
+				"HasMod |contains=Karmylla.ImmersiveMaps,ChicoLopes.GuntherToNPC, andril11.charlie, FlashShifter.StardewValleyExpandedALL, Wolf.Gun": false
+			}
+		},*/
+		{
+			"Action": "EditMap",
+			"Target": "Maps/Museum2",
+			"FromFile": "assets/Maps/Museum2-MEPatch.tmx",
+			"ToArea": {
+				"X": 0,
+				"Y": 0,
+				"Width": 11,
+				"Height": 9
+			},
+			"When": {
+				"HasMod |contains=ChicoLopes.GuntherToNPC, test2.andril11, FlashShifter.StardewValleyExpandedALL, Wolf.Gun": true,
+				"HasMod |contains=MIDI.Blanche": false
+			}
+		},
+		{
+			"Action": "EditMap",
+			"Target": "Maps/AdventureGuild",
+			"FromFile": "assets/Maps/MarlonCounterPatch.tmx",
+			"ToArea": {
+				"X": 5,
+				"Y": 10,
+				"Width": 2,
+				"Height": 3
+			},
+			"When": {
+				"HasMod |contains=Karmylla.ImmersiveMaps, FlashShifter.StardewValleyExpandedALL, Wolf.Marlon": false
+			}
+		},
+		/*{
+			"Action": "Load",
+			"Target": "Maps/FarmCave",
+			"FromFile": "assets/Image/FarmCaveJasper.tbin",
+			"When": {
+				"HasMod": "DaisyNiko.Tilesheets",
+				"HasMod |contains=flashshifter.immersivefarm2remastered": false,
+				"FarmCaveChange": true
+			}
+		},
+		{
+			"Action": "EditMap",
+			"Target": "Maps/Mine",
+			"MapTiles": [
+				{
+					"Position": {
+						"X": 45,
+						"Y": 13
+					},
+					"Layer": "Buildings",
+					"SetProperties": {
+						"Action": "Warp 15 35 FarmCave"
+					}
+				}
+			],
+			"When": {
+				"HasMod": "DaisyNiko.Tilesheets",
+				"FarmCaveChange": true,
+				"Relationship:Dwarf": "Friendly",
+				"HasMod |contains=DaisyNiko.SVR2": false
+			}
+		},*/
+		{
+			"LogName": "Adds Linus and Wizard to Ice Festival main event",
+			"Action": "EditMap",
+			"Target": "Maps/Forest-IceFestival",
+			"MapTiles": [
+				{
+					"Position": {
+						"X": 11,
+						"Y": 43
+					},
+					"Layer": "Main-Event",
+					"SetTileSheet": "characters",
+					"SetIndex": 73
+				},
+				{
+					"Position": {
+						"X": 12,
+						"Y": 43
+					},
+					"Layer": "Main-Event",
+					"SetTileSheet": "characters",
+					"SetIndex": 123
+				}
+			],
+			"HasMod |contains=Wolf.RomRas": false
+		},
+		//Adds dialogue relevant to other mods
+		{
+			"LogName": "Cecilia Dialogue",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Jasper",
+			"Entries": {
+				"winter_Fri6": "{{i18n:jasper.cecilia}}"
+			},
+			"When": {
+				"HasMod": "balverines.cecilia"
+			}
+		},
+		{
+			"LogName": "Denver Dialogue",
+			"Action": "EditData",
+			"Target": "Characters/Dialogue/Jasper",
+			"Entries": {
+				"winter_Sat4": "{{i18n:jasper.denver}}"
+			},
+			"When": {
+				"HasMod": "balverines.Denver"
+			}
+		}
+	]
+}
