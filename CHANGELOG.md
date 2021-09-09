@@ -36,6 +36,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **You will need to reset the configuration files. See [here for details](README.md#resetting-the-configuration-files)**
 
+### Modifications <!-- omit in toc -->
+
+**Yagisan's - Professor Jasper Patch** Correct typos preventing Jasper and Cecilia integration.
+
 ### Additions <!-- omit in toc -->
 
 **[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** introduces Pika's wife and Keahi's mother from Ridgeside Village!
@@ -250,7 +254,7 @@ On 9 Aug 2021, Nexus decided that the configuration files, and all my own suppor
 
 ### Modifications <!-- omit in toc -->
 
-**[Yagisan - Crop Regrowth and Perennial Crops Patch](https://www.nexusmods.com/stardewvalley/mods/9134)** Invert the season stock logic to avoid duplicate items for sale.
+**Yagisan's - Crop Regrowth and Perennial Crops Patch** Invert the season stock logic to avoid duplicate items for sale.
 
 ### Additions <!-- omit in toc -->
 
