@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.1.7](#017)
   - [0.1.6](#016)
   - [0.1.5](#015)
   - [0.1.4](#014)
@@ -21,6 +22,32 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.1.7
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+**This is a pre-release of The Bustling Valley. It is subject to change, and should not be used for a non-testing playthrough.**
+
+### Updates <!-- omit in toc -->
+
+**[SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)** updated to 1.6.1
+
+**[JSON Assets](https://www.nexusmods.com/stardewvalley/mods/1720)** updated to 1.9.1
+
+**[Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)** updated to 1.4.2
+
+**[Displays](https://www.nexusmods.com/stardewvalley/mods/7635)** updated to 1.0.5
+
+**[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 1.6.5
+
+**[Capstone Professions](https://www.nexusmods.com/stardewvalley/mods/7636)** updated to 1.0.6
+
+**[Bigger Craftables](https://www.nexusmods.com/stardewvalley/mods/7530)** updated to 1.1.2
+
+**[Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)** updated to 1.1.9
 
 ## 0.1.6
 
