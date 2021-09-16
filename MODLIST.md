@@ -1,6 +1,6 @@
 # The Bustling Valley - Complete Modlist
 
-Last update **0.1.6**
+Last update **0.1.7**
 
 This is a complete list of all mods included in The Bustling Valley. The ordering is somewhat arbitrary and grouping matches my internal classification.
 
@@ -199,4 +199,5 @@ All links to third party mods are clickable, and will take you to the original s
 - **The Bustling Valley - Config Files**
 - **Yagisan's - Crop Regrowth and Perennial Crops Patch**
 - **Yagisan's - Coffee Maker Patch**
+- **Yagisan's - Professor Jasper Patch**
 
