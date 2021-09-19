@@ -25,7 +25,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.1.7
 
-**Released:** `DD MMM YYYY`
+**Released:** `20 Sep 2021`
 
 ### Info <!-- omit in toc -->
 
@@ -56,6 +56,14 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)** updated to 1.14.6
 
 **[Aspen](https://www.nexusmods.com/stardewvalley/mods/6754)** updated to 0.0.39
+
+**[Yagisan's Bountiful Valley](https://www.nexusmods.com/stardewvalley/mods/9259)** updated to 1.0.3
+
+**[Yagisan's Bountiful Valley for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/9272)** updated to 1.0.2
+
+**[Yagisan's Bountiful Valley for Boarding House](https://www.nexusmods.com/stardewvalley/mods/9263)** updated to 1.0.2
+
+**[Yagisan's - Krobus Sells Scrolls](https://www.nexusmods.com/stardewvalley/mods/9248)** updated to 1.0.1
 
 ## 0.1.6
 
