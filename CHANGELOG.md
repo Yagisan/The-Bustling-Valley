@@ -49,6 +49,14 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)** updated to 1.1.9
 
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.23.5
+
+**[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)** updated to 1.10.16
+
+**[Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)** updated to 1.14.6
+
+**[Aspen](https://www.nexusmods.com/stardewvalley/mods/6754)** updated to 0.0.39
+
 ## 0.1.6
 
 **Released:** `12 Sep 2021`
