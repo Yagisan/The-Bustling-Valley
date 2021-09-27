@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.1.9](#019)
   - [0.1.8](#018)
   - [0.1.7](#017)
   - [0.1.6](#016)
@@ -24,9 +25,19 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
 
-## 0.1.8
+## 0.1.9
 
 **Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+**This is a pre-release of The Bustling Valley. It is subject to change, and should not be used for a non-testing playthrough.**
+
+### Updates <!-- omit in toc -->
+
+## 0.1.8
+
+**Released:** `27 Sep 2021`
 
 ### Info <!-- omit in toc -->
 
@@ -41,6 +52,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Faster Path Speed](https://www.nexusmods.com/stardewvalley/mods/9344)** updated to 1.2.2
 
 **[Stardew Auto GC](https://www.nexusmods.com/stardewvalley/mods/9293)** updated to 1.4.0 (32bit)
+
+**[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 1.6.6
 
 ## 0.1.7
 
