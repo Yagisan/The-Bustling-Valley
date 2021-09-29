@@ -1,6 +1,6 @@
 # The Bustling Valley - Complete Modlist
 
-Last update **0.1.7**
+Last update **0.1.9**
 
 This is a complete list of all mods included in The Bustling Valley. The ordering is somewhat arbitrary and grouping matches my internal classification.
 
@@ -107,7 +107,6 @@ All links to third party mods are clickable, and will take you to the original s
 - [Prepare for New Day](https://www.nexusmods.com/stardewvalley/mods/7638)
 - [Pierre Sells Tree Fertilizer](https://www.nexusmods.com/stardewvalley/mods/7194)
 - [(CP) More Bar Transmutations](https://www.nexusmods.com/stardewvalley/mods/5996)
-- [(PFM) Wine to Vinegar](https://www.nexusmods.com/stardewvalley/mods/5037)
 - [Auto Animal Doors](https://www.nexusmods.com/stardewvalley/mods/1019)
 - [Automatic Gates](https://www.nexusmods.com/stardewvalley/mods/3109)
 - [Better Ranching](https://www.nexusmods.com/stardewvalley/mods/859)
