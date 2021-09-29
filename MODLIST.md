@@ -141,7 +141,6 @@ All links to third party mods are clickable, and will take you to the original s
 - [A Cleaner Sewer](https://www.nexusmods.com/stardewvalley/mods/5751)
   - [Krobus Spouse Room](https://www.nexusmods.com/stardewvalley/mods/5751)
 - [Egg Festival Winner Randomized](https://www.nexusmods.com/stardewvalley/mods/8574)
-- [Joja Immersion (Joja Needs Nuance)](https://www.nexusmods.com/stardewvalley/mods/8586)
 - [Lore-Friendly JojaMart Prices](https://www.nexusmods.com/stardewvalley/mods/2658)
 
 ## Spouse Changes
