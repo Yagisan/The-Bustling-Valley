@@ -1,0 +1,654 @@
+[
+
+        // SSaturn's Tropical Farm Cooking recipes
+
+        {
+		"Id": "OrientalKitchen.BuburKetanHitam",
+		"GroupID": "OrientalKitchen.CookingRecipes",
+		"Title": "BuburKetanHitam.title",
+		"Text": "BuburKetanHitam.text",
+		"Recipe": "Bubur Ketan Hitam",
+		"LetterBG": "DustyPink.png",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 4 }
+		],
+		"CollectionConditions":
+		[
+			{ "Collection": "Shipped", "Index": 271, "Amount": 10 }
+		]
+	},
+        {
+		"Id": "OrientalKitchen.TabTimGrob",
+		"GroupID": "OrientalKitchen.CookingRecipes",
+		"Title": "TabTimGrob.title",
+		"Text": "TabTimGrob.text",
+		"Recipe": "Tab Tim Grob",
+		"LetterBG": "DustyPink.png",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 5 }
+		],
+		"CollectionConditions":
+		[
+			{ "Collection": "Shipped", "Index": 637, "Amount": 1 }
+		]
+	},
+
+        // with Bonster's Crops
+
+        {
+		"Id": "OrientalKitchen.BukoPandan",
+		"GroupID": "OrientalKitchen.CookingRecipes",
+		"Title": "BukoPandan.title",
+		"Text": "BukoPandan.text",
+		"Recipe": "Buko Pandan",
+		"LetterBG": "DustyPink.png",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 5 }
+		],
+		"CollectionConditions":
+		[
+			{ "Collection": "Shipped", "Name": "Pandan", "Amount": 1 }
+		]
+	},
+        {
+		"Id": "OrientalKitchen.NasiKuning",
+		"GroupID": "OrientalKitchen.CookingRecipes",
+		"Title": "NasiKuning.title",
+		"Text": "NasiKuning.text",
+		"Recipe": "Nasi Kuning",
+		"LetterBG": "DustyPink.png",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 6 }
+		],
+		"CollectionConditions":
+		[
+			{ "Collection": "Shipped", "Name": "Turmeric", "Amount": 20 }
+		]
+	},
+        {
+		"Id": "OrientalKitchen.BuburKacangHijau",
+		"GroupID": "OrientalKitchen.CookingRecipes",
+		"Title": "BuburKacangHijau.title",
+		"Text": "BuburKacangHijau.text",
+		"Recipe": "Bubur Kacang Hijau",
+		"Repeatable": false,
+		"LetterBG": "DustyPink.png",
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 5 }
+		],
+		"CollectionConditions":
+		[
+			{ "Collection": "Shipped", "Index": 188, "Amount": 5 }
+		]
+	},
+
+        // with PPJA Fresh Meat
+
+        {
+		"Id": "OrientalKitchen.NasiLemak",
+		"GroupID": "OrientalKitchen.CookingRecipes",
+		"Title": "NasiLemak.title",
+		"Text": "NasiLemak.text",
+		"Recipe": "Nasi Lemak",
+		"LetterBG": "DustyPink.png",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 5 }
+		],
+		"CollectionConditions":
+		[
+			{ "Collection": "Shipped", "Index": 271, "Amount": 20 }
+		]
+	},
+        {
+		"Id": "OrientalKitchen.CharSiu",
+		"GroupID": "OrientalKitchen.CookingRecipes",
+		"Title": "CharSiu.title",
+		"Text": "CharSiu.text",
+		"Recipe": "Char Siu",
+		"LetterBG": "DustyPink.png",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 7 }
+		],
+		"CollectionConditions":
+		[
+			{ "Collection": "Shipped", "Name": "Pork", "Amount": 5 }
+		]
+	},
+
+        // with PPJA Artisan Valley
+
+        {
+		"Id": "OrientalKitchen.Klepon",
+		"GroupID": "OrientalKitchen.CookingRecipes",
+		"Title": "Klepon.title",
+		"Text": "Klepon.text",
+		"Recipe": "Klepon",
+		"LetterBG": "DustyPink.png",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 3 }
+		],
+		"CollectionConditions":
+		[
+			{ "Collection": "Shipped", "Index": 88, "Amount": 1 }
+		]
+	},
+        {
+		"Id": "OrientalKitchen.MartabakManis",
+		"GroupID": "OrientalKitchen.CookingRecipes",
+		"Title": "MartabakManis.title",
+		"Text": "MartabakManis.text",
+		"Recipe": "Martabak Manis",
+		"LetterBG": "DustyPink.png",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 7 }
+		],
+		"CollectionConditions":
+		[
+			{ "Collection": "Shipped", "Index": 424, "Amount": 20 }
+		]
+	},
+
+        // with PPJA Fruits and Veggies
+
+        {
+		"Id": "OrientalKitchen.Falooda",
+		"GroupID": "OrientalKitchen.CookingRecipes",
+		"Title": "Falooda.title",
+		"Text": "Falooda.text",
+		"Recipe": "Falooda",
+		"LetterBG": "DustyPink.png",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 5 }
+		],
+		"CollectionConditions":
+		[
+			{ "Collection": "Shipped", "Name": "Large Milk", "Amount": 50 }
+		]
+	},
+        {
+		"Id": "OrientalKitchen.Nastar",
+		"GroupID": "OrientalKitchen.CookingRecipes",
+		"Title": "Nastar.title",
+		"Text": "Nastar.text",
+		"Recipe": "Nastar",
+		"LetterBG": "DustyPink.png",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 3 }
+		],
+		"CollectionConditions":
+		[
+			{ "Collection": "Shipped", "Name": "Pineapple", "Amount": 5 }
+		]
+	},
+
+        // with PPJA More Trees
+
+        {
+		"Id": "OrientalKitchen.RojakManis",
+		"GroupID": "OrientalKitchen.CookingRecipes",
+		"Title": "RojakManis.title",
+		"Text": "RojakManis.text",
+		"Recipe": "Rojak Manis",
+		"LetterBG": "DustyPink.png",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 6 }
+		],
+		"CollectionConditions":
+		[
+			{ "Collection": "Shipped", "Name": "Jambu", "Amount": 5 }
+		]
+	},
+        {
+		"Id": "OrientalKitchen.GetukSukun",
+		"GroupID": "OrientalKitchen.CookingRecipes",
+		"Title": "GetukSukun.title",
+		"Text": "GetukSukun.text",
+		"Recipe": "Getuk Sukun",
+		"LetterBG": "DustyPink.png",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 3 }
+		],
+		"CollectionConditions":
+		[
+			{ "Collection": "Shipped", "Name": "Breadfruit", "Amount": 5 }
+		]
+	},
+        {
+		"Id": "OrientalKitchen.Nagasari",
+		"GroupID": "OrientalKitchen.CookingRecipes",
+		"Title": "Nagasari.title",
+		"Text": "Nagasari.text",
+		"Recipe": "Nagasari",
+		"LetterBG": "DustyPink.png",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 5 }
+		],
+		"CollectionConditions":
+		[
+			{ "Collection": "Shipped", "Name": "Banana", "Amount": 5 }
+		]
+	},
+        {
+		"Id": "OrientalKitchen.SharabWard",
+		"GroupID": "OrientalKitchen.CookingRecipes",
+		"Title": "SharabWard.title",
+		"Text": "SharabWard.text",
+		"Recipe": "Sharab Ward",
+		"LetterBG": "DustyPink.png",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 3 }
+		],
+		"CollectionConditions":
+		[
+			{ "Collection": "Shipped", "Name": "Lemon", "Amount": 5 }
+		]
+	},
+
+        // with Assorted Packs
+
+        {
+		"Id": "OrientalKitchen.AamPanna",
+		"GroupID": "OrientalKitchen.CookingRecipes",
+		"Title": "AamPanna.title",
+		"Text": "AamPanna.text",
+		"Recipe": "Aam Panna",
+		"LetterBG": "DustyPink.png",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 3 }
+		],
+		"CollectionConditions":
+		[
+			{ "Collection": "Shipped", "Name": "Peppercorn", "Amount": 5 }
+		]
+	},
+        {
+		"Id": "OrientalKitchen.Chaas",
+		"GroupID": "OrientalKitchen.CookingRecipes",
+		"Title": "Chaas.title",
+		"Text": "Chaas.text",
+		"Recipe": "Chaas",
+		"LetterBG": "DustyPink.png",
+		"Repeatable": false,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 4 }
+		],
+		"CollectionConditions":
+		[
+			{ "Collection": "Shipped", "Name": "Aromatic Ginger", "Amount": 5 }
+		]
+	},
+
+        // Sandy Gifts
+
+        {
+		"Id": "OrientalKitchen.GiftAamPanna",
+		"GroupID": "OrientalKitchen.Gifts",
+		"Title": null,
+		"Text": "GiftAamPanna.text",
+		"Attachments":
+		[
+			{ "Type": "Object", "Name": "Aam Panna" }
+		],
+		"LetterBG": "DustyBlue.png",
+		"Repeatable": true,
+		"Days": [1,8,15,22],
+                "Seasons": ["summer"],
+                "RandomChance": 0.25,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 3 }
+		],
+                "RecipeNotKnown": ["Aam Panna"]
+	},
+        {
+		"Id": "OrientalKitchen.GiftGetukSukun",
+		"GroupID": "OrientalKitchen.Gifts",
+		"Title": null,
+		"Text": "GiftGetukSukun.text",
+		"Attachments":
+		[
+			{ "Type": "Object", "Name": "Getuk Sukun" }
+		],
+		"LetterBG": "DustyBlue.png",
+		"Repeatable": true,
+                "Days": [3,5,7,11,13,19,23],
+                "Seasons": ["spring"],
+		"Weather": "sunny",
+                "RandomChance": 0.25,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 3 }
+		],
+                "RecipeNotKnown": ["Getuk Sukun"]
+	},
+        {
+		"Id": "OrientalKitchen.GiftKlepon",
+		"GroupID": "OrientalKitchen.Gifts",
+		"Title": null,
+		"Text": "GiftKlepon.text",
+		"Attachments":
+		[
+			{ "Type": "Object", "Name": "Klepon" }
+		],
+		"LetterBG": "DustyBlue.png",
+		"Repeatable": true,
+		"Days": [2,4,5,6,7,9,11,12,13,14,16,18,19,20,21,23,25,26,27,28],
+                "Seasons": ["summer"],
+		"Weather": "sunny",
+                "RandomChance": 0.15,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 3 }
+		],
+                "RecipeNotKnown": ["Klepon"]
+	},
+        {
+		"Id": "OrientalKitchen.GiftNastar",
+		"GroupID": "OrientalKitchen.Gifts",
+		"Title": null,
+		"Text": "GiftNastar.text",
+		"Attachments":
+		[
+			{ "Type": "Object", "Name": "Nastar" }
+		],
+		"LetterBG": "DustyBlue.png",
+		"Repeatable": true,
+		"Days": [1,9,17,25],
+                "Seasons": ["spring"],
+                "RandomChance": 0.25,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 3 }
+		],
+                "RecipeNotKnown": ["Nastar"]
+	},
+        {
+		"Id": "OrientalKitchen.GiftSharabWard",
+		"GroupID": "OrientalKitchen.Gifts",
+		"Title": null,
+		"Text": "GiftSharabWard.text",
+		"Attachments":
+		[
+			{ "Type": "Object", "Name": "Sharab Ward" }
+		],
+		"LetterBG": "DustyBlue.png",
+		"Repeatable": true,
+                "Days": [2,4,6,8,10,12,14,15,16,18,20,21,22,24,26,27,28],
+                "Seasons": ["spring"],
+		"Weather": "sunny",
+                "RandomChance": 0.25,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 3 }
+		],
+                "RecipeNotKnown": ["Sharab Ward"]
+	},
+        {
+		"Id": "OrientalKitchen.GiftBuburKetanHitam",
+		"GroupID": "OrientalKitchen.Gifts",
+		"Title": null,
+		"Text": "GiftBuburKetanHitam.text",
+		"Attachments":
+		[
+			{ "Type": "Object", "Name": "Bubur Ketan Hitam" }
+		],
+		"LetterBG": "DustyBlue.png",
+		"Repeatable": true,
+		"Days": [18,19,20,21,23,25,26,27,28],
+                "Seasons": ["winter"],
+                "RandomChance": 0.25,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 4 }
+		],
+                "RecipeNotKnown": ["Bubur Ketan Hitam"]
+	},
+        {
+		"Id": "OrientalKitchen.GiftChaas",
+		"GroupID": "OrientalKitchen.Gifts",
+		"Title": null,
+		"Text": "GiftChaas.text",
+		"Attachments":
+		[
+			{ "Type": "Object", "Name": "Chaas" }
+		],
+		"LetterBG": "DustyBlue.png",
+		"Repeatable": true,
+		"Days": [2,4,6,9,10,12,14,18,20,21,22,24,25,26,28],
+                "Seasons": ["fall"],
+		"Weather": "rainy",
+                "RandomChance": 0.25,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 4 }
+		],
+                "RecipeNotKnown": ["Chaas"]
+	},
+        {
+		"Id": "OrientalKitchen.GiftBuburKacangHijau",
+		"GroupID": "OrientalKitchen.Gifts",
+		"Title": null,
+		"Text": "GiftBuburKacangHijau.text",
+		"Attachments":
+		[
+			{ "Type": "Object", "Index": 473, "Stack": 5 }
+		],
+		"LetterBG": "DustyPink.png",
+		"Repeatable": true,
+		"Days": [2,3,4,5,6,7,9,10,11,12,13,14,17,18,19,20,21,22,24,25,26,27,28],
+                "Seasons": ["fall"],
+		"Weather": "sunny",
+                "RandomChance": 0.15,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 5 }
+		],
+                "RecipeNotKnown": ["Bubur Kacang Hijau"]
+	},
+        {
+		"Id": "OrientalKitchen.GiftBukoPandan",
+		"GroupID": "OrientalKitchen.Gifts",
+		"Title": null,
+		"Text": "GiftBukoPandan.text",
+		"Attachments":
+		[
+			{ "Type": "Object", "Name": "Buko Pandan" }
+		],
+		"LetterBG": "DustyBlue.png",
+		"Repeatable": true,
+		"Days": [2,4,5,6,7,9,11,12,13,14,16],
+                "Seasons": ["winter"],
+                "RandomChance": 0.25,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 5 }
+		],
+                "RecipeNotKnown": ["Buko Pandan"]
+	},
+        {
+		"Id": "OrientalKitchen.GiftNagasari",
+		"GroupID": "OrientalKitchen.Gifts",
+		"Title": null,
+		"Text": "GiftNagasari.text",
+		"Attachments":
+		[
+			{ "Type": "Object", "Name": "Nagasari" }
+		],
+		"LetterBG": "DustyBlue.png",
+		"Repeatable": true,
+		"Days": [2,4,5,6,7,9,11,12,13,14,16,18,19,20,21,23,25,26,27,28],
+                "Seasons": ["summer"],
+		"Weather": "rainy",
+                "RandomChance": 0.15,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 5 }
+		],
+                "RecipeNotKnown": ["Nagasari"]
+	},
+        {
+		"Id": "OrientalKitchen.GiftNasiLemak",
+		"GroupID": "OrientalKitchen.Gifts",
+		"Title": null,
+		"Text": "GiftNasiLemak.text",
+		"Attachments":
+		[
+			{ "Type": "Object", "Index": 273, "Stack": 10 }
+		],
+		"LetterBG": "DustyPink.png",
+		"Repeatable": true,
+                "Days": [2,4,5,6,7,8,11,12,13,14,15,16,18,19,20,21,22,23,24,26,27,28],
+                "Seasons": ["spring"],
+		"Weather": "rainy",
+                "RandomChance": 0.15,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 5 }
+		],
+                "RecipeNotKnown": ["Nasi Lemak"]
+	},
+        {
+		"Id": "OrientalKitchen.GiftTabTimGrob",
+		"GroupID": "OrientalKitchen.Gifts",
+		"Title": null,
+		"Text": "GiftTabTimGrob.text",
+		"Attachments":
+		[
+			{ "Type": "Object", "Name": "Tab Tim Grob" }
+		],
+		"LetterBG": "DustyBlue.png",
+		"Repeatable": true,
+		"Days": [3,5,7,11,13,17,19,27],
+                "Seasons": ["fall"],
+		"Weather": "rainy",
+                "RandomChance": 0.25,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 5 }
+		],
+                "RecipeNotKnown": ["Tab Tim Grob"]
+	},
+        {
+		"Id": "OrientalKitchen.GiftFalooda",
+		"GroupID": "OrientalKitchen.Gifts",
+		"Title": null,
+		"Text": "GiftFalooda.text",
+		"Attachments":
+		[
+			{ "Type": "Object", "Name": "Falooda" }
+		],
+		"LetterBG": "DustyPink.png",
+		"Repeatable": true,
+		"Days": [1,8,15,22],
+                "Seasons": ["winter"],
+                "RandomChance": 0.25,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 6 }
+		],
+                "RecipeNotKnown": ["Falooda"]
+	},
+               {
+		"Id": "OrientalKitchen.GiftRojakManis",
+		"GroupID": "OrientalKitchen.Gifts",
+		"Title": null,
+		"Text": "GiftRojakManis.text",
+		"Attachments":
+		[
+			{ "Type": "Object", "Name": "Rojak Manis" }
+		],
+		"LetterBG": "DustyBlue.png",
+		"Repeatable": true,
+		"Days": [1,8,16,23],
+                "Seasons": ["fall"],
+                "RandomChance": 0.25,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 6 }
+		],
+                "RecipeNotKnown": ["Rojak Manis"]
+	},
+        {
+		"Id": "OrientalKitchen.GiftNasiKuning",
+		"GroupID": "OrientalKitchen.Gifts",
+		"Title": null,
+		"Text": "GiftNasiKuning.text",
+		"Attachments":
+		[
+			{ "Type": "Object", "Name": "Nasi Kuning" }
+		],
+		"LetterBG": "DustyPink.png",
+		"Repeatable": true,
+		"Days": [15],
+                "Seasons": ["fall"],
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 6 }
+		],
+                "RecipeNotKnown": ["NasiKuning"]
+	},
+        {
+		"Id": "OrientalKitchen.GiftCharSiu",
+		"GroupID": "OrientalKitchen.Gifts",
+		"Title": "GiftCharSiu.title",
+		"Text": "GiftCharSiu.text",
+		"LetterBG": "DustyPink.png",
+		"Repeatable": false,
+		"Days": [3,10,17,24],
+                "Seasons": ["summer"],
+                "RandomChance": 0.25,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 7 }
+		],
+                "RecipeNotKnown": ["Char Siu"]
+	},
+        {
+		"Id": "OrientalKitchen.GiftMartabakManis",
+		"GroupID": "OrientalKitchen.Gifts",
+		"Title": "GiftMartabakManis.title",
+		"Text": "GiftMartabakManis.text",
+		"LetterBG": "DustyPink.png",
+		"Repeatable": false,
+		"Days": [3,10,17,24],
+                "Seasons": ["winter"],
+                "RandomChance": 0.25,
+		"FriendshipConditions":
+		[
+			{ "NpcName": "Sandy", "FriendshipLevel": 7 }
+		],
+                "RecipeNotKnown": ["Martabak Manis"]
+	}
+]
