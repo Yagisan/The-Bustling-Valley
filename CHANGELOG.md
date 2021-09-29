@@ -43,6 +43,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[(PFM) Wine to Vinegar](https://www.nexusmods.com/stardewvalley/mods/5037)** redundant with [PPJA - Artisan Valley](https://www.nexusmods.com/stardewvalley/mods/1926) installed.
 
+**[Joja Immersion (Joja Needs Nuance)](https://www.nexusmods.com/stardewvalley/mods/8586)**
+
 ### Modifications <!-- omit in toc -->
 
 **Yagisan's - SSaturn's Oriental Kitchen Patch** Falooda recipe now needs you to ship 50 Large Milk. It was not triggering by sending "Milk" category.
