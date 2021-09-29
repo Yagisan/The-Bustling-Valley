@@ -37,6 +37,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)** updated to 3.4.6
 
+**[Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536)** updated to 1.11
+
 ### Removed <!-- omit in toc -->
 
 **[(PFM) Wine to Vinegar](https://www.nexusmods.com/stardewvalley/mods/5037)** redundant with [PPJA - Artisan Valley](https://www.nexusmods.com/stardewvalley/mods/1926) installed.
