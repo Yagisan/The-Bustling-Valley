@@ -35,6 +35,16 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Updates <!-- omit in toc -->
 
+**[Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)** updated to 3.4.6
+
+### Removed <!-- omit in toc -->
+
+**[(PFM) Wine to Vinegar](https://www.nexusmods.com/stardewvalley/mods/5037)** redundant with [PPJA - Artisan Valley](https://www.nexusmods.com/stardewvalley/mods/1926) installed.
+
+### Modifications <!-- omit in toc -->
+
+**Yagisan's - SSaturn's Oriental Kitchen Patch** Falooda recipe now needs you to ship 50 Large Milk. It was not triggering by sending "Milk" category.
+
 ## 0.1.8
 
 **Released:** `27 Sep 2021`
