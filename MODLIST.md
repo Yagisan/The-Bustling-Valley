@@ -38,7 +38,9 @@ All links to third party mods are clickable, and will take you to the original s
 - [Delores](https://www.nexusmods.com/stardewvalley/mods/5510)
   - [Spouse Room](https://www.nexusmods.com/stardewvalley/mods/5510)
 - [Denver - Male - Boarding House](https://www.nexusmods.com/stardewvalley/mods/4594)
+  - [Denver - Alternate Portraits](https://www.nexusmods.com/stardewvalley/mods/4594)
 - [Cecilia - Forest Home](https://www.nexusmods.com/stardewvalley/mods/6246)
+  - [Cecilia - Alternate Portraits](https://www.nexusmods.com/stardewvalley/mods/6246)
 - [The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)
 - [Mister Ginger](https://www.nexusmods.com/stardewvalley/mods/5295)
 - [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)
@@ -67,6 +69,10 @@ All links to third party mods are clickable, and will take you to the original s
 - [Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)
 - [DaisyNiko's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/4736)
 - [More Giant Crops](https://www.nexusmods.com/stardewvalley/mods/5263)
+- [Dynamic Game Assets](https://www.nexusmods.com/stardewvalley/mods/9365)
+  - [Dynamic Game Assets - Automate Patch](https://www.nexusmods.com/stardewvalley/mods/9365)
+- [eXpanded Storage Lite](https://www.nexusmods.com/stardewvalley/mods/7431)
+  - [eXpanded Storage Lite - Automate Patch](https://www.nexusmods.com/stardewvalley/mods/7431)
 
 ## Gameplay Changes
 
@@ -94,6 +100,9 @@ All links to third party mods are clickable, and will take you to the original s
 - [Statue of Generosity](https://www.nexusmods.com/stardewvalley/mods/7532)
 - [Fishing Assistant](https://www.nexusmods.com/stardewvalley/mods/5815)
 - [Greenhouse Sprinklers](https://www.nexusmods.com/stardewvalley/mods/7456)
+- [Greenhouse Gatherers](https://www.nexusmods.com/stardewvalley/mods/7619)
+- [Island Gatherers](https://www.nexusmods.com/stardewvalley/mods/8552)
+  - [Island Gatherers - Automate Support](https://www.nexusmods.com/stardewvalley/mods/8552)
 
 ## QOL Changes
 
@@ -112,6 +121,7 @@ All links to third party mods are clickable, and will take you to the original s
 - [Better Ranching](https://www.nexusmods.com/stardewvalley/mods/859)
 - [Stardew Auto GC](https://www.nexusmods.com/stardewvalley/mods/9293)
 - [Faster Path Speed](https://www.nexusmods.com/stardewvalley/mods/9344)
+- [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
 
 ## Immersion
 
