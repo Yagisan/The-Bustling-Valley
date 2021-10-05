@@ -33,11 +33,37 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **This is a pre-release of The Bustling Valley. It is subject to change, and should not be used for a non-testing playthrough.**
 
+### Additions <!-- omit in toc -->
+
+**[Dynamic Game Assets](https://www.nexusmods.com/stardewvalley/mods/9365)**
+
+**[Dynamic Game Assets - Automate Patch](https://www.nexusmods.com/stardewvalley/mods/9365)**
+
+**[eXpanded Storage Lite](https://www.nexusmods.com/stardewvalley/mods/7431)**
+
+**[eXpanded Storage Lite - Automate Patch](https://www.nexusmods.com/stardewvalley/mods/7431)**
+
+**[Cecilia - Alternate Portraits](https://www.nexusmods.com/stardewvalley/mods/6246)**
+
+**[Denver - Alternate Portraits](https://www.nexusmods.com/stardewvalley/mods/4594)**
+
+**[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)**
+
+**[Greenhouse Gatherers](https://www.nexusmods.com/stardewvalley/mods/7619)** Please note that by default, the Junimos will eat excess crops. I suggest you use additional chests and Automate to collect the overflow.
+
+**[Island Gatherers](https://www.nexusmods.com/stardewvalley/mods/8552)** Please note that by default, the Parrots will eat excess crops. I suggest you use additional chests and Automate to collect the overflow.
+
+**[Island Gatherers - Automate Support](https://www.nexusmods.com/stardewvalley/mods/8552)**
+
 ### Updates <!-- omit in toc -->
 
 **[Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)** updated to 3.4.6
 
 **[Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536)** updated to 1.11
+
+**[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.1 - this new update include the ablity to turn this NPC into a real NPC. This is considered hardcore mode as the NPC is only available for 28 days a year. This is currently disabled.
+
+**[Canon-Friendly Dialogue Expansion for All Friend-able Characters](https://www.nexusmods.com/stardewvalley/mods/2544)** updated to 2.0.10
 
 ### Removed <!-- omit in toc -->
 
@@ -46,6 +72,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Joja Immersion (Joja Needs Nuance)](https://www.nexusmods.com/stardewvalley/mods/8586)**
 
 ### Modifications <!-- omit in toc -->
+
+**[Jade](https://www.nexusmods.com/stardewvalley/mods/5559)** enable alternate portraits.
 
 **Yagisan's - SSaturn's Oriental Kitchen Patch** Falooda recipe now needs you to ship 50 Large Milk. It was not triggering by sending "Milk" category.
 
