@@ -61,9 +61,13 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536)** updated to 1.11
 
-**[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.1 - this new update include the ablity to turn this NPC into a real NPC. This is considered hardcore mode as the NPC is only available for 28 days a year. This is currently disabled.
+**[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.1.3 - this new update include the ability to turn this NPC into a real NPC. This is considered hardcore mode as the NPC is only available for 28 days a year. This is currently disabled.
 
 **[Canon-Friendly Dialogue Expansion for All Friend-able Characters](https://www.nexusmods.com/stardewvalley/mods/2544)** updated to 2.0.10
+
+**[Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)** updated to 1.1.10
+
+**[Aspen](https://www.nexusmods.com/stardewvalley/mods/6754)** updated to 0.0.40
 
 ### Removed <!-- omit in toc -->
 
