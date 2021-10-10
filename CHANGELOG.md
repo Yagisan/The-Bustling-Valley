@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.1.10](#0110)
   - [0.1.9](#019)
   - [0.1.8](#018)
   - [0.1.7](#017)
@@ -25,9 +26,21 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
 
-## 0.1.9
+## 0.1.10
 
 **Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+**This is a pre-release of The Bustling Valley. It is subject to change, and should not be used for a non-testing playthrough.**
+
+### Updates <!-- omit in toc -->
+
+**[Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)** updated to 4.0.4
+
+## 0.1.9
+
+**Released:** `11 Oct 2021`
 
 ### Info <!-- omit in toc -->
 
@@ -68,6 +81,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)** updated to 1.1.10
 
 **[Aspen](https://www.nexusmods.com/stardewvalley/mods/6754)** updated to 0.0.40
+
+**[Event Repeater](https://www.nexusmods.com/stardewvalley/mods/3642)** updated to 6.3.2
 
 ### Removed <!-- omit in toc -->
 
