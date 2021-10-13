@@ -38,6 +38,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)** updated to 4.0.4
 
+**[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 1.7.0
+
 ## 0.1.9
 
 **Released:** `11 Oct 2021`
