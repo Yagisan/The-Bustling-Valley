@@ -36,9 +36,27 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Updates <!-- omit in toc -->
 
-**[Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)** updated to 4.0.4
+**[Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)** updated to 4.0.5
 
 **[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 1.7.0
+
+**[Statue of Generosity](https://www.nexusmods.com/stardewvalley/mods/7532)** updated to 1.1.0
+
+**[SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)** updated to 1.7.0
+
+**[JSON Assets](https://www.nexusmods.com/stardewvalley/mods/1720)** updated to 1.10.0
+
+**[Luck Skill](https://www.nexusmods.com/stardewvalley/mods/521)** updated to 1.2.0
+
+**[Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)** updated to 1.5.1
+
+**[Experience Bars](https://www.nexusmods.com/stardewvalley/mods/509)** updated to 1.4.0
+
+**[Capstone Professions](https://www.nexusmods.com/stardewvalley/mods/7636)** updated to 1.0.7
+
+**[Dynamic Game Assets](https://www.nexusmods.com/stardewvalley/mods/9365)** updated to 1.3.0
+
+**[eXpanded Storage Lite](https://www.nexusmods.com/stardewvalley/mods/7431)** updated to 1.7.1-beta.11
 
 ## 0.1.9
 
