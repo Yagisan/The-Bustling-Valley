@@ -6,6 +6,8 @@ This is a complete list of all mods included in The Bustling Valley. The orderin
 
 All links to third party mods are clickable, and will take you to the original source. My own mods and patches are not necessarily available elsewhere.
 
+This list is only updated when mods are added or removed. If the version above does not match the current version, then there have been no additions or changes since the last time this list was updated.
+
 - [The Bustling Valley - Complete Modlist](#the-bustling-valley---complete-modlist)
   - [Town, Village and NPC Expansions](#town-village-and-npc-expansions)
   - [Frameworks](#frameworks)
