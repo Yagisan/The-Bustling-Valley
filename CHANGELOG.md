@@ -36,9 +36,9 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Updates <!-- omit in toc -->
 
-**[Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)** updated to 4.0.5
+**[Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)** updated to 4.0.7
 
-**[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 1.7.0
+**[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 1.7.1
 
 **[Statue of Generosity](https://www.nexusmods.com/stardewvalley/mods/7532)** updated to 1.1.0
 
@@ -57,6 +57,16 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Dynamic Game Assets](https://www.nexusmods.com/stardewvalley/mods/9365)** updated to 1.3.0
 
 **[eXpanded Storage Lite](https://www.nexusmods.com/stardewvalley/mods/7431)** updated to 1.7.1-beta.11
+
+**[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)** updated to 1.0.22
+
+**[Anniversary on Calendar](https://www.nexusmods.com/stardewvalley/mods/8351)** updated to 1.2.2
+
+**[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.7.0
+
+**[Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)** updated to 1.1.13
+
+**[Yagisan's Bountiful Valley for Boarding House](https://www.nexusmods.com/stardewvalley/mods/9263)** updated to 1.0.3
 
 ## 0.1.9
 
