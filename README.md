@@ -37,6 +37,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Automation](#automation)
   - [Gameplay](#gameplay)
 - [Other Post Installation FAQ](#other-post-installation-faq)
+  - [Does this work in multiplayer ?](#does-this-work-in-multiplayer-)
   - [Using the WaterBot](#using-the-waterbot)
   - [Using the Fishing Assistant.](#using-the-fishing-assistant)
   - [Slow start](#slow-start)
@@ -218,6 +219,12 @@ Updating is like installing. You only have to make sure that you select the same
 **[Multiple Spouses](https://www.nexusmods.com/stardewvalley/mods/6227)**  allows you to have multiple spouses, kisses, pregnancies, spouse rooms, etc.
 
 # Other Post Installation FAQ
+
+## Does this work in multiplayer ?
+
+Generally speaking this should work in multiplayer via the Internet, LAN, or local split screen mode. As with the unmodded game, some events may need to be triggered by the host, and/or each farmhand individually.
+
+Please note that multiplayer primarily relies on community testing and bug reporting.
 
 ## Using the WaterBot
 
