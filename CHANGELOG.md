@@ -68,6 +68,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Yagisan's Bountiful Valley for Boarding House](https://www.nexusmods.com/stardewvalley/mods/9263)** updated to 1.0.3
 
+**[Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536)** updated to 1.12.1
+
 ## 0.1.9
 
 **Released:** `11 Oct 2021`
