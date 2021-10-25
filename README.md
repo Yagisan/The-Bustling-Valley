@@ -38,15 +38,16 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Gameplay](#gameplay)
 - [Other Post Installation FAQ](#other-post-installation-faq)
   - [Does this work in multiplayer ?](#does-this-work-in-multiplayer-)
-  - [Using the WaterBot](#using-the-waterbot)
-  - [Using the Fishing Assistant.](#using-the-fishing-assistant)
-  - [Slow start](#slow-start)
-  - [Removing the Modlist](#removing-the-modlist)
-  - [Updating SMAPI](#updating-smapi)
-  - [The JSON Shuffle](#the-json-shuffle)
-  - [Unofficial 64 bit Stardew Valley](#unofficial-64-bit-stardew-valley)
-  - [Out of Memory Errors](#out-of-memory-errors)
-  - [Resetting the configuration files](#resetting-the-configuration-files)
+  - [Where is the Dwarf ?](#where-is-the-dwarf-)
+  - [How do I use the WaterBot ?](#how-do-i-use-the-waterbot-)
+  - [How do I use the Fishing Assistant ?](#how-do-i-use-the-fishing-assistant-)
+  - [Why is it slow to start ?](#why-is-it-slow-to-start-)
+  - [How do I remove the Modlist ?](#how-do-i-remove-the-modlist-)
+  - [Should I update SMAPI ?](#should-i-update-smapi-)
+  - [What is the JSON Shuffle ? Can it be fixed ?](#what-is-the-json-shuffle--can-it-be-fixed-)
+  - [Does it work with the Unofficial 64 bit Stardew Valley ?](#does-it-work-with-the-unofficial-64-bit-stardew-valley-)
+  - [I have Out of Memory Errors. What do I do ?](#i-have-out-of-memory-errors-what-do-i-do-)
+  - [How do I reset the configuration files ?](#how-do-i-reset-the-configuration-files-)
   - [Contact and Technical Support](#contact-and-technical-support)
 
 # Preamble
@@ -226,43 +227,49 @@ Generally speaking this should work in multiplayer via the Internet, LAN, or loc
 
 Please note that multiplayer primarily relies on community testing and bug reporting.
 
-## Using the WaterBot
+## Where is the Dwarf ?
+
+Please follow Professor Jaspers questline until the 6 heart stage.
+
+## How do I use the WaterBot ?
 
 To use the WaterBot, select the watering can, then **right click** on a crop. Your farm will automatically travel to, and water every crop they can reach. The will refill the watering can as needed, from the closest water source, and will stop when either all crops are watered, or the farmer is out of energy.
 
-## Using the Fishing Assistant.
+## How do I use the Fishing Assistant ?
 
 Press **F5** to enable the Fishing Assistant. Bait, tackle, and cast your Fishing line as usual. If you get a bite, Fishing Assistant will automatically hook, and catch the fish. It is **not** an instant catch. Better rods, bait and tackle will improve this.
 
 Press **F7** to enable automatic treasure chest collection. If there is a treasure chest, Fishing Assistant will attempt to collect it, while catching the fish.
 
-## Slow start
+## Why is it slow to start ?
 
 Unfortunately JSON Assets slows down the start time of the game. The length of start up depends on how many JSON assets need to be loaded. Bigger mods, have many, many more assets than smaller mods. It doesn't affect runtime performance though.
 
-## Removing the Modlist
+## How do I remove the Modlist ?
 
 Simply delete the installation folder (`C:\WJ\TBV` if you have been following this guide) and that will remove it, but why would you want to?
 
-## Updating SMAPI
+## Should I update SMAPI ?
 
 In addition to being a mod loader, SMAPI also contains fixes and runtime updates to help make mods work with different versions of Stardew Valley. If you are having problems it is a good idea to update to the [latest version of SMAPI](#installing-smapi) and try again.
 
-## The JSON Shuffle
+## What is the JSON Shuffle ? Can it be fixed ?
 
 This is described [in depth here](https://stardewmodding.wiki/wiki/Json_Shuffle), but the short version is that adding, removing, or updating mods that use JSON assets in an ongoing save results in the items becoming messed up. **To avoid a JSON Shuffle, please wait until all machines have finished processing before updating this mod list**.
 
 It's not fixable. Please don't alter this modlist once you start playing. **If you do get a shuffle, the best thing to do is to put all shuffled items in the shipping bin, or trash it.**
 
-## Unofficial 64 bit Stardew Valley
+## Does it work with the Unofficial 64 bit Stardew Valley ?
 
 64-bit mode for Stardew Valley is **unofficial**. The Bustling Valley has not been successfully tested with 64-bit mode.
 
-## Out of Memory Errors
+1.5.5 will bring an official 64-bit mode. The Bustling Valley will update for that.
+
+## I have Out of Memory Errors. What do I do ?
 
 Stardew Valley on Windows is a 32bit application. Regardless of how much memory your system may have, it can only use a maximum of 4GB of RAM. As a practical matter Stardew Valley begins to show out of memory errors after 3.3GB of memory has been used. This mod list consumes approximately 2GB of memory while running. It is strongly recommended that you do not add any more mods to this list. If you experience an Out of Memory error, it is recommended that you immediately quit, and restart the day.
 
-## Resetting the configuration files
+## How do I reset the configuration files ?
 
 Sometimes configuration files need to be reset. This is sometimes needed after the modlist is updated. Resetting the configuration files is very easy to do. Scroll to the very bottom of the mod list. The is a menu item named Overwrite.
 
