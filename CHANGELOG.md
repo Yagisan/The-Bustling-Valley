@@ -28,7 +28,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.1.10
 
-**Released:** `DD MMM YYYY`
+**Released:** `27 Oct 2021`
 
 ### Info <!-- omit in toc -->
 
@@ -64,7 +64,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.7.0
 
-**[Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)** updated to 1.1.13
+**[Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)** updated to 1.1.14
 
 **[Yagisan's Bountiful Valley for Boarding House](https://www.nexusmods.com/stardewvalley/mods/9263)** updated to 1.0.3
 
