@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.2.0](#020)
   - [0.1.10](#0110)
   - [0.1.9](#019)
   - [0.1.8](#018)
@@ -25,6 +26,78 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.2.0
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+**This is a pre-release of The Bustling Valley. It is subject to change, and should not be used for a non-testing playthrough.**
+
+**You will need to reset the configuration files. See [here for details](README.md#resetting-the-configuration-files)**
+
+**In this release [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787) has had a significant update. Highlights include a new farm map, new NPCs, and tighter integration with related NPCs. This is an upgrade safe release.**
+
+### Additions <!-- omit in toc -->
+
+**[Lumisteria Tilesheets - Indoor](https://www.nexusmods.com/stardewvalley/mods/9599)**
+
+**[Jasper Marriage Dialogue Patch](https://www.nexusmods.com/stardewvalley/mods/5599)**
+
+### Updates <!-- omit in toc -->
+
+**[The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)** updated to 1.5.0
+
+**[A Cleaner Sewer](https://www.nexusmods.com/stardewvalley/mods/5751)** updated to 1.2.0
+
+**[Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)** updated to 1.5.0
+
+**[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)** updated to 1.2.0
+
+**[Community Center Reimagined](https://www.nexusmods.com/stardewvalley/mods/6966)** updated to 1.2.0
+
+**[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.0.0
+
+**[SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)** updated to 1.7.1
+
+**[Dynamic Game Assets](https://www.nexusmods.com/stardewvalley/mods/9365)** updated to 1.3.1
+
+**[Event Repeater](https://www.nexusmods.com/stardewvalley/mods/3642)** updated to 6.4.0
+
+**[Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)** updated to 1.6.0
+
+**[Experience Bars](https://www.nexusmods.com/stardewvalley/mods/509)** updated to 1.4.1
+
+**[Capstone Professions](https://www.nexusmods.com/stardewvalley/mods/7636)** updated to 1.0.8
+
+**[Statue of Generosity](https://www.nexusmods.com/stardewvalley/mods/7532)** updated to 1.1.1
+
+**[Displays](https://www.nexusmods.com/stardewvalley/mods/7635)** updated to 1.0.6
+
+**[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)** updated to 1.0.23
+
+**[Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)** updated to 1.9.3
+
+**[Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)** updated to 1.1.9
+
+**[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)** updated to 1.20.17
+
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.24.2
+
+**[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)** updated to 1.35.4
+
+**[Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)** updated to 1.14.7
+
+**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.23.3
+
+**[Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)** updated to 3.4.7
+
+**[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 1.7.2
+
+### Removed <!-- omit in toc -->
+
+**Yagisan's - Professor Jasper Patch** fixed upstream!
 
 ## 0.1.10
 
