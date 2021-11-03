@@ -1,6 +1,6 @@
 # The Bustling Valley - Complete Modlist
 
-Last update **0.1.9**
+Last update **0.2.0**
 
 This is a complete list of all mods included in The Bustling Valley. The ordering is somewhat arbitrary and grouping matches my internal classification.
 
@@ -46,6 +46,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)
 - [Mister Ginger](https://www.nexusmods.com/stardewvalley/mods/5295)
 - [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)
+  - [Jasper Marriage Dialogue Patch](https://www.nexusmods.com/stardewvalley/mods/5599)
 - [Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)
 
 ## Frameworks
@@ -70,6 +71,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Bigger Craftables](https://www.nexusmods.com/stardewvalley/mods/7530)
 - [Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)
 - [DaisyNiko's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/4736)
+- [Lumisteria Tilesheets - Indoor](https://www.nexusmods.com/stardewvalley/mods/9599)
 - [More Giant Crops](https://www.nexusmods.com/stardewvalley/mods/5263)
 - [Dynamic Game Assets](https://www.nexusmods.com/stardewvalley/mods/9365)
   - [Dynamic Game Assets - Automate Patch](https://www.nexusmods.com/stardewvalley/mods/9365)
