@@ -95,6 +95,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 1.7.2
 
+**[eXpanded Storage Lite](https://www.nexusmods.com/stardewvalley/mods/7431)** updated to 1.7.1
+
 ### Removed <!-- omit in toc -->
 
 **Yagisan's - Professor Jasper Patch** fixed upstream!
