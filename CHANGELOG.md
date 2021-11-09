@@ -35,15 +35,27 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **This is a pre-release of The Bustling Valley. It is subject to change, and should not be used for a non-testing playthrough.**
 
+**A NEW FARM IS REQUIRED. THIS RELEASE IS NOT UPGRADE SAFE.** 
+
 **You will need to reset the configuration files. See [here for details](README.md#resetting-the-configuration-files)**
 
-**In this release [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787) has had a significant update. Highlights include a new farm map, new NPCs, and tighter integration with related NPCs. This is an upgrade safe release.**
+**In this release [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787) has had a significant update. Highlights include a new farm that you can start tilling immediatly, new NPCs, and tighter integration with related NPCs.**
+
+**In this release [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) has had a significant update. The entire village has been remade, there are many new NPCs, a farm, and secrets to discover.**
+
+**In this release [Leilani](https://www.nexusmods.com/stardewvalley/mods/9375) has had hardmode enabled. You will need to talk to her a minimum of 9 days per year to avoid losing any hearts. You should aim to provide at least 2 gifts per week as well to reach 10 hearts quickly and prevent friendship decay.**
 
 ### Additions <!-- omit in toc -->
 
 **[Lumisteria Tilesheets - Indoor](https://www.nexusmods.com/stardewvalley/mods/9599)**
 
 **[Jasper Marriage Dialogue Patch](https://www.nexusmods.com/stardewvalley/mods/5599)**
+
+**[Visible Fish](https://www.nexusmods.com/stardewvalley/mods/8897)**
+
+**[Always Raining in the Valley - Custom NPCs for ES](https://www.nexusmods.com/stardewvalley/mods/9999)**
+
+**[Ginger Island NPC Overhaul](https://www.nexusmods.com/stardewvalley/mods/9242)**
 
 ### Updates <!-- omit in toc -->
 
@@ -96,6 +108,12 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 1.7.2
 
 **[eXpanded Storage Lite](https://www.nexusmods.com/stardewvalley/mods/7431)** updated to 1.7.1
+
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.0
+
+**[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.2
+
+**[Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)** updated to 1.1.16
 
 ### Removed <!-- omit in toc -->
 
