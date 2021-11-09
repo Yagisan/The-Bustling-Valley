@@ -45,6 +45,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **In this release [Leilani](https://www.nexusmods.com/stardewvalley/mods/9375) has had hardmode enabled. You will need to talk to her a minimum of 9 days per year to avoid losing any hearts. You should aim to provide at least 2 gifts per week as well to reach 10 hearts quickly and prevent friendship decay.**
 
+**In this release [The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830) has had the burnfood option enabled. It's now possible to burn your food while cooking. Reduce this by increasing your cooking skill, and boosting your luck!**
+
 ### Additions <!-- omit in toc -->
 
 **[Lumisteria Tilesheets - Indoor](https://www.nexusmods.com/stardewvalley/mods/9599)**
