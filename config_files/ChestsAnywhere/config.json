@@ -1,6 +1,7 @@
 {
   "ShowHoverTooltips": true,
   "EnableShippingBin": true,
+  "AddOrganizePlayerInventoryButton": true,
   "Range": "CurrentWorldArea",
   "Controls": {
     "Toggle": "B",
@@ -8,8 +9,8 @@
     "NextChest": "Right, RightShoulder",
     "PrevCategory": "Up, LeftTrigger",
     "NextCategory": "Down, RightTrigger",
-    "EditChest": "",
-    "SortItems": "",
+    "EditChest": "None",
+    "SortItems": "None",
     "HoldToMouseWheelScrollChests": "LeftControl",
     "HoldToMouseWheelScrollCategories": "LeftAlt"
   },
