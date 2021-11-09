@@ -48,6 +48,8 @@ This list is only updated when mods are added or removed. If the version above d
 - [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)
   - [Jasper Marriage Dialogue Patch](https://www.nexusmods.com/stardewvalley/mods/5599)
 - [Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)
+- [Always Raining in the Valley - Custom NPCs for ES](https://www.nexusmods.com/stardewvalley/mods/9999)
+- [Ginger Island NPC Overhaul](https://www.nexusmods.com/stardewvalley/mods/9242)
 
 ## Frameworks
 
@@ -156,6 +158,7 @@ This list is only updated when mods are added or removed. If the version above d
   - [Krobus Spouse Room](https://www.nexusmods.com/stardewvalley/mods/5751)
 - [Egg Festival Winner Randomized](https://www.nexusmods.com/stardewvalley/mods/8574)
 - [Lore-Friendly JojaMart Prices](https://www.nexusmods.com/stardewvalley/mods/2658)
+- [Visible Fish](https://www.nexusmods.com/stardewvalley/mods/8897)
 
 ## Spouse Changes
 
