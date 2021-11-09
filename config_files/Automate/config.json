@@ -14,7 +14,8 @@
   },
   "MachineOverrides": {
     "ShippingBin": {
-        "Enabled": false
+      "Priority": 0,
+      "Enabled": false
     }
-}
+  }
 }
