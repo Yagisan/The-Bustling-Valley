@@ -1,19 +1,18 @@
 {
   "AddCookingMenu": true,
-  "AddCookingCommunityCentreBundles": false,
   "AddCookingSkillAndRecipes": true,
   "AddCookingToolProgression": true,
-  "AddNewCropsAndStuff": true,
+  "AddNewCropsAndStuff": false,
   "AddRecipeRebalancing": true,
   "AddBuffReassigning": false,
   "PlayCookingAnimation": true,
   "HideFoodBuffsUntilEaten": true,
   "FoodHealingTakesTime": false,
-  "FoodCanBurn": false,
+  "FoodCanBurn": true,
+  "ShowFoodRegenBar": true,
   "RememberLastSearchFilter": true,
   "DefaultSearchFilter": "None",
   "DebugMode": false,
-  "DebugRegenTracker": false,
-  "ConsoleCommandPrefix": "cac",
-  "ResizeKoreanFonts": true
+  "ResizeKoreanFonts": true,
+  "ConsoleCommandPrefix": "cac"
 }
