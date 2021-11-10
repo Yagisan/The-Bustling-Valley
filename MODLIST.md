@@ -144,6 +144,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Persistent Grange Display](https://www.nexusmods.com/stardewvalley/mods/7977)
   - [Content Packs](https://www.nexusmods.com/stardewvalley/mods/7977)
 - [Canon-Friendly Dialogue Expansion for All Friend-able Characters](https://www.nexusmods.com/stardewvalley/mods/2544)
+- [farmerjack's Dialogue Expansions](https://www.nexusmods.com/stardewvalley/mods/9972)
 - [Lumisteria Special Orders](https://www.nexusmods.com/stardewvalley/mods/7417)
 - [Better Artisan Good Icons](https://www.nexusmods.com/stardewvalley/mods/2080)
 - [Better Artisan Good Icons Fix](https://www.nexusmods.com/stardewvalley/mods/9366)
