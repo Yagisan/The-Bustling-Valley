@@ -39,7 +39,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **You will need to reset the configuration files. See [here for details](README.md#resetting-the-configuration-files)**
 
-**In this release [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787) has had a significant update. Highlights include a new farm that you can start tilling immediatly, new NPCs, and tighter integration with related NPCs.**
+**In this release [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787) has had a significant update. Highlights include a new farm that you can start tilling immediately, new NPCs, and tighter integration with related NPCs.**
 
 **In this release [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) has had a significant update. The entire village has been remade, there are many new NPCs, a farm, and secrets to discover.**
 
@@ -58,6 +58,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Always Raining in the Valley - Custom NPCs for ES](https://www.nexusmods.com/stardewvalley/mods/9999)**
 
 **[Ginger Island NPC Overhaul](https://www.nexusmods.com/stardewvalley/mods/9242)**
+
+**[farmerjack's Dialogue Expansions](https://www.nexusmods.com/stardewvalley/mods/9972)**
 
 ### Updates <!-- omit in toc -->
 
@@ -116,6 +118,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.2
 
 **[Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)** updated to 1.1.16
+
+**[Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)** updated to 1.15.0
 
 ### Removed <!-- omit in toc -->
 
