@@ -41,11 +41,11 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **In this release [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787) has had a significant update. Highlights include a new farm that you can start tilling immediately, new NPCs, and tighter integration with related NPCs.**
 
-**In this release [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) has had a significant update. The entire village has been remade, there are many new NPCs, a farm, and secrets to discover.**
+**In this release [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) has had a significant update. The entire village has been remade, there are many new NPCs, a farm, and secrets to discover. You can even hire people to work on your farm**
 
-**In this release [Leilani](https://www.nexusmods.com/stardewvalley/mods/9375) has had hardmode enabled. You will need to talk to her a minimum of 9 days per year to avoid losing any hearts. You should aim to provide at least 2 gifts per week as well to reach 10 hearts quickly and prevent friendship decay.**
+**In this release [Leilani](https://www.nexusmods.com/stardewvalley/mods/9375) has had hard mode enabled. You will need to talk to her a minimum of 9 days per year to avoid losing any hearts. You should aim to provide at least 2 gifts per week as well to reach 10 hearts quickly and prevent friendship decay.**
 
-**In this release [The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830) has had the burnfood option enabled. It's now possible to burn your food while cooking. Reduce this by increasing your cooking skill, and boosting your luck!**
+**In this release [The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830) has had the burn food option enabled. It's now possible to burn your food while cooking. Reduce this by increasing your cooking skill, and boosting your luck!**
 
 ### Additions <!-- omit in toc -->
 
@@ -73,7 +73,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Community Center Reimagined](https://www.nexusmods.com/stardewvalley/mods/6966)** updated to 1.2.0
 
-**[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.0.0
+**[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.0.2
 
 **[SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)** updated to 1.7.1
 
@@ -99,9 +99,9 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)** updated to 1.20.17
 
-**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.24.2
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.24.3
 
-**[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)** updated to 1.35.4
+**[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)** updated to 1.35.5
 
 **[Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)** updated to 1.14.7
 
@@ -113,7 +113,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[eXpanded Storage Lite](https://www.nexusmods.com/stardewvalley/mods/7431)** updated to 1.7.1
 
-**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.0
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.0.1
 
 **[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.2
 
@@ -121,7 +121,13 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)** updated to 1.15.0
 
+**[Denver - Male - Boarding House](https://www.nexusmods.com/stardewvalley/mods/4594)** updated to 2.8.4
+
+**[Cecilia - Forest Home](https://www.nexusmods.com/stardewvalley/mods/6246)** updated to 1.19
+
 ### Removed <!-- omit in toc -->
+
+**[Spouse Patios for LASV Mod](https://www.nexusmods.com/stardewvalley/mods/6698)** Removed while investigating beach farm compatiblity.
 
 **Yagisan's - Professor Jasper Patch** fixed upstream!
 
