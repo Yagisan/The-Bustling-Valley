@@ -166,7 +166,6 @@ This list is only updated when mods are added or removed. If the version above d
 - [Multiple Spouses](https://www.nexusmods.com/stardewvalley/mods/6227)
 - [Multiple Spouse Dialogs](https://www.nexusmods.com/stardewvalley/mods/8711)
 - [Custom Spouse Patio](https://www.nexusmods.com/stardewvalley/mods/6630)
-- [Spouse Patios for LASV Mod](https://www.nexusmods.com/stardewvalley/mods/6698)
 - [Custom Spouse Patio Wizard](https://www.nexusmods.com/stardewvalley/mods/7775)
 
 ## Crops and Recipes
@@ -215,4 +214,3 @@ This list is only updated when mods are added or removed. If the version above d
 - **The Bustling Valley - Config Files**
 - **Yagisan's - Crop Regrowth and Perennial Crops Patch**
 - **Yagisan's - Coffee Maker Patch**
-- **Yagisan's - Professor Jasper Patch**
