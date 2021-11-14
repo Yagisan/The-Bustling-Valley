@@ -115,15 +115,19 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.0.1
 
-**[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.2
+**[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.2.1
 
 **[Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)** updated to 1.1.16
 
 **[Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)** updated to 1.15.0
 
-**[Denver - Male - Boarding House](https://www.nexusmods.com/stardewvalley/mods/4594)** updated to 2.8.4
+**[Denver - Male - Boarding House](https://www.nexusmods.com/stardewvalley/mods/4594)** updated to 2.8.5
 
 **[Cecilia - Forest Home](https://www.nexusmods.com/stardewvalley/mods/6246)** updated to 1.19
+
+**[Yagisan's Bountiful Valley for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/9272)** updated to 1.0.3
+
+**[Animal Husbandry Mod](https://www.nexusmods.com/stardewvalley/mods/1538)** updated to 2.5.0
 
 ### Removed <!-- omit in toc -->
 
