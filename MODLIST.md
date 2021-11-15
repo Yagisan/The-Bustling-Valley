@@ -79,6 +79,7 @@ This list is only updated when mods are added or removed. If the version above d
   - [Dynamic Game Assets - Automate Patch](https://www.nexusmods.com/stardewvalley/mods/9365)
 - [eXpanded Storage Lite](https://www.nexusmods.com/stardewvalley/mods/7431)
   - [eXpanded Storage Lite - Automate Patch](https://www.nexusmods.com/stardewvalley/mods/7431)
+- [Custom Gift Dialogue Utillity](https://www.nexusmods.com/stardewvalley/mods/7304)
 
 ## Gameplay Changes
 
