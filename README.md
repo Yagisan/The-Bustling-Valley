@@ -48,6 +48,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Does it work with the Unofficial 64 bit Stardew Valley ?](#does-it-work-with-the-unofficial-64-bit-stardew-valley-)
   - [I have Out of Memory Errors. What do I do ?](#i-have-out-of-memory-errors-what-do-i-do-)
   - [How do I reset the configuration files ?](#how-do-i-reset-the-configuration-files-)
+  - [Why are there trees in Ridgeside Village buildings ?](#why-are-there-trees-in-ridgeside-village-buildings-)
   - [Contact and Technical Support](#contact-and-technical-support)
 
 # Preamble
@@ -75,10 +76,10 @@ Please be aware that this modlist may make perfection very hard or impossible to
 - A [Nexus Mods](https://www.nexusmods.com/) account.
 - An up to date, unmodded, Stardew Valley installation.
   - **Acquired through either [GOG](https://www.gog.com/game/stardew_valley) or [Steam](https://store.steampowered.com/app/413150/Stardew_Valley/).**
-- Around **1.5GB** of free space.
+- Around **2GB** of free space.
   - Around 550MB for Stardew Valley.
-  - Around 450MB for the mod downloads.
-  - Around 500MB for the mod list installation.
+  - Around 500MB for the mod downloads.
+  - Around 900MB for the mod list installation.
 
 # Installation
 
@@ -183,7 +184,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Overhauls
 
-**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** is a huge expansion with 24 new NPCs, a new village to the east of Pelican town, new quests and more.
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** is a huge expansion with over 50 new NPCs, a new village to the east of Pelican town, new quests and more.
 
 **[Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)** adds a boarding house behind the bus stop with several new NPCs. NPCs from other mods can make their homes here.
 
@@ -276,6 +277,10 @@ Sometimes configuration files need to be reset. This is sometimes needed after t
 ![Rest_Config_Image](assets/images/Reset_Config.png)
 
 **Right click** on it, and select **Clear Overwrite**. That's it. The game will regenerate any needed configuration files when you next start.
+
+## Why are there trees in Ridgeside Village buildings ?
+
+The Bustling Valley 0.2.0 includes Ridgeside Village 2.0 - this is a complete overhaul of the previous versions. The maps have changed. As a result you **must** start a new farm for the maps to look correct. You can not continue with your existing save.
 
 ## Contact and Technical Support
 
