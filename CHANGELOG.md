@@ -29,7 +29,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.2.0
 
-**Released:** `DD MMM YYYY`
+**Released:** `15 Nov 2021`
 
 ### Info <!-- omit in toc -->
 
@@ -38,6 +38,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **A NEW FARM IS REQUIRED. THIS RELEASE IS NOT UPGRADE SAFE.** 
 
 **You will need to reset the configuration files. See [here for details](README.md#resetting-the-configuration-files)**
+
+**It is vital that you upgrade to the latest stable [SMAPI](https://smapi.io/) release. At the time of writing, that is 3.12.8, do not download the SMAPI beta, that is for the Stardew Valley 1.5.5 beta test.**
 
 **In this release [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787) has had a significant update. Highlights include a new farm that you can start tilling immediately, new NPCs, and tighter integration with related NPCs.**
 
