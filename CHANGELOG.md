@@ -37,7 +37,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **A NEW FARM IS REQUIRED. THIS RELEASE IS NOT UPGRADE SAFE.** 
 
-**You will need to reset the configuration files. See [here for details](README.md#resetting-the-configuration-files)**
+**You will need to reset the configuration files. See [here for details]([README.md#resetting-the-configuration-files](https://github.com/Yagisan/The-Bustling-Valley/blob/main/README.md#how-do-i-reset-the-configuration-files-))**
 
 **It is vital that you upgrade to the latest stable [SMAPI](https://smapi.io/) release. At the time of writing, that is 3.12.8, do not download the SMAPI beta, that is for the Stardew Valley 1.5.5 beta test.**
 
