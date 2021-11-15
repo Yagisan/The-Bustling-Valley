@@ -123,7 +123,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Denver - Male - Boarding House](https://www.nexusmods.com/stardewvalley/mods/4594)** updated to 2.8.5
 
-**[Cecilia - Forest Home](https://www.nexusmods.com/stardewvalley/mods/6246)** updated to 1.19
+**[Cecilia - Forest Home](https://www.nexusmods.com/stardewvalley/mods/6246)** updated to 1.20
 
 **[Yagisan's Bountiful Valley for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/9272)** updated to 1.0.3
 
