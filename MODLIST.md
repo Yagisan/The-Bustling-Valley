@@ -1,6 +1,6 @@
 # The Bustling Valley - Complete Modlist
 
-Last update **0.2.0**
+Last update **0.2.3**
 
 This is a complete list of all mods included in The Bustling Valley. The ordering is somewhat arbitrary and grouping matches my internal classification.
 
@@ -149,6 +149,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Lumisteria Special Orders](https://www.nexusmods.com/stardewvalley/mods/7417)
 - [Better Artisan Good Icons](https://www.nexusmods.com/stardewvalley/mods/2080)
 - [Better Artisan Good Icons Fix](https://www.nexusmods.com/stardewvalley/mods/9366)
+- [Better Artisan Good Icons for The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/10174)
 - [Displays](https://www.nexusmods.com/stardewvalley/mods/7635)
 - [Flower Dance Fix](https://www.nexusmods.com/stardewvalley/mods/8535)
 - [Flower Dancing - A Flower Dance Mod](https://www.nexusmods.com/stardewvalley/mods/8107)
