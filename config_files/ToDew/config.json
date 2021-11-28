@@ -1,0 +1,18 @@
+{
+  "hotkey": "L",
+  "hotkeyList": "None",
+  "secondaryCloseButton": "ControllerBack",
+  "debug": false,
+  "overlay": {
+    "enabled": true,
+    "hotkey": "None",
+    "hotkeyList": "None",
+    "hideAtFestivals": false,
+    "maxWidth": 600,
+    "maxItems": 10,
+    "backgroundColor": "0, 0, 0, 150",
+    "textColor": "203, 203, 203, 203",
+    "offsetX": 0,
+    "offsetY": 300
+  }
+}
