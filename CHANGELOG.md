@@ -54,6 +54,20 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.0.2
 
+**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.24.0
+
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.24.4
+
+**[Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)** updated to 1.14.8
+
+**[Dynamic Game Assets](https://www.nexusmods.com/stardewvalley/mods/9365)** updated to 1.3.2
+
+**[JSON Assets](https://www.nexusmods.com/stardewvalley/mods/1720)** updated to 1.10.1
+
+**[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)** updated to 1.35.6
+
+**[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.7.1
+
 ## 0.2.2
 
 **Released:** **Released:** `16 Nov 2021`
