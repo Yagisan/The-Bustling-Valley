@@ -92,6 +92,18 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Removed <!-- omit in toc -->
 
+**[Jasper Marriage Dialogue Patch](https://www.nexusmods.com/stardewvalley/mods/5599)** No longer needed.
+
+**[Multiple Spouses](https://www.nexusmods.com/stardewvalley/mods/6227)** Discontinued by author. Conflicts with Ridgeside village 2.0.0 and later.
+
+**[Multiple Spouse Dialogs](https://www.nexusmods.com/stardewvalley/mods/8711)** No longer needed as no mods in the list provide multiple marriages.
+
+**[Custom Spouse Patio](https://www.nexusmods.com/stardewvalley/mods/6630)** Content Patcher now provides similar functionality.
+
+**[Custom Spouse Patio Wizard](https://www.nexusmods.com/stardewvalley/mods/7775)** Relies on removed mod.
+
+**[Lumisteria Special Orders](https://www.nexusmods.com/stardewvalley/mods/7417)** Conflicts with The Love of Cooking.
+
 ## 0.2.2
 
 **Released:** **Released:** `16 Nov 2021`
