@@ -14,7 +14,6 @@ This list is only updated when mods are added or removed. If the version above d
   - [Gameplay Changes](#gameplay-changes)
   - [QOL Changes](#qol-changes)
   - [Immersion](#immersion)
-  - [Spouse Changes](#spouse-changes)
   - [Crops and Recipes](#crops-and-recipes)
   - [Shop Changes](#shop-changes)
   - [Greenhouses and Cellars](#greenhouses-and-cellars)
@@ -46,7 +45,6 @@ This list is only updated when mods are added or removed. If the version above d
 - [The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)
 - [Mister Ginger](https://www.nexusmods.com/stardewvalley/mods/5295)
 - [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)
-  - [Jasper Marriage Dialogue Patch](https://www.nexusmods.com/stardewvalley/mods/5599)
 - [Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)
 - [Always Raining in the Valley - Custom NPCs for ES](https://www.nexusmods.com/stardewvalley/mods/9999)
 - [Ginger Island NPC Overhaul](https://www.nexusmods.com/stardewvalley/mods/9242)
@@ -146,7 +144,6 @@ This list is only updated when mods are added or removed. If the version above d
   - [Content Packs](https://www.nexusmods.com/stardewvalley/mods/7977)
 - [Canon-Friendly Dialogue Expansion for All Friend-able Characters](https://www.nexusmods.com/stardewvalley/mods/2544)
 - [farmerjack's Dialogue Expansions](https://www.nexusmods.com/stardewvalley/mods/9972)
-- [Lumisteria Special Orders](https://www.nexusmods.com/stardewvalley/mods/7417)
 - [Better Artisan Good Icons](https://www.nexusmods.com/stardewvalley/mods/2080)
 - [Better Artisan Good Icons Fix](https://www.nexusmods.com/stardewvalley/mods/9366)
 - [Better Artisan Good Icons for The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/10174)
@@ -162,13 +159,6 @@ This list is only updated when mods are added or removed. If the version above d
 - [Egg Festival Winner Randomized](https://www.nexusmods.com/stardewvalley/mods/8574)
 - [Lore-Friendly JojaMart Prices](https://www.nexusmods.com/stardewvalley/mods/2658)
 - [Visible Fish](https://www.nexusmods.com/stardewvalley/mods/8897)
-
-## Spouse Changes
-
-- [Multiple Spouses](https://www.nexusmods.com/stardewvalley/mods/6227)
-- [Multiple Spouse Dialogs](https://www.nexusmods.com/stardewvalley/mods/8711)
-- [Custom Spouse Patio](https://www.nexusmods.com/stardewvalley/mods/6630)
-- [Custom Spouse Patio Wizard](https://www.nexusmods.com/stardewvalley/mods/7775)
 
 ## Crops and Recipes
 
