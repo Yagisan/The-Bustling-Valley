@@ -50,6 +50,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Better Artisan Good Icons for The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/10174)**
 
+**[Event Lookup](https://www.nexusmods.com/stardewvalley/mods/8505)**
+
 ### Updates <!-- omit in toc -->
 
 **[Stardew Auto GC](https://www.nexusmods.com/stardewvalley/mods/9293)** updated to 1.5.0 (Stardew Valley 1.5.5 Version)
@@ -89,6 +91,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)** updated to 1.20.18
 
 **[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.0.2 (Stardew Valley 1.5.5 Version)
+
+**[Event Repeater](https://www.nexusmods.com/stardewvalley/mods/3642)** updated to 6.4.1
+
+**[Visible Fish](https://www.nexusmods.com/stardewvalley/mods/8897)** updated to 0.3.5
 
 ### Removed <!-- omit in toc -->
 
