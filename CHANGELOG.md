@@ -38,6 +38,14 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **This is a pre-release of The Bustling Valley. It is subject to change, and should not be used for a non-testing playthrough.**
 
+**A NEW FARM IS REQUIRED. THIS RELEASE IS NOT UPGRADE SAFE.** 
+
+**You will need to reset the configuration files. See [here for details]([README.md#resetting-the-configuration-files](https://github.com/Yagisan/The-Bustling-Valley/blob/main/README.md#how-do-i-reset-the-configuration-files-))**
+
+**As Stardew Valley 1.5.5 is now a 64 bit release, you must install the [Microsoft .NET 5.0 Runtime](https://download.visualstudio.microsoft.com/download/pr/1daf85dc-291b-4bb8-812e-a0df5cdb6701/85455a4a851347de26e2901e043b81e1/windowsdesktop-runtime-5.0.12-win-x64.exe) to play the game**
+
+**It is vital that you upgrade to the latest stable [SMAPI](https://smapi.io/) release. At the time of writing, that is 3.13.1.**
+
 ### Additions <!-- omit in toc -->
 
 **[Better Artisan Good Icons for The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/10174)**
@@ -81,6 +89,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)** updated to 1.20.18
 
 **[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.0.2 (Stardew Valley 1.5.5 Version)
+
+### Removed <!-- omit in toc -->
 
 ## 0.2.2
 
