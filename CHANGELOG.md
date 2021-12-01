@@ -44,29 +44,43 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Updates <!-- omit in toc -->
 
-**[Stardew Auto GC](https://www.nexusmods.com/stardewvalley/mods/9293)** updated to 1.5.0 (32bit)
+**[Stardew Auto GC](https://www.nexusmods.com/stardewvalley/mods/9293)** updated to 1.5.0 (Stardew Valley 1.5.5 Version)
 
 **[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)** updated to 1.0.24
 
-**[Always Raining in the Valley - Custom NPCs for ES](https://www.nexusmods.com/stardewvalley/mods/9999)** updated to 1.0.2
+**[Always Raining in the Valley - Custom NPCs for ES](https://www.nexusmods.com/stardewvalley/mods/9999)** updated to 1.0.3
 
 **[Ginger Island NPC Overhaul](https://www.nexusmods.com/stardewvalley/mods/9242)** updated to 1.1.1
 
 **[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.0.2
 
-**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.24.0
+**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.24.1
 
-**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.24.4
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.24.5
 
-**[Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)** updated to 1.14.8
+**[Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)** updated to 1.15.0
 
 **[Dynamic Game Assets](https://www.nexusmods.com/stardewvalley/mods/9365)** updated to 1.3.2
 
 **[JSON Assets](https://www.nexusmods.com/stardewvalley/mods/1720)** updated to 1.10.1
 
-**[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)** updated to 1.35.6
+**[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)** updated to 1.35.7
 
 **[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.7.1
+
+**[Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)** updated to 1.9.4
+
+**[Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)** updated to 1.1.10
+
+**[Automatic Gates](https://www.nexusmods.com/stardewvalley/mods/3109)** updated to 2.5.3
+
+**[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.0.0
+
+**[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 1.0.0
+
+**[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)** updated to 1.20.18
+
+**[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.0.2 (Stardew Valley 1.5.5 Version)
 
 ## 0.2.2
 
