@@ -52,6 +52,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Event Lookup](https://www.nexusmods.com/stardewvalley/mods/8505)**
 
+**[Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)**
+
 ### Updates <!-- omit in toc -->
 
 **[Stardew Auto GC](https://www.nexusmods.com/stardewvalley/mods/9293)** updated to 1.5.0 (Stardew Valley 1.5.5 Version)
@@ -95,6 +97,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Event Repeater](https://www.nexusmods.com/stardewvalley/mods/3642)** updated to 6.4.1
 
 **[Visible Fish](https://www.nexusmods.com/stardewvalley/mods/8897)** updated to 0.3.5
+
+**[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** updated to 2.0.1-beta.20210829
 
 ### Removed <!-- omit in toc -->
 
