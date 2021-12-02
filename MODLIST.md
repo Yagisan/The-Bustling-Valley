@@ -128,6 +128,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Faster Path Speed](https://www.nexusmods.com/stardewvalley/mods/9344)
 - [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
 - [Event Lookup](https://www.nexusmods.com/stardewvalley/mods/8505)
+- [Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)
 
 ## Immersion
 
