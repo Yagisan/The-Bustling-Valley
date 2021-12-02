@@ -17,6 +17,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
+    - [Installing Microsoft .NET 5.0 Runtime](#installing-microsoft-net-50-runtime)
     - [Installing SMAPI](#installing-smapi)
     - [Steam Config](#steam-config)
       - [Disable the Steam Cloud](#disable-the-steam-cloud)
@@ -45,8 +46,6 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [How do I remove the Modlist ?](#how-do-i-remove-the-modlist-)
   - [Should I update SMAPI ?](#should-i-update-smapi-)
   - [What is the JSON Shuffle ? Can it be fixed ?](#what-is-the-json-shuffle--can-it-be-fixed-)
-  - [Does it work with the Unofficial 64 bit Stardew Valley ?](#does-it-work-with-the-unofficial-64-bit-stardew-valley-)
-  - [I have Out of Memory Errors. What do I do ?](#i-have-out-of-memory-errors-what-do-i-do-)
   - [How do I reset the configuration files ?](#how-do-i-reset-the-configuration-files-)
   - [Why are there trees in Ridgeside Village buildings ?](#why-are-there-trees-in-ridgeside-village-buildings-)
   - [Contact and Technical Support](#contact-and-technical-support)
@@ -91,7 +90,11 @@ These steps are only needed if you install this Modlist for the first time. If y
 
 ### Installing Microsoft Visual C++ Redistributable Package
 
-It is unlikely that you are missing this. However it is needed for MO2 and several plugins, so please download it and install it anyway from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". This is [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+It is unlikely that you are missing this. However it is needed for MO2 and several plugins, so please download it and install it anyway from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". This is a [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+
+### Installing Microsoft .NET 5.0 Runtime
+
+As Stardew Valley 1.5.5 and later is now a 64 bit release, you must install the [Microsoft .NET 5.0 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) to play the game. Download the x64 version under "Run desktop apps". This is a [Direct link](https://download.visualstudio.microsoft.com/download/pr/1daf85dc-291b-4bb8-812e-a0df5cdb6701/85455a4a851347de26e2901e043b81e1/windowsdesktop-runtime-5.0.12-win-x64.exe) if you can't find it.
 
 ### Installing SMAPI
 
@@ -218,8 +221,6 @@ Updating is like installing. You only have to make sure that you select the same
 
 **[Watering Grants Experience And Crops Can Wither](https://www.nexusmods.com/stardewvalley/mods/7768)** does exactly what it says. Manual watering grants some farming experience, and if not watered, your crops will die.
 
-**[Multiple Spouses](https://www.nexusmods.com/stardewvalley/mods/6227)**  allows you to have multiple spouses, kisses, pregnancies, spouse rooms, etc.
-
 # Other Post Installation FAQ
 
 ## Does this work in multiplayer ?
@@ -259,16 +260,6 @@ In addition to being a mod loader, SMAPI also contains fixes and runtime updates
 This is described [in depth here](https://stardewmodding.wiki/wiki/Json_Shuffle), but the short version is that adding, removing, or updating mods that use JSON assets in an ongoing save results in the items becoming messed up. **To avoid a JSON Shuffle, please wait until all machines have finished processing before updating this mod list**.
 
 It's not fixable. Please don't alter this modlist once you start playing. **If you do get a shuffle, the best thing to do is to put all shuffled items in the shipping bin, or trash it.**
-
-## Does it work with the Unofficial 64 bit Stardew Valley ?
-
-64-bit mode for Stardew Valley is **unofficial**. The Bustling Valley has not been successfully tested with 64-bit mode.
-
-1.5.5 will bring an official 64-bit mode. The Bustling Valley will update for that.
-
-## I have Out of Memory Errors. What do I do ?
-
-Stardew Valley on Windows is a 32bit application. Regardless of how much memory your system may have, it can only use a maximum of 4GB of RAM. As a practical matter Stardew Valley begins to show out of memory errors after 3.3GB of memory has been used. This mod list consumes approximately 2GB of memory while running. It is strongly recommended that you do not add any more mods to this list. If you experience an Out of Memory error, it is recommended that you immediately quit, and restart the day.
 
 ## How do I reset the configuration files ?
 
