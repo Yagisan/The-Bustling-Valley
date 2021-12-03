@@ -100,6 +100,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** updated to 2.0.1-beta.20210829
 
+**[Better Ranching](https://www.nexusmods.com/stardewvalley/mods/859)** updated to 1.9.0
+
 ### Removed <!-- omit in toc -->
 
 **[Jasper Marriage Dialogue Patch](https://www.nexusmods.com/stardewvalley/mods/5599)** No longer needed.
