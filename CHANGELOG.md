@@ -54,6 +54,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)**
 
+**[To-Dew](https://www.nexusmods.com/stardewvalley/mods/7409)**
+
 ### Updates <!-- omit in toc -->
 
 **[Stardew Auto GC](https://www.nexusmods.com/stardewvalley/mods/9293)** updated to 1.5.0 (Stardew Valley 1.5.5 Version)
@@ -101,6 +103,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** updated to 2.0.1-beta.20210829
 
 **[Better Ranching](https://www.nexusmods.com/stardewvalley/mods/859)** updated to 1.9.0
+
+**[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.2.2
 
 ### Removed <!-- omit in toc -->
 
