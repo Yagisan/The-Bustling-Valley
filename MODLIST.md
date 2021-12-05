@@ -49,6 +49,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Always Raining in the Valley - Custom NPCs for ES](https://www.nexusmods.com/stardewvalley/mods/9999)
 - [Ginger Island NPC Overhaul](https://www.nexusmods.com/stardewvalley/mods/9242)
 - [Stardew Aquarium](https://www.nexusmods.com/stardewvalley/mods/6372)
+- [Surfing Festival](https://www.nexusmods.com/stardewvalley/mods/6688)
 
 ## Frameworks
 
@@ -203,6 +204,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Capstone Professions](https://www.nexusmods.com/stardewvalley/mods/7636)
 - [The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)
 - [Luck Skill](https://www.nexusmods.com/stardewvalley/mods/521)
+- [Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)
 
 ## Yagisan's Patches
 
