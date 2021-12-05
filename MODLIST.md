@@ -211,3 +211,6 @@ This list is only updated when mods are added or removed. If the version above d
 - **The Bustling Valley - Config Files**
 - **Yagisan's - Crop Regrowth and Perennial Crops Patch**
 - **Yagisan's - Coffee Maker Patch**
+- **Yagisan's - SSaturn's Oriental Kitchen Patch**
+- **Yagisan's - PPJA Artisan Valley Machine Goods Exploit Patch**
+- **Yagisan's - PPJA Fruits and Veggies Exploit Patch**
