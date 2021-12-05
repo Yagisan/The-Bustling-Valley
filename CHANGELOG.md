@@ -2,7 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
-  - [0.2.3](#023)
+  - [0.3.0](#030)
   - [0.2.2](#022)
   - [0.2.1](#021)
   - [0.2.0](#020)
@@ -30,9 +30,9 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
 
-## 0.2.3
+## 0.3.0
 
-**Released:** **Released:** `DD MMM YYYY`
+**Released:** **Released:** `6 Dec 2021`
 
 ### Info <!-- omit in toc -->
 
