@@ -48,6 +48,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)
 - [Always Raining in the Valley - Custom NPCs for ES](https://www.nexusmods.com/stardewvalley/mods/9999)
 - [Ginger Island NPC Overhaul](https://www.nexusmods.com/stardewvalley/mods/9242)
+- [Stardew Aquarium](https://www.nexusmods.com/stardewvalley/mods/6372)
 
 ## Frameworks
 
@@ -78,6 +79,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [eXpanded Storage Lite](https://www.nexusmods.com/stardewvalley/mods/7431)
   - [eXpanded Storage Lite - Automate Patch](https://www.nexusmods.com/stardewvalley/mods/7431)
 - [Custom Gift Dialogue Utillity](https://www.nexusmods.com/stardewvalley/mods/7304)
+- [Train Station](https://www.nexusmods.com/stardewvalley/mods/6183)
 
 ## Gameplay Changes
 
