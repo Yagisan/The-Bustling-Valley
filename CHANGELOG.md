@@ -120,6 +120,14 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Lumisteria Special Orders](https://www.nexusmods.com/stardewvalley/mods/7417)** Conflicts with The Love of Cooking.
 
+**[Animal Husbandry Mod](https://www.nexusmods.com/stardewvalley/mods/1538)**
+
+**[Greenhouse Sprinklers](https://www.nexusmods.com/stardewvalley/mods/7456)**
+
+### Modifications <!-- omit in toc -->
+
+**[SSaturn's Oriental Kitchen](https://www.nexusmods.com/stardewvalley/mods/6010)** removed all recipes that require Animal Husbandry Mod
+
 ## 0.2.2
 
 **Released:** **Released:** `16 Nov 2021`
