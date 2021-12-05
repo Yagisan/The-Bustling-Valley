@@ -104,7 +104,6 @@ This list is only updated when mods are added or removed. If the version above d
 - [Horse Overhaul](https://www.nexusmods.com/stardewvalley/mods/7911)
 - [Statue of Generosity](https://www.nexusmods.com/stardewvalley/mods/7532)
 - [Fishing Assistant](https://www.nexusmods.com/stardewvalley/mods/5815)
-- [Greenhouse Sprinklers](https://www.nexusmods.com/stardewvalley/mods/7456)
 - [Greenhouse Gatherers](https://www.nexusmods.com/stardewvalley/mods/7619)
 - [Island Gatherers](https://www.nexusmods.com/stardewvalley/mods/8552)
   - [Island Gatherers - Automate Support](https://www.nexusmods.com/stardewvalley/mods/8552)
@@ -165,7 +164,6 @@ This list is only updated when mods are added or removed. If the version above d
 
 ## Crops and Recipes
 
-- [Animal Husbandry Mod](https://www.nexusmods.com/stardewvalley/mods/1538)
 - [Watering Grants Experience And Crops Can Wither](https://www.nexusmods.com/stardewvalley/mods/7768)
 - [Custom Cask Mod](https://www.nexusmods.com/stardewvalley/mods/2642)
 - [Crop Transplant Mod](https://www.nexusmods.com/stardewvalley/mods/2594)
