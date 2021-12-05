@@ -62,6 +62,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Stardew Aquarium](https://www.nexusmods.com/stardewvalley/mods/6372)**
 
+**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)**
+
+**[Surfing Festival](https://www.nexusmods.com/stardewvalley/mods/6688)**
+
 ### Updates <!-- omit in toc -->
 
 **[Stardew Auto GC](https://www.nexusmods.com/stardewvalley/mods/9293)** updated to 1.5.0 (Stardew Valley 1.5.5 Version)
