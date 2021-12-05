@@ -42,7 +42,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Watering Grants Experience And Crops Can Wither](https://www.nexusmods.com/stardewvalley/mods/7768) has had the crops can wither option turned on. Any crop now watered for 5 days will die. Watering,Rain, Storms, and Sprinklers all count as watering.**
 
-**You will need to reset the configuration files. See [here for details]([README.md#resetting-the-configuration-files](https://github.com/Yagisan/The-Bustling-Valley/blob/main/README.md#how-do-i-reset-the-configuration-files-))**
+**You will need to reset the configuration files. See [here for details](https://github.com/Yagisan/The-Bustling-Valley/blob/main/README.md#how-do-i-reset-the-configuration-files-)**
 
 **As Stardew Valley 1.5.5 is now a 64 bit release, you must install the [Microsoft .NET 5.0 Runtime](https://download.visualstudio.microsoft.com/download/pr/1daf85dc-291b-4bb8-812e-a0df5cdb6701/85455a4a851347de26e2901e043b81e1/windowsdesktop-runtime-5.0.12-win-x64.exe) to play the game**
 
