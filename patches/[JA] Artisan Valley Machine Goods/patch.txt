@@ -1,0 +1,1 @@
+Several items can be purchased for less then their sell price. This allows an infinite money glitch by buying, then selling those items. Set buy and sell price the same to close this issue.
