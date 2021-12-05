@@ -138,6 +138,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[SSaturn's Oriental Kitchen](https://www.nexusmods.com/stardewvalley/mods/6010)** removed all recipes that require Animal Husbandry Mod
 
+**Yagisan's - PPJA Artisan Valley Machine Goods Exploit Patch** patched to avoid infinite money exploit.
+
+**Yagisan's - PPJA Fruits and Veggies Exploit Patch** patched to avoid infinite money exploit.
+
 ## 0.2.2
 
 **Released:** **Released:** `16 Nov 2021`
