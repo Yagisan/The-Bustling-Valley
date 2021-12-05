@@ -70,7 +70,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Always Raining in the Valley - Custom NPCs for ES](https://www.nexusmods.com/stardewvalley/mods/9999)** updated to 1.0.3
 
-**[Ginger Island NPC Overhaul](https://www.nexusmods.com/stardewvalley/mods/9242)** updated to 1.1.1
+**[Ginger Island NPC Overhaul](https://www.nexusmods.com/stardewvalley/mods/9242)** updated to 1.1.2
 
 **[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.0.2
 
