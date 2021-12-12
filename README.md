@@ -48,6 +48,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [What is the JSON Shuffle ? Can it be fixed ?](#what-is-the-json-shuffle--can-it-be-fixed-)
   - [How do I reset the configuration files ?](#how-do-i-reset-the-configuration-files-)
   - [Why are there trees in Ridgeside Village buildings ?](#why-are-there-trees-in-ridgeside-village-buildings-)
+  - [Why can I walk off the right side road of the bus stop?](#why-can-i-walk-off-the-right-side-road-of-the-bus-stop)
   - [Contact and Technical Support](#contact-and-technical-support)
 
 # Preamble
@@ -274,6 +275,9 @@ Sometimes configuration files need to be reset. This is sometimes needed after t
 ## Why are there trees in Ridgeside Village buildings ?
 
 The Bustling Valley 0.2.0 includes Ridgeside Village 2.0 - this is a complete overhaul of the previous versions. The maps have changed. As a result you **must** start a new farm for the maps to look correct. You can not continue with your existing save.
+
+## Why can I walk off the right side road of the bus stop?
+This is a pre-release version of an updated Bus Stop map for Ridgeside Village. The updated Bus Stop map was made to allow access to an NPC that is not included in this mod list. That NPC is accessed via the right side road. This map has been included due to an oversight from Ridgeside Village. When Pam returns from the desert, she drove through grass and fences. This map has been sent to the Ridgeside Village developers, and will be disabled once there is an official fix.
 
 ## Contact and Technical Support
 
