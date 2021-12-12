@@ -240,6 +240,8 @@ Please follow Professor Jaspers questline until the 6 heart stage.
 
 To use the WaterBot, select the watering can, then **right click** on a crop. Your farm will automatically travel to, and water every crop they can reach. The will refill the watering can as needed, from the closest water source, and will stop when either all crops are watered, or the farmer is out of energy.
 
+**WaterBot is not designed for a controller, and may behave erratically, or not at all if used with one.**
+
 ## How do I use the Fishing Assistant ?
 
 Press **F5** to enable the Fishing Assistant. Bait, tackle, and cast your Fishing line as usual. If you get a bite, Fishing Assistant will automatically hook, and catch the fish. It is **not** an instant catch. Better rods, bait and tackle will improve this.
