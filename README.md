@@ -39,6 +39,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Gameplay](#gameplay)
 - [Other Post Installation FAQ](#other-post-installation-faq)
   - [Does it work with a controller ?](#does-it-work-with-a-controller-)
+  - [Why am I getting infinite bundle rewards ?](#why-am-i-getting-infinite-bundle-rewards-)
   - [Does this work in multiplayer ?](#does-this-work-in-multiplayer-)
   - [Where is the Dwarf ?](#where-is-the-dwarf-)
   - [How do I use the WaterBot ?](#how-do-i-use-the-waterbot-)
@@ -231,6 +232,10 @@ Updating is like installing. You only have to make sure that you select the same
 
 Several mods seem to behave erratically or not at all with a controller, so the official position is, **No**, it does not.
 
+## Why am I getting infinite bundle rewards ?
+
+You have enabled automatic chest collection in the Fishing Assistant. Press **F7** to turn it off.
+
 ## Does this work in multiplayer ?
 
 Generally speaking this should work in multiplayer via the Internet, LAN, or local split screen mode. As with the unmodded game, some events may need to be triggered by the host, and/or each farmhand individually.
@@ -250,8 +255,6 @@ To use the WaterBot, select the watering can, then **right click** on a crop. Yo
 ## How do I use the Fishing Assistant ?
 
 Press **F5** to enable the Fishing Assistant. Bait, tackle, and cast your Fishing line as usual. If you get a bite, Fishing Assistant will automatically hook, and catch the fish. It is **not** an instant catch. Better rods, bait and tackle will improve this.
-
-Press **F7** to enable automatic treasure chest collection. If there is a treasure chest, Fishing Assistant will attempt to collect it, while catching the fish.
 
 ## Why is it slow to start ?
 
