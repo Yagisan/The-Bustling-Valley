@@ -171,7 +171,7 @@ Head over to the installation folder and locate an executable named `ModOrganize
 
 # Choosing a Farm
 
-This mod list should work with any farm, however they not all been extensively tested. The beach farm is known to have issues with NPC Map Locations, and Ridgeside Village (no one has made a world map merging all those locations together.)
+This mod list should work with any farm, however they not all been extensively tested.
 
 # Updating
 
@@ -196,6 +196,8 @@ Updating is like installing. You only have to make sure that you select the same
 **[Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)** adds a new village, a special quest, new crops, fish and more.
 
 ## Skills and Professions
+
+**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** overhauls the game's professions to be more balanced and unique. Previously suboptimal choices are now competitive money-making alternatives and overlooked mechanics are now engaging endgame objectives. For full details, visit the mod page.
 
 **[Capstone Professions](https://www.nexusmods.com/stardewvalley/mods/7636)** adds a final choice of professions once you max out all your skills.
 
