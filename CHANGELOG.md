@@ -45,6 +45,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.0.3
 
+### Modifications <!-- omit in toc -->
+
+**[Surfing Festival](https://www.nexusmods.com/stardewvalley/mods/6688)** removed the animated surfing trophy as we don't use Content Patcher Animations (It has issues with SDV 1.5.5 and was replaced with Dynamic Game Assets).
+
 ## 0.3.0
 
 **Released:** **Released:** `6 Dec 2021`
