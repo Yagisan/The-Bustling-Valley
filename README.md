@@ -43,7 +43,6 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Does this work in multiplayer ?](#does-this-work-in-multiplayer-)
   - [Where is the Dwarf ?](#where-is-the-dwarf-)
   - [How do I use the WaterBot ?](#how-do-i-use-the-waterbot-)
-  - [How do I use the Fishing Assistant ?](#how-do-i-use-the-fishing-assistant-)
   - [Why is it slow to start ?](#why-is-it-slow-to-start-)
   - [How do I remove the Modlist ?](#how-do-i-remove-the-modlist-)
   - [Should I update SMAPI ?](#should-i-update-smapi-)
@@ -210,7 +209,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 **[Water Bot](https://www.nexusmods.com/stardewvalley/mods/8167)** by right-clicking with your watering can your farmer will go crop by crop watering them, expending the same amount of time and energy as if you had done it yourself to keep as vanilla as possible, but a lot less tedious!
 
-**[Fishing Assistant](https://www.nexusmods.com/stardewvalley/mods/5815)** reduces the tediousness of fishing by automatically catching the fish for you. If you change your mind, and want the challenge of fishing yourself, it toggles on and off by pressing F5.
+**[Eidee Easy Fishing](https://www.nexusmods.com/stardewvalley/mods/4806)** reduces the tediousness of fishing by automatically catching the fish for you. If you get a bite, and hook the fish, Eidee Easy Fishing will catch the fish. It is **not** an instant catch, nor will it automatically hook for you. Better rods, bait and tackle will improve catch speed and rates.
 
 **[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** significantly improves Junimos: automatically plant crops, fertilize, work for a fee, increase range, and more!
 
@@ -251,10 +250,6 @@ Please follow Professor Jaspers questline until the 6 heart stage.
 To use the WaterBot, select the watering can, then **right click** on a crop. Your farm will automatically travel to, and water every crop they can reach. The will refill the watering can as needed, from the closest water source, and will stop when either all crops are watered, or the farmer is out of energy.
 
 **WaterBot is not designed for a controller, and may behave erratically, or not at all if used with one.**
-
-## How do I use the Fishing Assistant ?
-
-Press **F5** to enable the Fishing Assistant. Bait, tackle, and cast your Fishing line as usual. If you get a bite, Fishing Assistant will automatically hook, and catch the fish. It is **not** an instant catch. Better rods, bait and tackle will improve this.
 
 ## Why is it slow to start ?
 
