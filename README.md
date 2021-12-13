@@ -157,7 +157,7 @@ The download and installation process can take a very long time depending on you
 
 #### Problems with Wabbajack
 
-There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you will not loose progress.
+There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you will not lose progress.
 
 **Could not download x**:
 
@@ -247,7 +247,7 @@ Please follow Professor Jaspers questline until the 6 heart stage.
 
 ## How do I use the WaterBot ?
 
-To use the WaterBot, select the watering can, then **right click** on a crop. Your farm will automatically travel to, and water every crop they can reach. The will refill the watering can as needed, from the closest water source, and will stop when either all crops are watered, or the farmer is out of energy.
+To use the WaterBot, select the watering can, then **right click** on a crop. Your farmer will automatically travel to, and water every crop they can reach. The will refill the watering can as needed, from the closest water source, and will stop when either all crops are watered, or the farmer is out of energy.
 
 **WaterBot is not designed for a controller, and may behave erratically, or not at all if used with one.**
 
@@ -271,7 +271,7 @@ It's not fixable. Please don't alter this modlist once you start playing. **If y
 
 ## How do I reset the configuration files ?
 
-Sometimes configuration files need to be reset. This is sometimes needed after the modlist is updated. Resetting the configuration files is very easy to do. Scroll to the very bottom of the mod list. The is a menu item named Overwrite.
+Sometimes configuration files need to be reset. This is sometimes needed after the modlist is updated. Resetting the configuration files is very easy to do. Scroll to the very bottom of the mod list. There is a menu item named Overwrite.
 
 ![Rest_Config_Image](assets/images/Reset_Config.png)
 
@@ -279,7 +279,7 @@ Sometimes configuration files need to be reset. This is sometimes needed after t
 
 ## Why are there trees in Ridgeside Village buildings ?
 
-The Bustling Valley 0.2.0 includes Ridgeside Village 2.0 - this is a complete overhaul of the previous versions. The maps have changed. As a result you **must** start a new farm for the maps to look correct. You can not continue with your existing save.
+The Bustling Valley 0.2.0+ includes Ridgeside Village 2.0 - this is a complete overhaul of the previous versions. The maps have changed. As a result you **must** start a new farm for the maps to look correct. You can not continue with your existing save.
 
 ## Why can I walk off the right side road of the bus stop?
 This is a pre-release version of an updated Bus Stop map for Ridgeside Village. The updated Bus Stop map was made to allow access to an NPC that is not included in this mod list. That NPC is accessed via the right side road. This map has been included due to an oversight from Ridgeside Village. When Pam returns from the desert, she drove through grass and fences. This map has been sent to the Ridgeside Village developers, and will be disabled once there is an official fix.
