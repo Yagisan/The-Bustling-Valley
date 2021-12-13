@@ -154,7 +154,6 @@ This list is only updated when mods are added or removed. If the version above d
 - [Better Artisan Good Icons for The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/10174)
 - [Displays](https://www.nexusmods.com/stardewvalley/mods/7635)
 - [Flower Dance Fix](https://www.nexusmods.com/stardewvalley/mods/8535)
-- [Flower Dancing - A Flower Dance Mod](https://www.nexusmods.com/stardewvalley/mods/8107)
 - **[Yagisan's Bountiful Valley](https://www.nexusmods.com/stardewvalley/mods/9259)**
 - **[Yagisan's Bountiful Valley for Boarding House](https://www.nexusmods.com/stardewvalley/mods/9263)**
 - **[Yagisan's Bountiful Valley for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/9272)**
