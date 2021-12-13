@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.3.2](#032)
   - [0.3.1](#031)
   - [0.3.0](#030)
   - [0.2.2](#022)
@@ -30,6 +31,31 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.3.2
+
+**Released:** **Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+**This is a pre-release of The Bustling Valley. It is subject to change, and should not be used for a non-testing playthrough.**
+
+### Additions <!-- omit in toc -->
+
+**[Eidee Easy Fishing](https://www.nexusmods.com/stardewvalley/mods/4806)**
+
+### Updates <!-- omit in toc -->
+
+**[Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)** updated to 0.2.1
+
+**[Lumisteria Tilesheets - Indoor](https://www.nexusmods.com/stardewvalley/mods/9599)** updated to 1.1.0
+
+### Removed <!-- omit in toc -->
+
+**[Fishing Assistant](https://www.nexusmods.com/stardewvalley/mods/5815)** random breakage. Caused duplicate bundle collection in SDV 1.5.5
+
+**[Flower Dancing - A Flower Dance Mod](https://www.nexusmods.com/stardewvalley/mods/8107)** Farmer is stripping naked in SDV 1.5.5 - a farmer that can't dance to save their life is preferable to farmer flashing the valley.
+
 
 ## 0.3.1
 
