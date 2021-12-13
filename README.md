@@ -39,7 +39,6 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Gameplay](#gameplay)
 - [Other Post Installation FAQ](#other-post-installation-faq)
   - [Does it work with a controller ?](#does-it-work-with-a-controller-)
-  - [Why am I getting infinite bundle rewards ?](#why-am-i-getting-infinite-bundle-rewards-)
   - [Does this work in multiplayer ?](#does-this-work-in-multiplayer-)
   - [Where is the Dwarf ?](#where-is-the-dwarf-)
   - [How do I use the WaterBot ?](#how-do-i-use-the-waterbot-)
@@ -230,10 +229,6 @@ Updating is like installing. You only have to make sure that you select the same
 ## Does it work with a controller ?
 
 Several mods seem to behave erratically or not at all with a controller, so the official position is, **No**, it does not.
-
-## Why am I getting infinite bundle rewards ?
-
-You have enabled automatic chest collection in the Fishing Assistant. Press **F7** to turn it off.
 
 ## Does this work in multiplayer ?
 
