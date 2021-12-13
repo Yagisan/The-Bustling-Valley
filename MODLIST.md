@@ -1,6 +1,6 @@
 # The Bustling Valley - Complete Modlist
 
-Last update **0.3.0**
+Last update **0.3.2**
 
 This is a complete list of all mods included in The Bustling Valley. The ordering is somewhat arbitrary and grouping matches my internal classification.
 
@@ -106,7 +106,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Better Hay](https://www.nexusmods.com/stardewvalley/mods/1430)
 - [Horse Overhaul](https://www.nexusmods.com/stardewvalley/mods/7911)
 - [Statue of Generosity](https://www.nexusmods.com/stardewvalley/mods/7532)
-- [Fishing Assistant](https://www.nexusmods.com/stardewvalley/mods/5815)
+- [Eidee Easy Fishing](https://www.nexusmods.com/stardewvalley/mods/4806)
 - [Greenhouse Gatherers](https://www.nexusmods.com/stardewvalley/mods/7619)
 - [Island Gatherers](https://www.nexusmods.com/stardewvalley/mods/8552)
   - [Island Gatherers - Automate Support](https://www.nexusmods.com/stardewvalley/mods/8552)
