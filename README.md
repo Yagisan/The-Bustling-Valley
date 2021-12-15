@@ -1,5 +1,7 @@
 # The Bustling Valley
 
+![TBV_Title_Card](assets/images/TBV_Title.png)
+
 ![GitHub all releases](https://img.shields.io/github/downloads/Yagisan/The-Bustling-Valley/total?logo=GitHub&style=for-the-badge)![GitHub issues](https://img.shields.io/github/issues/Yagisan/The-Bustling-Valley?logo=GitHub&style=for-the-badge)
 
 The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. It includes new villages, new NPCs, and of course a farming expansion. **It is expected that players will not add additional mods or otherwise change this modlist.**
@@ -38,16 +40,16 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Automation](#automation)
   - [Gameplay](#gameplay)
 - [Other Post Installation FAQ](#other-post-installation-faq)
-  - [Does it work with a controller ?](#does-it-work-with-a-controller-)
-  - [Does this work in multiplayer ?](#does-this-work-in-multiplayer-)
-  - [Where is the Dwarf ?](#where-is-the-dwarf-)
-  - [How do I use the WaterBot ?](#how-do-i-use-the-waterbot-)
-  - [Why is it slow to start ?](#why-is-it-slow-to-start-)
-  - [How do I remove the Modlist ?](#how-do-i-remove-the-modlist-)
-  - [Should I update SMAPI ?](#should-i-update-smapi-)
-  - [What is the JSON Shuffle ? Can it be fixed ?](#what-is-the-json-shuffle--can-it-be-fixed-)
-  - [How do I reset the configuration files ?](#how-do-i-reset-the-configuration-files-)
-  - [Why are there trees in Ridgeside Village buildings ?](#why-are-there-trees-in-ridgeside-village-buildings-)
+  - [Does it work with a controller?](#does-it-work-with-a-controller)
+  - [Does this work in multiplayer?](#does-this-work-in-multiplayer)
+  - [Where is the Dwarf?](#where-is-the-dwarf)
+  - [How do I use the WaterBot?](#how-do-i-use-the-waterbot)
+  - [Why is it slow to start?](#why-is-it-slow-to-start)
+  - [How do I remove the Modlist?](#how-do-i-remove-the-modlist)
+  - [Should I update SMAPI?](#should-i-update-smapi)
+  - [What is the JSON Shuffle? Can it be fixed?](#what-is-the-json-shuffle-can-it-be-fixed)
+  - [How do I reset the configuration files?](#how-do-i-reset-the-configuration-files)
+  - [Why are there trees in Ridgeside Village buildings?](#why-are-there-trees-in-ridgeside-village-buildings)
   - [Why can I walk off the right side road of the bus stop?](#why-can-i-walk-off-the-right-side-road-of-the-bus-stop)
   - [Contact and Technical Support](#contact-and-technical-support)
 
@@ -226,45 +228,45 @@ Updating is like installing. You only have to make sure that you select the same
 
 # Other Post Installation FAQ
 
-## Does it work with a controller ?
+## Does it work with a controller?
 
 Several mods seem to behave erratically or not at all with a controller, so the official position is, **No**, it does not.
 
-## Does this work in multiplayer ?
+## Does this work in multiplayer?
 
 Generally speaking this should work in multiplayer via the Internet, LAN, or local split screen mode. As with the unmodded game, some events may need to be triggered by the host, and/or each farmhand individually.
 
 Please note that multiplayer primarily relies on community testing and bug reporting.
 
-## Where is the Dwarf ?
+## Where is the Dwarf?
 
 Please follow Professor Jaspers questline until the 6 heart stage.
 
-## How do I use the WaterBot ?
+## How do I use the WaterBot?
 
 To use the WaterBot, select the watering can, then **right click** on a crop. Your farmer will automatically travel to, and water every crop they can reach. The will refill the watering can as needed, from the closest water source, and will stop when either all crops are watered, or the farmer is out of energy.
 
 **WaterBot is not designed for a controller, and may behave erratically, or not at all if used with one.**
 
-## Why is it slow to start ?
+## Why is it slow to start?
 
 Unfortunately JSON Assets slows down the start time of the game. The length of start up depends on how many JSON assets need to be loaded. Bigger mods, have many, many more assets than smaller mods. It doesn't affect runtime performance though.
 
-## How do I remove the Modlist ?
+## How do I remove the Modlist?
 
 Simply delete the installation folder (`C:\WJ\TBV` if you have been following this guide) and that will remove it, but why would you want to?
 
-## Should I update SMAPI ?
+## Should I update SMAPI?
 
 In addition to being a mod loader, SMAPI also contains fixes and runtime updates to help make mods work with different versions of Stardew Valley. If you are having problems it is a good idea to update to the [latest version of SMAPI](#installing-smapi) and try again.
 
-## What is the JSON Shuffle ? Can it be fixed ?
+## What is the JSON Shuffle? Can it be fixed?
 
 This is described [in depth here](https://stardewmodding.wiki/wiki/Json_Shuffle), but the short version is that adding, removing, or updating mods that use JSON assets in an ongoing save results in the items becoming messed up. **To avoid a JSON Shuffle, please wait until all machines have finished processing before updating this mod list**.
 
 It's not fixable. Please don't alter this modlist once you start playing. **If you do get a shuffle, the best thing to do is to put all shuffled items in the shipping bin, or trash it.**
 
-## How do I reset the configuration files ?
+## How do I reset the configuration files?
 
 Sometimes configuration files need to be reset. This is sometimes needed after the modlist is updated. Resetting the configuration files is very easy to do. Scroll to the very bottom of the mod list. There is a menu item named Overwrite.
 
@@ -272,11 +274,12 @@ Sometimes configuration files need to be reset. This is sometimes needed after t
 
 **Right click** on it, and select **Clear Overwrite**. That's it. The game will regenerate any needed configuration files when you next start.
 
-## Why are there trees in Ridgeside Village buildings ?
+## Why are there trees in Ridgeside Village buildings?
 
 The Bustling Valley 0.2.0+ includes Ridgeside Village 2.0 - this is a complete overhaul of the previous versions. The maps have changed. As a result you **must** start a new farm for the maps to look correct. You can not continue with your existing save.
 
 ## Why can I walk off the right side road of the bus stop?
+
 This is a pre-release version of an updated Bus Stop map for Ridgeside Village. The updated Bus Stop map was made to allow access to an NPC that is not included in this mod list. That NPC is accessed via the right side road. This map has been included due to an oversight from Ridgeside Village. When Pam returns from the desert, she drove through grass and fences. This map has been sent to the Ridgeside Village developers, and will be disabled once there is an official fix.
 
 ## Contact and Technical Support
