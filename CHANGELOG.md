@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.3.3](#033)
   - [0.3.2](#032)
   - [0.3.1](#031)
   - [0.3.0](#030)
@@ -32,9 +33,17 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
 
+## 0.3.3
+
+**Released:** `DD MMM YYYY`
+
+### Modifications <!-- omit in toc -->
+
+**[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** reenable hard mode.
+
 ## 0.3.2
 
-**Released:** **Released:** `12 Dec 2021`
+**Released:** `12 Dec 2021`
 
 ### Info <!-- omit in toc -->
 
