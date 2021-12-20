@@ -37,6 +37,20 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **Released:** `DD MMM YYYY`
 
+### Updates <!-- omit in toc -->
+
+**[Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)** updated to 0.2.2
+
+**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** updated to 1.4.3
+
+**[Part of the Community](https://www.nexusmods.com/stardewvalley/mods/923)** updated to 1.1.6-4
+
+**[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.3.0
+
+**[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.0.4
+
+**[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)** updated to 1.3.0
+
 ### Modifications <!-- omit in toc -->
 
 **[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** reenable hard mode.
