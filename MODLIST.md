@@ -1,6 +1,6 @@
 # The Bustling Valley - Complete Modlist
 
-Last update **0.3.2**
+Last update **0.3.4**
 
 This is a complete list of all mods included in The Bustling Valley. The ordering is somewhat arbitrary and grouping matches my internal classification.
 
@@ -135,8 +135,7 @@ This list is only updated when mods are added or removed. If the version above d
 
 ## Immersion
 
-- [Seasonal Outfits - Slightly Cuter Aesthetic](https://www.nexusmods.com/stardewvalley/mods/5450)
-  - [Swimwear](https://www.nexusmods.com/stardewvalley/mods/5450)
+- [Diverse Stardew Valley (DSV) - Seasonal](https://www.moddrop.com/stardew-valley/mods/580603-diverse-stardew-valley-dsv-seasonal)
 - [Realistic Random Names](https://www.nexusmods.com/stardewvalley/mods/6269)
 - [Elle's Seasonal Vanilla Buildings](https://www.nexusmods.com/stardewvalley/mods/6330)
 - [Snow-Covered Craftables](https://www.nexusmods.com/stardewvalley/mods/3990)
