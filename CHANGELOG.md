@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.3.4](#034)
   - [0.3.3](#033)
   - [0.3.2](#032)
   - [0.3.1](#031)
@@ -32,6 +33,53 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.3.4
+
+**Released:** `MM DDD YYYY`
+
+### Additions <!-- omit in toc -->
+**[Diverse Stardew Valley (DSV) - Seasonal](https://www.moddrop.com/stardew-valley/mods/580603-diverse-stardew-valley-dsv-seasonal)**
+
+### Updates <!-- omit in toc -->
+
+**[Custom NPC Fixes](https://www.nexusmods.com/stardewvalley/mods/3849)** updated to 1.2.4
+
+**[Experience Bars](https://www.nexusmods.com/stardewvalley/mods/509)** updated to 1.4.2
+
+**[More Giant Crops](https://www.nexusmods.com/stardewvalley/mods/5263)** updated to 1.0.3
+
+**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** updated to 1.4.4
+
+**[Bigger Craftables](https://www.nexusmods.com/stardewvalley/mods/7530)** updated to 1.1.3
+
+**[Luck Skill](https://www.nexusmods.com/stardewvalley/mods/521)** updated to 1.2.1
+
+**[Dynamic Game Assets](https://www.nexusmods.com/stardewvalley/mods/9365)** updated to 1.3.3
+
+**[Dynamic Game Assets - Automate Patch](https://www.nexusmods.com/stardewvalley/mods/9365)** updated to 1.0.2
+
+**[JSON Assets](https://www.nexusmods.com/stardewvalley/mods/1720)** updated to 1.10.2
+
+**[SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)** updated to 1.7.2
+
+**[Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)** updated to 1.7.0
+
+**[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)** updated to 1.3.1
+
+**[Capstone Professions](https://www.nexusmods.com/stardewvalley/mods/7636)** updated to 1.0.9
+
+**[Statue of Generosity](https://www.nexusmods.com/stardewvalley/mods/7532)** updated to 1.1.2
+
+**[Displays](https://www.nexusmods.com/stardewvalley/mods/7635)** updated to 1.0.7
+
+**[Surfing Festival](https://www.nexusmods.com/stardewvalley/mods/6688)** updated to 1.0.15
+
+### Removed <!-- omit in toc -->
+
+**[Seasonal Outfits - Slightly Cuter Aesthetic](https://www.nexusmods.com/stardewvalley/mods/5450)**
+
+**[Seasonal Outfits - Slightly Cuter Aesthetic Swimwear](https://www.nexusmods.com/stardewvalley/mods/5450)**
 
 ## 0.3.3
 
