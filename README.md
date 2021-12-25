@@ -2,7 +2,7 @@
 
 ![TBV_Title_Card](assets/images/TBV_Title.png)
 
-![GitHub all releases](https://img.shields.io/github/downloads/Yagisan/The-Bustling-Valley/total?logo=GitHub&style=for-the-badge)![GitHub issues](https://img.shields.io/github/issues/Yagisan/The-Bustling-Valley?logo=GitHub&style=for-the-badge)
+![Latest Version](https://img.shields.io/badge/dynamic/json?label=Latest%20version&query=%24%5B%3F%28%40.links.machineURL%3D%3D%22tbv%22%29%5D.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwabbajack-tools%2Fmod-lists%2Fmaster%2Fmodlists.json&style=for-the-badge)![GitHub all releases](https://img.shields.io/github/downloads/Yagisan/The-Bustling-Valley/total?logo=GitHub&style=for-the-badge)![GitHub issues](https://img.shields.io/github/issues/Yagisan/The-Bustling-Valley?logo=GitHub&style=for-the-badge)
 
 The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. It includes new villages, new NPCs, and of course a farming expansion. **It is expected that players will not add additional mods or otherwise change this modlist.**
 
@@ -40,6 +40,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Automation](#automation)
   - [Gameplay](#gameplay)
 - [Other Post Installation FAQ](#other-post-installation-faq)
+  - [Stardew Valley just automatically updated, is it safe to run this list?](#stardew-valley-just-automatically-updated-is-it-safe-to-run-this-list)
   - [Does it work with a controller?](#does-it-work-with-a-controller)
   - [Does this work in multiplayer?](#does-this-work-in-multiplayer)
   - [Where is the Dwarf?](#where-is-the-dwarf)
@@ -227,6 +228,10 @@ Updating is like installing. You only have to make sure that you select the same
 **[Watering Grants Experience And Crops Can Wither](https://www.nexusmods.com/stardewvalley/mods/7768)** does exactly what it says. Manual watering grants some farming experience, and if not watered, your crops will die.
 
 # Other Post Installation FAQ
+
+## Stardew Valley just automatically updated, is it safe to run this list?
+
+Generally yes. The first time you load SMAPI will detect that the game has updated. It will need to restart. You should still check for a SMAPI update at [https://smapi.io/](https://smapi.io/) just in case.
 
 ## Does it work with a controller?
 
