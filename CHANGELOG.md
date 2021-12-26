@@ -75,6 +75,20 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Surfing Festival](https://www.nexusmods.com/stardewvalley/mods/6688)** updated to 1.0.15
 
+**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.25.1
+
+**[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)** updated to 1.21.1
+
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.24.7
+
+**[Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)** updated to 1.15.2
+
+**[Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)** updated to 1.9.6
+
+**[Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)** updated to 1.1.12
+
+**[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)** updated to 1.36.1
+
 ### Removed <!-- omit in toc -->
 
 **[Seasonal Outfits - Slightly Cuter Aesthetic](https://www.nexusmods.com/stardewvalley/mods/5450)**
