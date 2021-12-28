@@ -49,7 +49,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[More Giant Crops](https://www.nexusmods.com/stardewvalley/mods/5263)** updated to 1.0.3
 
-**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** updated to 1.4.4
+**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** updated to 1.4.5
 
 **[Bigger Craftables](https://www.nexusmods.com/stardewvalley/mods/7530)** updated to 1.1.3
 
@@ -88,6 +88,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)** updated to 1.1.12
 
 **[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)** updated to 1.36.1
+
+**[Horse Overhaul](https://www.nexusmods.com/stardewvalley/mods/7911)** updated to 1.3.2
+
+**[Watering Grants Experience And Crops Can Wither](https://www.nexusmods.com/stardewvalley/mods/7768)** updated to 1.0.2
 
 ### Removed <!-- omit in toc -->
 
