@@ -38,6 +38,12 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **Released:** `MM DDD YYYY`
 
+### Info <!-- omit in toc -->
+
+Fixes event crashes in **[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)**, and **[The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)**.
+
+Multiple hotfixed bugs in **[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)**.
+
 ### Additions <!-- omit in toc -->
 **[Diverse Stardew Valley (DSV) - Seasonal](https://www.moddrop.com/stardew-valley/mods/580603-diverse-stardew-valley-dsv-seasonal)**
 
@@ -49,7 +55,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[More Giant Crops](https://www.nexusmods.com/stardewvalley/mods/5263)** updated to 1.0.3
 
-**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** updated to 1.4.5
+**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** updated to 1.4.7
 
 **[Bigger Craftables](https://www.nexusmods.com/stardewvalley/mods/7530)** updated to 1.1.3
 
@@ -92,6 +98,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Horse Overhaul](https://www.nexusmods.com/stardewvalley/mods/7911)** updated to 1.3.2
 
 **[Watering Grants Experience And Crops Can Wither](https://www.nexusmods.com/stardewvalley/mods/7768)** updated to 1.0.2
+
+**[The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)** updated to 1.5.1
+
+**[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.7.2
 
 ### Removed <!-- omit in toc -->
 
