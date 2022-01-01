@@ -42,7 +42,9 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 Fixes event crashes in **[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)**, and **[The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)**.
 
-Multiple hotfixed bugs in **[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)**.
+Multiple hotfixed bugs in **[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)**. There have been change to how the skills work. Please consult the mod page for details.
+
+Replaced **[Seasonal Outfits - Slightly Cuter Aesthetic](https://www.nexusmods.com/stardewvalley/mods/5450)** with **[Diverse Stardew Valley (DSV) - Seasonal](https://www.moddrop.com/stardew-valley/mods/580603-diverse-stardew-valley-dsv-seasonal)** and configured it to match vanilla options as close as possible. This covers more situations and events for a greater variety of outfit changes.
 
 ### Additions <!-- omit in toc -->
 **[Diverse Stardew Valley (DSV) - Seasonal](https://www.moddrop.com/stardew-valley/mods/580603-diverse-stardew-valley-dsv-seasonal)**
@@ -55,7 +57,7 @@ Multiple hotfixed bugs in **[Walk Of Life - A Professions Overhaul](https://www.
 
 **[More Giant Crops](https://www.nexusmods.com/stardewvalley/mods/5263)** updated to 1.0.3
 
-**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** updated to 1.4.7
+**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** updated to 1.4.9
 
 **[Bigger Craftables](https://www.nexusmods.com/stardewvalley/mods/7530)** updated to 1.1.3
 
@@ -102,6 +104,8 @@ Multiple hotfixed bugs in **[Walk Of Life - A Professions Overhaul](https://www.
 **[The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)** updated to 1.5.1
 
 **[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.7.2
+
+**[To-Dew](https://www.nexusmods.com/stardewvalley/mods/7409)** updated to 1.10.1
 
 ### Removed <!-- omit in toc -->
 
