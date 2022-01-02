@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.3.5](#035)
   - [0.3.4](#034)
   - [0.3.3](#033)
   - [0.3.2](#032)
@@ -33,6 +34,14 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.3.5
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+Disabled Hotkey from Better Junimos because I was getting super annoyed with it when I pressed the letter "J". Adjusted config to have more Junimos by default.
 
 ## 0.3.4
 
