@@ -36,13 +36,13 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.3.4
 
-**Released:** `MM DDD YYYY`
+**Released:** `02 Jan 2022`
 
 ### Info <!-- omit in toc -->
 
 Fixes event crashes in **[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)**, and **[The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)**.
 
-Multiple hotfixed bugs in **[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)**. There have been change to how the skills work. Please consult the mod page for details.
+Multiple hotfixed bugs in **[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)**. There have been changes to how the skills work. Please consult the mod page for details.
 
 Replaced **[Seasonal Outfits - Slightly Cuter Aesthetic](https://www.nexusmods.com/stardewvalley/mods/5450)** with **[Diverse Stardew Valley (DSV) - Seasonal](https://www.moddrop.com/stardew-valley/mods/580603-diverse-stardew-valley-dsv-seasonal)** and configured it to match vanilla options as close as possible. This covers more situations and events for a greater variety of outfit changes.
 
