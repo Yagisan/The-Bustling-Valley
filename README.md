@@ -30,6 +30,8 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
     - [Using Wabbajack](#using-wabbajack)
       - [Preparations](#preparations)
       - [Downloading and Installing](#downloading-and-installing)
+        - [Automatic - Recommended](#automatic---recommended)
+        - [Manual - Not Recommended](#manual---not-recommended)
       - [Problems with Wabbajack](#problems-with-wabbajack)
 - [Starting the Game](#starting-the-game)
 - [Choosing a Farm](#choosing-a-farm)
@@ -145,6 +147,19 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 #### Downloading and Installing
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
+
+##### Automatic - Recommended
+
+1. Open Wabbajack.
+2. Click on **Browse Modlists**. Under Games, select Stardew Valley. Select The Bustling Valley from the selection.
+3. Set the _installation location_. The recommended installation location is `C:\WJ\TBV`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. **The rest of this document will assume you are using the recommended installation path.**
+4. Set the _download location_. The recommended download location is `C:\WJ\TBV_downloads`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder.
+5. Check **Overwrite Installation**
+6. Click the Go/Begin button
+7. Wait for Wabbajack to finish
+8. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
+
+##### Manual - Not Recommended
 
 1. [Download the latest release from GitHub](https://github.com/Yagisan/The-Bustling-Valley/releases). It will be named `The.Bustling.Valley.wabbajack
 ` Save it to a temporary folder. The recommended temporary folder is `C:\Temp\Valley`.
