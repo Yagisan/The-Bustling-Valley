@@ -41,6 +41,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Skills and Professions](#skills-and-professions)
   - [Automation](#automation)
   - [Gameplay](#gameplay)
+- [Mod Default Hotkeys](#mod-default-hotkeys)
 - [Other Post Installation FAQ](#other-post-installation-faq)
   - [Stardew Valley just automatically updated, is it safe to run this list?](#stardew-valley-just-automatically-updated-is-it-safe-to-run-this-list)
   - [Does it work with a controller?](#does-it-work-with-a-controller)
@@ -241,6 +242,19 @@ Updating is like installing. You only have to make sure that you select the same
 **[Better Ranching](https://www.nexusmods.com/stardewvalley/mods/859)** prevents failing milking/shearing attempts and adds an indicator when animals can be petted, milked, or sheared.
 
 **[Watering Grants Experience And Crops Can Wither](https://www.nexusmods.com/stardewvalley/mods/7768)** does exactly what it says. Manual watering grants some farming experience, and if not watered, your crops will die.
+
+# Mod Default Hotkeys
+
+- [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
+  - **U** toggles the automation overlay.
+- [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
+  - **B** Access all chests in the current world area.
+- [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+  - **F1** Show live information about the object under the cursor.
+- [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
+  - **F2** Toggle data layers.
+- [To-Dew](https://www.nexusmods.com/stardewvalley/mods/7409)
+  - **L** Access the TO-DEW list.
 
 # Other Post Installation FAQ
 
