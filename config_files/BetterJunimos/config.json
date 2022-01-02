@@ -9,7 +9,7 @@
     "ClearDeadCrops": true
   },
   "JunimoHuts": {
-    "MaxJunimos": 3,
+    "MaxJunimos": 5,
     "MaxRadius": 8,
     "AvailibleAfterCommunityCenterComplete": true,
     "AvailibleImmediately": false,
@@ -41,7 +41,7 @@
     "InfiniteJunimoInventory": false
   },
   "Other": {
-    "SpawnJunimoKeybind": "J",
+    "SpawnJunimoKeybind": "",
     "ReceiveMessages": true
   },
   "Progression": {
