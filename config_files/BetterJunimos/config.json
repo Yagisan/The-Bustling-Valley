@@ -41,8 +41,8 @@
     "InfiniteJunimoInventory": false
   },
   "Other": {
-    "SpawnJunimoKeybind": "",
-    "ReceiveMessages": true
+    "SpawnJunimoKeybind": "J",
+    "ReceiveMessages": false
   },
   "Progression": {
     "Enabled": true,
