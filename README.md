@@ -246,7 +246,7 @@ Updating is like installing. You only have to make sure that you select the same
 # Mod Default Hotkeys
 
 - [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
-  - **U** toggles the automation overlay.
+  - **U** Toggles the automation overlay.
 - [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
   - **B** Access all chests in the current world area.
 - [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
@@ -255,6 +255,8 @@ Updating is like installing. You only have to make sure that you select the same
   - **F2** Toggle data layers.
 - [To-Dew](https://www.nexusmods.com/stardewvalley/mods/7409)
   - **L** Access the TO-DEW list.
+- [Horse Overhaul](https://www.nexusmods.com/stardewvalley/mods/7911)
+  - **H** Access horse information.
 
 # Other Post Installation FAQ
 
