@@ -43,6 +43,20 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 Disabled Hotkey from Better Junimos because I was getting super annoyed with it when I pressed the letter "J". Adjusted config to have more Junimos by default.
 
+Multiple hotfixed bugs in **[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)**.
+
+Major overhaul to giving food in **[Horse Overhaul](https://www.nexusmods.com/stardewvalley/mods/7911)**. You should place a heater next to the stable for winter. Please consult the mod page for more details.
+
+### Updates <!-- omit in toc -->
+
+**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** updated to 1.4.10
+
+**[Horse Overhaul](https://www.nexusmods.com/stardewvalley/mods/7911)** updated to 1.4
+
+**[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** updated to 2.0.2
+
+**[Better Junimos Forestry](https://www.nexusmods.com/stardewvalley/mods/8992)** updated to 1.0.5
+
 ## 0.3.4
 
 **Released:** `02 Jan 2022`
