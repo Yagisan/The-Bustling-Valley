@@ -37,7 +37,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.3.5
 
-**Released:** `DD MMM YYYY`
+**Released:** `04 Jan 2022`
 
 ### Info <!-- omit in toc -->
 
@@ -49,7 +49,7 @@ Major overhaul to giving food in **[Horse Overhaul](https://www.nexusmods.com/st
 
 ### Updates <!-- omit in toc -->
 
-**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** updated to 1.4.10
+**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** updated to 1.4.11
 
 **[Horse Overhaul](https://www.nexusmods.com/stardewvalley/mods/7911)** updated to 1.4
 
