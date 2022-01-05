@@ -40,9 +40,19 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **Released:** `DD MMM YYYY`
 
+### Info <!-- omit in toc -->
+
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** has had many bug fixes, and additional inter-mod compatibility fixes with East Scarp. Check the mod page for details.
+
+**[Jade](https://www.nexusmods.com/stardewvalley/mods/5559)** updated for better inter-mod compatibility with **[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)**.
+
 ### Updates <!-- omit in toc -->
 
 **[Delores](https://www.nexusmods.com/stardewvalley/mods/5510)** updated to 1.1.2
+
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.0.3
+
+**[Jade](https://www.nexusmods.com/stardewvalley/mods/5559)** updated to 2.3.1
 
 ### Removed <!-- omit in toc -->
 
