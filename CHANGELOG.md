@@ -46,6 +46,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Jade](https://www.nexusmods.com/stardewvalley/mods/5559)** updated for better inter-mod compatibility with **[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)**.
 
+Multiple hotfixed bugs in **[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)**. Please read the changelog on the mod page. **You will need to run some SMAPI console commands to fix your farmer!** You will need to run `wol_setdata` in the console, and if you have a super mode, you also have to run `player_chooseult`.
+
+Dramatically scaled down the friendship boosts in **[Part of the Community](https://www.nexusmods.com/stardewvalley/mods/923)**. This should reduce speed hearting everyone to 10 hearts while barely interacting with most of them.
+
 ### Updates <!-- omit in toc -->
 
 **[Delores](https://www.nexusmods.com/stardewvalley/mods/5510)** updated to 1.1.2
@@ -53,6 +57,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.0.3
 
 **[Jade](https://www.nexusmods.com/stardewvalley/mods/5559)** updated to 2.3.1
+
+**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** updated to 1.4.12
 
 ### Removed <!-- omit in toc -->
 
