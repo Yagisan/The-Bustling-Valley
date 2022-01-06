@@ -1,11 +1,11 @@
 {
-  "WitnessBonus": 2,
-  "StorytellerBonus": 4,
-  "UjamaaBonus": 4,
-  "UmojaBonusFestival": 16,
+  "WitnessBonus": 1,
+  "StorytellerBonus": 0,
+  "UjamaaBonus": 0,
+  "UmojaBonusFestival": 10,
   "UmojaBonusMarry": 240,
-  "UmojaBonus": 10,
-  "UjimaBonusStore": 20,
-  "UjimaBonus": 2,
-  "KuumbaBonus": 2
+  "UmojaBonus": 0,
+  "UjimaBonusStore": 0,
+  "UjimaBonus": 0,
+  "KuumbaBonus": 0
 }
