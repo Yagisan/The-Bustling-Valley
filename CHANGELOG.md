@@ -2,7 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
-  - [0.3.6](#036)
+  - [0.4.0](#040)
   - [0.3.5](#035)
   - [0.3.4](#034)
   - [0.3.3](#033)
@@ -36,7 +36,7 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
 
-## 0.3.6
+## 0.4.0
 
 **Released:** `DD MMM YYYY`
 
@@ -46,7 +46,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Jade](https://www.nexusmods.com/stardewvalley/mods/5559)** updated for better inter-mod compatibility with **[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)**.
 
-Multiple hotfixed bugs in **[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)**. Please read the changelog on the mod page. **You will need to run some SMAPI console commands to fix your farmer!** You will need to run `wol_setdata` in the console, and if you have a super mode, you also have to run `player_chooseult`.
+**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** has been removed. Please see [this post](https://www.patreon.com/posts/60892241) for full details.
 
 Dramatically scaled down the friendship boosts in **[Part of the Community](https://www.nexusmods.com/stardewvalley/mods/923)**. This should reduce speed hearting everyone to 10 hearts while barely interacting with most of them.
 
@@ -58,11 +58,11 @@ Dramatically scaled down the friendship boosts in **[Part of the Community](http
 
 **[Jade](https://www.nexusmods.com/stardewvalley/mods/5559)** updated to 2.3.1
 
-**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** updated to 1.4.12
-
 ### Removed <!-- omit in toc -->
 
 **[Delores - Spouse Room](https://www.nexusmods.com/stardewvalley/mods/5510)** now part of main mod.
+
+**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)**
 
 ## 0.3.5
 
