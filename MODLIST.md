@@ -202,7 +202,6 @@ This list is only updated when mods are added or removed. If the version above d
 - [Capstone Professions](https://www.nexusmods.com/stardewvalley/mods/7636)
 - [The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)
 - [Luck Skill](https://www.nexusmods.com/stardewvalley/mods/521)
-- [Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)
 
 ## Yagisan's Patches
 
