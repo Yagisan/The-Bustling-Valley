@@ -58,6 +58,8 @@ Dramatically scaled down the friendship boosts in **[Part of the Community](http
 
 **[Jade](https://www.nexusmods.com/stardewvalley/mods/5559)** updated to 2.3.1
 
+**[Ginger Island NPC Overhaul](https://www.nexusmods.com/stardewvalley/mods/9242)** updated to 1.1.4
+
 ### Removed <!-- omit in toc -->
 
 **[Delores - Spouse Room](https://www.nexusmods.com/stardewvalley/mods/5510)** now part of main mod.
