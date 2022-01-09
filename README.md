@@ -217,8 +217,6 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Skills and Professions
 
-**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** overhauls the game's professions to be more balanced and unique. Previously suboptimal choices are now competitive money-making alternatives and overlooked mechanics are now engaging endgame objectives. For full details, visit the mod page.
-
 **[Capstone Professions](https://www.nexusmods.com/stardewvalley/mods/7636)** adds a final choice of professions once you max out all your skills.
 
 ## Automation
@@ -316,8 +314,14 @@ The Bustling Valley 0.2.0+ includes Ridgeside Village 2.0 - this is a complete o
 
 ## Why can I walk off the right side road of the bus stop?
 
-This is a pre-release version of an updated Bus Stop map for Ridgeside Village. The updated Bus Stop map was made to allow access to an NPC that is not included in this mod list. That NPC is accessed via the right side road. This map has been included due to an oversight from Ridgeside Village. When Pam returns from the desert, she drove through grass and fences. This map has been sent to the Ridgeside Village developers, and will be disabled once there is an official fix.
+The updated Bus Stop map was made to allow access to an NPC that is not included in this mod list. That NPC is accessed via the right side road. The original better bus stop map had an oversight from Ridgeside Village. When Pam returns from the desert, she drove through grass and fences. As of Ridgeside Village 2.0.3 this map is included as-is from Ridgeside Village.
 
 ## Contact and Technical Support
 
-Please check the [Issues](https://github.com/Yagisan/The-Bustling-Valley/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. If you believe you have found a bug, please file bug report [here](https://github.com/Yagisan/The-Bustling-Valley/issues) with as much information as possible to replicate the issue. Requests for support on any other platform will be ignored. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+Please check the [Issues](https://github.com/Yagisan/The-Bustling-Valley/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. If you believe you have found a bug, please file bug report [here](https://github.com/Yagisan/The-Bustling-Valley/issues) with as much information as possible to replicate the issue. Requests for support on any other platform will be ignored. 
+
+**ALL BUG REPORTS REQUIRE A FULL SMAPI LOG**
+
+Please upload your SMAPI log to [https://smapi.io/log](https://smapi.io/log) (see instructions on that page) and share the link with your bug report.
+
+**DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
