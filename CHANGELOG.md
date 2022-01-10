@@ -42,6 +42,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
+**0.4.0 needs a new farm. Finish your 0.3.x farm before you upgrade.**
+
 **[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** has had many bug fixes, and additional inter-mod compatibility fixes with East Scarp. Check the mod page for details.
 
 **[Jade](https://www.nexusmods.com/stardewvalley/mods/5559)** updated for better inter-mod compatibility with **[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)**.
@@ -58,7 +60,29 @@ Dramatically scaled down the friendship boosts in **[Part of the Community](http
 
 **[Jade](https://www.nexusmods.com/stardewvalley/mods/5559)** updated to 2.3.1
 
-**[Ginger Island NPC Overhaul](https://www.nexusmods.com/stardewvalley/mods/9242)** updated to 1.1.4
+**[Ginger Island NPC Overhaul](https://www.nexusmods.com/stardewvalley/mods/9242)** updated to 1.1.5
+
+**[Capstone Professions](https://www.nexusmods.com/stardewvalley/mods/7636)** updated to 1.0.10
+
+**[Dynamic Game Assets](https://www.nexusmods.com/stardewvalley/mods/9365)** updated to 1.3.4
+
+**[Dynamic Game Assets - Automate Patch](https://www.nexusmods.com/stardewvalley/mods/9365)** updated to 1.0.3
+
+**[Displays](https://www.nexusmods.com/stardewvalley/mods/7635)** updated to 1.0.8
+
+**[Experience Bars](https://www.nexusmods.com/stardewvalley/mods/509)** updated to 1.4.3
+
+**[Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)** updated to 1.8.0
+
+**[JSON Assets](https://www.nexusmods.com/stardewvalley/mods/1720)** updated to 1.10.3
+
+**[Luck Skill](https://www.nexusmods.com/stardewvalley/mods/521)** updated to 1.2.2
+
+**[SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)** updated to 1.7.3
+
+**[Statue of Generosity](https://www.nexusmods.com/stardewvalley/mods/7532)** updated to 1.1.3
+
+**[To-Dew](https://www.nexusmods.com/stardewvalley/mods/7409)** updated to 1.10.2
 
 ### Removed <!-- omit in toc -->
 
