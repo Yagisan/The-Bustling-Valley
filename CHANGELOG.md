@@ -52,6 +52,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 Dramatically scaled down the friendship boosts in **[Part of the Community](https://www.nexusmods.com/stardewvalley/mods/923)**. This should reduce speed hearting everyone to 10 hearts while barely interacting with most of them.
 
+### Additions <!-- omit in toc -->
+
+**[Better Friendship](https://www.nexusmods.com/stardewvalley/mods/10287)**
+
 ### Updates <!-- omit in toc -->
 
 **[Delores](https://www.nexusmods.com/stardewvalley/mods/5510)** updated to 1.1.2
