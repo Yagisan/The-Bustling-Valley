@@ -1,9 +1,9 @@
 {
-  "WitnessBonus": 1,
-  "StorytellerBonus": 0,
+  "WitnessBonus": 0,
+  "StorytellerBonus": 2,
   "UjamaaBonus": 0,
   "UmojaBonusFestival": 10,
-  "UmojaBonusMarry": 240,
+  "UmojaBonusMarry": 60,
   "UmojaBonus": 0,
   "UjimaBonusStore": 0,
   "UjimaBonus": 0,
