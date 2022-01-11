@@ -54,9 +54,13 @@ Dramatically scaled down the friendship boosts in **[Part of the Community](http
 
 **[Better Friendship](https://www.nexusmods.com/stardewvalley/mods/10287)** is now included. You can now see at a glance who you haven't talked to today, and if they are eligible for gifting, and you happen to have an item they like.
 
+**[Gift Decline](https://www.nexusmods.com/stardewvalley/mods/6944)** is now included. Repeatedly giving villagers the same gift will now result in them liking it less each time! (Gift tastes will reset yearly)
+
 ### Additions <!-- omit in toc -->
 
 **[Better Friendship](https://www.nexusmods.com/stardewvalley/mods/10287)**
+
+**[Gift Decline](https://www.nexusmods.com/stardewvalley/mods/6944)**
 
 ### Updates <!-- omit in toc -->
 
