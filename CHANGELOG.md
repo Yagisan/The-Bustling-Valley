@@ -68,9 +68,9 @@ Dramatically scaled down the friendship boosts in **[Part of the Community](http
 
 **[Capstone Professions](https://www.nexusmods.com/stardewvalley/mods/7636)** updated to 1.0.10
 
-**[Dynamic Game Assets](https://www.nexusmods.com/stardewvalley/mods/9365)** updated to 1.3.4
+**[Dynamic Game Assets](https://www.nexusmods.com/stardewvalley/mods/9365)** updated to 1.4.0
 
-**[Dynamic Game Assets - Automate Patch](https://www.nexusmods.com/stardewvalley/mods/9365)** updated to 1.0.3
+**[Dynamic Game Assets - Automate Patch](https://www.nexusmods.com/stardewvalley/mods/9365)** updated to 1.0.4
 
 **[Displays](https://www.nexusmods.com/stardewvalley/mods/7635)** updated to 1.0.8
 
@@ -82,7 +82,7 @@ Dramatically scaled down the friendship boosts in **[Part of the Community](http
 
 **[Luck Skill](https://www.nexusmods.com/stardewvalley/mods/521)** updated to 1.2.2
 
-**[SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)** updated to 1.7.3
+**[SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)** updated to 1.8.0
 
 **[Statue of Generosity](https://www.nexusmods.com/stardewvalley/mods/7532)** updated to 1.1.3
 
