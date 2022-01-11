@@ -52,6 +52,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 Dramatically scaled down the friendship boosts in **[Part of the Community](https://www.nexusmods.com/stardewvalley/mods/923)**. This should reduce speed hearting everyone to 10 hearts while barely interacting with most of them.
 
+**[Better Friendship](https://www.nexusmods.com/stardewvalley/mods/10287)** is now included. You can now see at a glance who you haven't talked to today, and if they are eligible for gifting, and you happen to have an item they like.
+
 ### Additions <!-- omit in toc -->
 
 **[Better Friendship](https://www.nexusmods.com/stardewvalley/mods/10287)**
