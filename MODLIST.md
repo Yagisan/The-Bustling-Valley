@@ -133,6 +133,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)
 - [To-Dew](https://www.nexusmods.com/stardewvalley/mods/7409)
 - [Better Friendship](https://www.nexusmods.com/stardewvalley/mods/10287)
+- [Gift Decline](https://www.nexusmods.com/stardewvalley/mods/6944)
 
 ## Immersion
 
