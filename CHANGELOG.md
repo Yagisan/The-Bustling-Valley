@@ -62,6 +62,32 @@ Dramatically scaled down the friendship boosts in **[Part of the Community](http
 
 **[Gift Decline](https://www.nexusmods.com/stardewvalley/mods/6944)**
 
+**[Can I Offer You A Nice Egg In This Trying Time](https://www.nexusmods.com/stardewvalley/mods/10438)**
+
+**[Gold Clock Sundial](https://www.nexusmods.com/stardewvalley/mods/7863)**
+
+**[Super Hopper](https://www.nexusmods.com/stardewvalley/mods/9418)**
+
+**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)**
+
+**[Elle's Seasonal Buildings for Alternative Textures - Vanilla](https://www.nexusmods.com/stardewvalley/mods/10038)**
+
+**[Elle's Animals for Alternative Textures - Cats](https://www.nexusmods.com/stardewvalley/mods/10039)**
+
+**[Elle's Animals for Alternative Textures - Dogs](https://www.nexusmods.com/stardewvalley/mods/10039)**
+
+**[Elle's Animals for Alternative Textures - New Horses](https://www.nexusmods.com/stardewvalley/mods/10039)**
+
+**[Elle's Animals for Alternative Textures - New Coop](https://www.nexusmods.com/stardewvalley/mods/10039)**
+
+**[Elle's Animals for Alternative Textures - New Barn](https://www.nexusmods.com/stardewvalley/mods/10039)**
+
+**[Lumisteria Toddlers Like Parents - Alternative Children](https://www.nexusmods.com/stardewvalley/mods/10494)**
+
+**[Lumisteria - Alternative Textures - Craftable](https://www.nexusmods.com/stardewvalley/mods/9294)**
+
+**[Better Lightning Rods](https://www.nexusmods.com/stardewvalley/mods/10631)**
+
 ### Updates <!-- omit in toc -->
 
 **[Delores](https://www.nexusmods.com/stardewvalley/mods/5510)** updated to 1.1.2
@@ -99,6 +125,14 @@ Dramatically scaled down the friendship boosts in **[Part of the Community](http
 **[Delores - Spouse Room](https://www.nexusmods.com/stardewvalley/mods/5510)** now part of main mod.
 
 **[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)**
+
+**[Immersive Shops - Pierre's](https://www.nexusmods.com/stardewvalley/mods/9127)**
+
+**[Gus' Recipe Book](https://www.nexusmods.com/stardewvalley/mods/9066)**
+
+### Modifications <!-- omit in toc -->
+
+**Yagisan's - Snow-Covered Craftables Patch** patched to not put snow on craftables in the desert.
 
 ## 0.3.5
 
