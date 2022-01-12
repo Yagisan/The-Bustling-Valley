@@ -1,0 +1,17 @@
+{
+    "Format": "1.24.0",
+    "Changes": [
+        {
+            "Action": "EditImage",
+            "Target": "Tilesheets/Craftables",
+            "FromFile": "CraftablesSnow.png",
+            "PatchMode": "Overlay",
+            "When": {
+                "Season": "Winter",
+                "IsOutdoors": "True",
+				"LocationName |contains= IslandSouth, IslandSouthEast, IslandEast, IslandWest, IslandNorth, IslandShrine, Desert": "false"
+              },
+			"Update": "OnLocationChange"
+        }
+    ]
+}
