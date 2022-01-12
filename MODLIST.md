@@ -13,11 +13,13 @@ This list is only updated when mods are added or removed. If the version above d
   - [Frameworks](#frameworks)
   - [Gameplay Changes](#gameplay-changes)
   - [QOL Changes](#qol-changes)
+  - [Gifting and Friendship](#gifting-and-friendship)
   - [Immersion](#immersion)
   - [Crops and Recipes](#crops-and-recipes)
   - [Shop Changes](#shop-changes)
   - [Greenhouses and Cellars](#greenhouses-and-cellars)
   - [Skills and Professions](#skills-and-professions)
+  - [Texture Packs](#texture-packs)
   - [Yagisan's Patches](#yagisans-patches)
 
 ## Town, Village and NPC Expansions
@@ -87,6 +89,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Winter Grass](https://www.nexusmods.com/stardewvalley/mods/1601)
 - [Grass Growth Adjuster](https://www.nexusmods.com/stardewvalley/mods/3365)
 - [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
+- [Super Hopper](https://www.nexusmods.com/stardewvalley/mods/9418)
 - [PFMAutomate](https://www.nexusmods.com/stardewvalley/mods/5038)
 - [Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)
 - [Better Junimos Forestry](https://www.nexusmods.com/stardewvalley/mods/8992)
@@ -132,15 +135,18 @@ This list is only updated when mods are added or removed. If the version above d
 - [Event Lookup](https://www.nexusmods.com/stardewvalley/mods/8505)
 - [Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)
 - [To-Dew](https://www.nexusmods.com/stardewvalley/mods/7409)
+- [Better Lightning Rods](https://www.nexusmods.com/stardewvalley/mods/10631)
+
+## Gifting and Friendship
+
 - [Better Friendship](https://www.nexusmods.com/stardewvalley/mods/10287)
 - [Gift Decline](https://www.nexusmods.com/stardewvalley/mods/6944)
+- [Can I Offer You A Nice Egg In This Trying Time](https://www.nexusmods.com/stardewvalley/mods/10438)
 
 ## Immersion
 
 - [Diverse Stardew Valley (DSV) - Seasonal](https://www.moddrop.com/stardew-valley/mods/580603-diverse-stardew-valley-dsv-seasonal)
 - [Realistic Random Names](https://www.nexusmods.com/stardewvalley/mods/6269)
-- [Elle's Seasonal Vanilla Buildings](https://www.nexusmods.com/stardewvalley/mods/6330)
-- [Snow-Covered Craftables](https://www.nexusmods.com/stardewvalley/mods/3990)
 - [Show Birthdays](https://www.nexusmods.com/stardewvalley/mods/7495)
 - [Anniversary on Calendar](https://www.nexusmods.com/stardewvalley/mods/8351)
 - [Please Remember My Birthday](https://www.nexusmods.com/stardewvalley/mods/6525)
@@ -188,8 +194,6 @@ This list is only updated when mods are added or removed. If the version above d
 
 ## Shop Changes
 
-- [Immersive Shops - Pierre's](https://www.nexusmods.com/stardewvalley/mods/9127)
-- [Gus' Recipe Book](https://www.nexusmods.com/stardewvalley/mods/9066)
 - **[Yagisan's - Krobus Sells Scrolls](https://www.nexusmods.com/stardewvalley/mods/9248)**
 
 ## Greenhouses and Cellars
@@ -205,6 +209,21 @@ This list is only updated when mods are added or removed. If the version above d
 - [The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)
 - [Luck Skill](https://www.nexusmods.com/stardewvalley/mods/521)
 
+## Texture Packs
+
+- [Elle's Seasonal Vanilla Buildings](https://www.nexusmods.com/stardewvalley/mods/6330)
+- [Snow-Covered Craftables](https://www.nexusmods.com/stardewvalley/mods/3990)
+- [Gold Clock Sundial](https://www.nexusmods.com/stardewvalley/mods/7863)
+- [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
+- [Elle's Seasonal Buildings for Alternative Textures - Vanilla](https://www.nexusmods.com/stardewvalley/mods/10038)
+- [Elle's Animals for Alternative Textures - Cats](https://www.nexusmods.com/stardewvalley/mods/10039)
+- [Elle's Animals for Alternative Textures - Dogs](https://www.nexusmods.com/stardewvalley/mods/10039)
+- [Elle's Animals for Alternative Textures - New Horses](https://www.nexusmods.com/stardewvalley/mods/10039)
+- [Elle's Animals for Alternative Textures - New Coop](https://www.nexusmods.com/stardewvalley/mods/10039)
+- [Elle's Animals for Alternative Textures - New Barn](https://www.nexusmods.com/stardewvalley/mods/10039)
+- [Lumisteria Toddlers Like Parents - Alternative Children](https://www.nexusmods.com/stardewvalley/mods/10494)
+- [Lumisteria - Alternative Textures - Craftable](https://www.nexusmods.com/stardewvalley/mods/9294)
+
 ## Yagisan's Patches
 
 - **The Bustling Valley - Config Files**
@@ -213,3 +232,4 @@ This list is only updated when mods are added or removed. If the version above d
 - **Yagisan's - SSaturn's Oriental Kitchen Patch**
 - **Yagisan's - PPJA Artisan Valley Machine Goods Exploit Patch**
 - **Yagisan's - PPJA Fruits and Veggies Exploit Patch**
+- **Yagisan's - Snow-Covered Craftables Patch**
