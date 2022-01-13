@@ -120,6 +120,8 @@ Dramatically scaled down the friendship boosts in **[Part of the Community](http
 
 **[To-Dew](https://www.nexusmods.com/stardewvalley/mods/7409)** updated to 1.10.2
 
+**[More Giant Crops](https://www.nexusmods.com/stardewvalley/mods/5263)** updated to 1.1.0
+
 ### Removed <!-- omit in toc -->
 
 **[Delores - Spouse Room](https://www.nexusmods.com/stardewvalley/mods/5510)** now part of main mod.
