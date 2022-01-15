@@ -50,8 +50,6 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** has been removed. Please see [this post](https://www.patreon.com/posts/60892241) for full details.
 
-Dramatically scaled down the friendship boosts in **[Part of the Community](https://www.nexusmods.com/stardewvalley/mods/923)**. This should reduce speed hearting everyone to 10 hearts while barely interacting with most of them.
-
 **[Better Friendship](https://www.nexusmods.com/stardewvalley/mods/10287)** is now included. You can now see at a glance who you haven't talked to today, and if they are eligible for gifting, and you happen to have an item they **currently** like.
 
 **[Gift Decline](https://www.nexusmods.com/stardewvalley/mods/6944)** is now included. Repeatedly giving villagers the same gift will now result in them liking it less each time! (Gift tastes will reset yearly)
@@ -143,6 +141,8 @@ Dramatically scaled down the friendship boosts in **[Part of the Community](http
 **[Immersive Shops - Pierre's](https://www.nexusmods.com/stardewvalley/mods/9127)**
 
 **[Gus' Recipe Book](https://www.nexusmods.com/stardewvalley/mods/9066)**
+
+**[Part of the Community](https://www.nexusmods.com/stardewvalley/mods/923)** even with a reduced config, this was speed hearting everyone to 10 hearts. Somewhat redundant now with **[Better Friendship](https://www.nexusmods.com/stardewvalley/mods/10287)** as you can target specific people by looking at the bubbles of what they like.
 
 ### Modifications <!-- omit in toc -->
 
