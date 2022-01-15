@@ -122,6 +122,18 @@ Dramatically scaled down the friendship boosts in **[Part of the Community](http
 
 **[More Giant Crops](https://www.nexusmods.com/stardewvalley/mods/5263)** updated to 1.1.0
 
+**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.25.2
+
+**[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)** updated to 1.21.2
+
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.24.8
+
+**[Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)** updated to 1.15.3
+
+**[Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)** updated to 1.1.13
+
+**[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)** updated to 1.36.2
+
 ### Removed <!-- omit in toc -->
 
 **[Delores - Spouse Room](https://www.nexusmods.com/stardewvalley/mods/5510)** now part of main mod.
