@@ -105,7 +105,6 @@ This list is only updated when mods are added or removed. If the version above d
 - [Multiple Mini-Obelisks](https://www.nexusmods.com/stardewvalley/mods/7900)
 - [Electric Furnace and Carbon Fiber](https://www.nexusmods.com/stardewvalley/mods/5165)
 - [Special Orders for Auto-Petter](https://www.nexusmods.com/stardewvalley/mods/7534)
-- [Part of the Community](https://www.nexusmods.com/stardewvalley/mods/923)
 - [Better Hay](https://www.nexusmods.com/stardewvalley/mods/1430)
 - [Horse Overhaul](https://www.nexusmods.com/stardewvalley/mods/7911)
 - [Statue of Generosity](https://www.nexusmods.com/stardewvalley/mods/7532)
