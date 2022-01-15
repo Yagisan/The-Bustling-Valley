@@ -82,10 +82,10 @@ Please be aware that this modlist may make perfection very hard or impossible to
 - A [Nexus Mods](https://www.nexusmods.com/) account.
 - An up to date, unmodded, Stardew Valley installation.
   - **Acquired through either [GOG](https://www.gog.com/game/stardew_valley) or [Steam](https://store.steampowered.com/app/413150/Stardew_Valley/).**
-- Around **2GB** of free space.
+- Around **2.5GB** of free space.
   - Around 550MB for Stardew Valley.
-  - Around 500MB for the mod downloads.
-  - Around 900MB for the mod list installation.
+  - Around 650MB for the mod downloads.
+  - Around 1GB for the mod list installation.
 
 # Installation
 
