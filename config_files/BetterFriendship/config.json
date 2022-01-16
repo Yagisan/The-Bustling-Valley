@@ -3,7 +3,7 @@
   "DisplayGenericGiftPrompts": false,
   "GiftCycleDelay": 2000,
   "IgnoreMaxedFriendships": true,
-  "SpouseOverride": false,
+  "SpousePromptsOverride": false,
   "DisplayBubbles": true,
   "GiftPreference": "like",
   "GiftCycleCount": 5,
