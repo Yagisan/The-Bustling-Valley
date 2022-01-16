@@ -255,6 +255,7 @@ Updating is like installing. You only have to make sure that you select the same
   - **L** Access the TO-DEW list.
 - [Horse Overhaul](https://www.nexusmods.com/stardewvalley/mods/7911)
   - **H** Access horse information.
+  - **P** Access pet information.
 
 # Other Post Installation FAQ
 
