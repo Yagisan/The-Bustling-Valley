@@ -132,6 +132,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)** updated to 1.36.2
 
+**[Horse Overhaul](https://www.nexusmods.com/stardewvalley/mods/7911)** updated to 1.4.1
+
 ### Removed <!-- omit in toc -->
 
 **[Delores - Spouse Room](https://www.nexusmods.com/stardewvalley/mods/5510)** now part of main mod.
