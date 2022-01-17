@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.4.1](#041)
   - [0.4.0](#040)
   - [0.3.5](#035)
   - [0.3.4](#034)
@@ -35,6 +36,16 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.4.1
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+**[Eidee Easy Fishing](https://www.nexusmods.com/stardewvalley/mods/4806)** updated to 1.1.1
 
 ## 0.4.0
 
