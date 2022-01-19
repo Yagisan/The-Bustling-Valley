@@ -83,6 +83,7 @@ This list is only updated when mods are added or removed. If the version above d
   - [eXpanded Storage Lite - Automate Patch](https://www.nexusmods.com/stardewvalley/mods/7431)
 - [Custom Gift Dialogue Utillity](https://www.nexusmods.com/stardewvalley/mods/7304)
 - [Train Station](https://www.nexusmods.com/stardewvalley/mods/6183)
+- [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
 
 ## Gameplay Changes
 
@@ -144,7 +145,19 @@ This list is only updated when mods are added or removed. If the version above d
 
 ## Immersion
 
-- [Diverse Stardew Valley (DSV) - Seasonal](https://www.moddrop.com/stardew-valley/mods/580603-diverse-stardew-valley-dsv-seasonal)
+- [Diverse Stardew Valley - Abigail, Caroline & Pierre](https://diversestardewvalley.weebly.com/)
+- [Diverse Stardew Valley - Alex, Evelyn & George](https://diversestardewvalley.weebly.com/)
+- [Diverse Stardew Valley - Emily, Haley & Sandy](https://diversestardewvalley.weebly.com/)
+- [Diverse Stardew Valley - Harvey, Gus & Lewis](https://diversestardewvalley.weebly.com/)
+- [Diverse Stardew Valley - Krobus, Mermaids, Wizard & Witch](https://diversestardewvalley.weebly.com/)
+- [Diverse Stardew Valley - Leah & Elliott](https://diversestardewvalley.weebly.com/)
+- [Diverse Stardew Valley - Marlon, Gunther & Morris](https://diversestardewvalley.weebly.com/)
+- [Diverse Stardew Valley - Penny & Pam](https://diversestardewvalley.weebly.com/)
+- [Diverse Stardew Valley - Sam, Vincent, Jodi & Kent](https://diversestardewvalley.weebly.com/)
+- [Diverse Stardew Valley - Sebastian, Maru, Robin & Demetrius](https://diversestardewvalley.weebly.com/)
+- [Diverse Stardew Valley - Shane, Jas & Marnie](https://diversestardewvalley.weebly.com/)
+- [Diverse Stardew Valley - Willy, Clint & Linus](https://diversestardewvalley.weebly.com/)
+- [Diverse Stardew Valley - Flower Queen's Crown](https://diversestardewvalley.weebly.com/)
 - [Realistic Random Names](https://www.nexusmods.com/stardewvalley/mods/6269)
 - [Show Birthdays](https://www.nexusmods.com/stardewvalley/mods/7495)
 - [Anniversary on Calendar](https://www.nexusmods.com/stardewvalley/mods/8351)
@@ -213,7 +226,6 @@ This list is only updated when mods are added or removed. If the version above d
 - [Elle's Seasonal Vanilla Buildings](https://www.nexusmods.com/stardewvalley/mods/6330)
 - [Snow-Covered Craftables](https://www.nexusmods.com/stardewvalley/mods/3990)
 - [Gold Clock Sundial](https://www.nexusmods.com/stardewvalley/mods/7863)
-- [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
 - [Elle's Seasonal Buildings for Alternative Textures - Vanilla](https://www.nexusmods.com/stardewvalley/mods/10038)
 - [Elle's Animals for Alternative Textures - Cats](https://www.nexusmods.com/stardewvalley/mods/10039)
 - [Elle's Animals for Alternative Textures - Dogs](https://www.nexusmods.com/stardewvalley/mods/10039)
