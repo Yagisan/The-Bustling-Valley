@@ -47,6 +47,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Eidee Easy Fishing](https://www.nexusmods.com/stardewvalley/mods/4806)** updated to 1.1.1
 
+**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 5.0.5
+
 ## 0.4.0
 
 **Released:** `16 Jan 2022`
