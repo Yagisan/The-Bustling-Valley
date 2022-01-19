@@ -43,11 +43,45 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
+**[Diverse Stardew Valley (DSV) - Seasonal](https://www.moddrop.com/stardew-valley/mods/580603-diverse-stardew-valley-dsv-seasonal)** was completely reorganised into multiple sub-mods for the 3.0 release.
+
+### Additions <!-- omit in toc -->
+
+**[Diverse Stardew Valley - Abigail, Caroline & Pierre](https://diversestardewvalley.weebly.com/)**
+
+**[Diverse Stardew Valley - Alex, Evelyn & George](https://diversestardewvalley.weebly.com/)**
+
+**[Diverse Stardew Valley - Emily, Haley & Sandy](https://diversestardewvalley.weebly.com/)**
+
+**[Diverse Stardew Valley - Harvey, Gus & Lewis](https://diversestardewvalley.weebly.com/)**
+
+**[Diverse Stardew Valley - Krobus, Mermaids, Wizard & Witch](https://diversestardewvalley.weebly.com/)**
+
+**[Diverse Stardew Valley - Leah & Elliott](https://diversestardewvalley.weebly.com/)**
+
+**[Diverse Stardew Valley - Marlon, Gunther & Morris](https://diversestardewvalley.weebly.com/)**
+
+**[Diverse Stardew Valley - Penny & Pam](https://diversestardewvalley.weebly.com/)**
+
+**[Diverse Stardew Valley - Sam, Vincent, Jodi & Kent](https://diversestardewvalley.weebly.com/)**
+
+**[Diverse Stardew Valley - Sebastian, Maru, Robin & Demetrius](https://diversestardewvalley.weebly.com/)**
+
+**[Diverse Stardew Valley - Shane, Jas & Marnie](https://diversestardewvalley.weebly.com/)**
+
+**[Diverse Stardew Valley - Willy, Clint & Linus](https://diversestardewvalley.weebly.com/)**
+
+**[Diverse Stardew Valley - Flower Queen's Crown](https://diversestardewvalley.weebly.com/)**
+
 ### Updates <!-- omit in toc -->
 
 **[Eidee Easy Fishing](https://www.nexusmods.com/stardewvalley/mods/4806)** updated to 1.1.1
 
 **[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 5.0.5
+
+### Removed <!-- omit in toc -->
+
+**[Diverse Stardew Valley (DSV) - Seasonal](https://www.moddrop.com/stardew-valley/mods/580603-diverse-stardew-valley-dsv-seasonal)**
 
 ## 0.4.0
 
