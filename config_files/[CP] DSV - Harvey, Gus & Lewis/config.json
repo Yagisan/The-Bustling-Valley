@@ -1,0 +1,16 @@
+{
+  "HarveyVariant": "Vanilla",
+  "HarveyLightweightConfig": "Full",
+  "GusVariant": "Vanilla",
+  "GusLightweightConfig": "Full",
+  "LewisVariant": "Vanilla",
+  "LewisLightweightConfig": "Full",
+  "HarveyCharacterMustache": "NoMustache",
+  "PlatonicNPCs": "",
+  "MermaidPendants": "true",
+  "Pyjamas": "marriage",
+  "WeddingOutfitHarvey": "1",
+  "LookingForLove": "",
+  "RidgesideVillageLenny": "off",
+  "GiftTastesChange": "true"
+}
