@@ -79,6 +79,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 5.0.5
 
+**[Custom Gift Dialogue Utillity](https://www.nexusmods.com/stardewvalley/mods/7304)** updated to 1.1.0
+
+**[Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)** updated to 3.4.8
+
 ### Removed <!-- omit in toc -->
 
 **[Diverse Stardew Valley (DSV) - Seasonal](https://www.moddrop.com/stardew-valley/mods/580603-diverse-stardew-valley-dsv-seasonal)**
