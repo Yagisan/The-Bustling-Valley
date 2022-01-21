@@ -256,6 +256,8 @@ Updating is like installing. You only have to make sure that you select the same
 - [Horse Overhaul](https://www.nexusmods.com/stardewvalley/mods/7911)
   - **H** Access horse information.
   - **P** Access pet information.
+- - [Event Lookup](https://www.nexusmods.com/stardewvalley/mods/8505)
+  - **N** List all heart events that can be triggered today.
 
 # Other Post Installation FAQ
 
