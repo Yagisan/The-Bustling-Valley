@@ -1,6 +1,6 @@
 # The Bustling Valley - Complete Modlist
 
-Last update **0.4.0**
+Last update **0.4.1**
 
 This is a complete list of all mods included in The Bustling Valley. The ordering is somewhat arbitrary and grouping matches my internal classification.
 
@@ -229,7 +229,6 @@ This list is only updated when mods are added or removed. If the version above d
 - [Elle's Seasonal Buildings for Alternative Textures - Vanilla](https://www.nexusmods.com/stardewvalley/mods/10038)
 - [Elle's Animals for Alternative Textures - Cats](https://www.nexusmods.com/stardewvalley/mods/10039)
 - [Elle's Animals for Alternative Textures - Dogs](https://www.nexusmods.com/stardewvalley/mods/10039)
-- [Elle's Animals for Alternative Textures - New Horses](https://www.nexusmods.com/stardewvalley/mods/10039)
 - [Elle's Animals for Alternative Textures - New Coop](https://www.nexusmods.com/stardewvalley/mods/10039)
 - [Elle's Animals for Alternative Textures - New Barn](https://www.nexusmods.com/stardewvalley/mods/10039)
 - [Lumisteria Toddlers Like Parents - Alternative Children](https://www.nexusmods.com/stardewvalley/mods/10494)
