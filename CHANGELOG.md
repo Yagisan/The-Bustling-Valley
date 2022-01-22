@@ -89,6 +89,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Elle's Animals for Alternative Textures - New Horses](https://www.nexusmods.com/stardewvalley/mods/10039)** gives the **[Horse Overhaul](https://www.nexusmods.com/stardewvalley/mods/7911)** horse a second head!
 
+### Modifications <!-- omit in toc -->
+
+**[Community Center Reimagined](https://www.nexusmods.com/stardewvalley/mods/6966)** fixed manifest to load after **[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)**
+
 ## 0.4.0
 
 **Released:** `16 Jan 2022`
