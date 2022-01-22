@@ -87,6 +87,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Diverse Stardew Valley (DSV) - Seasonal](https://www.moddrop.com/stardew-valley/mods/580603-diverse-stardew-valley-dsv-seasonal)**
 
+**[Elle's Animals for Alternative Textures - New Horses](https://www.nexusmods.com/stardewvalley/mods/10039)** gives the **[Horse Overhaul](https://www.nexusmods.com/stardewvalley/mods/7911)** horse a second head!
+
 ## 0.4.0
 
 **Released:** `16 Jan 2022`
