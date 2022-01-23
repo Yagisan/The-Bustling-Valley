@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.4.2](#042)
   - [0.4.1](#041)
   - [0.4.0](#040)
   - [0.3.5](#035)
@@ -37,9 +38,17 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
 
-## 0.4.1
+## 0.4.2
 
 **Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+## 0.4.1
+
+**Released:** `23 Jan 2022`
 
 ### Info <!-- omit in toc -->
 
