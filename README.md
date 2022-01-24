@@ -55,6 +55,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [How do I reset the configuration files?](#how-do-i-reset-the-configuration-files)
   - [Why are there trees in Ridgeside Village buildings?](#why-are-there-trees-in-ridgeside-village-buildings)
   - [Why can I walk off the right side road of the bus stop?](#why-can-i-walk-off-the-right-side-road-of-the-bus-stop)
+  - [Why do farmhands only see a vanilla map?](#why-do-farmhands-only-see-a-vanilla-map)
   - [Contact and Technical Support](#contact-and-technical-support)
 
 # Preamble
@@ -318,6 +319,10 @@ The Bustling Valley 0.2.0+ includes Ridgeside Village 2.0 - this is a complete o
 ## Why can I walk off the right side road of the bus stop?
 
 The updated Bus Stop map was made to allow access to an NPC that is not included in this mod list. That NPC is accessed via the right side road. The original better bus stop map had an oversight from Ridgeside Village. When Pam returns from the desert, she drove through grass and fences. As of Ridgeside Village 2.0.3 this map is included as-is from Ridgeside Village.
+
+## Why do farmhands only see a vanilla map?
+
+There is a limitation in SMAPI's content API which makes it difficult for recolors or expansion mods to correctly update the map for farmhands in multiplayer. There's a planned change in the upcoming SMAPI 4.0.0 to address that.
 
 ## Contact and Technical Support
 
