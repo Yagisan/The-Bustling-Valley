@@ -62,7 +62,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)
 - [Shop Tile Framework](https://www.nexusmods.com/stardewvalley/mods/9128)
 - [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720)
-- [Anti-Social NPCs](nexusmods.com/stardewvalley/mods/5371)
+- [Anti-Social NPCs](https://www.nexusmods.com/stardewvalley/mods/5371)
 - [Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)
 - [Custom Music](https://www.nexusmods.com/stardewvalley/mods/3043)
 - [Custom NPC Exclusions](https://www.nexusmods.com/stardewvalley/mods/7089)
