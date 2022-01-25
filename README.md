@@ -43,12 +43,12 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Gameplay](#gameplay)
 - [Mod Default Hotkeys](#mod-default-hotkeys)
 - [Other Post Installation FAQ](#other-post-installation-faq)
+  - [Why is it slow to start?](#why-is-it-slow-to-start)
   - [Stardew Valley just automatically updated, is it safe to run this list?](#stardew-valley-just-automatically-updated-is-it-safe-to-run-this-list)
   - [Does it work with a controller?](#does-it-work-with-a-controller)
   - [Does this work in multiplayer?](#does-this-work-in-multiplayer)
   - [Where is the Dwarf?](#where-is-the-dwarf)
   - [How do I use the WaterBot?](#how-do-i-use-the-waterbot)
-  - [Why is it slow to start?](#why-is-it-slow-to-start)
   - [How do I remove the Modlist?](#how-do-i-remove-the-modlist)
   - [Should I update SMAPI?](#should-i-update-smapi)
   - [What is the JSON Shuffle? Can it be fixed?](#what-is-the-json-shuffle-can-it-be-fixed)
@@ -262,6 +262,12 @@ Updating is like installing. You only have to make sure that you select the same
 
 # Other Post Installation FAQ
 
+## Why is it slow to start?
+
+The Bustling Valley can take up to 10 minutes or so to start. While it may look like it has hung, it is still loading. The primary cause of the slowdown is a mod called [PyTK](https://www.nexusmods.com/stardewvalley/mods/1726). This is used by many mods to load new maps, and is unfortunately not completely compatible with Stardew Valley 1.5.X, resulting in slow load times.
+
+Additionally, [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720) also slows down the start time of the game (although not to the extent PyTK does). The length of start up depends on how many JSON assets need to be loaded. Bigger mods, have many, many more assets than smaller mods. It doesn't affect runtime performance though.
+
 ## Stardew Valley just automatically updated, is it safe to run this list?
 
 Generally yes. The first time you load SMAPI will detect that the game has updated. It will need to restart. You should still check for a SMAPI update at [https://smapi.io/](https://smapi.io/) just in case.
@@ -285,10 +291,6 @@ Please follow Professor Jaspers questline until the 6 heart stage.
 To use the WaterBot, select the watering can, then **right click** on a crop. Your farmer will automatically travel to, and water every crop they can reach. The will refill the watering can as needed, from the closest water source, and will stop when either all crops are watered, or the farmer is out of energy.
 
 **WaterBot is not designed for a controller, and may behave erratically, or not at all if used with one.**
-
-## Why is it slow to start?
-
-Unfortunately JSON Assets slows down the start time of the game. The length of start up depends on how many JSON assets need to be loaded. Bigger mods, have many, many more assets than smaller mods. It doesn't affect runtime performance though.
 
 ## How do I remove the Modlist?
 
