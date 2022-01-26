@@ -1,6 +1,6 @@
 # The Bustling Valley - Complete Modlist
 
-Last update **0.4.1**
+Last update **0.4.2**
 
 This is a complete list of all mods included in The Bustling Valley. The ordering is somewhat arbitrary and grouping matches my internal classification.
 
@@ -136,6 +136,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)
 - [To-Dew](https://www.nexusmods.com/stardewvalley/mods/7409)
 - [Better Lightning Rods](https://www.nexusmods.com/stardewvalley/mods/10631)
+- [Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)
 
 ## Gifting and Friendship
 
