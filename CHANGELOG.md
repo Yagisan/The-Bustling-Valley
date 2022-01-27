@@ -378,7 +378,7 @@ Replaced **[Seasonal Outfits - Slightly Cuter Aesthetic](https://www.nexusmods.c
 
 ## 0.3.1
 
-**Released:** **Released:** `12 Dec 2021`
+**Released:** `12 Dec 2021`
 
 ### Info <!-- omit in toc -->
 
@@ -396,7 +396,7 @@ Replaced **[Seasonal Outfits - Slightly Cuter Aesthetic](https://www.nexusmods.c
 
 ## 0.3.0
 
-**Released:** **Released:** `6 Dec 2021`
+**Released:** `6 Dec 2021`
 
 ### Info <!-- omit in toc -->
 
@@ -508,7 +508,7 @@ Replaced **[Seasonal Outfits - Slightly Cuter Aesthetic](https://www.nexusmods.c
 
 ## 0.2.2
 
-**Released:** **Released:** `16 Nov 2021`
+**Released:** `16 Nov 2021`
 
 ### Info <!-- omit in toc -->
 
