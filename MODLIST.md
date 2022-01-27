@@ -25,7 +25,7 @@ This list is only updated when mods are added or removed. If the version above d
 ## Town, Village and NPC Expansions
 
 - [Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)
-- [MissCoriel's NPC Unique Courtship Response 4](https://www.nexusmods.com/stardewvalley/mods/3312)
+- [MissCoriel's NPC Unique Courtship Response 5](https://www.nexusmods.com/stardewvalley/mods/3312)
 - [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)
 - [Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)
 - [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)
