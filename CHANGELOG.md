@@ -52,6 +52,12 @@ The **[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)** will
 
 ### Updates <!-- omit in toc -->
 
+**[Jade](https://www.nexusmods.com/stardewvalley/mods/5559)** updated to 2.3.2
+
+**[Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)** updated to 1.2.0
+
+**[MissCoriel's NPC Unique Courtship Response 5](https://www.nexusmods.com/stardewvalley/mods/3312)** updated to 5.0.0
+
 ## 0.4.1
 
 **Released:** `23 Jan 2022`
