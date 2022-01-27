@@ -74,6 +74,7 @@ Please be aware that this modlist may make perfection very hard or impossible to
 - [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) for the tool to install this modlist.
 - [Issues](https://github.com/Yagisan/The-Bustling-Valley/issues) for technical support with this mod list.
 - [Changelog](CHANGELOG.md) for what's new.
+- [Wabbajack Discord](https://discord.gg/wabbajack) chat about the list, and discover lists for other games.
 - [Complete Modlist](MODLIST.md) a complete listing of everything included.
 
 # Requirements
