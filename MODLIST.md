@@ -39,7 +39,6 @@ This list is only updated when mods are added or removed. If the version above d
   - [Festival Locations](https://www.nexusmods.com/stardewvalley/mods/4040)
   - [Spouse Room](https://www.nexusmods.com/stardewvalley/mods/4040)
 - [Delores](https://www.nexusmods.com/stardewvalley/mods/5510)
-  - [Spouse Room](https://www.nexusmods.com/stardewvalley/mods/5510)
 - [Denver - Male - Boarding House](https://www.nexusmods.com/stardewvalley/mods/4594)
   - [Denver - Alternate Portraits](https://www.nexusmods.com/stardewvalley/mods/4594)
 - [Cecilia - Forest Home](https://www.nexusmods.com/stardewvalley/mods/6246)
