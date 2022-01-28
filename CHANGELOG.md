@@ -44,7 +44,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
-The **[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)** will now limit you to a maximum of **4** events per day. It has also been configured to never do multiple events in a row. This can help with storyline immersion - particularly with East Scarp, Lunna Astray, or Ridgeside Village quests. Skipped events will be played the next time they will trigger, provided an event limit has not been reached. Hardcoded events (weddings) and PlayerKilled events won't be skipped and won't be counted as a seen event for the purposes of limiting events.
+The **[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)** will now limit you to a maximum of **4** events per day. It has also been configured to do a maximum of 2 multiple events in a row. This can help with storyline immersion - particularly with East Scarp, Lunna Astray, or Ridgeside Village quests. Skipped events will be played the next time they will trigger, provided an event limit has not been reached. Hardcoded events (weddings) and PlayerKilled events won't be skipped and won't be counted as a seen event for the purposes of limiting events.
 
 ### Additions <!-- omit in toc -->
 
@@ -57,6 +57,8 @@ The **[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)** will
 **[Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)** updated to 1.2.0
 
 **[MissCoriel's NPC Unique Courtship Response 5](https://www.nexusmods.com/stardewvalley/mods/3312)** updated to 5.0.0
+
+**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 5.0.6
 
 ## 0.4.1
 
