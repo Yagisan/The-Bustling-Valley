@@ -274,6 +274,8 @@ Additionally, [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720) a
 
 Every day between 6:00am and 6:10am the game spawns in many objects. On some systems, this produces a noticeable lag or stutter when this occurs.
 
+Staggering the spawns out over a longer period to avoid this was tried but this resulted in multiple stutters as each group of spawns triggered, rather than a single one, so that solution was rejected.
+
 ## Stardew Valley just automatically updated, is it safe to run this list?
 
 Generally yes. The first time you load SMAPI will detect that the game has updated. It will need to restart. You should still check for a SMAPI update at [https://smapi.io/](https://smapi.io/) just in case.
