@@ -44,6 +44,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
 - [Mod Default Hotkeys](#mod-default-hotkeys)
 - [Other Post Installation FAQ](#other-post-installation-faq)
   - [Why is it slow to start?](#why-is-it-slow-to-start)
+  - [Why does the game stutter between 6:00am and 6:10am?](#why-does-the-game-stutter-between-600am-and-610am)
   - [Stardew Valley just automatically updated, is it safe to run this list?](#stardew-valley-just-automatically-updated-is-it-safe-to-run-this-list)
   - [Does it work with a controller?](#does-it-work-with-a-controller)
   - [Does this work in multiplayer?](#does-this-work-in-multiplayer)
@@ -268,6 +269,10 @@ Updating is like installing. You only have to make sure that you select the same
 The Bustling Valley can take up to 10 minutes or so to start. While it may look like it has hung, it is still loading. The primary cause of the slowdown is a mod called [PyTK](https://www.nexusmods.com/stardewvalley/mods/1726). This is used by many mods to load new maps, and is unfortunately not completely compatible with Stardew Valley 1.5.X, resulting in slow load times.
 
 Additionally, [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720) also slows down the start time of the game (although not to the extent PyTK does). The length of start up depends on how many JSON assets need to be loaded. Bigger mods, have many, many more assets than smaller mods. It doesn't affect runtime performance though.
+
+## Why does the game stutter between 6:00am and 6:10am?
+
+Every day between 6:00am and 6:10am the game spawns in many objects. On some systems, this produces a noticeable lag or stutter when this occurs.
 
 ## Stardew Valley just automatically updated, is it safe to run this list?
 
