@@ -60,6 +60,24 @@ The **[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)** will
 
 **[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 5.0.6
 
+**[Diverse Stardew Valley - Abigail, Caroline & Pierre](https://diversestardewvalley.weebly.com/)** updated to 3.0.1
+
+**[Diverse Stardew Valley - Alex, Evelyn & George](https://diversestardewvalley.weebly.com/)** updated to 3.0.1
+
+**[Diverse Stardew Valley - Harvey, Gus & Lewis](https://diversestardewvalley.weebly.com/)** updated to 3.0.1
+
+**[Diverse Stardew Valley - Leah & Elliott](https://diversestardewvalley.weebly.com/)** updated to 3.0.1
+
+**[Diverse Stardew Valley - Penny & Pam](https://diversestardewvalley.weebly.com/)** updated to 3.0.1
+
+**[Diverse Stardew Valley - Sam, Vincent, Jodi & Kent](https://diversestardewvalley.weebly.com/)** updated to 3.0.2
+
+**[Diverse Stardew Valley - Sebastian, Maru, Robin & Demetrius](https://diversestardewvalley.weebly.com/)** updated to 3.0.1
+
+**[Diverse Stardew Valley - Shane, Jas & Marnie](https://diversestardewvalley.weebly.com/)** updated to 3.0.2
+
+**[Diverse Stardew Valley - Flower Queen's Crown](https://diversestardewvalley.weebly.com/)** updated to 3.0.1
+
 ## 0.4.1
 
 **Released:** `23 Jan 2022`
