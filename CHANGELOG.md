@@ -44,7 +44,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
-The **[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)** will now limit you to a maximum of **4** events per day. It has also been configured to do a maximum of 2 multiple events in a row. This can help with storyline immersion - particularly with East Scarp, Lunna Astray, or Ridgeside Village quests. Skipped events will be played the next time they will trigger, provided an event limit has not been reached. Hardcoded events (weddings) and PlayerKilled events won't be skipped and won't be counted as a seen event for the purposes of limiting events.
+The **[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)** will now limit you to a maximum of **4** events per day. It has also been configured to do a maximum of 2 multiple events in a row. This can help with storyline immersion - particularly with East Scarp, Always Raining in the Valley, Lunna Astray, or Ridgeside Village quests. Skipped events will be played the next time they will trigger, provided an event limit has not been reached. Hardcoded events (weddings) and PlayerKilled events won't be skipped and won't be counted as a seen event for the purposes of limiting events.
 
 ### Additions <!-- omit in toc -->
 
@@ -77,6 +77,10 @@ The **[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)** will
 **[Diverse Stardew Valley - Shane, Jas & Marnie](https://diversestardewvalley.weebly.com/)** updated to 3.0.2
 
 **[Diverse Stardew Valley - Flower Queen's Crown](https://diversestardewvalley.weebly.com/)** updated to 3.0.1
+
+**[Show Birthdays](https://www.nexusmods.com/stardewvalley/mods/7495)** updated to 1.2.0
+
+**[Producer Framework Mod](https://www.nexusmods.com/stardewvalley/mods/4970)** updated to 1.7.4
 
 ## 0.4.1
 
