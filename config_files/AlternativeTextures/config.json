@@ -1,3 +1,11 @@
 {
-  "DisabledTextures": []
+  "DisabledTextures": [
+    {
+      "TextureId": "Lumisteria.AT.Craftable.Craftable_Chest",
+      "DisabledVariations": [
+        0,
+        1
+      ]
+    }
+  ]
 }
