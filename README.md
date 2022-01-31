@@ -57,6 +57,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Why are there trees in Ridgeside Village buildings?](#why-are-there-trees-in-ridgeside-village-buildings)
   - [Why can I walk off the right side road of the bus stop?](#why-can-i-walk-off-the-right-side-road-of-the-bus-stop)
   - [Why do farmhands only see a vanilla map?](#why-do-farmhands-only-see-a-vanilla-map)
+  - [Fishing is too Easy. How to to fix this?](#fishing-is-too-easy-how-to-to-fix-this)
   - [Contact and Technical Support](#contact-and-technical-support)
 
 # Preamble
@@ -332,7 +333,11 @@ The updated Bus Stop map was made to allow access to an NPC that is not included
 
 ## Why do farmhands only see a vanilla map?
 
-There is a limitation in SMAPI's content API which makes it difficult for recolors or expansion mods to correctly update the map for farmhands in multiplayer. There's a planned change in the upcoming SMAPI 4.0.0 to address that.
+There is a limitation in SMAPI's content API which makes it difficult for recolours or expansion mods to correctly update the map for farmhands in multiplayer. There's a planned change in the upcoming SMAPI 4.0.0 to address that.
+
+## Fishing is too Easy. How to to fix this?
+
+In the section **Gameplay Changes** there is a mod named *Eidee Easy Fishing*. Uncheck it. This is considered a *Rule 11* change (If you make modifications to these mod lists, you do so at your own risk.), when asking for support on the Wabbajack Discord.
 
 ## Contact and Technical Support
 
