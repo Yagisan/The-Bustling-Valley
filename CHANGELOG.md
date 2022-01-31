@@ -50,6 +50,8 @@ The **[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)** will
 
 **[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)**
 
+**[SAAT - Audio API and Toolkit](https://www.nexusmods.com/stardewvalley/mods/10747)**
+
 ### Updates <!-- omit in toc -->
 
 **[Jade](https://www.nexusmods.com/stardewvalley/mods/5559)** updated to 2.3.2
@@ -81,6 +83,8 @@ The **[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)** will
 **[Show Birthdays](https://www.nexusmods.com/stardewvalley/mods/7495)** updated to 1.2.0
 
 **[Producer Framework Mod](https://www.nexusmods.com/stardewvalley/mods/4970)** updated to 1.7.4
+
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.0.4
 
 ## 0.4.1
 
