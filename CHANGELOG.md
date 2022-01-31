@@ -86,6 +86,8 @@ The **[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)** will
 
 **[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.0.4
 
+**[Quest Framework](https://www.nexusmods.com/stardewvalley/mods/6414)** updated to 1.4.1
+
 ## 0.4.1
 
 **Released:** `23 Jan 2022`
