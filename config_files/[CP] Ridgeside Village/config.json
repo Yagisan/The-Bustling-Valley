@@ -4,6 +4,6 @@
   "EnableRidgesideMusic": "true",
   "RSVNPCSAttendFestivals": "true",
   "EasyIntroduction": "false",
-  "FullFestivals": "false",
+  "FullFestivals": "true",
   "EnableBetterBusStop": "true"
 }
