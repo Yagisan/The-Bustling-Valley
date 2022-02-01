@@ -58,6 +58,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Why can I walk off the right side road of the bus stop?](#why-can-i-walk-off-the-right-side-road-of-the-bus-stop)
   - [Why do farmhands only see a vanilla map?](#why-do-farmhands-only-see-a-vanilla-map)
   - [Fishing is too Easy. How to to fix this?](#fishing-is-too-easy-how-to-to-fix-this)
+  - [How do I exit the better sewers?](#how-do-i-exit-the-better-sewers)
   - [Contact and Technical Support](#contact-and-technical-support)
 
 # Preamble
@@ -338,6 +339,10 @@ There is a limitation in SMAPI's content API which makes it difficult for recolo
 ## Fishing is too Easy. How to to fix this?
 
 In the section **Gameplay Changes** there is a mod named *Eidee Easy Fishing*. Uncheck it. This is considered a *Rule 11* change (If you make modifications to these mod lists, you do so at your own risk.), when asking for support on the Wabbajack Discord.
+
+## How do I exit the better sewers?
+
+Run up the ladder, do not click on it. It no longer acts like a door.
 
 ## Contact and Technical Support
 
