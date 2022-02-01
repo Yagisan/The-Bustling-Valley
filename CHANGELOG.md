@@ -88,6 +88,8 @@ The **[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)** will
 
 **[Quest Framework](https://www.nexusmods.com/stardewvalley/mods/6414)** updated to 1.4.1
 
+**[A Cleaner Sewer](https://www.nexusmods.com/stardewvalley/mods/5751)** updated to 1.2.1
+
 ## 0.4.1
 
 **Released:** `23 Jan 2022`
