@@ -46,11 +46,21 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 The **[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)** will now limit you to a maximum of **4** events per day. It has also been configured to do a maximum of 2 multiple events in a row. This can help with storyline immersion - particularly with East Scarp, Always Raining in the Valley, Lunna Astray, or Ridgeside Village quests. Skipped events will be played the next time they will trigger, provided an event limit has not been reached. Hardcoded events (weddings) and PlayerKilled events won't be skipped and won't be counted as a seen event for the purposes of limiting events.
 
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** has been included. This will resample all of the games sprites using the xBRZ algorithm to give them smooth and crisp contours. If you wish to toggle between xBRZ resampling and vanilla sprites, press **F11** in game.
+
+**[Deluxe Grabber Redux](https://www.nexusmods.com/stardewvalley/mods/7920)** has been included to provide a Junimo alternative for Meadow farm and Summit Farm. Like Junimo Huts, it will harvest everything within 8 tiles of it. It can also harvest forage (but not trash!) from any map you place one on.
+
 ### Additions <!-- omit in toc -->
+
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)**
 
 **[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)**
 
 **[SAAT - Audio API and Toolkit](https://www.nexusmods.com/stardewvalley/mods/10747)**
+
+**[Penny 8 Heart Event Adjusted](https://www.nexusmods.com/stardewvalley/mods/9865)**
+
+**[Deluxe Grabber Redux](https://www.nexusmods.com/stardewvalley/mods/7920)**
 
 ### Updates <!-- omit in toc -->
 
@@ -89,6 +99,8 @@ The **[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)** will
 **[Quest Framework](https://www.nexusmods.com/stardewvalley/mods/6414)** updated to 1.4.1
 
 **[A Cleaner Sewer](https://www.nexusmods.com/stardewvalley/mods/5751)** updated to 1.2.1
+
+**[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.0.0
 
 ## 0.4.1
 
