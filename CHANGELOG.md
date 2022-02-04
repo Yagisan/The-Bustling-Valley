@@ -90,7 +90,7 @@ The **[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)** will
 
 **[Diverse Stardew Valley - Flower Queen's Crown](https://diversestardewvalley.weebly.com/)** updated to 3.0.1
 
-**[Show Birthdays](https://www.nexusmods.com/stardewvalley/mods/7495)** updated to 1.2.0
+**[Show Birthdays](https://www.nexusmods.com/stardewvalley/mods/7495)** updated to 1.2.1
 
 **[Producer Framework Mod](https://www.nexusmods.com/stardewvalley/mods/4970)** updated to 1.7.4
 
@@ -100,7 +100,7 @@ The **[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)** will
 
 **[A Cleaner Sewer](https://www.nexusmods.com/stardewvalley/mods/5751)** updated to 1.2.1
 
-**[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.0.0
+**[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.1.1
 
 ## 0.4.1
 
