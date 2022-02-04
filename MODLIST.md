@@ -113,6 +113,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Greenhouse Gatherers](https://www.nexusmods.com/stardewvalley/mods/7619)
 - [Island Gatherers](https://www.nexusmods.com/stardewvalley/mods/8552)
   - [Island Gatherers - Automate Support](https://www.nexusmods.com/stardewvalley/mods/8552)
+- [Deluxe Grabber Redux](https://www.nexusmods.com/stardewvalley/mods/7920)
 
 ## QOL Changes
 
@@ -183,6 +184,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Egg Festival Winner Randomized](https://www.nexusmods.com/stardewvalley/mods/8574)
 - [Lore-Friendly JojaMart Prices](https://www.nexusmods.com/stardewvalley/mods/2658)
 - [Visible Fish](https://www.nexusmods.com/stardewvalley/mods/8897)
+- [Penny 8 Heart Event Adjusted](https://www.nexusmods.com/stardewvalley/mods/9865)
 
 ## Crops and Recipes
 
@@ -224,6 +226,7 @@ This list is only updated when mods are added or removed. If the version above d
 
 ## Texture Packs
 
+- [SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)
 - [Elle's Seasonal Vanilla Buildings](https://www.nexusmods.com/stardewvalley/mods/6330)
 - [Snow-Covered Craftables](https://www.nexusmods.com/stardewvalley/mods/3990)
 - [Gold Clock Sundial](https://www.nexusmods.com/stardewvalley/mods/7863)
