@@ -48,7 +48,7 @@ The **[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)** will
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** has been included. This will resample all of the games sprites using the xBRZ algorithm to give them smooth and crisp contours. If you wish to toggle between xBRZ resampling and vanilla sprites, press **F11** in game.
 
-**[Deluxe Grabber Redux](https://www.nexusmods.com/stardewvalley/mods/7920)** has been included to provide a Junimo alternative for Meadow farm and Summit Farm. Like Junimo Huts, it will harvest everything within 8 tiles of it. It can also harvest forage (but not trash!) from any map you place one on.
+**[Deluxe Grabber Redux](https://www.nexusmods.com/stardewvalley/mods/7920)** has been included to provide a Junimo alternative for Meadow Farm (avaiable in East Scarp) and Summit Farm (avaiable in Ridgeside Village). Like Junimo Huts, it will harvest everything within 8 tiles of it. It can also harvest forage (but not trash!) from any map you place one on.
 
 ### Additions <!-- omit in toc -->
 
