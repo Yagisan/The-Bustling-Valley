@@ -45,6 +45,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
 - [Other Post Installation FAQ](#other-post-installation-faq)
   - [Why is it slow to start?](#why-is-it-slow-to-start)
   - [Why does the game stutter between 6:00am and 6:10am?](#why-does-the-game-stutter-between-600am-and-610am)
+  - [I hate SpriteMaster. How do I stop it?](#i-hate-spritemaster-how-do-i-stop-it)
   - [Stardew Valley just automatically updated, is it safe to run this list?](#stardew-valley-just-automatically-updated-is-it-safe-to-run-this-list)
   - [Does it work with a controller?](#does-it-work-with-a-controller)
   - [Does this work in multiplayer?](#does-this-work-in-multiplayer)
@@ -263,6 +264,8 @@ Updating is like installing. You only have to make sure that you select the same
   - **P** Access pet information.
 - [Event Lookup](https://www.nexusmods.com/stardewvalley/mods/8505)
   - **N** List all heart events that can be triggered today.
+- [SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)
+  - **F11** Toggle SpriteMaster on and off.
 
 # Other Post Installation FAQ
 
@@ -277,6 +280,10 @@ Additionally, [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720) a
 Every day between 6:00am and 6:10am the game spawns in many objects. On some systems, this produces a noticeable lag or stutter when this occurs.
 
 Staggering the spawns out over a longer period to avoid this was tried but this resulted in multiple stutters as each group of spawns triggered, rather than a single one, so that solution was rejected.
+
+## I hate SpriteMaster. How do I stop it?
+
+Press **F11** in-game to toggle between SpriteMaster active, or disabled.
 
 ## Stardew Valley just automatically updated, is it safe to run this list?
 
