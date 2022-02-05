@@ -185,6 +185,8 @@ This list is only updated when mods are added or removed. If the version above d
 - [Lore-Friendly JojaMart Prices](https://www.nexusmods.com/stardewvalley/mods/2658)
 - [Visible Fish](https://www.nexusmods.com/stardewvalley/mods/8897)
 - [Penny 8 Heart Event Adjusted](https://www.nexusmods.com/stardewvalley/mods/9865)
+- [(CC) SH's Wild Animals](https://www.nexusmods.com/stardewvalley/mods/9063)
+- [(CC) SH's Domestic Animals](https://www.nexusmods.com/stardewvalley/mods/10134)
 
 ## Crops and Recipes
 
