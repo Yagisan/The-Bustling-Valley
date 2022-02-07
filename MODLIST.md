@@ -1,6 +1,6 @@
 # The Bustling Valley - Complete Modlist
 
-Last update **0.4.2**
+Last update **0.4.3**
 
 This is a complete list of all mods included in The Bustling Valley. The ordering is somewhat arbitrary and grouping matches my internal classification.
 
@@ -38,6 +38,7 @@ This list is only updated when mods are added or removed. If the version above d
   - [Boarding House Patch](https://www.nexusmods.com/stardewvalley/mods/4040)
   - [Festival Locations](https://www.nexusmods.com/stardewvalley/mods/4040)
   - [Spouse Room](https://www.nexusmods.com/stardewvalley/mods/4040)
+- [Seasonal Sorren (Slightly Cuter Character Sprites)](https://www.nexusmods.com/stardewvalley/mods/10853)
 - [Delores](https://www.nexusmods.com/stardewvalley/mods/5510)
 - [Denver - Male - Boarding House](https://www.nexusmods.com/stardewvalley/mods/4594)
   - [Denver - Alternate Portraits](https://www.nexusmods.com/stardewvalley/mods/4594)
@@ -51,6 +52,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Ginger Island NPC Overhaul](https://www.nexusmods.com/stardewvalley/mods/9242)
 - [Stardew Aquarium](https://www.nexusmods.com/stardewvalley/mods/6372)
 - [Surfing Festival](https://www.nexusmods.com/stardewvalley/mods/6688)
+- [Sandy Goes to the Beach](https://www.nexusmods.com/stardewvalley/mods/10960)
 
 ## Frameworks
 
@@ -84,6 +86,9 @@ This list is only updated when mods are added or removed. If the version above d
 - [Custom Gift Dialogue Utillity](https://www.nexusmods.com/stardewvalley/mods/7304)
 - [Train Station](https://www.nexusmods.com/stardewvalley/mods/6183)
 - [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
+- [Extra Map Layers](https://www.nexusmods.com/stardewvalley/mods/9633)
+- [Ginger Island Mainland Adjustments](https://www.nexusmods.com/stardewvalley/mods/10004)
+  - [CP - Ginger Island Mainland Adjustments](https://www.nexusmods.com/stardewvalley/mods/10004)
 
 ## Gameplay Changes
 
