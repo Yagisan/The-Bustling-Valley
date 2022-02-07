@@ -71,6 +71,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.1.0 beta release - dated 5 Feb 2022
 
+**[Custom NPC Exclusions](https://www.nexusmods.com/stardewvalley/mods/7089)** updated to 1.4.0
+
 ## 0.4.2
 
 **Released:** `6 Feb 2022`
