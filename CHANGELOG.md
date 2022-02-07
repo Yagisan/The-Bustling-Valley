@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.4.3](#043)
   - [0.4.2](#042)
   - [0.4.1](#041)
   - [0.4.0](#040)
@@ -37,6 +38,38 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.4.3
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+**[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** has been updated to a 2.1.0 beta release - dated 5 Feb 2022. This beta removes PyTK and TMXL requirements, and has begun to include events for the Rosa character. While the removal of PyTK and TMXL appears to have been a success, this is still a pre-release version of the mod, and should be treated as such. 
+
+### Additions <!-- omit in toc -->
+
+**[Extra Map Layers](https://www.nexusmods.com/stardewvalley/mods/9633)**
+
+**[Seasonal Sorren (Slightly Cuter Character Sprites)](https://www.nexusmods.com/stardewvalley/mods/10853)**
+
+**[Ginger Island Mainland Adjustments](https://www.nexusmods.com/stardewvalley/mods/10004)**
+
+**[CP - Ginger Island Mainland Adjustments](https://www.nexusmods.com/stardewvalley/mods/10004)**
+
+**[Sandy Goes to the Beach](https://www.nexusmods.com/stardewvalley/mods/10960)**
+
+### Updates <!-- omit in toc -->
+
+**[PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726)** updated to 1.23.0
+
+**[TMXL Map Toolkit](https://www.nexusmods.com/stardewvalley/mods/1820)** updated to 1.23.0
+
+**[Custom Music](https://www.nexusmods.com/stardewvalley/mods/3043)** updated to 1.9.0
+
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.0.5
+
+**[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.1.0 beta release - dated 5 Feb 2022
 
 ## 0.4.2
 
