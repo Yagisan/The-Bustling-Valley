@@ -45,7 +45,11 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
-**[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** has been updated to a 2.1.0 beta release - dated 5 Feb 2022. This beta removes PyTK and TMXL requirements, and has begun to include events for the Rosa character. While the removal of PyTK and TMXL appears to have been a success, this is still a pre-release version of the mod, and should be treated as such. 
+**[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** has been updated to a 2.1.0 beta release - dated 5 Feb 2022. This beta removes PyTK and TMXL requirements, and has begun to include events for the Rosa character. While the removal of PyTK and TMXL appears to have been a success, this is still a pre-release version of the mod, and should be treated as such.
+
+**[Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)** updated to a 1.7.0 beta release - dated 8 Feb 2022. This beta removes PyTK and TMXL requirements. While the removal of PyTK and TMXL appears to have been a success, this is still a pre-release version of the mod, and should be treated as such.
+
+**[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)** updated to a 1.4.0 beta release - dated 8 Feb 2022. This beta removes PyTK and TMXL requirements. While the removal of PyTK and TMXL appears to have been a success, this is still a pre-release version of the mod, and should be treated as such.
 
 ### Additions <!-- omit in toc -->
 
@@ -71,7 +75,13 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.1.0 beta release - dated 5 Feb 2022
 
+**[Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)** updated to a 1.7.0 beta release - dated 8 Feb 2022.
+
+**[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)** updated to a 1.4.0 beta release - dated 8 Feb 2022.
+
 **[Custom NPC Exclusions](https://www.nexusmods.com/stardewvalley/mods/7089)** updated to 1.4.0
+
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.13.0-Beta.1
 
 ## 0.4.2
 
