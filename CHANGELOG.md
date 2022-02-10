@@ -45,6 +45,14 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
+**WARNING** **WARNING** **WARNING**
+
+ **DO NOT** take the "Collect the Artifacts" special order. It's not fully tested and has odd quirks.
+
+**DO NOT** take the "Cleanse the Spirit Realm" special order. It will be automatically added after a certain event occurs.
+
+**WARNING** **WARNING** **WARNING**
+
 **[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** has been updated to a 2.1.0 beta release - dated 5 Feb 2022. This beta removes PyTK and TMXL requirements, and has begun to include events for the Rosa character. While the removal of PyTK and TMXL appears to have been a success, this is still a pre-release version of the mod, and should be treated as such.
 
 **[Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)** updated to a 1.7.0 beta release - dated 8 Feb 2022. This beta removes PyTK and TMXL requirements. While the removal of PyTK and TMXL appears to have been a success, this is still a pre-release version of the mod, and should be treated as such.
