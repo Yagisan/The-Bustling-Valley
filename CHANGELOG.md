@@ -91,7 +91,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.13.0-Beta.1
 
-**[Watering Grants Experience And Crops Can Wither](https://www.nexusmods.com/stardewvalley/mods/7768)** updated to 1.1.0
+**[Watering Grants Experience And Crops Can Wither](https://www.nexusmods.com/stardewvalley/mods/7768)** updated to 1.1.2
 
 ## 0.4.2
 
