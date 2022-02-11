@@ -53,6 +53,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Stardew Aquarium](https://www.nexusmods.com/stardewvalley/mods/6372)
 - [Surfing Festival](https://www.nexusmods.com/stardewvalley/mods/6688)
 - [Sandy Goes to the Beach](https://www.nexusmods.com/stardewvalley/mods/10960)
+- [Alec Revisited](https://www.nexusmods.com/stardewvalley/mods/10697)
 
 ## Frameworks
 
@@ -143,6 +144,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [To-Dew](https://www.nexusmods.com/stardewvalley/mods/7409)
 - [Better Lightning Rods](https://www.nexusmods.com/stardewvalley/mods/10631)
 - [Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)
+- [Reset Terrain Features](https://www.nexusmods.com/stardewvalley/mods/4715)
 
 ## Gifting and Friendship
 
