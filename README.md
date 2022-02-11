@@ -266,6 +266,8 @@ Updating is like installing. You only have to make sure that you select the same
   - **N** List all heart events that can be triggered today.
 - [SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)
   - **F11** Toggle SpriteMaster on and off.
+- [Reset Terrain Features](https://www.nexusmods.com/stardewvalley/mods/4715)
+  - **V** access the reset terrain menu.
 
 # Other Post Installation FAQ
 
