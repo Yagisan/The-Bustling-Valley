@@ -59,6 +59,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)** updated to a 1.4.0 beta release - dated 8 Feb 2022. This beta removes PyTK and TMXL requirements. While the removal of PyTK and TMXL appears to have been a success, this is still a pre-release version of the mod, and should be treated as such.
 
+**[Reset Terrain Features](https://www.nexusmods.com/stardewvalley/mods/4715)** has been added. By pressing the hotkey **V** maps can have objects such as bushes reset, if a map changes due to an update.
+
 ### Additions <!-- omit in toc -->
 
 **[Extra Map Layers](https://www.nexusmods.com/stardewvalley/mods/9633)**
@@ -70,6 +72,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[CP - Ginger Island Mainland Adjustments](https://www.nexusmods.com/stardewvalley/mods/10004)**
 
 **[Sandy Goes to the Beach](https://www.nexusmods.com/stardewvalley/mods/10960)**
+
+**[Reset Terrain Features](https://www.nexusmods.com/stardewvalley/mods/4715)**
+
+**[Alec Revisited](https://www.nexusmods.com/stardewvalley/mods/10697)**
 
 ### Updates <!-- omit in toc -->
 
