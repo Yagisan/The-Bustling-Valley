@@ -47,7 +47,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **WARNING** **WARNING** **WARNING**
 
- **DO NOT** take the "Collect the Artifacts" special order. It's not fully tested and has odd quirks.
+ **DO NOT** take the "Collect the Artefacts" special orders. They are not fully tested and has odd quirks. They should not trigger anyway for most people.
 
 **DO NOT** take the "Cleanse the Spirit Realm" special order. It will be automatically added after a certain event occurs.
 
@@ -70,8 +70,6 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Ginger Island Mainland Adjustments](https://www.nexusmods.com/stardewvalley/mods/10004)**
 
 **[CP - Ginger Island Mainland Adjustments](https://www.nexusmods.com/stardewvalley/mods/10004)**
-
-**[Sandy Goes to the Beach](https://www.nexusmods.com/stardewvalley/mods/10960)**
 
 **[Reset Terrain Features](https://www.nexusmods.com/stardewvalley/mods/4715)**
 
@@ -98,6 +96,32 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.13.0-Beta.1
 
 **[Watering Grants Experience And Crops Can Wither](https://www.nexusmods.com/stardewvalley/mods/7768)** updated to 1.1.2
+
+**[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)** updated to 1.1.0
+
+**[Diverse Stardew Valley - Abigail, Caroline & Pierre](https://diversestardewvalley.weebly.com/)** updated to 3.0.3
+
+**[Diverse Stardew Valley - Alex, Evelyn & George](https://diversestardewvalley.weebly.com/)** updated to 3.0.2
+
+**[Diverse Stardew Valley - Emily, Haley & Sandy](https://diversestardewvalley.weebly.com/)** updated to 3.0.2
+
+**[Diverse Stardew Valley - Harvey, Gus & Lewis](https://diversestardewvalley.weebly.com/)** updated to 3.0.3
+
+**[Diverse Stardew Valley - Krobus, Mermaids, Wizard & Witch](https://diversestardewvalley.weebly.com/)** updated to 3.0.1
+
+**[Diverse Stardew Valley - Leah & Elliott](https://diversestardewvalley.weebly.com/)** updated to 3.0.2
+
+**[Diverse Stardew Valley - Marlon, Gunther & Morris](https://diversestardewvalley.weebly.com/)** updated to 3.1.2
+
+**[Diverse Stardew Valley - Penny & Pam](https://diversestardewvalley.weebly.com/)** updated to 3.0.2
+
+**[Diverse Stardew Valley - Sam, Vincent, Jodi & Kent](https://diversestardewvalley.weebly.com/)** updated to 3.0.4
+
+**[Diverse Stardew Valley - Sebastian, Maru, Robin & Demetrius](https://diversestardewvalley.weebly.com/)** updated to 3.0.2
+
+**[Diverse Stardew Valley - Shane, Jas & Marnie](https://diversestardewvalley.weebly.com/)** updated to 3.0.3
+
+**[Diverse Stardew Valley - Willy, Clint & Linus](https://diversestardewvalley.weebly.com/)** updated to 3.0.1
 
 ## 0.4.2
 
