@@ -41,13 +41,13 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.4.3
 
-**Released:** `DD MMM YYYY`
+**Released:** `13 Feb 2022`
 
 ### Info <!-- omit in toc -->
 
 **WARNING** **WARNING** **WARNING**
 
- **DO NOT** take the "Collect the Artefacts" special orders. They are not fully tested and has odd quirks. They should not trigger anyway for most people.
+**DO NOT** take the "Collect the Artefacts" special orders. They are not fully tested and has odd quirks. They should not trigger anyway for most people.
 
 **DO NOT** take the "Cleanse the Spirit Realm" special order. It will be automatically added after a certain event occurs.
 
