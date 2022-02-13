@@ -52,7 +52,6 @@ This list is only updated when mods are added or removed. If the version above d
 - [Ginger Island NPC Overhaul](https://www.nexusmods.com/stardewvalley/mods/9242)
 - [Stardew Aquarium](https://www.nexusmods.com/stardewvalley/mods/6372)
 - [Surfing Festival](https://www.nexusmods.com/stardewvalley/mods/6688)
-- [Sandy Goes to the Beach](https://www.nexusmods.com/stardewvalley/mods/10960)
 - [Alec Revisited](https://www.nexusmods.com/stardewvalley/mods/10697)
 
 ## Frameworks
