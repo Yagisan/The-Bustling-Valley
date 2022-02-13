@@ -1,5 +1,5 @@
 [Config]
-ConfigVersion = "0.13.0"
+ConfigVersion = "0.13.0.6922"
 # Should SpriteMaster be enabled?
 Enabled = true
 # Button to toggle SpriteMaster
@@ -43,8 +43,8 @@ LogLevel = "Trace"
 [Config.DrawState]
 # Enable linear sampling for sprites
 SetLinear = true
-# Enable MSAA
-EnableMSAA = false
+# How many MSAA samples should be used?
+MSAASamples = 0
 # Disable the depth buffer (unused in this game)
 DisableDepthBuffer = false
 # The default backbuffer format to request
@@ -77,6 +77,18 @@ PremultipliedAlphaThreshold = 1
 PremultiplyAlpha = true
 # Should sprites be assumed to be premultiplied, or should they instead by analyzed?
 PremultiplyAlphaAssume = true
+SlicedTextures = [
+	"LooseSprites/Cursors::0,2000:640,256", 
+	"LooseSprites/Cloudy_Ocean_BG", 
+	"LooseSprites/Cloudy_Ocean_BG_Night", 
+	"Maps/nightSceneMaru", 
+	"Maps/nightSceneMaruTrees", 
+	"Maps/sebastianMountainTiles", 
+	"Maps/sebastianRideTiles", 
+	"Tilesheets/GuntherExpedition2_Shadows", 
+	"Tilesheets/Highlands_Fog", 
+	"Tilesheets/Highlands_FogBackground"
+]
 # What textures or spritesheets use 4xblock sizes?
 TwoXTextures = [
 	"Maps/WoodBuildings"
@@ -120,9 +132,7 @@ FourXTextures = [
 ]
 # What spritesheets will absolutely not be resampled or processed?
 Blacklist = [
-	"LooseSprites/Lighting/", 
-	"LooseSprites/Cloudy_Ocean_BG", 
-	"LooseSprites/Cloudy_Ocean_BG_Night"
+	"LooseSprites/Lighting/"
 ]
 
 [Config.Resample.BlockMultipleAnalysis]
@@ -231,6 +241,32 @@ Enabled = true
 AlwaysFlush = false
 # Should the memory cache be asynchronous?
 Async = true
+
+[Config.SuspendedCache]
+# Should the suspended sprite cache be enabled?
+Enabled = true
+
+[Config.SMAPI]
+# Should the experimental SMAPI texture cache patch be enabled?
+TextureCacheEnabled = true
+# Should the ApplyPatch method be patched?
+ApplyPatchEnabled = true
+# Should the ApplyPatch patch use SpriteMaster caches?
+ApplyPatchUseCache = true
+# Should ApplyPatch pin temporary memory?
+ApplyPatchPinMemory = false
+
+[Config.Extras]
+# Should line drawing be smoothed?
+SmoothLines = true
+# Should the default batch sort be replaced with a stable sort?
+StableSort = true
+# Should custom snowfall be used during snowstorms?
+CustomSnow = true
+# Minimum Custom Snow Density
+MinimumSnowDensity = 1024
+# Maximum Custom Snow Density
+MaximumSnowDensity = 3072
 
 [Config.FileCache]
 # Should the file cache be enabled?
