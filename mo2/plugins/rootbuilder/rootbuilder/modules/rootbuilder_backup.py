@@ -31,6 +31,9 @@ class RootBuilderBackup():
         self.backupFileList(backupFiles)
         # Save the current data
         self.saveFileData(fileData)
+        # delete any existing mods.
+        if Path.exists(self.paths.gamePath() / self.paths.gameDataDir()):
+            shutil.rmtree(str(self.paths.gamePath() / self.paths.gameDataDir()))
 
     def restore(self):
         """ Restores the game to the most vanilla state possible, copying changes to overwrite. """
