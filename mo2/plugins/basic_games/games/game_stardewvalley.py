@@ -36,7 +36,7 @@ class StardewValleyGame(BasicGame):
     GameSteamId = 413150
     GameGogId = 1453375253
     GameBinary = "Stardew Valley.exe"
-    GameDataPath = "mods"
+    GameDataPath = "tbv_mods"
     GameDocumentsDirectory = "%DOCUMENTS%/StardewValley"
     GameSavesDirectory = "%GAME_DOCUMENTS%/Saves"
 
