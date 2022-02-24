@@ -79,14 +79,12 @@ class RootBuilderBackup():
         else:
             qInfo("Backup data does not exist, skipping restore.")
 
-        # Some Stardew Valley Mods apparently ship empty folders, and this dies with permission errors, so skip cleanup.
-        # We're just gonna delete the entire backup anyway.
         # Clean up any empty game folders.
-        #gameFolders = self.files.getGameFolderList()
-        #for folder in gameFolders:
-        #    if folder.exists():
-        #        if len(self.files.getFolderFileList(folder)) == 0:
-        #            shutil.rmtree(folder)
+        gameFolders = self.files.getGameFolderList()
+        for folder in gameFolders:
+            if folder.exists():
+                if len(self.files.getFolderFileList(folder)) == 0:
+                    shutil.rmtree(folder)
         # If backup is disabled, we can clear any backed up files now that the restore is complete.
         #if self.settings.backup() is False:
         # Unconditionally clear this.
