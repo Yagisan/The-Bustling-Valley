@@ -6,7 +6,7 @@
 
 The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. It includes new villages, new NPCs, and of course a farming expansion. **It is expected that players will not add additional mods or otherwise change this modlist.**
 
-**As of 0.4.5 The Bustling Valley will coexist with manual mod installations and/or Nexus Collections.** **This list is self-contained, and includes it's own copy of SMAPI.**
+**As of 0.4.4 The Bustling Valley will coexist with manual mod installations and/or Nexus Collections.** **This list is self-contained, and includes it's own copy of SMAPI.**
 
 ![Early_Farm_Heroshot](assets/images/Early_Farm_Heroshot.png)
 
@@ -65,7 +65,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
 
 The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. Designed for experienced players, it comes with 2 big expansions (Ridgeside Village and East Scarp), and several smaller expansions including new NPCS. With an enormous variety of new crops, new artisan goods, and new recipes, you'll find something new to specialise your farm in. **It is expected that players will not add additional mods or otherwise change this modlist.**
 
-**As of 0.4.5 The Bustling Valley will coexist with manual mod installations and/or Nexus Collections.** **This list is self-contained, and includes it's own copy of SMAPI.**
+**As of 0.4.4 The Bustling Valley will coexist with manual mod installations and/or Nexus Collections.** **This list is self-contained, and includes it's own copy of SMAPI.**
 
 Please be aware that this modlist may make perfection very hard or impossible to get.
 
@@ -309,7 +309,7 @@ Simply delete the installation folder (`C:\WJ\TBV` if you have been following th
 
 ## Should I update SMAPI?
 
-Not for the Bustling Valley. As of 0.4.5 the Bustling Valley now includes SMAPI, and this will be updated as needed in the Bustling Valley releases.
+Not for the Bustling Valley. As of 0.4.4 the Bustling Valley now includes SMAPI, and this will be updated as needed in the Bustling Valley releases.
 
 ## What is the JSON Shuffle? Can it be fixed?
 
