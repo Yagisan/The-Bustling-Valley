@@ -1,3 +1,4 @@
 {
-  "EnableSpecialOrders": "true"
+  "EnableSpecialOrders": "true",
+  "AllowNagito": "false"
 }
