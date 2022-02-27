@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.4.5](#045)
   - [0.4.4](#044)
   - [0.4.3](#043)
   - [0.4.2](#042)
@@ -39,6 +40,40 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.4.5
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+In this release the **[Custom Music](https://www.nexusmods.com/stardewvalley/mods/3043)** framework has finally been removed as all mods that depended on it, have now upgraded to the replacement framework **[SAAT - Audio API and Toolkit](https://www.nexusmods.com/stardewvalley/mods/10747)**.
+
+### Updates <!-- omit in toc -->
+
+**[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.1.0 beta release - dated 19 Feb 2022
+
+**[Always Raining in the Valley - Custom NPCs for ES](https://www.nexusmods.com/stardewvalley/mods/9999)** updated to 1.0.3 beta release - dated 22 Feb 2022
+
+**[Krobus Spouse Room](https://www.nexusmods.com/stardewvalley/mods/5751)** updated to the 1.1 content patcher release.
+
+**[Show Birthdays](https://www.nexusmods.com/stardewvalley/mods/7495)** updated to 1.2.3
+
+**[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)** updated to 1.1.1
+
+**[Canon-Friendly Dialogue Expansion for All Friend-able Characters](https://www.nexusmods.com/stardewvalley/mods/2544)** updated to 2.0.11
+
+**[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.8.0
+
+**[Diverse Stardew Valley - Alex, Evelyn & George](https://diversestardewvalley.weebly.com/)** updated to 3.0.3
+
+**[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** updated to 2.0.4
+
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.13.0-Beta.2
+
+### Removed <!-- omit in toc -->
+
+**[Custom Music](https://www.nexusmods.com/stardewvalley/mods/3043)**
 
 ## 0.4.4
 
