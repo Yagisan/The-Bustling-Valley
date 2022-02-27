@@ -6,7 +6,7 @@
 
 The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. It includes new villages, new NPCs, and of course a farming expansion. **It is expected that players will not add additional mods or otherwise change this modlist.**
 
-**You should NOT be installing this onto an already modded Stardew Valley. Remove existing installed mods before installing this mod list.**
+**As of 0.4.5 The Bustling Valley will coexist with manual mod installations and/or Nexus Collections.** **This list is self-contained, and includes it's own copy of SMAPI.**
 
 ![Early_Farm_Heroshot](assets/images/Early_Farm_Heroshot.png)
 
@@ -20,7 +20,6 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Installing Microsoft .NET 5.0 Runtime](#installing-microsoft-net-50-runtime)
-    - [Installing SMAPI](#installing-smapi)
     - [Steam Config](#steam-config)
       - [Disable the Steam Cloud](#disable-the-steam-cloud)
     - [GoG Galaxy Config](#gog-galaxy-config)
@@ -66,7 +65,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
 
 The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. Designed for experienced players, it comes with 2 big expansions (Ridgeside Village and East Scarp), and several smaller expansions including new NPCS. With an enormous variety of new crops, new artisan goods, and new recipes, you'll find something new to specialise your farm in. **It is expected that players will not add additional mods or otherwise change this modlist.**
 
-**You should NOT be installing this onto an already modded Stardew Valley. Remove existing installed mods before installing this mod list.**
+**As of 0.4.5 The Bustling Valley will coexist with manual mod installations and/or Nexus Collections.** **This list is self-contained, and includes it's own copy of SMAPI.**
 
 Please be aware that this modlist may make perfection very hard or impossible to get.
 
@@ -84,7 +83,6 @@ Please be aware that this modlist may make perfection very hard or impossible to
 # Requirements
 
 - The latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases)
-- The latest version of [SMAPI](https://smapi.io/)
 - A [Nexus Mods](https://www.nexusmods.com/) account.
 - An up to date, unmodded, Stardew Valley installation.
   - **Acquired through either [GOG](https://www.gog.com/game/stardew_valley) or [Steam](https://store.steampowered.com/app/413150/Stardew_Valley/).**
@@ -94,8 +92,6 @@ Please be aware that this modlist may make perfection very hard or impossible to
   - Around 1GB for the mod list installation.
 
 # Installation
-
-**A final reminder. You should NOT be installing this onto an already modded Stardew Valley. Remove existing installed mods before installing this mod list.**
 
 ## Pre-Installation
 
@@ -108,12 +104,6 @@ It is unlikely that you are missing this. However it is needed for MO2 and sever
 ### Installing Microsoft .NET 5.0 Runtime
 
 As Stardew Valley 1.5.5 and later is now a 64 bit release, you must install the [Microsoft .NET 5.0 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) to play the game. Download the x64 version under "Run desktop apps". This is a [Direct link](https://download.visualstudio.microsoft.com/download/pr/1daf85dc-291b-4bb8-812e-a0df5cdb6701/85455a4a851347de26e2901e043b81e1/windowsdesktop-runtime-5.0.12-win-x64.exe) if you can't find it.
-
-### Installing SMAPI
-
-Stardew Valley mods depend on a special mod loader known as SMAPI. Go to the [SMAPI homepage](https://smapi.io/) and download the latest version so SMAPI to a temporary location. The recommended temporary folder is `C:\TEMP\SMAPI`. Extract the contents of SMAPI to that folder. There will be a batch file name `install on Windows.bat`. Run it and follow the prompts to install SMAPI. This same file can be used to uninstall SMAPI if needed.
-
-**SMAPI updates regularly, and you should update it whenever you install or update this modlist.**
 
 ### Steam Config
 
@@ -277,6 +267,8 @@ The Bustling Valley can take up to 10 minutes or so to start. While it may look 
 
 Additionally, [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720) also slows down the start time of the game (although not to the extent PyTK does). The length of start up depends on how many JSON assets need to be loaded. Bigger mods, have many, many more assets than smaller mods. It doesn't affect runtime performance though.
 
+Furthermore, to be able to coexist with manual modded installs and/or Nexus Collections, the Bustling Valley takes a quick backup of Stardew Valley before the game starts, makes it's needed changes, and restores that backup when you exit the game
+
 ## Why does the game stutter between 6:00am and 6:10am?
 
 Every day between 6:00am and 6:10am the game spawns in many objects. On some systems, this produces a noticeable lag or stutter when this occurs.
@@ -289,7 +281,7 @@ Press **F11** in-game to toggle between SpriteMaster active, or disabled.
 
 ## Stardew Valley just automatically updated, is it safe to run this list?
 
-Generally yes. The first time you load SMAPI will detect that the game has updated. It will need to restart. You should still check for a SMAPI update at [https://smapi.io/](https://smapi.io/) just in case.
+Generally yes. The first time you load SMAPI will detect that the game has updated. It will need to restart. There will be an updated Bustling Valley release shortly after Stardew Valley releases. **The only exception is the Stardew Valley 1.6 release. That is expected to break many mods.**
 
 ## Does it work with a controller?
 
@@ -317,7 +309,7 @@ Simply delete the installation folder (`C:\WJ\TBV` if you have been following th
 
 ## Should I update SMAPI?
 
-In addition to being a mod loader, SMAPI also contains fixes and runtime updates to help make mods work with different versions of Stardew Valley. If you are having problems it is a good idea to update to the [latest version of SMAPI](#installing-smapi) and try again.
+Not for the Bustling Valley. As of 0.4.5 the Bustling Valley now includes SMAPI, and this will be updated as needed in the Bustling Valley releases.
 
 ## What is the JSON Shuffle? Can it be fixed?
 
@@ -347,7 +339,7 @@ There is a limitation in SMAPI's content API which makes it difficult for recolo
 
 ## Fishing is too Easy. How to to fix this?
 
-In the section **Gameplay Changes** there is a mod named *Eidee Easy Fishing*. Uncheck it. This is considered a *Rule 11* change (If you make modifications to these mod lists, you do so at your own risk.), when asking for support on the Wabbajack Discord.
+**In Game** go to the options menu, look for mod options, and find *Eidee Easy Fishing*. Make the change you want in there. This will revert on a Bustling Valley upgrade.
 
 ## How do I exit the better sewers?
 
