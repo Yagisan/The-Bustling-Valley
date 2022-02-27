@@ -11,8 +11,8 @@
   "JunimoHuts": {
     "MaxJunimos": 5,
     "MaxRadius": 8,
-    "AvailibleAfterCommunityCenterComplete": true,
-    "AvailibleImmediately": false,
+    "AvailableAfterCommunityCenterComplete": true,
+    "AvailableImmediately": false,
     "ReducedCostToConstruct": false,
     "FreeToConstruct": false
   },
