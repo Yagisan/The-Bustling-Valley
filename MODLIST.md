@@ -70,7 +70,6 @@ This list is only updated when mods are added or removed. If the version above d
 - [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720)
 - [Anti-Social NPCs](https://www.nexusmods.com/stardewvalley/mods/5371)
 - [Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)
-- [Custom Music](https://www.nexusmods.com/stardewvalley/mods/3043)
 - [SAAT - Audio API and Toolkit](https://www.nexusmods.com/stardewvalley/mods/10747)
 - [Custom NPC Exclusions](https://www.nexusmods.com/stardewvalley/mods/7089)
 - [Custom NPC Fixes](https://www.nexusmods.com/stardewvalley/mods/3849)
