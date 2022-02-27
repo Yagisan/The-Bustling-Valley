@@ -49,6 +49,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 In this release the **[Custom Music](https://www.nexusmods.com/stardewvalley/mods/3043)** framework has finally been removed as all mods that depended on it, have now upgraded to the replacement framework **[SAAT - Audio API and Toolkit](https://www.nexusmods.com/stardewvalley/mods/10747)**.
 
+**[Watering Grants Experience And Crops Can Wither](https://www.nexusmods.com/stardewvalley/mods/7768)** has been configured to no longer allow you to water crops with salt water. All vanilla farm maps contain fresh water, so use that, a well, or a fish pond with freshwater fish for your water.
+
 ### Updates <!-- omit in toc -->
 
 **[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.1.0 beta release - dated 19 Feb 2022
