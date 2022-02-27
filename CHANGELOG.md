@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.4.4](#044)
   - [0.4.3](#043)
   - [0.4.2](#042)
   - [0.4.1](#041)
@@ -38,6 +39,19 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.4.4
+
+**Released:** `27 Feb 2022`
+
+### Info <!-- omit in toc -->
+
+This release is the culmination of the self-contained project. As of The Bustling Valley 0.4.4, **SMAPI is now included**, and **manually installed mods and/or Nexus Collections no longer interfere with The Bustling Valley.**
+As this is the only change, and it is a significant change, no mods have been updated in this release.
+
+### Additions <!-- omit in toc -->
+
+**[SMAPI](https://smapi.io/)**
 
 ## 0.4.3
 
