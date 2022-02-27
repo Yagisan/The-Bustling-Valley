@@ -51,6 +51,10 @@ In this release the **[Custom Music](https://www.nexusmods.com/stardewvalley/mod
 
 **[Watering Grants Experience And Crops Can Wither](https://www.nexusmods.com/stardewvalley/mods/7768)** has been configured to no longer allow you to water crops with salt water. All vanilla farm maps contain fresh water, so use that, a well, or a fish pond with freshwater fish for your water.
 
+### Additions <!-- omit in toc -->
+
+**[Spouse patio for Krobus - seasonal](https://www.nexusmods.com/stardewvalley/mods/10225)**
+
 ### Updates <!-- omit in toc -->
 
 **[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.1.0 beta release - dated 19 Feb 2022
