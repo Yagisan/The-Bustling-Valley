@@ -58,6 +58,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Stardew Aquarium](https://www.nexusmods.com/stardewvalley/mods/6372)
 - [Surfing Festival](https://www.nexusmods.com/stardewvalley/mods/6688)
 - [Alec Revisited](https://www.nexusmods.com/stardewvalley/mods/10697)
+- [Spouse patio for Krobus - seasonal](https://www.nexusmods.com/stardewvalley/mods/10225)
 
 ## Frameworks
 
