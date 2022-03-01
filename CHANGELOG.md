@@ -77,6 +77,20 @@ In this release the **[Custom Music](https://www.nexusmods.com/stardewvalley/mod
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.13.0-Beta.2
 
+**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.25.3
+
+**[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)** updated to 1.21.3
+
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.25.0
+
+**[Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)** updated to 1.15.4
+
+**[Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)** updated to 1.1.14
+
+**[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)** updated to 1.37.0
+
+**[Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)** updated to 1.9.8
+
 ### Removed <!-- omit in toc -->
 
 **[Custom Music](https://www.nexusmods.com/stardewvalley/mods/3043)**
