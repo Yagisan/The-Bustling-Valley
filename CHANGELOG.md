@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.4.6](#046)
   - [0.4.5](#045)
   - [0.4.4](#044)
   - [0.4.3](#043)
@@ -40,6 +41,49 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.4.6
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+**[Mister Ginger](https://www.nexusmods.com/stardewvalley/mods/5295)** If you want the best roommate for pest control, Mr. Ginger's your man! Err... cat.
+It'll cost you a legendary fish.
+
+**[Stardew Aquarium](https://www.nexusmods.com/stardewvalley/mods/6372)** has removed its PyTK and TMXL dependencies, improved tourists and is much more livelier and better performing.
+
+### Additions <!-- omit in toc -->
+
+**[Log Spam Filter](https://www.nexusmods.com/stardewvalley/mods/11252)**
+
+**[Robin Work Hours](https://www.nexusmods.com/stardewvalley/mods/11244)**
+
+### Updates <!-- omit in toc -->
+
+**[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.1.1
+
+**[Community Center Reimagined](https://www.nexusmods.com/stardewvalley/mods/6966)** updated to 1.2.1
+
+**[The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)** updated to 1.5.2
+
+**[Mister Ginger](https://www.nexusmods.com/stardewvalley/mods/5295)** updated to 1.5.6
+
+**[(CC) SH's Wild Animals](https://www.nexusmods.com/stardewvalley/mods/9063)** updated to 1.1.6
+
+**[(CC) SH's Domestic Animals](https://www.nexusmods.com/stardewvalley/mods/10134)** updated to 1.0.6
+
+**[Better Lightning Rods](https://www.nexusmods.com/stardewvalley/mods/10631)** updated to 1.1.1
+
+**[Stardew Aquarium](https://www.nexusmods.com/stardewvalley/mods/6372)** updated to 1.5.2
+
+**[A Cleaner Sewer](https://www.nexusmods.com/stardewvalley/mods/5751)** updated to 1.2.2
+
+**[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)** updated to 1.4.0
+
+**[Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)** updated to a 1.7.0
+
+**[Lumisteria Tilesheets - Indoor](https://www.nexusmods.com/stardewvalley/mods/9599)** updated to 1.2.0
 
 ## 0.4.5
 
