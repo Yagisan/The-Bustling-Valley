@@ -258,6 +258,8 @@ Updating is like installing. You only have to make sure that you select the same
   - **F11** Toggle SpriteMaster on and off.
 - [Reset Terrain Features](https://www.nexusmods.com/stardewvalley/mods/4715)
   - **V** access the reset terrain menu.
+- [Almanac](https://www.nexusmods.com/stardewvalley/mods/11022)
+  - **F7** access the almanac.
 
 # Other Post Installation FAQ
 
