@@ -1,7 +1,7 @@
 {
   "EnableMod": true,
   "LabelLatePlanting": true,
-  "PreventLatePlant": true,
+  "PreventLatePlant": false,
   "WarnAboutPlantsUnwateredBeforeSleep": true,
   "WarnAboutPlantsUnharvestedBeforeSleep": true,
   "WarnAboutAnimalsOutsideBeforeSleep": true,

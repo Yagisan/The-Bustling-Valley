@@ -6,7 +6,8 @@
   },
   "ConnectorNames": [
     "Workbench",
-    "Wood Path"
+    "Wood Path",
+    "Crystal Path"
   ],
   "ModCompatibility": {
     "BetterJunimos": true,
