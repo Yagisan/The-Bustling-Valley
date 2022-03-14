@@ -53,11 +53,17 @@ It'll cost you a legendary fish.
 
 **[Stardew Aquarium](https://www.nexusmods.com/stardewvalley/mods/6372)** has removed its PyTK and TMXL dependencies, improved tourists and is much more livelier and better performing.
 
+**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** Crystal Paths, Wood Paths, and the Workbench are now considered valid connectors. The Shipping bin remains disabled to prevent accidents.
+
 ### Additions <!-- omit in toc -->
 
 **[Log Spam Filter](https://www.nexusmods.com/stardewvalley/mods/11252)**
 
 **[Robin Work Hours](https://www.nexusmods.com/stardewvalley/mods/11244)**
+
+**[Almanac](https://www.nexusmods.com/stardewvalley/mods/11022)**
+
+**[Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)**
 
 ### Updates <!-- omit in toc -->
 
@@ -69,9 +75,9 @@ It'll cost you a legendary fish.
 
 **[Mister Ginger](https://www.nexusmods.com/stardewvalley/mods/5295)** updated to 1.5.6
 
-**[(CC) SH's Wild Animals](https://www.nexusmods.com/stardewvalley/mods/9063)** updated to 1.1.6
+**[(CC) SH's Wild Animals](https://www.nexusmods.com/stardewvalley/mods/9063)** updated to 1.1.7
 
-**[(CC) SH's Domestic Animals](https://www.nexusmods.com/stardewvalley/mods/10134)** updated to 1.0.6
+**[(CC) SH's Domestic Animals](https://www.nexusmods.com/stardewvalley/mods/10134)** updated to 1.0.7
 
 **[Better Lightning Rods](https://www.nexusmods.com/stardewvalley/mods/10631)** updated to 1.1.1
 
