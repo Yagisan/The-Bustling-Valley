@@ -81,7 +81,7 @@ It'll cost you a legendary fish.
 
 **[Better Lightning Rods](https://www.nexusmods.com/stardewvalley/mods/10631)** updated to 1.1.1
 
-**[Stardew Aquarium](https://www.nexusmods.com/stardewvalley/mods/6372)** updated to 1.5.2
+**[Stardew Aquarium](https://www.nexusmods.com/stardewvalley/mods/6372)** updated to 1.5.4
 
 **[A Cleaner Sewer](https://www.nexusmods.com/stardewvalley/mods/5751)** updated to 1.2.2
 
@@ -90,6 +90,8 @@ It'll cost you a legendary fish.
 **[Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)** updated to a 1.7.0
 
 **[Lumisteria Tilesheets - Indoor](https://www.nexusmods.com/stardewvalley/mods/9599)** updated to 1.2.0
+
+**[Custom Gift Dialogue Utillity](https://www.nexusmods.com/stardewvalley/mods/7304)** updated to 1.2.0
 
 ## 0.4.5
 
