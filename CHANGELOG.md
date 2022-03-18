@@ -69,7 +69,7 @@ It'll cost you a legendary fish.
 
 **[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.1.1
 
-**[Community Center Reimagined](https://www.nexusmods.com/stardewvalley/mods/6966)** updated to 1.2.1
+**[Community Center Reimagined](https://www.nexusmods.com/stardewvalley/mods/6966)** updated to 1.2.3
 
 **[The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)** updated to 1.5.2
 
