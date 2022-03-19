@@ -55,6 +55,8 @@ It'll cost you a legendary fish.
 
 **[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** Crystal Paths, Wood Paths, and the Workbench are now considered valid connectors. The Shipping bin remains disabled to prevent accidents.
 
+**[Yagisan's - Sprinklers for Sale](https://www.nexusmods.com/stardewvalley/mods/11362)** Clint sells the lowest quality sprinkler from the start, and once you reach 2 hearts with him, he sells quality sprinklers. Stock is limited, but replenishes daily. Clint does not sell iridium sprinklers, as you can already buy them in the vanilla game.
+
 ### Additions <!-- omit in toc -->
 
 **[Log Spam Filter](https://www.nexusmods.com/stardewvalley/mods/11252)**
@@ -65,9 +67,11 @@ It'll cost you a legendary fish.
 
 **[Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)**
 
+**[Yagisan's - Sprinklers for Sale](https://www.nexusmods.com/stardewvalley/mods/11362)**
+
 ### Updates <!-- omit in toc -->
 
-**[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.1.1
+**[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.1.2
 
 **[Community Center Reimagined](https://www.nexusmods.com/stardewvalley/mods/6966)** updated to 1.2.3
 
@@ -85,7 +89,7 @@ It'll cost you a legendary fish.
 
 **[A Cleaner Sewer](https://www.nexusmods.com/stardewvalley/mods/5751)** updated to 1.2.2
 
-**[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)** updated to 1.4.0
+**[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)** updated to 1.4.1
 
 **[Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)** updated to a 1.7.0
 
