@@ -229,6 +229,7 @@ This list is only updated when mods are added or removed. If the version above d
 ## Shop Changes
 
 - **[Yagisan's - Krobus Sells Scrolls](https://www.nexusmods.com/stardewvalley/mods/9248)**
+- **[Yagisan's - Sprinklers for Sale](https://www.nexusmods.com/stardewvalley/mods/11362)**
 
 ## Greenhouses and Cellars
 
