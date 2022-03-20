@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.4.7](#047)
   - [0.4.6](#046)
   - [0.4.5](#045)
   - [0.4.4](#044)
@@ -41,6 +42,24 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.4.7
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+**[Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615)** has been added, and configured to match vanilla values, regardless of how many mod added items are in the game. For perfection you need to:
+* Ship **145** different types of items.
+* Fully befriend **34** NPCs
+* Cook **80** different recipes
+* Craft **129** recipes
+* Catch **67** different types of fish
+
+
+### Additions <!-- omit in toc -->
+
+**[Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615)**
 
 ## 0.4.6
 
