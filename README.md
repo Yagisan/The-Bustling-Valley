@@ -59,6 +59,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Why do farmhands only see a vanilla map?](#why-do-farmhands-only-see-a-vanilla-map)
   - [Fishing is too Easy. How to to fix this?](#fishing-is-too-easy-how-to-to-fix-this)
   - [How do I exit the better sewers?](#how-do-i-exit-the-better-sewers)
+  - [What will be removed in the 1.6 Stardew Valley update?](#what-will-be-removed-in-the-16-stardew-valley-update)
   - [Contact and Technical Support](#contact-and-technical-support)
 
 # Preamble
@@ -271,6 +272,8 @@ Additionally, [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720) a
 
 Furthermore, to be able to coexist with manual modded installs and/or Nexus Collections, the Bustling Valley takes a quick backup of Stardew Valley before the game starts, makes it's needed changes, and restores that backup when you exit the game
 
+Due to steps taken to remove dependencies on PyTK, loading times have been greatly improved since the 0.4.4 release of The Bustling Valley.
+
 ## Why does the game stutter between 6:00am and 6:10am?
 
 Every day between 6:00am and 6:10am the game spawns in many objects. On some systems, this produces a noticeable lag or stutter when this occurs.
@@ -346,6 +349,30 @@ There is a limitation in SMAPI's content API which makes it difficult for recolo
 ## How do I exit the better sewers?
 
 Run up the ladder, do not click on it. It no longer acts like a door.
+
+## What will be removed in the 1.6 Stardew Valley update?
+
+I (Yagisan) am currently in the Stardew Valley 1.6 alpha test, along with modders of major frameworks and expansions. The upcoming changes to Stardew Valley 1.6 will make several frameworks obsolete, as their functionality will become part of the vanilla game. Other frameworks however have been abandoned, and will not be ported to Stardew Valley 1.6 - there are replacement frameworks available, but not all mods have been ported over.
+
+The following mods are expected to be removed when Stardew Valley 1.6 is released.
+
+- [PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726) (Abandoned, and broken in Stardew Valley 1.5.5+)
+- [TMXL Map Toolkit](https://www.nexusmods.com/stardewvalley/mods/1820) (Abandoned, and broken in Stardew Valley 1.5.5+)
+- [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120) (Requires PyTK)
+- [Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626) (Requires PyTK)
+- [Aspen](https://www.nexusmods.com/stardewvalley/mods/6754) (Requires PyTK)
+- [Sorren](https://www.nexusmods.com/stardewvalley/mods/4040)  (Requires PyTK)
+  - [Festival Locations](https://www.nexusmods.com/stardewvalley/mods/4040) (Requires Soren)
+  - [Boarding House Patch](https://www.nexusmods.com/stardewvalley/mods/4040) (Requires Soren)
+  - [Festival Locations](https://www.nexusmods.com/stardewvalley/mods/4040) (Requires Soren)
+  - [Spouse Room](https://www.nexusmods.com/stardewvalley/mods/4040) (Requires Soren)
+- [Seasonal Sorren (Slightly Cuter Character Sprites)](https://www.nexusmods.com/stardewvalley/mods/10853) (Requires Soren)
+- [Denver - Male - Boarding House](https://www.nexusmods.com/stardewvalley/mods/4594) (Requires PyTK)
+  - [Denver - Alternate Portraits](https://www.nexusmods.com/stardewvalley/mods/4594) (Requires Denver)
+- [Cecilia - Forest Home](https://www.nexusmods.com/stardewvalley/mods/6246) (Requires PyTK)
+  - [Cecilia - Alternate Portraits](https://www.nexusmods.com/stardewvalley/mods/6246) (Requires Cecilia)
+- [Lore-Friendly JojaMart Prices](https://www.nexusmods.com/stardewvalley/mods/2658) (Source code lost, so can't update)
+- [Delores](https://www.nexusmods.com/stardewvalley/mods/5510) (NPC is homeless, and upstream is unresponsive)
 
 ## Contact and Technical Support
 
