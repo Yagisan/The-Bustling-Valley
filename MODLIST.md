@@ -155,6 +155,7 @@ This list is only updated when mods are added or removed. If the version above d
   - [DynamicGameAssets Support](https://www.nexusmods.com/stardewvalley/mods/11022)
 - [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
   - [SpaceCore and DynamicGameAssets Support](https://www.nexusmods.com/stardewvalley/mods/11115)
+- [Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615)
 
 ## Gifting and Friendship
 
