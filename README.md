@@ -373,6 +373,7 @@ The following mods are expected to be removed when Stardew Valley 1.6 is release
   - [Cecilia - Alternate Portraits](https://www.nexusmods.com/stardewvalley/mods/6246) (Requires Cecilia)
 - [Lore-Friendly JojaMart Prices](https://www.nexusmods.com/stardewvalley/mods/2658) (Source code lost, so can't update)
 - [Delores](https://www.nexusmods.com/stardewvalley/mods/5510) (NPC is homeless, and upstream is unresponsive)
+- [Boarding House Nut Butters](https://www.nexusmods.com/stardewvalley/mods/6342) (Requires Boarding House and Bus Stop Extension)
 
 ## Contact and Technical Support
 
