@@ -8,6 +8,7 @@
   "Allow Wild Chinchilla": "true",
   "Allow Wild Chipmunks": "true",
   "Allow Wild Coyotes": "true",
+  "Allow Wild Crabs": "true",
   "Allow Wild Crows": "true",
   "Allow Wild Deers": "true",
   "Allow Wild Ducks": "true",
@@ -43,5 +44,6 @@
   "Allow Wild Weasels": "true",
   "Allow Wild Wolves": "true",
   "Allow Wild Wolverines": "true",
+  "Allow Wild Wombats": "true",
   "Allow Bonus Animals": "true"
 }
