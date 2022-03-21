@@ -56,10 +56,13 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 * Craft **129** recipes
 * Catch **67** different types of fish
 
-
 ### Additions <!-- omit in toc -->
 
 **[Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615)**
+
+### Updates <!-- omit in toc -->
+
+**[(CC) SH's Domestic Animals](https://www.nexusmods.com/stardewvalley/mods/10134)** updated to 1.0.8
 
 ## 0.4.6
 
