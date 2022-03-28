@@ -41,10 +41,11 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Automation](#automation)
   - [Gameplay](#gameplay)
 - [Mod Default Hotkeys](#mod-default-hotkeys)
+- [Modifying the mod list](#modifying-the-mod-list)
 - [Other Post Installation FAQ](#other-post-installation-faq)
   - [Why is it slow to start?](#why-is-it-slow-to-start)
   - [Why does the game stutter between 6:00am and 6:10am?](#why-does-the-game-stutter-between-600am-and-610am)
-  - [I hate SpriteMaster. How do I stop it?](#i-hate-spritemaster-how-do-i-stop-it)
+  - [I hate the new smooth graphics. How do I stop it?](#i-hate-the-new-smooth-graphics-how-do-i-stop-it)
   - [Stardew Valley just automatically updated, is it safe to run this list?](#stardew-valley-just-automatically-updated-is-it-safe-to-run-this-list)
   - [Does it work with a controller?](#does-it-work-with-a-controller)
   - [Does this work in multiplayer?](#does-this-work-in-multiplayer)
@@ -60,6 +61,8 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Fishing is too Easy. How to to fix this?](#fishing-is-too-easy-how-to-to-fix-this)
   - [How do I exit the better sewers?](#how-do-i-exit-the-better-sewers)
   - [What will be removed in the 1.6 Stardew Valley update?](#what-will-be-removed-in-the-16-stardew-valley-update)
+  - [Known Bugs](#known-bugs)
+    - [Ridgeside Village](#ridgeside-village)
   - [Contact and Technical Support](#contact-and-technical-support)
 
 # Preamble
@@ -262,6 +265,19 @@ Updating is like installing. You only have to make sure that you select the same
 - [Almanac](https://www.nexusmods.com/stardewvalley/mods/11022)
   - **F7** access the almanac.
 
+# Modifying the mod list
+
+Modifying the mod list is not supported in any way, and is considered to be covered under the Wabbajack Discord Rule 11.
+
+That said, I recognise that there are some mods that people may not like, and if disabled, will not functionally break the list.
+
+Those mods can be found at the very top of the mod list, directly under the red separator that reads "**Uncheck to disable these mods only.**"
+
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** is the mod that smooths out the graphics. It also provides a variety of performance boosts. Disable this mod for the classic Stardew Valley appearance.
+
+**[Eidee Easy Fishing](https://www.nexusmods.com/stardewvalley/mods/4806)** is the mod that enables easy fish catching. Disable this mod for the classic Stardew Valley fishing experience.
+
+
 # Other Post Installation FAQ
 
 ## Why is it slow to start?
@@ -280,9 +296,9 @@ Every day between 6:00am and 6:10am the game spawns in many objects. On some sys
 
 Staggering the spawns out over a longer period to avoid this was tried but this resulted in multiple stutters as each group of spawns triggered, rather than a single one, so that solution was rejected.
 
-## I hate SpriteMaster. How do I stop it?
+## I hate the new smooth graphics. How do I stop it?
 
-Press **F11** in-game to toggle between SpriteMaster active, or disabled.
+Please see **Modifying the mod list**.
 
 ## Stardew Valley just automatically updated, is it safe to run this list?
 
@@ -344,7 +360,7 @@ There is a limitation in SMAPI's content API which makes it difficult for recolo
 
 ## Fishing is too Easy. How to to fix this?
 
-**In Game** go to the options menu, look for mod options, and find *Eidee Easy Fishing*. Make the change you want in there. This will revert on a Bustling Valley upgrade.
+Please see **Modifying the mod list**.
 
 ## How do I exit the better sewers?
 
@@ -374,6 +390,17 @@ The following mods are expected to be removed when Stardew Valley 1.6 is release
 - [Lore-Friendly JojaMart Prices](https://www.nexusmods.com/stardewvalley/mods/2658) (Source code lost, so can't update)
 - [Delores](https://www.nexusmods.com/stardewvalley/mods/5510) (NPC is homeless, and upstream is unresponsive)
 - [Boarding House Nut Butters](https://www.nexusmods.com/stardewvalley/mods/6342) (Requires Boarding House and Bus Stop Extension)
+
+## Known Bugs
+
+Several of the mods included in The Bustling Valley have known bugs. These are being investigated and fixed by their respective teams. Be aware that this list may include spoilers about plot, and/or quest related details.
+
+### Ridgeside Village
+
+- At the Ridgeside Gathering Festival, Pika runs his normal shop rather than his festival shop with the special inventory. Because his normal shop opens at 9:30, and the festival starts at 9, if you arrive at the festival before 9:30, the shop will be closed.
+- The patch that adds East Scarpe characters to Alissa's 8 heart event has not yet been updated to SAAT, meaning that the game will crash if you see Alissa's 8 heart event with ES installed.
+- Jio, Daia, and Kiwi cannot be invited to the movies, even after the event, which makes them sociable.
+- For the Crystal quests, you actually only need to complete the Red Crystal quest to progress in the storyline - The next event will trigger the day after you've completed that quest. There's no harm in continuing with the storyline without finishing all the crystals, other than maybe a break in continuity. The quests are untimed, so while you can't cancel them, you can finish them whenever you want. If you finish the Red Crystal quest first and don't want to go any further, avoid going into the Ridge after 8 PM.
 
 ## Contact and Technical Support
 
