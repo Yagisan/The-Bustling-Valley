@@ -3,6 +3,7 @@
   "Allow Dusty to free-roam": "true",
   "Edit Dusty's dog house": "false",
   "Give Leah pet rabbits": "true",
+  "Give Marnie a rooster": "true",
   "Give Willy a pet cat": "true",
   "Give the witch cat slimes": "true",
   "Give the wizard a companion": "true",
@@ -11,5 +12,6 @@
   "Load Charlie the Chicken": "true",
   "Load Emily's parrot changes": "true",
   "Load more animals in Marnie's barn": "true",
-  "Load shadow pups": "true"
+  "Load shadow pups": "true",
+  "Load stray dogs": "true"
 }
