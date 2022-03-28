@@ -1,5 +1,5 @@
 {
-  "Theme": "Automatic",
+  "Theme": "automatic",
   "ReplaceCooking": false,
   "ReplaceCrafting": true,
   "UseCategories": true,
@@ -13,7 +13,7 @@
   "SearchKey": "F3",
   "LeftClick": "Craft",
   "RightClick": "BulkCraft",
-  "UseUniformGrid": false,
+  "UseUniformGrid": true,
   "SortBigLast": true,
   "CraftingAlphabetic": false,
   "UseSeasoning": "Enabled",
