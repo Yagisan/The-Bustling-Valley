@@ -64,6 +64,18 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[(CC) SH's Domestic Animals](https://www.nexusmods.com/stardewvalley/mods/10134)** updated to 1.0.8
 
+**[Almanac](https://www.nexusmods.com/stardewvalley/mods/11022)** updated to 0.16.0
+
+**[Almanac - DynamicGameAssets Support](https://www.nexusmods.com/stardewvalley/mods/11022)** updated to 1.1.0
+
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.13.0
+
+**[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.1.3
+
+**[Ginger Island NPC Overhaul](https://www.nexusmods.com/stardewvalley/mods/9242)** updated to 1.2.0
+
+**[The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)** updated to 1.5.3
+
 ## 0.4.6
 
 **Released:** `20 Mar 2022`
