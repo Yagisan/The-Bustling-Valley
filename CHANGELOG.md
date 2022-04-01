@@ -70,11 +70,13 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.13.0
 
-**[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.1.3
+**[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.1.4
 
 **[Ginger Island NPC Overhaul](https://www.nexusmods.com/stardewvalley/mods/9242)** updated to 1.2.0
 
 **[The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)** updated to 1.5.3
+
+**[Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)** updated to 0.3.1
 
 ## 0.4.6
 
