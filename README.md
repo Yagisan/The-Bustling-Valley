@@ -10,8 +10,8 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
 
 ![Early_Farm_Heroshot](assets/images/Early_Farm_Heroshot.png)
 
- [![patreon](assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) [![ko-fi](assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan) [![Discord Banner 2](https://discordapp.com/api/guilds/958710541017317397/widget.png?style=banner2)](https://discord.gg/rB5RFgHhUD)
-
+ | [![patreon](assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) | [![ko-fi](assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan) | [![Discord Banner 2](https://discordapp.com/api/guilds/958710541017317397/widget.png?style=banner2)](https://discord.gg/rB5RFgHhUD) |
+| - | - | - |
 
 - [The Bustling Valley](#the-bustling-valley)
 - [Preamble](#preamble)
