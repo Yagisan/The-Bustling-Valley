@@ -2,7 +2,7 @@
 
 ![TBV_Title_Card](assets/images/TBV_Title.png)
 
-![Latest Version](https://img.shields.io/badge/dynamic/json?label=Latest%20version&query=%24%5B%3F%28%40.links.machineURL%3D%3D%22tbv%22%29%5D.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwabbajack-tools%2Fmod-lists%2Fmaster%2Fmodlists.json&style=for-the-badge)![GitHub all releases](https://img.shields.io/github/downloads/Yagisan/The-Bustling-Valley/total?logo=GitHub&style=for-the-badge)![GitHub issues](https://img.shields.io/github/issues/Yagisan/The-Bustling-Valley?logo=GitHub&style=for-the-badge)
+![Latest Version](https://img.shields.io/badge/dynamic/json?label=Latest%20version&query=%24%5B%3F%28%40.links.machineURL%3D%3D%22tbv%22%29%5D.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwabbajack-tools%2Fmod-lists%2Fmaster%2Fmodlists.json&style=for-the-badge)![GitHub all releases](https://img.shields.io/github/downloads/Yagisan/The-Bustling-Valley/total?logo=GitHub&style=for-the-badge)![GitHub issues](https://img.shields.io/github/issues/Yagisan/The-Bustling-Valley?logo=GitHub&style=for-the-badge)![Discord](https://img.shields.io/discord/958710541017317397?label=Yagisan%27s%20Discord&logo=discord&style=for-the-badge)
 
 The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. It includes new villages, new NPCs, and of course a farming expansion. **It is expected that players will not add additional mods or otherwise change this modlist.**
 
@@ -10,7 +10,8 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
 
 ![Early_Farm_Heroshot](assets/images/Early_Farm_Heroshot.png)
 
- [![patreon](assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) [![ko-fi](assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan)
+ [![patreon](assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) [![ko-fi](assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan)[![Discord Banner 2](https://discordapp.com/api/guilds/958710541017317397/widget.png?style=banner2)](https://discord.gg/rB5RFgHhUD)
+
 
 - [The Bustling Valley](#the-bustling-valley)
 - [Preamble](#preamble)
@@ -82,7 +83,7 @@ Please be aware that this modlist may make perfection very hard or impossible to
 - [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) for the tool to install this modlist.
 - [Issues](https://github.com/Yagisan/The-Bustling-Valley/issues) for technical support with this mod list.
 - [Changelog](CHANGELOG.md) for what's new.
-- [Wabbajack Discord](https://discord.gg/wabbajack) chat about the list, and discover lists for other games.
+- [Yagisan's Discord](https://discord.gg/rB5RFgHhUD) chat about the list, and discover lists and mods for other games.
 - [Complete Modlist](MODLIST.md) a complete listing of everything included.
 
 # Requirements
