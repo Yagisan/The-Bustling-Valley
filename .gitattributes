@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.bat text eol=crlf
+*.jpg -text -diff -delta
+*.png -text -diff -delta
+*.webp -text -diff -delta
