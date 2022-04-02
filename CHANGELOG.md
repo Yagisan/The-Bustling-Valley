@@ -78,6 +78,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)** updated to 0.3.1
 
+**[Penny 8 Heart Event Adjusted](https://www.nexusmods.com/stardewvalley/mods/9865)** updated to 1.0.3
+
+**[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.1.6
+
 ## 0.4.6
 
 **Released:** `20 Mar 2022`
