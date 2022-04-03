@@ -59,6 +59,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Surfing Festival](https://www.nexusmods.com/stardewvalley/mods/6688)
 - [Alec Revisited](https://www.nexusmods.com/stardewvalley/mods/10697)
 - [Spouse patio for Krobus - seasonal](https://www.nexusmods.com/stardewvalley/mods/10225)
+- [Yri the Architect](https://www.nexusmods.com/stardewvalley/mods/10627)
 
 ## Frameworks
 
