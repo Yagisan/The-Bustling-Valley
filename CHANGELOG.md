@@ -70,7 +70,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Almanac - DynamicGameAssets Support](https://www.nexusmods.com/stardewvalley/mods/11022)** updated to 1.1.0
 
-**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.13.0
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.13.1
 
 **[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to 2.1.4
 
@@ -83,6 +83,38 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Penny 8 Heart Event Adjusted](https://www.nexusmods.com/stardewvalley/mods/9865)** updated to 1.0.3
 
 **[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.1.6
+
+**[Ginger Island Mainland Adjustments](https://www.nexusmods.com/stardewvalley/mods/10004)** updated to 1.1.3
+
+**[CP - Ginger Island Mainland Adjustments](https://www.nexusmods.com/stardewvalley/mods/10004)** updated to 1.1.3
+
+**[Yagisan's Bountiful Valley for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/9272)** updated to 1.0.4
+
+**[Diverse Stardew Valley - Abigail, Caroline & Pierre](https://diversestardewvalley.weebly.com/)** updated to 3.0.4
+
+**[Diverse Stardew Valley - Alex, Evelyn & George](https://diversestardewvalley.weebly.com/)** updated to 3.0.4
+
+**[Diverse Stardew Valley - Emily, Haley & Sandy](https://diversestardewvalley.weebly.com/)** updated to 3.0.2  (7 Apr 2022 release)
+
+**[Diverse Stardew Valley - Harvey, Gus & Lewis](https://diversestardewvalley.weebly.com/)** updated to 3.0.4
+
+**[Diverse Stardew Valley - Krobus, Mermaids, Wizard & Witch](https://diversestardewvalley.weebly.com/)** updated to 3.0.2
+
+**[Diverse Stardew Valley - Leah & Elliott](https://diversestardewvalley.weebly.com/)** updated to 3.0.3
+
+**[Diverse Stardew Valley - Marlon, Gunther & Morris](https://diversestardewvalley.weebly.com/)** updated to 3.1.3
+
+**[Diverse Stardew Valley - Penny & Pam](https://diversestardewvalley.weebly.com/)** updated to 3.0.3
+
+**[Diverse Stardew Valley - Sam, Vincent, Jodi & Kent](https://diversestardewvalley.weebly.com/)** updated to 3.0.5
+
+**[Diverse Stardew Valley - Sebastian, Maru, Robin & Demetrius](https://diversestardewvalley.weebly.com/)** updated to 3.0.3
+
+**[Diverse Stardew Valley - Shane, Jas & Marnie](https://diversestardewvalley.weebly.com/)** updated to 3.0.3 (7 Apr 2022 release)
+
+**[Diverse Stardew Valley - Willy, Clint & Linus](https://diversestardewvalley.weebly.com/)** updated to 3.0.2
+
+**[Diverse Stardew Valley - Flower Queen's Crown](https://diversestardewvalley.weebly.com/)** updated to 3.0.2
 
 ## 0.4.6
 
