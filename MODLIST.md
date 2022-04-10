@@ -157,6 +157,8 @@ This list is only updated when mods are added or removed. If the version above d
 - [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
   - [SpaceCore and DynamicGameAssets Support](https://www.nexusmods.com/stardewvalley/mods/11115)
 - [Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615)
+- [Bulk Animal Purchase](https://www.nexusmods.com/stardewvalley/mods/11539)
+- [Livestock Choices](https://www.nexusmods.com/stardewvalley/mods/11551)
 
 ## Gifting and Friendship
 
