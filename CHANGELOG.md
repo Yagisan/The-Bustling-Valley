@@ -64,6 +64,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Ridgeside Valley Better Artisan Good Icons](https://www.nexusmods.com/stardewvalley/mods/11552)**
 
+**[Bulk Animal Purchase](https://www.nexusmods.com/stardewvalley/mods/11539)**
+
+**[Livestock Choices](https://www.nexusmods.com/stardewvalley/mods/11551)**
+
 ### Updates <!-- omit in toc -->
 
 **[(CC) SH's Domestic Animals](https://www.nexusmods.com/stardewvalley/mods/10134)** updated to 1.0.8
