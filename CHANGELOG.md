@@ -96,6 +96,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Yagisan's Bountiful Valley for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/9272)** updated to 1.0.4
 
+**[Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)** updated to 1.1.17
+
 **[Diverse Stardew Valley - Abigail, Caroline & Pierre](https://diversestardewvalley.weebly.com/)** updated to 3.0.4
 
 **[Diverse Stardew Valley - Alex, Evelyn & George](https://diversestardewvalley.weebly.com/)** updated to 3.0.4
