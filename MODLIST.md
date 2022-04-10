@@ -192,6 +192,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Better Artisan Good Icons](https://www.nexusmods.com/stardewvalley/mods/2080)
 - [Better Artisan Good Icons Fix](https://www.nexusmods.com/stardewvalley/mods/9366)
 - [Better Artisan Good Icons for The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/10174)
+- [Ridgeside Valley Better Artisan Good Icons](https://www.nexusmods.com/stardewvalley/mods/11552)
 - [Displays](https://www.nexusmods.com/stardewvalley/mods/7635)
 - [Flower Dance Fix](https://www.nexusmods.com/stardewvalley/mods/8535)
 - **[Yagisan's Bountiful Valley](https://www.nexusmods.com/stardewvalley/mods/9259)**
