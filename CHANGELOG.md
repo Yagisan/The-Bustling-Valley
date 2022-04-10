@@ -62,6 +62,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Yri the Architect](https://www.nexusmods.com/stardewvalley/mods/10627)**
 
+**[Ridgeside Valley Better Artisan Good Icons](https://www.nexusmods.com/stardewvalley/mods/11552)**
+
 ### Updates <!-- omit in toc -->
 
 **[(CC) SH's Domestic Animals](https://www.nexusmods.com/stardewvalley/mods/10134)** updated to 1.0.8
