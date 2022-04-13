@@ -124,6 +124,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Diverse Stardew Valley - Flower Queen's Crown](https://diversestardewvalley.weebly.com/)** updated to 3.0.2
 
+**[Lumisteria Tilesheets - Indoor](https://www.nexusmods.com/stardewvalley/mods/9599)** updated to 1.3.0
+
+**[Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)** updated to 1.16.0
+
 ## 0.4.6
 
 **Released:** `20 Mar 2022`
