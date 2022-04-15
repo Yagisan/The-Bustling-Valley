@@ -242,6 +242,10 @@ Updating is like installing. You only have to make sure that you select the same
 
 **[Watering Grants Experience And Crops Can Wither](https://www.nexusmods.com/stardewvalley/mods/7768)** does exactly what it says. Manual watering grants some farming experience, and if not watered, your crops will die.
 
+**[Bulk Animal Purchase](https://www.nexusmods.com/stardewvalley/mods/11539)** buy multiple animals in the same transaction.
+
+**[Livestock Choices](https://www.nexusmods.com/stardewvalley/mods/11551)** actually choose what animal variant you want.
+
 # Mod Default Hotkeys
 
 - [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
