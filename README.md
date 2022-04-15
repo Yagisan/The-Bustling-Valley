@@ -64,7 +64,6 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [What will be removed in the 1.6 Stardew Valley update?](#what-will-be-removed-in-the-16-stardew-valley-update)
   - [Known Bugs](#known-bugs)
     - [SMAPI](#smapi)
-    - [Ridgeside Village](#ridgeside-village)
   - [Contact and Technical Support](#contact-and-technical-support)
 
 # Preamble
@@ -400,14 +399,6 @@ Several of the mods included in The Bustling Valley have known bugs. These are b
 ### SMAPI
 
 - There is a limitation in SMAPI's content API which makes it difficult for recolours or expansion mods to correctly update the map for farmhands in multiplayer. As a result farmhands can not see the updated map. There's a planned change in the upcoming SMAPI 4.0.0 to address that.
-
-### Ridgeside Village
-
-- At the Ridgeside Gathering Festival, Pika runs his normal shop rather than his festival shop with the special inventory. Because his normal shop opens at 9:30, and the festival starts at 9, if you arrive at the festival before 9:30, the shop will be closed.
-- The patch that adds East Scarpe characters to Alissa's 8 heart event has not yet been updated to SAAT, meaning that the game will crash if you see Alissa's 8 heart event with ES installed.
-- Jio, Daia, and Kiwi cannot be invited to the movies, even after the event, which makes them sociable.
-- For the Crystal quests, you actually only need to complete the Red Crystal quest to progress in the storyline - The next event will trigger the day after you've completed that quest. There's no harm in continuing with the storyline without finishing all the crystals, other than maybe a break in continuity. The quests are untimed, so while you can't cancel them, you can finish them whenever you want. If you finish the Red Crystal quest first and don't want to go any further, avoid going into the Ridge after 8 PM.
-- You can walk off the right side of the map at this bus stop. The updated Bus Stop map was made to allow access to an NPC that is not included in this mod list. That NPC is accessed via the right side road. The original better bus stop map had an oversight from Ridgeside Village. When Pam returns from the desert, she drove through grass and fences. As of Ridgeside Village 2.0.3 this map is included as-is from Ridgeside Village.
 
 ## Contact and Technical Support
 
