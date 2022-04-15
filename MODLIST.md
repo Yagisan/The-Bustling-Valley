@@ -34,6 +34,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)
 - [Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)
 - [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)
+  - [Ridgeside Village - Full Music](https://www.nexusmods.com/stardewvalley/mods/7286)
 - [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
 - [Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)
 - [Jade](https://www.nexusmods.com/stardewvalley/mods/5559)
