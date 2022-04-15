@@ -49,6 +49,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** has had a huge update to 2.1 - there's a huge pile of bug fixes, a massive (and I do mean massive) amount of new content, and **two** new marriage candidates.
+
+Do note - there were changes to Aguar's 8 heart event. These changes **will not** occur on an existing save. However, this does not break existing saves.
+
 **[Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615)** has been added, and configured to match vanilla values, regardless of how many mod added items are in the game. For perfection you need to:
 * Ship **145** different types of items.
 * Fully befriend **34** NPCs
@@ -68,7 +72,11 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Livestock Choices](https://www.nexusmods.com/stardewvalley/mods/11551)**
 
+**[Ridgeside Village - Full Music](https://www.nexusmods.com/stardewvalley/mods/7286)**
+
 ### Updates <!-- omit in toc -->
+
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.1.0
 
 **[(CC) SH's Domestic Animals](https://www.nexusmods.com/stardewvalley/mods/10134)** updated to 1.0.8
 
