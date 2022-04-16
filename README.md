@@ -55,9 +55,9 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [How do I remove the Modlist?](#how-do-i-remove-the-modlist)
   - [Should I update SMAPI?](#should-i-update-smapi)
   - [What is the JSON Shuffle? Can it be fixed?](#what-is-the-json-shuffle-can-it-be-fixed)
+  - [There was a  JSON Shuffle. It broke a Ridgeside Village quest. How do I fix it?](#there-was-a--json-shuffle-it-broke-a-ridgeside-village-quest-how-do-i-fix-it)
   - [How do I reset the configuration files?](#how-do-i-reset-the-configuration-files)
   - [Why are there trees in Ridgeside Village buildings?](#why-are-there-trees-in-ridgeside-village-buildings)
-  - [Why can I walk off the right side road of the bus stop?](#why-can-i-walk-off-the-right-side-road-of-the-bus-stop)
   - [Why do farmhands only see a vanilla map?](#why-do-farmhands-only-see-a-vanilla-map)
   - [Fishing is too Easy. How to to fix this?](#fishing-is-too-easy-how-to-to-fix-this)
   - [How do I exit the better sewers?](#how-do-i-exit-the-better-sewers)
@@ -343,6 +343,47 @@ This is described [in depth here](https://stardewmodding.wiki/wiki/Json_Shuffle)
 
 It's not fixable. Please don't alter this modlist once you start playing. **If you do get a shuffle, the best thing to do is to put all shuffled items in the shipping bin, or trash it.**
 
+## There was a  JSON Shuffle. It broke a Ridgeside Village quest. How do I fix it?
+
+You'll need to use the SMAPI console (The black window that appears when you start the game) to fix this. You need to remove, and re-add the quest. First go inside a building. Your farmhouse is a great choice.
+
+To remove the broken quest, type `quests_remove quest key@Rafseazz.RSVQF` into the SMAPI console. Press Enter. Then re-add the quest with `quests_accept quest_key@Rafseazz.RSVQF`. Check your quest log in game, then exit the building. The quest should now be fixed.
+
+For example `quests_remove yuuma_ring@Rafseazz.RSVQF`, Enter, `quests_accept yuuma_ring@Rafseazz.RSVQF`, Enter.
+
+The following is a list of all Ridgeside Village quests. You should be able to tell from the name, which one is your broken quest.
+- bert_honey
+- trinnie_sunflower
+- keahi_slime
+- yuuma_ring
+- olga_tuna
+- aguar_essence
+- freddie_sword
+- pika_mayonnaise
+- richard_glasses
+- aguar_gem
+- aguar_fairystone
+- bert_orange
+- ezekiel_cavecarrot
+- freddie_shadowbrute
+- freddie_pepperrex
+- keahi_tomato
+- keahi_bomb
+- lenny_eggplant
+- lenny_wine
+- lola_hauntedskull
+- lola_slime
+- olga_coffee
+- pika_cheese
+- pika_starfruit
+- richard_caviar
+- richard_bat
+- trinnie_pinkcake
+- trinnie_poppy
+- yuuma_burger
+- yuuma_iron
+
+
 ## How do I reset the configuration files?
 
 Sometimes configuration files need to be reset. This is sometimes needed after the modlist is updated. Resetting the configuration files is very easy to do. Scroll to the very bottom of the mod list. There is a menu item named Overwrite.
@@ -354,10 +395,6 @@ Sometimes configuration files need to be reset. This is sometimes needed after t
 ## Why are there trees in Ridgeside Village buildings?
 
 The Bustling Valley 0.2.0+ includes Ridgeside Village 2.0 - this is a complete overhaul of the previous versions. The maps have changed. As a result you **must** start a new farm for the maps to look correct. You can not continue with your existing save.
-
-## Why can I walk off the right side road of the bus stop?
-
-See **Known Bugs**.
 
 ## Why do farmhands only see a vanilla map?
 
@@ -380,7 +417,6 @@ The following mods are expected to be removed when Stardew Valley 1.6 is release
 - [PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726) (Abandoned, and broken in Stardew Valley 1.5.5+)
 - [TMXL Map Toolkit](https://www.nexusmods.com/stardewvalley/mods/1820) (Abandoned, and broken in Stardew Valley 1.5.5+)
 - [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120) (Requires PyTK)
-- [Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626) (Requires PyTK)
 - [Aspen](https://www.nexusmods.com/stardewvalley/mods/6754) (Requires PyTK)
 - [Sorren](https://www.nexusmods.com/stardewvalley/mods/4040)  (Requires PyTK)
   - [Festival Locations](https://www.nexusmods.com/stardewvalley/mods/4040) (Requires Soren)
