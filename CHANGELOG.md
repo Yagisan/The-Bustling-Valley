@@ -45,7 +45,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.4.7
 
-**Released:** `DD MMM YYYY`
+**Released:** `16 Apr 2022`
 
 ### Info <!-- omit in toc -->
 
@@ -53,9 +53,11 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** has had a huge update to 2.1 - there's a huge pile of bug fixes, a massive (and I do mean massive) amount of new content, and **two** new marriage candidates.
 
-Do note - there were changes to Aguar's 8 heart event. These changes **will not** occur on an existing save. However, this does not break existing saves. Exists games, that have **not** seen the 8 heart event, will get the new event.
+Do note - there were changes to Aguar's 8 heart event. These changes **will not** occur on an existing save. However, this does not break existing saves. Existing games, that have **not** seen the 8 heart event, will get the new event.
 
 **[Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)** has been updated to a 3.4.9 beta release - dated 3 Apr 2022. This beta removes PyTK and TMXL requirements, and converts the shops to STF While the removal of PyTK and TMXL appears to have been a success, this is still a pre-release version of the mod, and should be treated as such.
+
+**[Yri the Architect](https://www.nexusmods.com/stardewvalley/mods/10627)** has moved into East Scarp. Head over and meet her.
 
 **[Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615)** has been added, and configured to match vanilla values, regardless of how many mod added items are in the game. For perfection you need to:
 * Ship **145** different types of items.
