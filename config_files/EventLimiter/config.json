@@ -1,5 +1,8 @@
 {
-  "EventsPerDay": 4,
+  "EventsPerDay": 5,
   "EventsInARow": 2,
-  "Exceptions": []
+  "Exceptions": [
+    40180003,
+    40180004
+  ]
 }
