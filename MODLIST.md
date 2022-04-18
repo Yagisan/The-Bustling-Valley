@@ -1,6 +1,6 @@
 # The Bustling Valley - Complete Modlist
 
-Last update **0.4.7**
+Last update **0.4.8**
 
 This is a complete list of all mods included in The Bustling Valley. The ordering is somewhat arbitrary and grouping matches my internal classification.
 
@@ -15,6 +15,7 @@ This list is only updated when mods are added or removed. If the version above d
   - [Gameplay Changes](#gameplay-changes)
   - [QOL Changes](#qol-changes)
   - [Gifting and Friendship](#gifting-and-friendship)
+  - [Marriage](#marriage)
   - [Immersion](#immersion)
   - [Crops and Recipes](#crops-and-recipes)
   - [Shop Changes](#shop-changes)
@@ -166,6 +167,13 @@ This list is only updated when mods are added or removed. If the version above d
 - [Better Friendship](https://www.nexusmods.com/stardewvalley/mods/10287)
 - [Gift Decline](https://www.nexusmods.com/stardewvalley/mods/6944)
 - [Can I Offer You A Nice Egg In This Trying Time](https://www.nexusmods.com/stardewvalley/mods/10438)
+
+## Marriage
+
+- [Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)
+- [Custom Spouse Rooms](https://www.nexusmods.com/stardewvalley/mods/10029)
+- [Wedding Tweaks](https://www.nexusmods.com/stardewvalley/mods/10117)
+- [Bed Tweaks](https://www.nexusmods.com/stardewvalley/mods/10023)
 
 ## Immersion
 
