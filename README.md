@@ -282,6 +282,8 @@ That said, I recognise that there are some mods that people may not like, and if
 
 Those mods can be found at the very top of the mod list, directly under the red separator that reads "**Uncheck to disable these mods only.**"
 
+![Mods_to_Disable_Image](assets/images/Mods_to_Disable.png)
+
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** is the mod that smooths out the graphics. It also provides a variety of performance boosts. Disable this mod for the classic Stardew Valley appearance.
 
 **[Eidee Easy Fishing](https://www.nexusmods.com/stardewvalley/mods/4806)** is the mod that enables easy fish catching. Disable this mod for the classic Stardew Valley fishing experience.
@@ -292,9 +294,13 @@ Some mods should be configured to match your preferences in game.
 
 Those mods can be found at the very top of the mod list, directly under the red separator that reads "**Config Options (Edit at your own risk - Read the DOCS)**"
 
+![Mods_to_Config_Image](assets/images/Mods_to_Config.png)
+
 They do ship with a default configuration, but you may edit the configuration to suit your playthrough. Please remember in Stardew Valley, **All save games share the same configuration files**.
 
 To edit a configuration file, right click on the name, select "Open in Explorer", open the folder that appears, and then open the `config.json` file in a text editor.
+
+![Open_in_Explorer_Image](assets/images/Open_in_Explorer.png)
 
 **[NoDelete] BedTweaks - Options** adjusts the bed size. You want to change the option `"BedWidth": 5,` to adjust for the number of spouse you have. For example `"BedWidth": 2,` is suitable for only 1 spouse. `"BedWidth": 7,` is suitable for 6 spouses.
 
