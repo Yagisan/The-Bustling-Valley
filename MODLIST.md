@@ -174,6 +174,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Custom Spouse Rooms](https://www.nexusmods.com/stardewvalley/mods/10029)
 - [Wedding Tweaks](https://www.nexusmods.com/stardewvalley/mods/10117)
 - [Bed Tweaks](https://www.nexusmods.com/stardewvalley/mods/10023)
+- [Multiple Spouse Dialogs](https://www.nexusmods.com/stardewvalley/mods/8711)
 
 ## Immersion
 
