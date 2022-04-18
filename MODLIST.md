@@ -1,6 +1,6 @@
 # The Bustling Valley - Complete Modlist
 
-Last update **0.4.8**
+Last update **0.4.9**
 
 This is a complete list of all mods included in The Bustling Valley. The ordering is somewhat arbitrary and grouping matches my internal classification.
 
@@ -161,6 +161,8 @@ This list is only updated when mods are added or removed. If the version above d
 - [Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615)
 - [Bulk Animal Purchase](https://www.nexusmods.com/stardewvalley/mods/11539)
 - [Livestock Choices](https://www.nexusmods.com/stardewvalley/mods/11551)
+- [Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)
+  - [Aquarism - Automate Support](https://www.nexusmods.com/stardewvalley/mods/11288)
 
 ## Gifting and Friendship
 
