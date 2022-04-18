@@ -50,6 +50,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
+This release is out somewhat ahead of schedule as Diverse Stardew Valley deleted a few mods breaking the list.
+
+The big change here is **[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** - for the first time since 0.3.0 we can now marry multiple spouses, if we want too.
+
 ### Additions <!-- omit in toc -->
 
 **[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)**
@@ -60,9 +64,17 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Bed Tweaks](https://www.nexusmods.com/stardewvalley/mods/10023)**
 
+**[Multiple Spouse Dialogs](https://www.nexusmods.com/stardewvalley/mods/8711)**
+
 ### Updates <!-- omit in toc -->
 
 **[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.2.0
+
+**[Diverse Stardew Valley - Emily, Haley & Sandy](https://diversestardewvalley.weebly.com/)** updated to 3.0.3
+
+**[Diverse Stardew Valley - Shane, Jas & Marnie](https://diversestardewvalley.weebly.com/)** updated to 3.0.4
+
+**[Community Center Reimagined](https://www.nexusmods.com/stardewvalley/mods/6966)** updated to 1.2.4
 
 ## 0.4.7
 
