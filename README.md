@@ -236,6 +236,8 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Gameplay
 
+**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** allows you to marry multiple people, if you want to.
+
 **[Multiple Mini-Obelisks](https://www.nexusmods.com/stardewvalley/mods/7900)** allows you to place more than 2 mini-obelisks, including outside the farm.
 
 **[Horse Overhaul](https://www.nexusmods.com/stardewvalley/mods/7911)** makes the horse the way it should be, thin, fast and useful.
