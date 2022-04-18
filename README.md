@@ -43,6 +43,8 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Gameplay](#gameplay)
 - [Mod Default Hotkeys](#mod-default-hotkeys)
 - [Modifying the mod list](#modifying-the-mod-list)
+  - [Disabling selected mods](#disabling-selected-mods)
+  - [Configuring selected mods](#configuring-selected-mods)
 - [Other Post Installation FAQ](#other-post-installation-faq)
   - [Why is it slow to start?](#why-is-it-slow-to-start)
   - [Why does the game stutter between 6:00am and 6:10am?](#why-does-the-game-stutter-between-600am-and-610am)
@@ -272,7 +274,9 @@ Updating is like installing. You only have to make sure that you select the same
 
 # Modifying the mod list
 
-Modifying the mod list is not supported in any way, and is considered to be covered under the Wabbajack Discord Rule 11.
+**Modifying the mod list is not supported in any way, and is considered to be covered under the Discord Rule 12.**
+
+## Disabling selected mods
 
 That said, I recognise that there are some mods that people may not like, and if disabled, will not functionally break the list.
 
@@ -281,6 +285,18 @@ Those mods can be found at the very top of the mod list, directly under the red 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** is the mod that smooths out the graphics. It also provides a variety of performance boosts. Disable this mod for the classic Stardew Valley appearance.
 
 **[Eidee Easy Fishing](https://www.nexusmods.com/stardewvalley/mods/4806)** is the mod that enables easy fish catching. Disable this mod for the classic Stardew Valley fishing experience.
+
+## Configuring selected mods
+
+Some mods should be configured to match your preferences in game.
+
+Those mods can be found at the very top of the mod list, directly under the red separator that reads "**Config Options (Edit at your own risk - Read the DOCS)**"
+
+They do ship with a default configuration, but you may edit the configuration to suit your playthrough. Please remember in Stardew Valley, **All save games share the same configuration files**.
+
+To edit a configuration file, right click on the name, select "Open in Explorer", open the folder that appears, and then open the `config.json` file in a text editor.
+
+**[NoDelete] BedTweaks - Options** adjusts the bed size. You want to change the option `"BedWidth": 5,` to adjust for the number of spouse you have. For example `"BedWidth": 2,` is suitable for only 1 spouse. `"BedWidth": 7,` is suitable for 6 spouses.
 
 
 # Other Post Installation FAQ
