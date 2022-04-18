@@ -52,6 +52,14 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Additions <!-- omit in toc -->
 
+**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)**
+
+**[Custom Spouse Rooms](https://www.nexusmods.com/stardewvalley/mods/10029)**
+
+**[Wedding Tweaks](https://www.nexusmods.com/stardewvalley/mods/10117)**
+
+**[Bed Tweaks](https://www.nexusmods.com/stardewvalley/mods/10023)**
+
 ### Updates <!-- omit in toc -->
 
 **[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.2.0
