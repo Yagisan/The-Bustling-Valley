@@ -304,7 +304,7 @@ To edit a configuration file, right click on the name, select "Open in Explorer"
 
 ![Open_in_Explorer_Image](assets/images/Open_in_Explorer.png)
 
-**[NoDelete] BedTweaks - Options** adjusts the bed size. You want to change the option `"BedWidth": 5,` to adjust for the number of spouse you have. For example `"BedWidth": 2,` is suitable for only 1 spouse. `"BedWidth": 7,` is suitable for 6 spouses.
+**[NoDelete] BedTweaks - Options** adjusts the bed size. You want to change the option `"BedWidth": 5,` to adjust for the number of spouses you have. For example `"BedWidth": 2,` is suitable for only 1 spouse. `"BedWidth": 7,` is suitable for 6 spouses.
 
 
 # Other Post Installation FAQ
