@@ -306,7 +306,6 @@ To edit a configuration file, right click on the name, select "Open in Explorer"
 
 **[NoDelete] BedTweaks - Options** adjusts the bed size. You want to change the option `"BedWidth": 5,` to adjust for the number of spouses you have. For example `"BedWidth": 2,` is suitable for only 1 spouse. `"BedWidth": 7,` is suitable for 6 spouses.
 
-
 # Other Post Installation FAQ
 
 ## Why is it slow to start?
