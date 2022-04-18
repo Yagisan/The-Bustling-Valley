@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.4.9](#049)
   - [0.4.8](#048)
   - [0.4.7](#047)
   - [0.4.6](#046)
@@ -43,6 +44,16 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.4.9
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+**[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)**
 
 ## 0.4.8
 
