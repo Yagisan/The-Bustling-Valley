@@ -55,6 +55,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)**
 
+### Updates <!-- omit in toc -->
+
+**[Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)** has been updated to 3.4.9
+
 ## 0.4.8
 
 **Released:** `19 Apr 2022`
