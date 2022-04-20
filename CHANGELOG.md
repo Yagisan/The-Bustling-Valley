@@ -57,7 +57,11 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Updates <!-- omit in toc -->
 
-**[Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)** has been updated to 3.4.9
+**[Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)** updated to 3.4.9
+
+**[Custom Spouse Rooms](https://www.nexusmods.com/stardewvalley/mods/10029)** updated to 0.6.2
+
+**[Quest Framework](https://www.nexusmods.com/stardewvalley/mods/6414)** updated to 1.4.3
 
 ## 0.4.8
 
