@@ -146,7 +146,7 @@ From the menu that appears, select English, the exit the game via the main menu.
 
 #### Preparations
 
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a _working folder_.  The recommended working folder is `C:\WJ\WabbaJack`. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. Do not install to a *OneDrive* folder.
+Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a _working folder_.  The recommended working folder is `C:\WJ\WabbaJack`. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. Do not install to a _OneDrive_ folder.
 
 #### Downloading and Installing
 
@@ -156,8 +156,8 @@ The download and installation process can take a very long time depending on you
 
 1. Open Wabbajack.
 2. Click on **Browse Modlists**. Under Games, select Stardew Valley. Select The Bustling Valley from the selection.
-3. Set the _installation location_. The recommended installation location is `C:\WJ\TBV`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. **The rest of this document will assume you are using the recommended installation path.** Do not install to a *OneDrive* folder.
-4. Set the _download location_. The recommended download location is `C:\WJ\TBV_downloads`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. Do not install to a *OneDrive* folder.
+3. Set the _installation location_. The recommended installation location is `C:\WJ\TBV`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. **The rest of this document will assume you are using the recommended installation path.** Do not install to a _OneDrive_ folder.
+4. Set the _download location_. The recommended download location is `C:\WJ\TBV_downloads`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. Do not install to a _OneDrive_ folder.
 5. Check **Overwrite Installation**
 6. Click the Go/Begin button
 7. Wait for Wabbajack to finish
@@ -165,12 +165,11 @@ The download and installation process can take a very long time depending on you
 
 ##### Manual - Not Recommended
 
-1. [Download the latest release from GitHub](https://github.com/Yagisan/The-Bustling-Valley/releases). It will be named `The.Bustling.Valley.wabbajack
-` Save it to a temporary folder. The recommended temporary folder is `C:\Temp\Valley`.
+1. [Download the latest release from GitHub](https://github.com/Yagisan/The-Bustling-Valley/releases). It will be named `The.Bustling.Valley.wabbajack` Save it to a temporary folder. The recommended temporary folder is `C:\Temp\Valley`.
 2. Open Wabbajack.
 3. Click on **Install from Disk**. Set the target modlist to `C:\Temp\Valley\The Bustling Valley.wabbajack`
-4. Set the _installation location_. The recommended installation location is `C:\WJ\TBV`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. **The rest of this document will assume you are using the recommended installation path.** Do not install to a *OneDrive* folder.
-5. Set the _download location_. The recommended download location is `C:\WJ\TBV_downloads`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. Do not install to a *OneDrive* folder.
+4. Set the _installation location_. The recommended installation location is `C:\WJ\TBV`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. **The rest of this document will assume you are using the recommended installation path.** Do not install to a _OneDrive_ folder.
+5. Set the _download location_. The recommended download location is `C:\WJ\TBV_downloads`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. Do not install to a _OneDrive_ folder.
 6. Check **Overwrite Installation**
 7. Click the Go/Begin button
 8. Wait for Wabbajack to finish
@@ -375,6 +374,7 @@ To remove the broken quest, type `quests_remove quest key@Rafseazz.RSVQF` into t
 For example `quests_remove yuuma_ring@Rafseazz.RSVQF`, Enter, `quests_accept yuuma_ring@Rafseazz.RSVQF`, Enter.
 
 The following is a list of all Ridgeside Village quests. You should be able to tell from the name, which one is your broken quest.
+
 - bert_honey
 - trinnie_sunflower
 - keahi_slime
@@ -405,7 +405,6 @@ The following is a list of all Ridgeside Village quests. You should be able to t
 - trinnie_poppy
 - yuuma_burger
 - yuuma_iron
-
 
 ## How do I reset the configuration files?
 
@@ -465,7 +464,7 @@ Several of the mods included in The Bustling Valley have known bugs. These are b
 
 ## Contact and Technical Support
 
-Please check the [Issues](https://github.com/Yagisan/The-Bustling-Valley/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. If you believe you have found a bug, please file bug report [here](https://github.com/Yagisan/The-Bustling-Valley/issues) with as much information as possible to replicate the issue. Requests for support on any other platform will be ignored. 
+Please check the [Issues](https://github.com/Yagisan/The-Bustling-Valley/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. If you believe you have found a bug, please file bug report [here](https://github.com/Yagisan/The-Bustling-Valley/issues) with as much information as possible to replicate the issue.  There is a [Support Discord](https://discord.gg/rB5RFgHhUD) for issues with the mod list. Requests for support on any other platform will be ignored.
 
 **ALL BUG REPORTS REQUIRE A FULL SMAPI LOG**
 
