@@ -63,6 +63,12 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Quest Framework](https://www.nexusmods.com/stardewvalley/mods/6414)** updated to 1.4.3
 
+**[Ginger Island Mainland Adjustments](https://www.nexusmods.com/stardewvalley/mods/10004)** updated to 1.1.4
+
+**[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** updated to 2.0.6
+
+**[Better Junimos Forestry](https://www.nexusmods.com/stardewvalley/mods/8992)** updated to 1.0.7
+
 ## 0.4.8
 
 **Released:** `19 Apr 2022`
