@@ -51,9 +51,13 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
+**[Fall Colors and seasonal tree colors](https://www.nexusmods.com/stardewvalley/mods/11769)** will only take effect in a new game, **or** for new trees in an existing game. This is a game limitation, so for best effect in an existing game - completely chop down all the trees.
+
 ### Additions <!-- omit in toc -->
 
 **[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)**
+
+**[Fall Colors and seasonal tree colors](https://www.nexusmods.com/stardewvalley/mods/11769)**
 
 ### Updates <!-- omit in toc -->
 
