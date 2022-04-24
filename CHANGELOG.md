@@ -69,6 +69,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Better Junimos Forestry](https://www.nexusmods.com/stardewvalley/mods/8992)** updated to 1.0.7
 
+**[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)** updated to 1.2.0
+
 ## 0.4.8
 
 **Released:** `19 Apr 2022`
