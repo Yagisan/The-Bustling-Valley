@@ -69,11 +69,17 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Ginger Island Mainland Adjustments](https://www.nexusmods.com/stardewvalley/mods/10004)** updated to 1.1.4
 
-**[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** updated to 2.0.6
+**[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** updated to 2.0.7
 
 **[Better Junimos Forestry](https://www.nexusmods.com/stardewvalley/mods/8992)** updated to 1.0.7
 
 **[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)** updated to 1.2.0
+
+**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 5.0.7
+
+**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 0.8.7
+
+**[Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)** updated to 1.0.0
 
 ## 0.4.8
 
