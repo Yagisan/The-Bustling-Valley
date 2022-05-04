@@ -163,6 +163,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Livestock Choices](https://www.nexusmods.com/stardewvalley/mods/11551)
 - [Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)
   - [Aquarism - Automate Support](https://www.nexusmods.com/stardewvalley/mods/11288)
+- [Avoid Losing Scepter](https://www.nexusmods.com/stardewvalley/mods/11856)
 
 ## Gifting and Friendship
 
@@ -274,7 +275,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Elle's Animals for Alternative Textures - New Barn](https://www.nexusmods.com/stardewvalley/mods/10039)
 - [Lumisteria Toddlers Like Parents - Alternative Children](https://www.nexusmods.com/stardewvalley/mods/10494)
 - [Lumisteria - Alternative Textures - Craftable](https://www.nexusmods.com/stardewvalley/mods/9294)
-- [Fall Colors and seasonal tree colors](https://www.nexusmods.com/stardewvalley/mods/11769)
+- [Fall Colors and gradual seasonal foliage changes](https://www.nexusmods.com/stardewvalley/mods/11769)
 
 ## Yagisan's Patches
 
