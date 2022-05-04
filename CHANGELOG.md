@@ -57,6 +57,8 @@ The Foxbloom will now spawn one random Sunday each month like before, but it wil
 
 **[Fall Colors and gradual seasonal foliage changes](https://www.nexusmods.com/stardewvalley/mods/11769)** will only take effect in a new game, **or** for new trees in an existing game. This is a game limitation, so for best effect in an existing game - completely chop down all the trees.
 
+**[Lumisteria- Alternative Textures - Crops](https://www.nexusmods.com/stardewvalley/mods/11819)** and **[AT - Crop Variety](https://www.nexusmods.com/stardewvalley/mods/9930)** have been included to give crops a greater variety of looks. Due to conflicts with **[Crop Regrowth and Perennial Crops](https://www.nexusmods.com/stardewvalley/mods/4685)** however, Amaranth, Kale, Rhubarb, Rice, and Wheat have been disabled.
+
 **[Avoid Losing Scepter](https://www.nexusmods.com/stardewvalley/mods/11856)** prevents you from losing the Return Sceptre, Horse Flute, or Golden Scythe on passing out in the mines.
 
 ### Additions <!-- omit in toc -->
@@ -68,6 +70,10 @@ The Foxbloom will now spawn one random Sunday each month like before, but it wil
 **[Avoid Losing Scepter](https://www.nexusmods.com/stardewvalley/mods/11856)**
 
 **[Messy Crops](https://www.nexusmods.com/stardewvalley/mods/11317)**
+
+**[Lumisteria- Alternative Textures - Crops](https://www.nexusmods.com/stardewvalley/mods/11819)**
+
+**[AT - Crop Variety](https://www.nexusmods.com/stardewvalley/mods/9930)**
 
 ### Updates <!-- omit in toc -->
 
