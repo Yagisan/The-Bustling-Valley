@@ -51,13 +51,21 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
-**[Fall Colors and seasonal tree colors](https://www.nexusmods.com/stardewvalley/mods/11769)** will only take effect in a new game, **or** for new trees in an existing game. This is a game limitation, so for best effect in an existing game - completely chop down all the trees.
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** in addition to bugfixes, there are some important, quality of life changes to the Foxbloom.
+
+The Foxbloom will now spawn one random Sunday each month like before, but it will spawn in front of one of the coloured crystals at random. Now you only need the Relic Fox Mask when entering the forest for the Foxbloom to spawn, not when you go to sleep the night before.
+
+**[Fall Colors and gradual seasonal foliage changes](https://www.nexusmods.com/stardewvalley/mods/11769)** will only take effect in a new game, **or** for new trees in an existing game. This is a game limitation, so for best effect in an existing game - completely chop down all the trees.
+
+**[Avoid Losing Scepter](https://www.nexusmods.com/stardewvalley/mods/11856)** prevents you from losing the Return Sceptre, Horse Flute, or Golden Scythe on passing out in the mines.
 
 ### Additions <!-- omit in toc -->
 
 **[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)**
 
-**[Fall Colors and seasonal tree colors](https://www.nexusmods.com/stardewvalley/mods/11769)**
+**[Fall Colors and gradual seasonal foliage changes](https://www.nexusmods.com/stardewvalley/mods/11769)**
+
+**[Avoid Losing Scepter](https://www.nexusmods.com/stardewvalley/mods/11856)**
 
 ### Updates <!-- omit in toc -->
 
@@ -80,6 +88,14 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 0.8.7
 
 **[Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)** updated to 1.0.0
+
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.1.2
+
+**[Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)** updated to 1.8.2
+
+**[JSON Assets](https://www.nexusmods.com/stardewvalley/mods/1720)** updated to 1.10.4
+
+**[SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)** updated to 1.8.3
 
 ## 0.4.8
 
