@@ -243,6 +243,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [SSaturn's Tropical Farm](https://www.nexusmods.com/stardewvalley/mods/5585)
 - [SSaturn's Oriental Kitchen](https://www.nexusmods.com/stardewvalley/mods/6010)
 - [Boarding House Nut Butters](https://www.nexusmods.com/stardewvalley/mods/6342)
+- [Messy Crops](https://www.nexusmods.com/stardewvalley/mods/11317)
 
 ## Shop Changes
 
