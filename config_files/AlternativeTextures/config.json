@@ -98,6 +98,66 @@
         0,
         4
       ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Amaranth Seeds",
+      "DisabledVariations": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Artichoke Seeds",
+      "DisabledVariations": []
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Kale Seeds",
+      "DisabledVariations": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Rhubarb Seeds",
+      "DisabledVariations": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Rice Shoot",
+      "DisabledVariations": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Wheat Seeds",
+      "DisabledVariations": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "TextureId": "Lumisteria.AT.Crops.Crop_Rhubarb Seeds",
+      "DisabledVariations": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "TextureId": "Lumisteria.AT.Crops.Crop_Rice Shoot",
+      "DisabledVariations": [
+        0,
+        1
+      ]
     }
   ]
 }
