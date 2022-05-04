@@ -67,6 +67,8 @@ The Foxbloom will now spawn one random Sunday each month like before, but it wil
 
 **[Avoid Losing Scepter](https://www.nexusmods.com/stardewvalley/mods/11856)**
 
+**[Messy Crops](https://www.nexusmods.com/stardewvalley/mods/11317)**
+
 ### Updates <!-- omit in toc -->
 
 **[Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)** updated to 3.4.9
