@@ -6,6 +6,98 @@
         0,
         1
       ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Cauliflower Seeds",
+      "DisabledVariations": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Coffee Bean",
+      "DisabledVariations": [
+        0,
+        2
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Fairy Seeds",
+      "DisabledVariations": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Melon Seeds",
+      "DisabledVariations": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Parsnip Seeds",
+      "DisabledVariations": [
+        1,
+        4
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Poppy Seeds",
+      "DisabledVariations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Pumpkin Seeds",
+      "DisabledVariations": [
+        3,
+        4
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Red Cabbage Seeds",
+      "DisabledVariations": [
+        0
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Starfruit Seeds",
+      "DisabledVariations": [
+        2
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Tulip Bulb",
+      "DisabledVariations": [
+        4
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Yam Seeds",
+      "DisabledVariations": [
+        0
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Sunflower Seeds",
+      "DisabledVariations": [
+        0,
+        4
+      ]
     }
   ]
 }
