@@ -277,6 +277,8 @@ This list is only updated when mods are added or removed. If the version above d
 - [Lumisteria Toddlers Like Parents - Alternative Children](https://www.nexusmods.com/stardewvalley/mods/10494)
 - [Lumisteria - Alternative Textures - Craftable](https://www.nexusmods.com/stardewvalley/mods/9294)
 - [Fall Colors and gradual seasonal foliage changes](https://www.nexusmods.com/stardewvalley/mods/11769)
+- [Lumisteria- Alternative Textures - Crops](https://www.nexusmods.com/stardewvalley/mods/11819)
+- [AT - Crop Variety](https://www.nexusmods.com/stardewvalley/mods/9930)
 
 ## Yagisan's Patches
 
