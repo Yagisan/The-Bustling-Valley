@@ -51,7 +51,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
-**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** in addition to bugfixes, there are some important, quality of life changes to the Foxbloom.
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** in addition to bug fixes, there are some important, quality of life changes to the Foxbloom.
 
 The Foxbloom will now spawn one random Sunday each month like before, but it will spawn in front of one of the coloured crystals at random. Now you only need the Relic Fox Mask when entering the forest for the Foxbloom to spawn, not when you go to sleep the night before.
 
