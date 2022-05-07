@@ -123,9 +123,6 @@ This list is only updated when mods are added or removed. If the version above d
 - [Horse Overhaul](https://www.nexusmods.com/stardewvalley/mods/7911)
 - [Statue of Generosity](https://www.nexusmods.com/stardewvalley/mods/7532)
 - [Eidee Easy Fishing](https://www.nexusmods.com/stardewvalley/mods/4806)
-- [Greenhouse Gatherers](https://www.nexusmods.com/stardewvalley/mods/7619)
-- [Island Gatherers](https://www.nexusmods.com/stardewvalley/mods/8552)
-  - [Island Gatherers - Automate Support](https://www.nexusmods.com/stardewvalley/mods/8552)
 - [Deluxe Grabber Redux](https://www.nexusmods.com/stardewvalley/mods/7920)
 
 ## QOL Changes
@@ -155,14 +152,12 @@ This list is only updated when mods are added or removed. If the version above d
 - [Log Spam Filter](https://www.nexusmods.com/stardewvalley/mods/11252)
 - [Robin Work Hours](https://www.nexusmods.com/stardewvalley/mods/11244)
 - [Almanac](https://www.nexusmods.com/stardewvalley/mods/11022)
-  - [DynamicGameAssets Support](https://www.nexusmods.com/stardewvalley/mods/11022)
 - [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
   - [SpaceCore and DynamicGameAssets Support](https://www.nexusmods.com/stardewvalley/mods/11115)
 - [Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615)
 - [Bulk Animal Purchase](https://www.nexusmods.com/stardewvalley/mods/11539)
 - [Livestock Choices](https://www.nexusmods.com/stardewvalley/mods/11551)
 - [Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)
-  - [Aquarism - Automate Support](https://www.nexusmods.com/stardewvalley/mods/11288)
 - [Avoid Losing Scepter](https://www.nexusmods.com/stardewvalley/mods/11856)
 
 ## Gifting and Friendship
