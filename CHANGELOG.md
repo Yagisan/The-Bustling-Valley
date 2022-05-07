@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.4.10](#0410)
   - [0.4.9](#049)
   - [0.4.8](#048)
   - [0.4.7](#047)
@@ -45,9 +46,61 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
 
-## 0.4.9
+## 0.4.10
 
 **Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+As the mod list has grown over time, multiple mods have had their functionality duplicated, or supplanted by other mods. I have begun removing these mods from the list, and while most are simple removals, some will require some preparation prior to upgrading.
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+**[SMAPI](https://smapi.io/)** updated to 3.14.1
+
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.26.0-beta.20220506
+
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.14.0
+
+**[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.3.0
+
+**[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 2.0.8
+
+**[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)** updated to 1.0.25
+
+**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 0.8.8
+
+**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 5.1.1
+
+**[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.3.1
+
+### Removed <!-- omit in toc -->
+
+**[Greenhouse Gatherers](https://www.nexusmods.com/stardewvalley/mods/7619)** redundant.
+
+**[Island Gatherers](https://www.nexusmods.com/stardewvalley/mods/8552)** redundant.
+
+**[Island Gatherers - Automate Support](https://www.nexusmods.com/stardewvalley/mods/8552)** redundant.
+
+**[Aquarism - Automate Support](https://www.nexusmods.com/stardewvalley/mods/11288)** obsolete.
+
+**[Almanac - DynamicGameAssets Support](https://www.nexusmods.com/stardewvalley/mods/11022)** redundant.
+
+**[Dynamic Game Assets](https://www.nexusmods.com/stardewvalley/mods/9365)** no longer needed.
+
+**[Dynamic Game Assets - Automate Patch](https://www.nexusmods.com/stardewvalley/mods/9365)** no longer needed.
+
+**[Lore-Friendly JojaMart Prices](https://www.nexusmods.com/stardewvalley/mods/2658)**
+
+### Modifications <!-- omit in toc -->
+
+Removed duplicate `0Harmony.dll` files from **[Reset Terrain Features](https://www.nexusmods.com/stardewvalley/mods/4715)**, **[Better Hay](https://www.nexusmods.com/stardewvalley/mods/1430)** and **[Better Artisan Good Icons](https://www.nexusmods.com/stardewvalley/mods/2080)**.
+
+## 0.4.9
+
+**Released:** `6 May 2022`
 
 ### Info <!-- omit in toc -->
 
