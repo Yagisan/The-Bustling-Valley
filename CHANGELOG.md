@@ -64,7 +64,7 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.14.0
 
-**[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.3.0
+**[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.4.0
 
 **[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 2.0.8
 
@@ -75,6 +75,8 @@ As the mod list has grown over time, multiple mods have had their functionality 
 **[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 5.1.1
 
 **[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.3.1
+
+**[Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)** updated to 1.3.0
 
 ### Removed <!-- omit in toc -->
 
@@ -93,6 +95,8 @@ As the mod list has grown over time, multiple mods have had their functionality 
 **[Dynamic Game Assets - Automate Patch](https://www.nexusmods.com/stardewvalley/mods/9365)** no longer needed.
 
 **[Lore-Friendly JojaMart Prices](https://www.nexusmods.com/stardewvalley/mods/2658)**
+
+**[Stardew Auto GC](https://www.nexusmods.com/stardewvalley/mods/9293)**
 
 ### Modifications <!-- omit in toc -->
 
