@@ -1,6 +1,6 @@
 # The Bustling Valley - Complete Modlist
 
-Last update **0.4.9**
+Last update **0.4.10**
 
 This is a complete list of all mods included in The Bustling Valley. The ordering is somewhat arbitrary and grouping matches my internal classification.
 
@@ -87,8 +87,6 @@ This list is only updated when mods are added or removed. If the version above d
 - [DaisyNiko's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/4736)
 - [Lumisteria Tilesheets - Indoor](https://www.nexusmods.com/stardewvalley/mods/9599)
 - [More Giant Crops](https://www.nexusmods.com/stardewvalley/mods/5263)
-- [Dynamic Game Assets](https://www.nexusmods.com/stardewvalley/mods/9365)
-  - [Dynamic Game Assets - Automate Patch](https://www.nexusmods.com/stardewvalley/mods/9365)
 - [eXpanded Storage Lite](https://www.nexusmods.com/stardewvalley/mods/7431)
   - [eXpanded Storage Lite - Automate Patch](https://www.nexusmods.com/stardewvalley/mods/7431)
 - [Custom Gift Dialogue Utillity](https://www.nexusmods.com/stardewvalley/mods/7304)
@@ -140,7 +138,6 @@ This list is only updated when mods are added or removed. If the version above d
 - [Auto Animal Doors](https://www.nexusmods.com/stardewvalley/mods/1019)
 - [Automatic Gates](https://www.nexusmods.com/stardewvalley/mods/3109)
 - [Better Ranching](https://www.nexusmods.com/stardewvalley/mods/859)
-- [Stardew Auto GC](https://www.nexusmods.com/stardewvalley/mods/9293)
 - [Faster Path Speed](https://www.nexusmods.com/stardewvalley/mods/9344)
 - [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
 - [Event Lookup](https://www.nexusmods.com/stardewvalley/mods/8505)
@@ -212,7 +209,6 @@ This list is only updated when mods are added or removed. If the version above d
 - [A Cleaner Sewer](https://www.nexusmods.com/stardewvalley/mods/5751)
   - [Krobus Spouse Room](https://www.nexusmods.com/stardewvalley/mods/5751)
 - [Egg Festival Winner Randomized](https://www.nexusmods.com/stardewvalley/mods/8574)
-- [Lore-Friendly JojaMart Prices](https://www.nexusmods.com/stardewvalley/mods/2658)
 - [Visible Fish](https://www.nexusmods.com/stardewvalley/mods/8897)
 - [Penny 8 Heart Event Adjusted](https://www.nexusmods.com/stardewvalley/mods/9865)
 - [(CC) SH's Wild Animals](https://www.nexusmods.com/stardewvalley/mods/9063)
