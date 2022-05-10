@@ -92,6 +92,8 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)** updated to 0.3.2
 
+**[Show Birthdays](https://www.nexusmods.com/stardewvalley/mods/7495)** updated to 1.3.0
+
 ### Removed <!-- omit in toc -->
 
 **[Greenhouse Gatherers](https://www.nexusmods.com/stardewvalley/mods/7619)** redundant.
