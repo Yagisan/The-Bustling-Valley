@@ -58,9 +58,9 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 ### Updates <!-- omit in toc -->
 
-**[SMAPI](https://smapi.io/)** updated to 3.14.1
+**[SMAPI](https://smapi.io/)** updated to 3.14.2
 
-**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.26.0-beta.20220506
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.26.0
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.14.0
 
@@ -70,13 +70,25 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)** updated to 1.0.25
 
-**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 0.8.8
+**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 0.8.10
 
 **[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 5.1.1
 
 **[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.3.1
 
 **[Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)** updated to 1.3.0
+
+**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.26.0
+
+**[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)** updated to 1.22.0
+
+**[Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)** updated to 1.15.5
+
+**[Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)** updated to 1.1.15
+
+**[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)** updated to 1.37.1
+
+**[Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)** updated to 1.9.9
 
 ### Removed <!-- omit in toc -->
 
