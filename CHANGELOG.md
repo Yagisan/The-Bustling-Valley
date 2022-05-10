@@ -90,6 +90,8 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)** updated to 1.9.9
 
+**[Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)** updated to 0.3.2
+
 ### Removed <!-- omit in toc -->
 
 **[Greenhouse Gatherers](https://www.nexusmods.com/stardewvalley/mods/7619)** redundant.
