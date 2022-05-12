@@ -60,7 +60,7 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[SMAPI](https://smapi.io/)** updated to 3.14.2
 
-**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.26.0
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.26.1
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.14.0
 
@@ -93,6 +93,10 @@ As the mod list has grown over time, multiple mods have had their functionality 
 **[Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)** updated to 0.3.2
 
 **[Show Birthdays](https://www.nexusmods.com/stardewvalley/mods/7495)** updated to 1.3.0
+
+**[Almanac](https://www.nexusmods.com/stardewvalley/mods/11022)** updated to 0.17.0
+
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.1.3
 
 ### Removed <!-- omit in toc -->
 
