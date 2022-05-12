@@ -68,9 +68,9 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 2.0.8
 
-**[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)** updated to 1.0.25
+**[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)** updated to 1.0.26
 
-**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 0.8.10
+**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 0.9.0
 
 **[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 5.1.1
 
@@ -90,7 +90,7 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)** updated to 1.9.9
 
-**[Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)** updated to 0.3.2
+**[Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)** updated to 0.3.3
 
 **[Show Birthdays](https://www.nexusmods.com/stardewvalley/mods/7495)** updated to 1.3.0
 
