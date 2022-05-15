@@ -68,11 +68,11 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 2.0.8
 
-**[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)** updated to 1.0.26
+**[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)** updated to 1.0.27
 
 **[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 0.9.0
 
-**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 5.1.1
+**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 6.0.0
 
 **[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.3.1
 
@@ -97,6 +97,10 @@ As the mod list has grown over time, multiple mods have had their functionality 
 **[Almanac](https://www.nexusmods.com/stardewvalley/mods/11022)** updated to 0.17.0
 
 **[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.1.3
+
+**[Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)** updated to 1.9.0
+
+**[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.9.0
 
 ### Removed <!-- omit in toc -->
 
