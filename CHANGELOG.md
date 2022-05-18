@@ -56,6 +56,10 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 ### Additions <!-- omit in toc -->
 
+**[Extra Map Layers](https://www.nexusmods.com/stardewvalley/mods/9633)** 0.3.2 has had an unofficial patch by atravita from the SMAPI performance issues thread on the main SDV discord applied. (replaced regexes with char.isdigit)
+
+**[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** 2.1.6 has had an unofficial patch by atravita from the SMAPI performance issues thread on the main SDV discord applied.
+
 ### Updates <!-- omit in toc -->
 
 **[SMAPI](https://smapi.io/)** updated to 3.14.4
@@ -72,7 +76,7 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 0.9.0
 
-**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 6.0.0
+**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 6.1.0
 
 **[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.3.1
 
