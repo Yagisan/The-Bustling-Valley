@@ -106,6 +106,8 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.9.0
 
+**[Diverse Stardew Valley - Emily, Haley & Sandy](https://diversestardewvalley.weebly.com/)** updated to 3.0.4
+
 ### Removed <!-- omit in toc -->
 
 **[Greenhouse Gatherers](https://www.nexusmods.com/stardewvalley/mods/7619)** redundant.
