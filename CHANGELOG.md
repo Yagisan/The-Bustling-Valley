@@ -64,7 +64,7 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[SMAPI](https://smapi.io/)** updated to 3.14.4
 
-**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.26.3
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.26.4-alpha.20220518
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.14.0
 
@@ -76,7 +76,7 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 0.9.0
 
-**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 6.1.0
+**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 6.1.1
 
 **[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.3.1
 
@@ -107,6 +107,8 @@ As the mod list has grown over time, multiple mods have had their functionality 
 **[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.9.0
 
 **[Diverse Stardew Valley - Emily, Haley & Sandy](https://diversestardewvalley.weebly.com/)** updated to 3.0.4
+
+**[Ginger Island NPC Overhaul](https://www.nexusmods.com/stardewvalley/mods/9242)** updated to 1.2.1
 
 ### Removed <!-- omit in toc -->
 
