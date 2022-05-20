@@ -110,6 +110,10 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Ginger Island NPC Overhaul](https://www.nexusmods.com/stardewvalley/mods/9242)** updated to 1.2.1
 
+**[Multiple Spouse Dialogs](https://www.nexusmods.com/stardewvalley/mods/8711)** updated to 1.2.4
+
+**[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** updated to 2.0.8
+
 ### Removed <!-- omit in toc -->
 
 **[Greenhouse Gatherers](https://www.nexusmods.com/stardewvalley/mods/7619)** redundant.
