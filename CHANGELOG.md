@@ -58,13 +58,11 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Extra Map Layers](https://www.nexusmods.com/stardewvalley/mods/9633)** 0.3.2 has had an unofficial patch by atravita from the SMAPI performance issues thread on the main SDV discord applied. (replaced regexes with char.isdigit)
 
-**[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** 2.1.6 has had an unofficial patch by atravita from the SMAPI performance issues thread on the main SDV discord applied.
-
 ### Updates <!-- omit in toc -->
 
-**[SMAPI](https://smapi.io/)** updated to 3.14.4
+**[SMAPI](https://smapi.io/)** updated to 3.14.5
 
-**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.26.4-alpha.20220518
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.26.4
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.14.0
 
@@ -74,7 +72,7 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)** updated to 1.0.27
 
-**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 0.9.0
+**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 0.9.2
 
 **[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 6.1.1
 
@@ -84,7 +82,7 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.26.0
 
-**[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)** updated to 1.22.0
+**[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)** updated to 1.22.1
 
 **[Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)** updated to 1.15.5
 
@@ -113,6 +111,8 @@ As the mod list has grown over time, multiple mods have had their functionality 
 **[Multiple Spouse Dialogs](https://www.nexusmods.com/stardewvalley/mods/8711)** updated to 1.2.4
 
 **[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** updated to 2.0.8
+
+**[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.1.7
 
 ### Removed <!-- omit in toc -->
 
