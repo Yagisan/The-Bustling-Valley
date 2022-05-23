@@ -58,6 +58,8 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Extra Map Layers](https://www.nexusmods.com/stardewvalley/mods/9633)** 0.3.2 has had an unofficial patch by atravita from the SMAPI performance issues thread on the main SDV discord applied. (replaced regexes with char.isdigit)
 
+**[Gold Clock Sundial](https://www.nexusmods.com/stardewvalley/mods/7863)** was replaced with the **[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** version.
+
 ### Updates <!-- omit in toc -->
 
 **[SMAPI](https://smapi.io/)** updated to 3.14.5
@@ -113,6 +115,8 @@ As the mod list has grown over time, multiple mods have had their functionality 
 **[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** updated to 2.0.8
 
 **[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.1.7
+
+**[Golden Coconut Tree](https://www.nexusmods.com/stardewvalley/mods/8280)** updated to 1.1.5
 
 ### Removed <!-- omit in toc -->
 
