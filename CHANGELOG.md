@@ -118,6 +118,8 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Golden Coconut Tree](https://www.nexusmods.com/stardewvalley/mods/8280)** updated to 1.1.5
 
+**[Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)** updated to 1.1.0
+
 ### Removed <!-- omit in toc -->
 
 **[Greenhouse Gatherers](https://www.nexusmods.com/stardewvalley/mods/7619)** redundant.
