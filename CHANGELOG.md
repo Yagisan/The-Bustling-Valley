@@ -76,7 +76,7 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 0.9.2
 
-**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 6.2.0
+**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 6.2.1
 
 **[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.3.1
 
@@ -118,7 +118,7 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Golden Coconut Tree](https://www.nexusmods.com/stardewvalley/mods/8280)** updated to 1.1.5
 
-**[Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)** updated to 1.1.0
+**[Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)** updated to 1.1.1
 
 ### Removed <!-- omit in toc -->
 
