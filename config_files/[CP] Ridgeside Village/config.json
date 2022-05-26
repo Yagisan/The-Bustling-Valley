@@ -7,5 +7,6 @@
   "FullFestivals": "true",
   "EnableBetterBusStop": "true",
   "AutoWeddingReception": "false",
-  "PoleAtBackwoods": "true"
+  "PoleAtBackwoods": "true",
+  "SeasonalRSVMap": "true"
 }
