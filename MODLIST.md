@@ -156,6 +156,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Livestock Choices](https://www.nexusmods.com/stardewvalley/mods/11551)
 - [Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)
 - [Avoid Losing Scepter](https://www.nexusmods.com/stardewvalley/mods/11856)
+- [Profiler](https://www.nexusmods.com/stardewvalley/mods/12135)
 
 ## Gifting and Friendship
 
