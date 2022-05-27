@@ -60,11 +60,13 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Gold Clock Sundial](https://www.nexusmods.com/stardewvalley/mods/7863)** was replaced with the **[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** version.
 
+**[Profiler](https://www.nexusmods.com/stardewvalley/mods/12135)** the is used to identify what is taking up so much time.
+
 ### Updates <!-- omit in toc -->
 
-**[SMAPI](https://smapi.io/)** updated to 3.14.5
+**[SMAPI](https://smapi.io/)** updated to 3.15.0-alpha.20220526
 
-**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.26.4
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.26.5-alpha.20220526
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.14.0
 
