@@ -100,7 +100,7 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Almanac](https://www.nexusmods.com/stardewvalley/mods/11022)** updated to 0.17.0
 
-**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.1.3
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.1.4
 
 **[Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)** updated to 1.9.1
 
