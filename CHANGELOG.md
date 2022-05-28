@@ -64,11 +64,11 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 ### Updates <!-- omit in toc -->
 
-**[SMAPI](https://smapi.io/)** updated to 3.15.0-alpha.20220526
+**[SMAPI](https://smapi.io/)** updated to 3.15.0-beta.20220527
 
-**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.26.5-alpha.20220526
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.27.0-beta.20220527
 
-**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.14.0
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.14.1-alpha.3
 
 **[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.4.0
 
@@ -84,15 +84,15 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)** updated to 1.3.0
 
-**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.26.0
+**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.26.1
 
-**[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)** updated to 1.22.1
+**[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)** updated to 1.22.2
 
 **[Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)** updated to 1.15.5
 
 **[Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)** updated to 1.1.15
 
-**[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)** updated to 1.37.1
+**[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)** updated to 1.37.2
 
 **[Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)** updated to 1.9.9
 
@@ -114,9 +114,9 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Multiple Spouse Dialogs](https://www.nexusmods.com/stardewvalley/mods/8711)** updated to 1.2.4
 
-**[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** updated to 2.0.8
+**[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** updated to 2.1.1
 
-**[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.1.7
+**[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.1.9
 
 **[Golden Coconut Tree](https://www.nexusmods.com/stardewvalley/mods/8280)** updated to 1.1.5
 
