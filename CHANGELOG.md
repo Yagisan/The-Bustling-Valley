@@ -54,6 +54,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 As the mod list has grown over time, multiple mods have had their functionality duplicated, or supplanted by other mods. I have begun removing these mods from the list, and while most are simple removals, some will require some preparation prior to upgrading.
 
+**[Aspen](https://www.nexusmods.com/stardewvalley/mods/6754)** has removed PyTK and TMXL requirements.
+
 ### Additions <!-- omit in toc -->
 
 **[Extra Map Layers](https://www.nexusmods.com/stardewvalley/mods/9633)** 0.3.2 has had an unofficial patch by atravita from the SMAPI performance issues thread on the main SDV discord applied. (replaced regexes with char.isdigit)
@@ -121,6 +123,8 @@ As the mod list has grown over time, multiple mods have had their functionality 
 **[Golden Coconut Tree](https://www.nexusmods.com/stardewvalley/mods/8280)** updated to 1.1.5
 
 **[Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)** updated to 1.1.1
+
+**[Aspen](https://www.nexusmods.com/stardewvalley/mods/6754)** updated to 0.0.50
 
 ### Removed <!-- omit in toc -->
 
