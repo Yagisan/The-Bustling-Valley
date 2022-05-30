@@ -124,7 +124,7 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)** updated to 1.1.1
 
-**[Aspen](https://www.nexusmods.com/stardewvalley/mods/6754)** updated to 0.0.50
+**[Aspen](https://www.nexusmods.com/stardewvalley/mods/6754)** updated to 0.0.51
 
 ### Removed <!-- omit in toc -->
 
