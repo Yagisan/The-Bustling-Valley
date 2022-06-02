@@ -66,11 +66,11 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 ### Updates <!-- omit in toc -->
 
-**[SMAPI](https://smapi.io/)** updated to 3.15.0-beta.20220527
+**[SMAPI](https://smapi.io/)** updated to 3.14.7
 
-**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.27.0-beta.20220527
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.26.5
 
-**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.14.1-alpha.3
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.14.0
 
 **[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.4.0
 
@@ -80,7 +80,7 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 0.9.2
 
-**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 6.2.1
+**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 6.3.0
 
 **[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.3.1
 
@@ -118,7 +118,7 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** updated to 2.1.1
 
-**[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.1.9
+**[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.1.10
 
 **[Golden Coconut Tree](https://www.nexusmods.com/stardewvalley/mods/8280)** updated to 1.1.5
 
