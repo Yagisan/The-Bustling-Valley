@@ -68,7 +68,7 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[SMAPI](https://smapi.io/)** updated to 3.14.7
 
-**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.26.6-alpha.20220604
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.26.6
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.14.0
 
@@ -86,7 +86,7 @@ As the mod list has grown over time, multiple mods have had their functionality 
 
 **[Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)** updated to 1.3.0
 
-**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.27.0-alpha.20220602
+**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.27.0
 
 **[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)** updated to 1.22.2
 
@@ -127,6 +127,8 @@ As the mod list has grown over time, multiple mods have had their functionality 
 **[Aspen](https://www.nexusmods.com/stardewvalley/mods/6754)** updated to 0.0.51
 
 **[Tea Station (PFM Machine)](https://www.nexusmods.com/stardewvalley/mods/6313)** updated to 1.0.7
+
+**[Anniversary on Calendar](https://www.nexusmods.com/stardewvalley/mods/8351)** updated to 1.2.3
 
 ### Removed <!-- omit in toc -->
 
