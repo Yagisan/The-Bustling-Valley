@@ -38,6 +38,7 @@
     "AvoidHarvestingGiants": true,
     "HarvestEverythingOn28th": true,
     "AvoidPlantingCoffee": true,
+    "AvoidReplantingSeeds": true,
     "AvoidPlantingOutOfSeason": true
   },
   "JunimoPayment": {
