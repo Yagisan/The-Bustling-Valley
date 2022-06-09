@@ -71,6 +71,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Custom Cask Mod](https://www.nexusmods.com/stardewvalley/mods/2642)** updated to 1.4.0
 
+**[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)** updated to 1.0.28
+
 ### Removed <!-- omit in toc -->
 
 ### Modifications <!-- omit in toc -->
