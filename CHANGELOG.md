@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.4.11](#0411)
   - [0.4.10](#0410)
   - [0.4.9](#049)
   - [0.4.8](#048)
@@ -45,6 +46,34 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.4.11
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 6.3.2
+
+**[Fall Colors and gradual seasonal foliage changes](https://www.nexusmods.com/stardewvalley/mods/11769)** updated to 1.2.0
+
+**[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 2.2.0
+
+**[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)** updated to 1.4.2
+
+**[Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)** updated to a 1.7.1
+
+**[The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)** updated to 1.5.4
+
+**[Custom Cask Mod](https://www.nexusmods.com/stardewvalley/mods/2642)** updated to 1.4.0
+
+### Removed <!-- omit in toc -->
+
+### Modifications <!-- omit in toc -->
 
 ## 0.4.10
 
