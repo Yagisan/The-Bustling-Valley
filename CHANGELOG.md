@@ -73,6 +73,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)** updated to 1.0.28
 
+**[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 2.2.2
+
+**[Aspen](https://www.nexusmods.com/stardewvalley/mods/6754)** updated to 0.0.52
+
 ### Removed <!-- omit in toc -->
 
 ### Modifications <!-- omit in toc -->
