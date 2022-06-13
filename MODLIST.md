@@ -62,6 +62,9 @@ This list is only updated when mods are added or removed. If the version above d
 - [Alec Revisited](https://www.nexusmods.com/stardewvalley/mods/10697)
 - [Spouse patio for Krobus - seasonal](https://www.nexusmods.com/stardewvalley/mods/10225)
 - [Yri the Architect](https://www.nexusmods.com/stardewvalley/mods/10627)
+- [Adventurer's Guild Expanded](https://www.nexusmods.com/stardewvalley/mods/12102)
+  - [Adventurer's Guild Expanded - Music](https://www.nexusmods.com/stardewvalley/mods/12102)
+  - [Seasonal Outfits for Zinnia](https://www.nexusmods.com/stardewvalley/mods/12254)
 
 ## Frameworks
 
