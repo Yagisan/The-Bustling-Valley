@@ -55,7 +55,17 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Additions <!-- omit in toc -->
 
+**[Adventurer's Guild Expanded](https://www.nexusmods.com/stardewvalley/mods/12102)** an expansion for the Adventurer's Guild complete with new quests, 30+ story events, new romanceable NPCs, and the ability to befriend and recruit a friendly monster to live on your farm
+
+**[Adventurer's Guild Expanded - Music](https://www.nexusmods.com/stardewvalley/mods/12102)** adds unique music to the events added with Adventurer's Guild Expanded.
+
+**[Seasonal Outfits for Zinnia](https://www.nexusmods.com/stardewvalley/mods/12254)** adds seasonal outfits for Zinnia, from Adventurer's Guild Expanded.
+
 ### Updates <!-- omit in toc -->
+
+**[SMAPI](https://smapi.io/)** updated to 3.15.0 beta 2022-06-12
+
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.27.0 beta 2022-06-12
 
 **[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 6.3.2
 
