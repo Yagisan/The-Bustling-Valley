@@ -1,0 +1,13 @@
+{
+  "HoldToToggle": false,
+  "ToggleKeyCode": "F3",
+  "HideHud": true,
+  "SameLocationOnly": true,
+  "SameLocationToggleKey": "H",
+  "ShowQuestsAndBirthdaysOnly": false,
+  "QuestsOnlyToggleKey": "J",
+  "ShowFarmersOnly": false,
+  "FarmersOnlyToggleKey": "K",
+  "ShowHorses": false,
+  "HorsesToggleKey": "L"
+}
