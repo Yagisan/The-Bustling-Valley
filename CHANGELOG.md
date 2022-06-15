@@ -61,6 +61,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Seasonal Outfits for Zinnia](https://www.nexusmods.com/stardewvalley/mods/12254)** adds seasonal outfits for Zinnia, from Adventurer's Guild Expanded.
 
+**[NPC Location Compass](https://www.nexusmods.com/stardewvalley/mods/3045)** shows NPCs and players on-screen, with compass needles that show direction and distance. Press **F3** key to toggle. When active your HUD will disappear.
+
 ### Updates <!-- omit in toc -->
 
 **[SMAPI](https://smapi.io/)** updated to 3.15.0 beta 2022-06-12
@@ -73,7 +75,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Fall Colors and gradual seasonal foliage changes](https://www.nexusmods.com/stardewvalley/mods/11769)** updated to 1.2.0
 
-**[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 2.2.0
+**[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 2.2.3
 
 **[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)** updated to 1.4.2
 
@@ -88,6 +90,12 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 2.2.2
 
 **[Aspen](https://www.nexusmods.com/stardewvalley/mods/6754)** updated to 0.0.52
+
+**[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.9.1
+
+**[Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)** updated to 1.3.3
+
+**[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** updated to 2.1.2
 
 ### Removed <!-- omit in toc -->
 
