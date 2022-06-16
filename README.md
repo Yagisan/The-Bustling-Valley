@@ -8,6 +8,8 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
 
 **As of 0.4.4 The Bustling Valley will coexist with manual mod installations and/or Nexus Collections.** **This list is self-contained, and includes it's own copy of SMAPI.**
 
+**The Bustling Valley will not start if you have special characters such as `(){}[],;=&|><` - you will need to install to a new location without those characters**
+
 ![Early_Farm_Heroshot](assets/images/Early_Farm_Heroshot.png)
 
  | [![patreon](assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) | [![ko-fi](assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan) | [![Discord Banner 2](https://discordapp.com/api/guilds/958710541017317397/widget.png?style=banner2)](https://discord.gg/rB5RFgHhUD) |
@@ -46,6 +48,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Disabling selected mods](#disabling-selected-mods)
   - [Configuring selected mods](#configuring-selected-mods)
 - [Other Post Installation FAQ](#other-post-installation-faq)
+  - [Why does it crash on load? Why do I get a white screen on load?](#why-does-it-crash-on-load-why-do-i-get-a-white-screen-on-load)
   - [Why is it slow to start?](#why-is-it-slow-to-start)
   - [Why does the game stutter between 6:00am and 6:10am?](#why-does-the-game-stutter-between-600am-and-610am)
   - [I hate the new smooth graphics. How do I stop it?](#i-hate-the-new-smooth-graphics-how-do-i-stop-it)
@@ -272,6 +275,8 @@ Updating is like installing. You only have to make sure that you select the same
   - **V** access the reset terrain menu.
 - [Almanac](https://www.nexusmods.com/stardewvalley/mods/11022)
   - **F7** access the almanac.
+- [NPC Location Compass](https://www.nexusmods.com/stardewvalley/mods/3045)
+  - **F3** to toggle the compass.
 
 # Modifying the mod list
 
@@ -306,6 +311,10 @@ To edit a configuration file, right click on the name, select "Open in Explorer"
 **[NoDelete] BedTweaks - Options** adjusts the bed size. You want to change the option `"BedWidth": 5,` to adjust for the number of spouses you have. For example `"BedWidth": 2,` is suitable for only 1 spouse. `"BedWidth": 7,` is suitable for 6 spouses.
 
 # Other Post Installation FAQ
+
+## Why does it crash on load? Why do I get a white screen on load?
+
+The Bustling Valley will not start if you have special characters such as `(){}[],;=&|><` - you will need to install to a new location without those characters.
 
 ## Why is it slow to start?
 
@@ -439,7 +448,6 @@ The following mods are expected to be removed when Stardew Valley 1.6 is release
 - [PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726) (Abandoned, and broken in Stardew Valley 1.5.5+)
 - [TMXL Map Toolkit](https://www.nexusmods.com/stardewvalley/mods/1820) (Abandoned, and broken in Stardew Valley 1.5.5+)
 - [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120) (Requires PyTK)
-- [Aspen](https://www.nexusmods.com/stardewvalley/mods/6754) (Requires PyTK)
 - [Sorren](https://www.nexusmods.com/stardewvalley/mods/4040)  (Requires PyTK)
   - [Festival Locations](https://www.nexusmods.com/stardewvalley/mods/4040) (Requires Soren)
   - [Boarding House Patch](https://www.nexusmods.com/stardewvalley/mods/4040) (Requires Soren)
@@ -450,7 +458,6 @@ The following mods are expected to be removed when Stardew Valley 1.6 is release
   - [Denver - Alternate Portraits](https://www.nexusmods.com/stardewvalley/mods/4594) (Requires Denver)
 - [Cecilia - Forest Home](https://www.nexusmods.com/stardewvalley/mods/6246) (Requires PyTK)
   - [Cecilia - Alternate Portraits](https://www.nexusmods.com/stardewvalley/mods/6246) (Requires Cecilia)
-- [Lore-Friendly JojaMart Prices](https://www.nexusmods.com/stardewvalley/mods/2658) (Source code lost, so can't update)
 - [Delores](https://www.nexusmods.com/stardewvalley/mods/5510) (NPC is homeless, and upstream is unresponsive)
 - [Boarding House Nut Butters](https://www.nexusmods.com/stardewvalley/mods/6342) (Requires Boarding House and Bus Stop Extension)
 
