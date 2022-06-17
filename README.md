@@ -370,7 +370,13 @@ Not for the Bustling Valley. As of 0.4.4 the Bustling Valley now includes SMAPI,
 
 ## What is the JSON Shuffle? Can it be fixed?
 
-This is described [in depth here](https://stardewmodding.wiki/wiki/Json_Shuffle), but the short version is that adding, removing, or updating mods that use JSON assets in an ongoing save results in the items becoming messed up. **To avoid a JSON Shuffle, please wait until all machines have finished processing before updating this mod list**.
+The JSON Shuffle (or JSON Scramble, as it is also known) is what happens when you add, remove or update a JSON Assets mod and then continue playing your save. The IDs of your items are likely to get messed up (shuffled). The shuffle is due to the fact that JSON Assets does not hardcode item IDs in but assigns them dynamically when the game is started. **This may also be the cause of items not being identical in multiplayer.**
+
+The resulting item is usually an overlap of both the original and new icon, with a name that may be the new item or another mishmash. The items won't damage your save, but they (usually) won't work properly either.
+
+The most likely items to experience the shuffle are flowers that come in multiple colours or items that are in a machine (e.g., a keg or custom machine) - if you empty out your machines and sell any coloured flowers before adding or removing JSON Assets mods, you'll likely be safe
+
+**To avoid a JSON Shuffle, please wait until all machines have finished processing, and have been emptied, AND you have sold all coloured flowers before updating this mod list**.
 
 It's not fixable. Please don't alter this modlist once you start playing. **If you do get a shuffle, the best thing to do is to put all shuffled items in the shipping bin, or trash it.**
 
