@@ -53,6 +53,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
+**You may get a JSON shuffle on this update. See [here for details](https://github.com/Yagisan/The-Bustling-Valley/blob/main/README.md#what-is-the-json-shuffle-can-it-be-fixed). To avoid a JSON Shuffle, please wait until all machines have finished processing, and have been emptied, AND you have sold all coloured flowers before updating this mod list**.
+
+**[Grass Growth Adjuster](https://www.nexusmods.com/stardewvalley/mods/3365)** settings have been adjusted down by 20%. It Now grows grass approximately 4 times faster than vanilla. If this still feels too fast, it will be reduced further.
+
 ### Additions <!-- omit in toc -->
 
 **[Adventurer's Guild Expanded](https://www.nexusmods.com/stardewvalley/mods/12102)** an expansion for the Adventurer's Guild complete with new quests, 30+ story events, new romanceable NPCs, and the ability to befriend and recruit a friendly monster to live on your farm
