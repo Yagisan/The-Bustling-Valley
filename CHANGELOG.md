@@ -69,7 +69,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Updates <!-- omit in toc -->
 
-**[SMAPI](https://smapi.io/)** updated to 3.15.0 beta 2022-06-12
+**[SMAPI](https://smapi.io/)** updated to 3.15.0
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.14.1-alpha.3
 
