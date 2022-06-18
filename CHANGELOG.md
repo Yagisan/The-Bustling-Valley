@@ -103,6 +103,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.27.2
 
+**[Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)** updated to 1.1.19
+
 ### Removed <!-- omit in toc -->
 
 ### Modifications <!-- omit in toc -->
