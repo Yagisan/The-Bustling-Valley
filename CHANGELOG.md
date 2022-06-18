@@ -95,7 +95,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Aspen](https://www.nexusmods.com/stardewvalley/mods/6754)** updated to 0.0.52
 
-**[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.9.2
+**[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.9.3
 
 **[Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)** updated to 1.3.3
 
