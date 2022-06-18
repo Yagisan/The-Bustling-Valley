@@ -73,7 +73,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.14.1-alpha.3
 
-**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.27.0 beta 2022-06-12
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.27.0
 
 **[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 6.3.2
 
@@ -95,11 +95,13 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Aspen](https://www.nexusmods.com/stardewvalley/mods/6754)** updated to 0.0.52
 
-**[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.9.1
+**[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.9.2
 
 **[Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)** updated to 1.3.3
 
 **[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** updated to 2.1.2
+
+**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.27.2
 
 ### Removed <!-- omit in toc -->
 
