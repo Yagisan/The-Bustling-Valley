@@ -275,6 +275,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Fall Colors and gradual seasonal foliage changes](https://www.nexusmods.com/stardewvalley/mods/11769)
 - [Lumisteria- Alternative Textures - Crops](https://www.nexusmods.com/stardewvalley/mods/11819)
 - [AT - Crop Variety](https://www.nexusmods.com/stardewvalley/mods/9930)
+- [Mini Obelisk (Alternative Textures version)](https://www.nexusmods.com/stardewvalley/mods/12571)
 
 ## Yagisan's Patches
 
