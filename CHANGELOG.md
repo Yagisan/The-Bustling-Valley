@@ -67,6 +67,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[NPC Location Compass](https://www.nexusmods.com/stardewvalley/mods/3045)** shows NPCs and players on-screen, with compass needles that show direction and distance. Press **F3** key to toggle. When active your HUD will disappear.
 
+**[Mini Obelisk (Alternative Textures version)](https://www.nexusmods.com/stardewvalley/mods/12571)** adds new optional textures for the Obelisks.
+
 ### Updates <!-- omit in toc -->
 
 **[SMAPI](https://smapi.io/)** updated to 3.15.0
