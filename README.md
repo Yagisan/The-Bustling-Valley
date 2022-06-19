@@ -214,8 +214,6 @@ Updating is like installing. You only have to make sure that you select the same
 
 **[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** is a huge expansion with over 50 new NPCs, a new village to the east of Pelican town, new quests and more.
 
-**[Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)** adds a boarding house behind the bus stop with several new NPCs. NPCs from other mods can make their homes here.
-
 **[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** adds a village to the west of Pelican town, and several new NPCs. NPCs from other mods can make their homes here.
 
 **[Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)** adds a new village, a special quest, new crops, fish and more.
@@ -251,6 +249,8 @@ Updating is like installing. You only have to make sure that you select the same
 **[Bulk Animal Purchase](https://www.nexusmods.com/stardewvalley/mods/11539)** buy multiple animals in the same transaction.
 
 **[Livestock Choices](https://www.nexusmods.com/stardewvalley/mods/11551)** actually choose what animal variant you want.
+
+**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** allows you to repaint almost anything to suit how you want it to look. Building, animals, trees, and crops.
 
 # Mod Default Hotkeys
 
