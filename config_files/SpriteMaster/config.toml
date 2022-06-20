@@ -378,7 +378,7 @@ DataStoreOverride = ""
 	# Should dirt drawing optimizations be enabled?
 	EnableDirtDrawOptimizations = false
 	# Should low-level OpenGL optimizations be performed?
-	OptimizeOpenGL = true
+	OptimizeOpenGL = false
 
 		[Config.Extras.Snow]
 		# Should custom snowfall be used during snowstorms?
