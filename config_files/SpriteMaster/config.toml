@@ -70,6 +70,8 @@ DataStoreOverride = ""
 	[Config.DrawState]
 	# Enable linear sampling for sprites
 	SetLinear = true
+	# Enable linear sampling for sprites
+	SetLinearUnresampled = false
 	# How many MSAA samples should be used?
 	MSAASamples = 1
 	# Disable the depth buffer (unused in this game)
@@ -373,6 +375,10 @@ DataStoreOverride = ""
 	PreventUnresponsive = true
 	# Should the engine's deferred thread task runner be optimized?
 	OptimizeEngineTaskRunner = true
+	# Should dirt drawing optimizations be enabled?
+	EnableDirtDrawOptimizations = false
+	# Should low-level OpenGL optimizations be performed?
+	OptimizeOpenGL = true
 
 		[Config.Extras.Snow]
 		# Should custom snowfall be used during snowstorms?
