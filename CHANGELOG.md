@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.4.12](#0412)
   - [0.4.11](#0411)
   - [0.4.10](#0410)
   - [0.4.9](#049)
@@ -46,6 +47,14 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.4.12
+
+**Released:** `21 Jun 2022`
+
+### Info <!-- omit in toc -->
+
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** disabled OpenGL optimisations due to reports of video corruption on discord.
 
 ## 0.4.11
 
