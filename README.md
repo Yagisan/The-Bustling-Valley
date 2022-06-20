@@ -51,6 +51,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Why does it crash on load? Why do I get a white screen on load?](#why-does-it-crash-on-load-why-do-i-get-a-white-screen-on-load)
   - [Why is it slow to start?](#why-is-it-slow-to-start)
   - [Why does the game stutter between 6:00am and 6:10am?](#why-does-the-game-stutter-between-600am-and-610am)
+  - [Why don't all my craftables have snow on them in winter?](#why-dont-all-my-craftables-have-snow-on-them-in-winter)
   - [I hate the new smooth graphics. How do I stop it?](#i-hate-the-new-smooth-graphics-how-do-i-stop-it)
   - [Stardew Valley just automatically updated, is it safe to run this list?](#stardew-valley-just-automatically-updated-is-it-safe-to-run-this-list)
   - [Does it work with a controller?](#does-it-work-with-a-controller)
@@ -331,6 +332,9 @@ Due to steps taken to remove dependencies on PyTK, loading times have been great
 Every day between 6:00am and 6:10am the game spawns in many objects. On some systems, this produces a noticeable lag or stutter when this occurs.
 
 Staggering the spawns out over a longer period to avoid this was tried but this resulted in multiple stutters as each group of spawns triggered, rather than a single one, so that solution was rejected.
+
+## Why don't all my craftables have snow on them in winter?
+The snow patches are only for the vanilla objects. Mod added objects do not have a snow patch, and vanilla objects repainted with Alternative Textures do not have a snow patch.
 
 ## I hate the new smooth graphics. How do I stop it?
 
