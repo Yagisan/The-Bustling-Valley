@@ -49,7 +49,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.4.11
 
-**Released:** `DD MMM YYYY`
+**Released:** `20 Jun 2022`
 
 ### Info <!-- omit in toc -->
 
