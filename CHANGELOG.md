@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.4.13](#0413)
   - [0.4.12](#0412)
   - [0.4.11](#0411)
   - [0.4.10](#0410)
@@ -47,6 +48,16 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.4.13
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-alpha.0
 
 ## 0.4.12
 
