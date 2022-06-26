@@ -55,9 +55,17 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
+**[Diverse Stardew Valley - Sam, Vincent, Jodi & Kent](https://diversestardewvalley.weebly.com/)** has the no bombs in mail option enabled. Kent should know better.
+
 ### Updates <!-- omit in toc -->
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-alpha.0
+
+**[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 3.0.0
+
+**[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.4.1
+
+**[Diverse Stardew Valley - Sam, Vincent, Jodi & Kent](https://diversestardewvalley.weebly.com/)** updated to 3.1.0
 
 ## 0.4.12
 
