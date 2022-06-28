@@ -61,11 +61,15 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-alpha.0
 
-**[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 3.0.0
+**[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 3.0.1
 
 **[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.4.1
 
 **[Diverse Stardew Valley - Sam, Vincent, Jodi & Kent](https://diversestardewvalley.weebly.com/)** updated to 3.1.0
+
+**[Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)** updated to 1.9.2
+
+**[Adventurer's Guild Expanded](https://www.nexusmods.com/stardewvalley/mods/12102)** updated to 1.0.15
 
 ## 0.4.12
 
