@@ -59,7 +59,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Updates <!-- omit in toc -->
 
-**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-alpha.0
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-alpha.2
 
 **[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 3.0.1
 
@@ -70,6 +70,18 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)** updated to 1.9.2
 
 **[Adventurer's Guild Expanded](https://www.nexusmods.com/stardewvalley/mods/12102)** updated to 1.0.15
+
+**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 6.4.0
+
+**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.27.3
+
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.27.2
+
+**[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.1.11
+
+**[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)** updated to 1.37.3
+
+**[Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615)** updated to 1.1.0
 
 ## 0.4.12
 
