@@ -83,6 +83,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615)** updated to 1.1.0
 
+**[SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)** updated to 1.9.2
+
 ## 0.4.12
 
 **Released:** `21 Jun 2022`
