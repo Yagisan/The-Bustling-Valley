@@ -57,6 +57,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Diverse Stardew Valley - Sam, Vincent, Jodi & Kent](https://diversestardewvalley.weebly.com/)** has the no bombs in mail option enabled. Kent should know better.
 
+**[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)** has received an updated clearing house map from the author.
+
 ### Updates <!-- omit in toc -->
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-alpha.2
@@ -67,7 +69,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Diverse Stardew Valley - Sam, Vincent, Jodi & Kent](https://diversestardewvalley.weebly.com/)** updated to 3.1.0
 
-**[Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)** updated to 1.9.2
+**[Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)** updated to 1.9.3
 
 **[Adventurer's Guild Expanded](https://www.nexusmods.com/stardewvalley/mods/12102)** updated to 1.0.15
 
@@ -84,6 +86,12 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615)** updated to 1.1.0
 
 **[SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)** updated to 1.9.2
+
+**[Anti-Social NPCs](https://www.nexusmods.com/stardewvalley/mods/5371)** updated to 1.0.6
+
+**[Auto Animal Doors](https://www.nexusmods.com/stardewvalley/mods/1019)** updated to 3.2.0
+
+**[Diverse Stardew Valley - Shane, Jas & Marnie](https://diversestardewvalley.weebly.com/)** updated to 3.0.5
 
 ## 0.4.12
 
