@@ -361,10 +361,10 @@ DataStoreOverride = ""
 	SmoothLines = true
 	# Should shadowed text be stroked instead?
 	StrokeShadowedText = false
-	# Should Harmony patches have inlining re-enabled?
-	HarmonyInlining = false
 	# Should the game's 'parseMasterSchedule' method be fixed and optimized?
 	FixMasterSchedule = true
+	# Should the game's 'getSchedule' method be fixed and optimized?
+	FixGetSchedule = true
 	# Should the default batch sort be replaced with a stable sort?
 	StableSort = true
 	# Should the game be prevented from going 'unresponsive' during loads?
@@ -378,13 +378,11 @@ DataStoreOverride = ""
 
 		[Config.Extras.Pathfinding]
 		# Should NPC Warp Points code be optimized?
-		OptimizeWarpPoints = true
+		OptimizeWarpPoints = false
+		# Should gender-locked locations be honored?
+		HonorGenderLocking = false
 		# Should Location objects be locked during concurrent pathfinding?
 		LockLocationObjects = false
-		# Should NPCs take true shortest paths?
-		TrueShortestPath = false
-		# Allow NPCs onto the farm?
-		AllowNPCsOnFarm = false
 
 		[Config.Extras.Snow]
 		# Should custom snowfall be used during snowstorms?
