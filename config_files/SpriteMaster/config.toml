@@ -111,12 +111,12 @@ DataStoreOverride = ""
 	Scale = true
 	# What scaling algorithm should be used by default?
 	# Legal Values: [
-	#	xBRZ, EPX/ScaleX, None
+	#	xBRZ, EPX/ScaleX, EPXLegacy, xBREPX, None
 	# ]
 	Scaler = "xBRZ"
 	# What scaling algorithm should be used for gradient sprites?
 	# Legal Values: [
-	#	xBRZ, EPX/ScaleX, None
+	#	xBRZ, EPX/ScaleX, EPXLegacy, xBREPX, None
 	# ]
 	ScalerGradient = "None"
 	# Should dynamic scaling be used (scaling based upon apparent sprite size)
@@ -222,6 +222,10 @@ DataStoreOverride = ""
 		MaxGradientColorDifference = 38
 		# Minimum different shades required (per channel) for a sprite to be a gradient?
 		MinimumGradientShades = 2
+		# Maximum proportion of opaque texels for a sprite to be a gradient?
+		MaximumGradientOpaqueProportion = 0.95
+		# Minimum proportion of opaque texels for a sprite to be premultiplied?
+		MinimumPremultipliedOpaqueProportion = 0.05
 		# Use redmean algorithm for perceptual color comparisons?
 		UseRedmean = true
 		# Experimental resample-based recolor support
