@@ -59,11 +59,13 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)** has received an updated clearing house map from the author.
 
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** has some configuration changes. This works round the bug detailed [here](https://github.com/ameisen/SV-SpriteMaster/issues/13) where NPCs would get stuck on the clearing house map.
+
 ### Updates <!-- omit in toc -->
 
 **[SMAPI](https://smapi.io/)** updated to 3.15.1
 
-**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-alpha.2
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-alpha.3
 
 **[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 3.0.1
 
