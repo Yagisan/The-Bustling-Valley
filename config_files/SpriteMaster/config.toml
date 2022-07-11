@@ -1,5 +1,5 @@
 [Config]
-ConfigVersion = "0.14.0.300"
+ConfigVersion = "0.15.0.5"
 # Should SpriteMaster be enabled? Unsetting this will disable _all_ SpriteMaster functionality.
 Enabled = true
 # Button to toggle SpriteMaster
@@ -70,7 +70,7 @@ DataStoreOverride = ""
 	# Enable linear sampling for sprites
 	SetLinearUnresampled = false
 	# How many MSAA samples should be used?
-	MSAASamples = 1
+	AntialiasingSamples = 1
 	# Disable the depth buffer (unused in this game)
 	DisableDepthBuffer = false
 	# The default backbuffer format to request
@@ -136,7 +136,7 @@ DataStoreOverride = ""
 	# Should transparent pixels be premultiplied to prevent a 'halo' effect?
 	PremultiplyAlpha = true
 	# Low pass value that should be filtered when reversing premultiplied alpha.
-	PremultiplicationLowPass = 1024
+	PremultiplicationLowPass = 1023
 	# Use redmean algorithm for perceptual color comparisons?
 	UseRedmean = false
 	# What textures are drawn in 'slices' and thus should be special-cased to be resampled as one texture?
@@ -226,8 +226,6 @@ DataStoreOverride = ""
 		MaximumGradientOpaqueProportion = 0.95
 		# Minimum proportion of opaque texels for a sprite to be premultiplied?
 		MinimumPremultipliedOpaqueProportion = 0.05
-		# Use redmean algorithm for perceptual color comparisons?
-		UseRedmean = true
 		# Experimental resample-based recolor support
 		[Config.Resample.Recolor]
 		# Should (experimental) resample-based recoloring be enabled?
@@ -411,11 +409,6 @@ DataStoreOverride = ""
 	[Config.TextureCache]
 	# Should the experimental SMAPI texture cache patch be enabled?
 	Enabled = true
-	# Should the PMA texture cache be enabled?
-	PMAEnabled = true
-	# Should the experimental SMAPI texture cache have high memory usage enabled?
-	# Unrecommended: This results in the game's texture being retained (and thus loaded faster) but doesn't suspend the resampled sprite instances.
-	HighMemoryEnabled = false
 
 	[Config.FileCache]
 	# Should the file cache be enabled?
