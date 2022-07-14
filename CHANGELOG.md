@@ -62,7 +62,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 3.0.2
 
-**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-alpha.5
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-alpha.6
 
 ## 0.4.13
 
