@@ -2,8 +2,8 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.4.14](#0414)
   - [0.4.13](#0413)
-  - [0.4.13](#0413-1)
   - [0.4.12](#0412)
   - [0.4.11](#0411)
   - [0.4.10](#0410)
@@ -50,11 +50,13 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
 
-## 0.4.13
+## 0.4.14
 
-**Released:** `DD MMM YYYY`
+**Released:** `16 Jul 2022`
 
 ### Info <!-- omit in toc -->
+
+This release is simply some bugfixes, and an update to **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)**. The configuration changes to work around the bug detailed [here](https://github.com/ameisen/SV-SpriteMaster/issues/13) are still needed.
 
 ### Updates <!-- omit in toc -->
 
@@ -63,6 +65,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 3.0.2
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-alpha.6
+
+**[Seasonal Outfits for Zinnia](https://www.nexusmods.com/stardewvalley/mods/12254)** updated to 1.0.1
 
 ## 0.4.13
 
