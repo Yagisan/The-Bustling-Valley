@@ -63,6 +63,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [What is the JSON Shuffle? Can it be fixed?](#what-is-the-json-shuffle-can-it-be-fixed)
   - [There was a  JSON Shuffle. It broke a Ridgeside Village quest. How do I fix it?](#there-was-a--json-shuffle-it-broke-a-ridgeside-village-quest-how-do-i-fix-it)
   - [How do I reset the configuration files?](#how-do-i-reset-the-configuration-files)
+  - [Why is the compass npcs pointing to the wrong place ?](#why-is-the-compass-npcs-pointing-to-the-wrong-place-)
   - [Why are there trees in Ridgeside Village buildings?](#why-are-there-trees-in-ridgeside-village-buildings)
   - [Why do farmhands only see a vanilla map?](#why-do-farmhands-only-see-a-vanilla-map)
   - [Fishing is too Easy. How to to fix this?](#fishing-is-too-easy-how-to-to-fix-this)
@@ -432,6 +433,10 @@ Sometimes configuration files need to be reset. This is sometimes needed after t
 ![Rest_Config_Image](assets/images/Reset_Config.png)
 
 **Right click** on it, and select **Clear Overwrite**. That's it. The game will regenerate any needed configuration files when you next start.
+
+## Why is the compass npcs pointing to the wrong place ?
+
+The compass mod does not work correctly unless both zoom and ui scales match. Please set them to the same value. The default is 100%.
 
 ## Why are there trees in Ridgeside Village buildings?
 
