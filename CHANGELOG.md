@@ -2,6 +2,8 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.5.0](#050)
+  - [0.4.15](#0415)
   - [0.4.14](#0414)
   - [0.4.13](#0413)
   - [0.4.12](#0412)
@@ -49,6 +51,102 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.5.0
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+**New farm required.**
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-alpha.7
+
+**[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.4.2
+
+**[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.1.12
+
+**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.0.1
+
+### Removed <!-- omit in toc -->
+
+**[PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726)**
+
+**[TMXL Map Toolkit](https://www.nexusmods.com/stardewvalley/mods/1820)**
+
+**[Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)**
+
+**[Sorren](https://www.nexusmods.com/stardewvalley/mods/4040)**
+
+**[Sorren - Festival Locations](https://www.nexusmods.com/stardewvalley/mods/4040)**
+
+**[Sorren - Boarding House Patch](https://www.nexusmods.com/stardewvalley/mods/4040)**
+
+**[Sorren - Festival Locations](https://www.nexusmods.com/stardewvalley/mods/4040)**
+
+**[Sorren - Spouse Room](https://www.nexusmods.com/stardewvalley/mods/4040)**
+
+**[Seasonal Sorren (Slightly Cuter Character Sprites)](https://www.nexusmods.com/stardewvalley/mods/10853)**
+
+**[Delores](https://www.nexusmods.com/stardewvalley/mods/5510)**
+
+**[Denver - Male - Boarding House](https://www.nexusmods.com/stardewvalley/mods/4594)**
+
+**[Denver - Alternate Portraits](https://www.nexusmods.com/stardewvalley/mods/4594)**
+
+**[Cecilia - Forest Home](https://www.nexusmods.com/stardewvalley/mods/6246)**
+
+**[Cecilia - Alternate Portraits](https://www.nexusmods.com/stardewvalley/mods/6246)**
+
+**[Boarding House Nut Butters](https://www.nexusmods.com/stardewvalley/mods/6342)**
+
+**[Yagisan's Bountiful Valley for Boarding House](https://www.nexusmods.com/stardewvalley/mods/9263)**
+
+**[PPJA - Fruits and Veggies](https://www.nexusmods.com/stardewvalley/mods/1598)**
+
+**[PPJA - More Trees](https://www.nexusmods.com/stardewvalley/mods/1671)**
+
+**[PPJA - More Recipes](https://www.nexusmods.com/stardewvalley/mods/1670)**
+
+**[PPJA - Artisan Valley](https://www.nexusmods.com/stardewvalley/mods/1926)**
+
+**[PPJA - Artisan Valley - Custom Cask Addon](https://www.nexusmods.com/stardewvalley/mods/1926)**
+
+**Yagisan's - PPJA Artisan Valley Machine Goods Exploit Patch**
+
+**Yagisan's - PPJA Fruits and Veggies Exploit Patch**
+
+**[Crop Regrowth and Perennial Crops](https://www.nexusmods.com/stardewvalley/mods/4685)**
+
+**[Crop Regrowth and Perennial Crops - MGC assets](https://www.nexusmods.com/stardewvalley/mods/4685)**
+
+**Yagisan's - Crop Regrowth and Perennial Crops Patch**
+
+**[More Giant Crops](https://www.nexusmods.com/stardewvalley/mods/5263)**
+
+### Modifications <!-- omit in toc -->
+
+**[SSaturn's Oriental Kitchen](https://www.nexusmods.com/stardewvalley/mods/6010)** removed all recipes that required PPJA - Fruits and Veggies, PPJA - More Trees and/or PPJA - Artisan Valley.
+
+## 0.4.15
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-alpha.7
+
+**[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.4.2
+
+**[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.1.12
+
+**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.0.1
 
 ## 0.4.14
 
