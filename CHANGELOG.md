@@ -64,13 +64,19 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Updates <!-- omit in toc -->
 
-**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-alpha.7
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-beta.1
 
-**[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.4.2
+**[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.5.0
 
-**[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.1.12
+**[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.1.13
 
 **[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.0.1
+
+**[Wedding Tweaks](https://www.nexusmods.com/stardewvalley/mods/10117)** updated to 0.2.1
+
+**[Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)** updated to 1.1.20
+
+**[Penny 8 Heart Event Adjusted](https://www.nexusmods.com/stardewvalley/mods/9865)** updated to 1.0.4
 
 ### Removed <!-- omit in toc -->
 
@@ -151,6 +157,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Wedding Tweaks](https://www.nexusmods.com/stardewvalley/mods/10117)** updated to 0.2.1
 
 **[Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)** updated to 1.1.20
+
+**[Penny 8 Heart Event Adjusted](https://www.nexusmods.com/stardewvalley/mods/9865)** updated to 1.0.3
 
 ## 0.4.14
 
