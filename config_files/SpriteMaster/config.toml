@@ -48,6 +48,10 @@ DataStoreOverride = ""
 	# Should unowned textures be marked in the garbage collector's statistics?
 	CollectAccountUnownedTextures = false
 	ShouldCollectAccountOwnedTextures = true
+	# The amount of free memory required by SM after which it triggers hard recovery operations
+	RequiredFreeMemoryHard = 134217728
+	# The amount of free memory required by SM after which it triggers soft recovery operations
+	RequiredFreeMemorySoft = 1073741824
 	# Hysteresis applied to RequiredFreeMemory
 	RequiredFreeMemoryHysteresis = 1.5
 	# Should sprites containing season names be purged on a seasonal basis?
@@ -326,12 +330,16 @@ DataStoreOverride = ""
 	ThrottledSynchronousLoads = true
 	# Should we fetch and load texture data within the same frame?
 	CanFetchAndLoadSameFrame = true
+	# What is the minimum number of texels in a sprite to be considered for asynchronous scaling?
+	MinimumSizeTexels = 0
 
 	[Config.ResidentCache]
 	# Should the resident cache be enabled?
 	Enabled = true
 	# Should memory cache elements always be flushed upon update?
 	AlwaysFlush = false
+	# What is the maximum size of the resident cache?
+	MaxSize = 2147483648
 	# The preferred compression algorithm for the resident cache
 	# Legal Values: [
 	#	None, Compress, Deflate, Zstd/Best
@@ -341,18 +349,18 @@ DataStoreOverride = ""
 	[Config.TextureFileCache]
 	# Should the texture memory cache be enabled?
 	Enabled = true
+	# What is the maximum size of the resident cache?
+	MaxSize = 2147483648
 
 	[Config.SuspendedCache]
 	# Should the suspended sprite cache be enabled?
 	Enabled = true
-	# What is the maximum number of sprites to store in suspended sprite cache?
-	MaxCacheCount = 2000
+	# What is the maximum size (in bytes) to store in suspended sprite cache?
+	MaxCacheSize = 4294967296
 
 	[Config.SMAPI]
 	# Should the ApplyPatch method be patched?
 	ApplyPatchEnabled = true
-	# Should ApplyPatch pin temporary memory?
-	ApplyPatchPinMemory = false
 	# Should 'GetData' be patched to use SM caches?
 	ApplyGetDataPatch = true
 
@@ -377,14 +385,18 @@ DataStoreOverride = ""
 	EnableDirtDrawOptimizations = false
 	# Should low-level OpenGL optimizations be performed?
 	OptimizeOpenGL = true
+	# Should Texture2D.SetData be optimized?
+	OptimizeTexture2DSetData = true
+	# Should Texture2D.GetData be optimized?
+	OptimizeTexture2DGetData = true
+	# Should glCopyTexture by used?
+	UseCopyTexture = true
 
 		[Config.Extras.Pathfinding]
 		# Should NPC Warp Points code be optimized?
 		OptimizeWarpPoints = false
 		# Should gender-locked locations be honored?
 		HonorGenderLocking = false
-		# Should Location objects be locked during concurrent pathfinding?
-		LockLocationObjects = false
 
 		[Config.Extras.Snow]
 		# Should custom snowfall be used during snowstorms?
@@ -405,10 +417,6 @@ DataStoreOverride = ""
 		PatchCustomNPCFixes = false
 		# Disable unnecessary PyTK mitigation for SpriteMaster?
 		DisablePyTKMitigation = true
-
-	[Config.TextureCache]
-	# Should the experimental SMAPI texture cache patch be enabled?
-	Enabled = true
 
 	[Config.FileCache]
 	# Should the file cache be enabled?
