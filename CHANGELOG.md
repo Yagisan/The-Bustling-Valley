@@ -62,6 +62,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Additions <!-- omit in toc -->
 
+**[AtraCore](https://www.nexusmods.com/stardewvalley/mods/12932)** required framework mod for several updates.
+
 ### Updates <!-- omit in toc -->
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-beta.1
@@ -72,11 +74,19 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.0.1
 
-**[Wedding Tweaks](https://www.nexusmods.com/stardewvalley/mods/10117)** updated to 0.2.1
+**[Wedding Tweaks](https://www.nexusmods.com/stardewvalley/mods/10117)** updated to 0.2.2
 
 **[Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)** updated to 1.1.20
 
 **[Penny 8 Heart Event Adjusted](https://www.nexusmods.com/stardewvalley/mods/9865)** updated to 1.0.4
+
+**[Alec Revisited](https://www.nexusmods.com/stardewvalley/mods/10697)** updated to 2.1.0
+
+**[Ginger Island Mainland Adjustments](https://www.nexusmods.com/stardewvalley/mods/10004)** updated to 1.1.6
+
+**[CP - Ginger Island Mainland Adjustments](https://www.nexusmods.com/stardewvalley/mods/10004)** updated to 1.1.4
+
+**[Avoid Losing Scepter](https://www.nexusmods.com/stardewvalley/mods/11856)** updated to 0.2.0
 
 ### Removed <!-- omit in toc -->
 
@@ -144,6 +154,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
+### Additions <!-- omit in toc -->
+
+**[AtraCore](https://www.nexusmods.com/stardewvalley/mods/12932)** required framework mod for several updates.
+
 ### Updates <!-- omit in toc -->
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-beta.1
@@ -154,11 +168,19 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.0.1
 
-**[Wedding Tweaks](https://www.nexusmods.com/stardewvalley/mods/10117)** updated to 0.2.1
+**[Wedding Tweaks](https://www.nexusmods.com/stardewvalley/mods/10117)** updated to 0.2.2
 
 **[Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)** updated to 1.1.20
 
 **[Penny 8 Heart Event Adjusted](https://www.nexusmods.com/stardewvalley/mods/9865)** updated to 1.0.3
+
+**[Alec Revisited](https://www.nexusmods.com/stardewvalley/mods/10697)** updated to 2.1.0
+
+**[Ginger Island Mainland Adjustments](https://www.nexusmods.com/stardewvalley/mods/10004)** updated to 1.1.6
+
+**[CP - Ginger Island Mainland Adjustments](https://www.nexusmods.com/stardewvalley/mods/10004)** updated to 1.1.4
+
+**[Avoid Losing Scepter](https://www.nexusmods.com/stardewvalley/mods/11856)** updated to 0.2.0
 
 ## 0.4.14
 
