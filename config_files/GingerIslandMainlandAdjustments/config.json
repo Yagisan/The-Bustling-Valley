@@ -1,14 +1,16 @@
 {
-  "EnforceGITiming": false,
-  "WearIslandClothing": "Default",
+  "EnforceGITiming": true,
+  "WearIslandClothing": "All",
   "UseThisScheduler": true,
   "Capacity": 6,
   "GroupChance": 0.6,
   "ExplorerChance": 0.05,
   "GusDay": "Tuesday",
   "GusChance": 0.5,
-  "AllowWilly": true,
-  "AllowSandy": true,
+  "AllowWilly": "Yes",
+  "AllowSandy": "Yes",
   "AllowGeorgeAndEvelyn": true,
+  "AllowWizard": "Yes",
+  "ScheduleStrictness": {},
   "DebugMode": false
 }
