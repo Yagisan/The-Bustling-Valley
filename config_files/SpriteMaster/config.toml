@@ -384,13 +384,13 @@ DataStoreOverride = ""
 	# Should dirt drawing optimizations be enabled?
 	EnableDirtDrawOptimizations = false
 	# Should low-level OpenGL optimizations be performed?
-	OptimizeOpenGL = true
+	OptimizeOpenGL = false
 	# Should Texture2D.SetData be optimized?
-	OptimizeTexture2DSetData = true
+	OptimizeTexture2DSetData = false
 	# Should Texture2D.GetData be optimized?
-	OptimizeTexture2DGetData = true
+	OptimizeTexture2DGetData = false
 	# Should glCopyTexture by used?
-	UseCopyTexture = true
+	UseCopyTexture = false
 
 		[Config.Extras.Pathfinding]
 		# Should NPC Warp Points code be optimized?
