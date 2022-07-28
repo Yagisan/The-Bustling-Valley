@@ -69,6 +69,7 @@ This list is only updated when mods are added or removed. If the version above d
 
 - [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 - [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)
+- [AtraCore](https://www.nexusmods.com/stardewvalley/mods/12932)
 - [PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726)
 - [Expanded Preconditions Utility](https://www.nexusmods.com/stardewvalley/mods/6529)
 - [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)
