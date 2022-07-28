@@ -72,9 +72,9 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.1.13
 
-**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.0.1
+**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.0.2
 
-**[Wedding Tweaks](https://www.nexusmods.com/stardewvalley/mods/10117)** updated to 0.2.2
+**[Wedding Tweaks](https://www.nexusmods.com/stardewvalley/mods/10117)** updated to 0.2.3
 
 **[Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)** updated to 1.1.20
 
@@ -87,6 +87,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[CP - Ginger Island Mainland Adjustments](https://www.nexusmods.com/stardewvalley/mods/10004)** updated to 1.1.4
 
 **[Avoid Losing Scepter](https://www.nexusmods.com/stardewvalley/mods/11856)** updated to 0.2.0
+
+**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 6.4.2
+
+**[Canon-Friendly Dialogue Expansion for All Friend-able Characters](https://www.nexusmods.com/stardewvalley/mods/2544)** updated to 2.1.1
 
 ### Removed <!-- omit in toc -->
 
@@ -166,9 +170,9 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.1.13
 
-**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.0.1
+**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.0.2
 
-**[Wedding Tweaks](https://www.nexusmods.com/stardewvalley/mods/10117)** updated to 0.2.2
+**[Wedding Tweaks](https://www.nexusmods.com/stardewvalley/mods/10117)** updated to 0.2.3
 
 **[Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)** updated to 1.1.20
 
@@ -181,6 +185,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[CP - Ginger Island Mainland Adjustments](https://www.nexusmods.com/stardewvalley/mods/10004)** updated to 1.1.4
 
 **[Avoid Losing Scepter](https://www.nexusmods.com/stardewvalley/mods/11856)** updated to 0.2.0
+
+**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 6.4.2
+
+**[Canon-Friendly Dialogue Expansion for All Friend-able Characters](https://www.nexusmods.com/stardewvalley/mods/2544)** updated to 2.1.1
 
 ## 0.4.14
 
