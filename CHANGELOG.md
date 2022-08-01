@@ -3,6 +3,7 @@
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
   - [0.5.0](#050)
+  - [0.4.16](#0416)
   - [0.4.15](#0415)
   - [0.4.14](#0414)
   - [0.4.13](#0413)
@@ -151,6 +152,20 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 ### Modifications <!-- omit in toc -->
 
 **[SSaturn's Oriental Kitchen](https://www.nexusmods.com/stardewvalley/mods/6010)** removed all recipes that required PPJA - Fruits and Veggies, PPJA - More Trees and/or PPJA - Artisan Valley.
+
+## 0.4.16
+
+**Released:** `DD MM YYYY`
+
+### Info <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-beta.2
+
+**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 6.4.3
+
+**[Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)** updated to 0.3.3
 
 ## 0.4.15
 
