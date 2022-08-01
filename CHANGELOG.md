@@ -67,7 +67,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Updates <!-- omit in toc -->
 
-**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-beta.1
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-beta.2
 
 **[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.5.0
 
@@ -89,9 +89,11 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Avoid Losing Scepter](https://www.nexusmods.com/stardewvalley/mods/11856)** updated to 0.2.0
 
-**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 6.4.2
+**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 6.4.3
 
 **[Canon-Friendly Dialogue Expansion for All Friend-able Characters](https://www.nexusmods.com/stardewvalley/mods/2544)** updated to 2.1.1
+
+**[Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)** updated to 0.3.3
 
 ### Removed <!-- omit in toc -->
 
