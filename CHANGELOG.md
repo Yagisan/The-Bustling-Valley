@@ -73,7 +73,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.1.13
 
-**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.0.2
+**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.0.4
 
 **[Wedding Tweaks](https://www.nexusmods.com/stardewvalley/mods/10117)** updated to 0.2.3
 
@@ -168,6 +168,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 6.4.3
 
 **[Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)** updated to 0.3.3
+
+**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.0.4
 
 ## 0.4.15
 
