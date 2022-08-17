@@ -1,5 +1,5 @@
 [Config]
-ConfigVersion = "0.15.0.5"
+ConfigVersion = "0.15.0.103"
 # Should SpriteMaster be enabled? Unsetting this will disable _all_ SpriteMaster functionality.
 Enabled = true
 # Button to toggle SpriteMaster
@@ -125,6 +125,8 @@ DataStoreOverride = ""
 	ScalerGradient = "None"
 	# Should dynamic scaling be used (scaling based upon apparent sprite size)
 	EnableDynamicScale = true
+	# Should excess transparent rows/colums be trimmed?
+	TrimExcessTransparency = true
 	# Should we assume that input sprites are gamma corrected?
 	AssumeGammaCorrected = true
 	# Maximum scale factor of sprites (clamped to chosen scaler)
@@ -394,9 +396,9 @@ DataStoreOverride = ""
 
 		[Config.Extras.Pathfinding]
 		# Should NPC Warp Points code be optimized?
-		OptimizeWarpPoints = false
+		OptimizeWarpPoints = true
 		# Should gender-locked locations be honored?
-		HonorGenderLocking = false
+		HonorGenderLocking = true
 
 		[Config.Extras.Snow]
 		# Should custom snowfall be used during snowstorms?
@@ -414,7 +416,7 @@ DataStoreOverride = ""
 
 		[Config.Extras.ModPatches]
 		# Patch CustomNPCFixes in order to improve load times?
-		PatchCustomNPCFixes = false
+		PatchCustomNPCFixes = true
 		# Disable unnecessary PyTK mitigation for SpriteMaster?
 		DisablePyTKMitigation = true
 
