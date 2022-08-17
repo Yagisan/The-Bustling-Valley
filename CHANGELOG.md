@@ -161,7 +161,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.4.16
 
-**Released:** `DD MM YYYY`
+**Released:** `17 Aug 2022`
 
 ### Info <!-- omit in toc -->
 
