@@ -235,9 +235,7 @@ This list is only updated when mods are added or removed. If the version above d
 ## Skills and Professions
 
 - [Experience Bars](https://www.nexusmods.com/stardewvalley/mods/509)
-- [Capstone Professions](https://www.nexusmods.com/stardewvalley/mods/7636)
 - [The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)
-- [Luck Skill](https://www.nexusmods.com/stardewvalley/mods/521)
 
 ## Texture Packs
 
