@@ -65,9 +65,11 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[AtraCore](https://www.nexusmods.com/stardewvalley/mods/12932)** required framework mod for several updates.
 
+**[Custom Ore Nodes](https://www.nexusmods.com/stardewvalley/mods/5966)** required framework mod for several updates.
+
 ### Updates <!-- omit in toc -->
 
-**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-beta.2
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-beta.3
 
 **[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.5.0
 
@@ -94,6 +96,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Canon-Friendly Dialogue Expansion for All Friend-able Characters](https://www.nexusmods.com/stardewvalley/mods/2544)** updated to 2.1.1
 
 **[Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)** updated to 0.3.3
+
+**[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 3.1.0
 
 ### Removed <!-- omit in toc -->
 
@@ -163,13 +167,15 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Updates <!-- omit in toc -->
 
-**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-beta.2
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-beta.3
 
 **[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** updated to 6.4.3
 
 **[Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)** updated to 0.3.3
 
 **[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.0.4
+
+**[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 3.1.0
 
 ## 0.4.15
 
