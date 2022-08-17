@@ -67,6 +67,12 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Custom Ore Nodes](https://www.nexusmods.com/stardewvalley/mods/5966)** required framework mod for several updates.
 
+**[Hugs and Kisses](https://www.nexusmods.com/stardewvalley/mods/10062)** multiple marriage related mod.
+
+**[Custom Spouse Patio Redux](https://www.nexusmods.com/stardewvalley/mods/10889)** multiple marriage related mod.
+
+**[Planned Parenthood](https://www.nexusmods.com/stardewvalley/mods/12869)** multiple marriage related mod.
+
 ### Updates <!-- omit in toc -->
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-beta.3
