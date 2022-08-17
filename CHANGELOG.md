@@ -155,6 +155,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[More Giant Crops](https://www.nexusmods.com/stardewvalley/mods/5263)**
 
+**[Capstone Professions](https://www.nexusmods.com/stardewvalley/mods/7636)**
+
+**[Luck Skill](https://www.nexusmods.com/stardewvalley/mods/521)**
+
 ### Modifications <!-- omit in toc -->
 
 **[SSaturn's Oriental Kitchen](https://www.nexusmods.com/stardewvalley/mods/6010)** removed all recipes that required PPJA - Fruits and Veggies, PPJA - More Trees and/or PPJA - Artisan Valley.
