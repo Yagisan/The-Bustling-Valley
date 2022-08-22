@@ -105,6 +105,20 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 3.1.0
 
+**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.27.4
+
+**[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)** updated to 1.22.3
+
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.28.0
+
+**[Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)** updated to 1.15.6
+
+**[Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)** updated to 1.1.16
+
+**[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)** updated to 1.37.4
+
+**[Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)** updated to 1.9.10
+
 ### Removed <!-- omit in toc -->
 
 **[PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726)**
