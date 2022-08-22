@@ -73,6 +73,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Planned Parenthood](https://www.nexusmods.com/stardewvalley/mods/12869)** multiple marriage related mod.
 
+**[The Music of Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)**
+
 ### Updates <!-- omit in toc -->
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-beta.3
@@ -118,6 +120,14 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)** updated to 1.37.4
 
 **[Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)** updated to 1.9.10
+
+**[Custom Spouse Rooms](https://www.nexusmods.com/stardewvalley/mods/10029)** updated to 0.8.0
+
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.2.0
+
+**[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.3.2
+
+**[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.10.1
 
 ### Removed <!-- omit in toc -->
 
@@ -178,6 +188,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Capstone Professions](https://www.nexusmods.com/stardewvalley/mods/7636)**
 
 **[Luck Skill](https://www.nexusmods.com/stardewvalley/mods/521)**
+
+**[Ridgeside Village - Full Music](https://www.nexusmods.com/stardewvalley/mods/7286)**
 
 ### Modifications <!-- omit in toc -->
 
