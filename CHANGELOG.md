@@ -127,7 +127,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.2.0
 
-**[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.3.2
+**[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.3.3
 
 **[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.10.1
 
