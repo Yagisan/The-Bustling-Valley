@@ -85,7 +85,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.1.13
 
-**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.0.4
+**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.1.1
 
 **[Wedding Tweaks](https://www.nexusmods.com/stardewvalley/mods/10117)** updated to 0.2.3
 
@@ -125,11 +125,17 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Custom Spouse Rooms](https://www.nexusmods.com/stardewvalley/mods/10029)** updated to 0.8.0
 
-**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.2.0
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.2.1
 
 **[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.3.3
 
 **[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.10.1
+
+**[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)** updated to 1.4.4 (updated to Discord release 26 Aug 2022)
+
+**[Jade](https://www.nexusmods.com/stardewvalley/mods/5559)** updated to 2.4.0
+
+**[Island Cellar](https://www.nexusmods.com/stardewvalley/mods/8488)** updated to 1.4.0
 
 ### Removed <!-- omit in toc -->
 
