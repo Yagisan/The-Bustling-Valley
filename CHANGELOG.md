@@ -75,17 +75,19 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[The Music of Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)**
 
+**[Event Lookup Locations](https://www.nexusmods.com/stardewvalley/mods/13569)**
+
 ### Updates <!-- omit in toc -->
 
 **[SMAPI](https://smapi.io/)** updated to 3.16.0
 
-**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-beta.3
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-beta.4
 
 **[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.5.0
 
 **[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.1.13
 
-**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.1.1
+**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.1.2
 
 **[Wedding Tweaks](https://www.nexusmods.com/stardewvalley/mods/10117)** updated to 0.2.3
 
@@ -109,17 +111,17 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 3.1.0
 
-**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.27.4
+**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.27.5
 
 **[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)** updated to 1.22.3
 
-**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.28.0
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.28.1
 
 **[Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)** updated to 1.15.6
 
 **[Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)** updated to 1.1.16
 
-**[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)** updated to 1.37.4
+**[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)** updated to 1.37.5
 
 **[Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)** updated to 1.9.10
 
@@ -129,13 +131,15 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.3.3
 
-**[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.10.1
+**[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.11.0
 
 **[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)** updated to 1.4.4 (updated to Discord release 26 Aug 2022)
 
 **[Jade](https://www.nexusmods.com/stardewvalley/mods/5559)** updated to 2.4.0
 
 **[Island Cellar](https://www.nexusmods.com/stardewvalley/mods/8488)** updated to 1.4.0
+
+**[Skull Cavern Elevator](https://www.nexusmods.com/stardewvalley/mods/963)** updated to 1.5.0
 
 ### Removed <!-- omit in toc -->
 
