@@ -79,7 +79,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Updates <!-- omit in toc -->
 
-**[SMAPI](https://smapi.io/)** updated to 3.16.0
+**[SMAPI](https://smapi.io/)** updated to 3.16.2
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-beta.4
 
@@ -140,6 +140,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Island Cellar](https://www.nexusmods.com/stardewvalley/mods/8488)** updated to 1.4.0
 
 **[Skull Cavern Elevator](https://www.nexusmods.com/stardewvalley/mods/963)** updated to 1.5.0
+
+**[Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)** updated to 1.2.1
+
+**[DaisyNiko's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/4736)** updated to 1.7.0
 
 ### Removed <!-- omit in toc -->
 
@@ -202,6 +206,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Luck Skill](https://www.nexusmods.com/stardewvalley/mods/521)**
 
 **[Ridgeside Village - Full Music](https://www.nexusmods.com/stardewvalley/mods/7286)**
+
+**[Better Crafting - SpaceCore and DynamicGameAssets Support](https://www.nexusmods.com/stardewvalley/mods/11115)**
 
 ### Modifications <!-- omit in toc -->
 
