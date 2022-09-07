@@ -91,7 +91,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Wedding Tweaks](https://www.nexusmods.com/stardewvalley/mods/10117)** updated to 0.2.3
 
-**[Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)** updated to 1.1.20
+**[Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)** updated to 1.1.21
 
 **[Penny 8 Heart Event Adjusted](https://www.nexusmods.com/stardewvalley/mods/9865)** updated to 1.0.4
 
@@ -143,7 +143,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)** updated to 1.2.1
 
-**[DaisyNiko's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/4736)** updated to 1.7.0
+**[DaisyNiko's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/4736)** updated to 1.7.1
 
 ### Removed <!-- omit in toc -->
 
