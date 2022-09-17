@@ -81,7 +81,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[SMAPI](https://smapi.io/)** updated to 3.16.2
 
-**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-beta.4
+**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-beta.7
 
 **[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.5.0
 
@@ -127,7 +127,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Custom Spouse Rooms](https://www.nexusmods.com/stardewvalley/mods/10029)** updated to 0.8.0
 
-**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.2.1
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.2.2
 
 **[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.3.3
 
@@ -137,13 +137,17 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Jade](https://www.nexusmods.com/stardewvalley/mods/5559)** updated to 2.4.0
 
-**[Island Cellar](https://www.nexusmods.com/stardewvalley/mods/8488)** updated to 1.4.0
+**[Island Cellar](https://www.nexusmods.com/stardewvalley/mods/8488)** updated to 1.5.0
 
 **[Skull Cavern Elevator](https://www.nexusmods.com/stardewvalley/mods/963)** updated to 1.5.0
 
 **[Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)** updated to 1.2.1
 
 **[DaisyNiko's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/4736)** updated to 1.7.1
+
+**[Seasonal Outfits for Adventurer's Guild Expanded](https://www.nexusmods.com/stardewvalley/mods/12254)** updated to 2.0.0
+
+**[Event Repeater](https://www.nexusmods.com/stardewvalley/mods/3642)** updated to 6.4.3
 
 ### Removed <!-- omit in toc -->
 
