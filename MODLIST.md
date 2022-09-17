@@ -180,7 +180,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Diverse Stardew Valley - Shane, Jas & Marnie](https://diversestardewvalley.weebly.com/)
 - [Diverse Stardew Valley - Willy, Clint & Linus](https://diversestardewvalley.weebly.com/)
 - [Diverse Stardew Valley - Flower Queen's Crown](https://diversestardewvalley.weebly.com/)
-- [Seasonal Outfits for Zinnia](https://www.nexusmods.com/stardewvalley/mods/12254)
+- [Seasonal Outfits for Adventurer's Guild Expanded](https://www.nexusmods.com/stardewvalley/mods/12254)
 - [Realistic Random Names](https://www.nexusmods.com/stardewvalley/mods/6269)
 - [Show Birthdays](https://www.nexusmods.com/stardewvalley/mods/7495)
 - [Anniversary on Calendar](https://www.nexusmods.com/stardewvalley/mods/8351)
