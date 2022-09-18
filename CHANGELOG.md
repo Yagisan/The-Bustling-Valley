@@ -107,6 +107,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[BAGI Vanilla Mead Icons](https://www.nexusmods.com/stardewvalley/mods/11911)**
 
+**[Ostrich Mayo and Golden Mayo](https://www.nexusmods.com/stardewvalley/mods/7660)**
+
+**[Play Prairie King With NPCs](https://www.nexusmods.com/stardewvalley/mods/12750)**
+
 ### Updates <!-- omit in toc -->
 
 **[SMAPI](https://smapi.io/)** updated to 3.16.2
