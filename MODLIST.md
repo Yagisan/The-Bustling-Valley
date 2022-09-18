@@ -69,7 +69,6 @@ This list is only updated when mods are added or removed. If the version above d
 - [SAAT - Audio API and Toolkit](https://www.nexusmods.com/stardewvalley/mods/10747)
 - [Custom NPC Exclusions](https://www.nexusmods.com/stardewvalley/mods/7089)
 - [Custom NPC Fixes](https://www.nexusmods.com/stardewvalley/mods/3849)
-- [Event Repeater](https://www.nexusmods.com/stardewvalley/mods/3642)
 - [Quest Framework](https://www.nexusmods.com/stardewvalley/mods/6414)
 - [Producer Framework Mod](https://www.nexusmods.com/stardewvalley/mods/4970)
 - [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536)
