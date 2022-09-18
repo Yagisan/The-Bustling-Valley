@@ -113,6 +113,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Statue of Generosity](https://www.nexusmods.com/stardewvalley/mods/7532)
 - [Eidee Easy Fishing](https://www.nexusmods.com/stardewvalley/mods/4806)
 - [Deluxe Grabber Redux](https://www.nexusmods.com/stardewvalley/mods/7920)
+- [Play Prairie King With NPCs](https://www.nexusmods.com/stardewvalley/mods/12750)
 
 ## QOL Changes
 
@@ -232,6 +233,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [SSaturn's Oriental Kitchen](https://www.nexusmods.com/stardewvalley/mods/6010)
 - [Boarding House Nut Butters](https://www.nexusmods.com/stardewvalley/mods/6342)
 - [Messy Crops](https://www.nexusmods.com/stardewvalley/mods/11317)
+- [Ostrich Mayo and Golden Mayo](https://www.nexusmods.com/stardewvalley/mods/7660)
 
 ## Shop Changes
 
