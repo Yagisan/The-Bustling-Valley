@@ -3,10 +3,11 @@
   "EnableOtherNPCsInCableCar": "true",
   "EnableRidgesideMusic": "true",
   "RSVNPCSAttendFestivals": "true",
+  "ExpandedFestivalMaps": "true",
   "EasyIntroduction": "false",
-  "FullFestivals": "true",
   "EnableBetterBusStop": "true",
-  "AutoWeddingReception": "false",
   "PoleAtBackwoods": "true",
-  "SeasonalRSVMap": "true"
+  "SeasonalRSVMap": "true",
+  "EnableTouristNPCs": "true",
+  "EnableWTDRCompat": "false"
 }
