@@ -249,7 +249,6 @@ This list is only updated when mods are added or removed. If the version above d
 - [Elle's Animals for Alternative Textures - New Coop](https://www.nexusmods.com/stardewvalley/mods/10039)
 - [Elle's Animals for Alternative Textures - New Barn](https://www.nexusmods.com/stardewvalley/mods/10039)
 - [Lumisteria Toddlers Like Parents - Alternative Children](https://www.nexusmods.com/stardewvalley/mods/10494)
-- [Lumisteria - Alternative Textures - Craftable](https://www.nexusmods.com/stardewvalley/mods/9294)
 - [Fall Colors and gradual seasonal foliage changes](https://www.nexusmods.com/stardewvalley/mods/11769)
 - [Lumisteria- Alternative Textures - Crops](https://www.nexusmods.com/stardewvalley/mods/11819)
 - [AT - Crop Variety](https://www.nexusmods.com/stardewvalley/mods/9930)
@@ -258,9 +257,6 @@ This list is only updated when mods are added or removed. If the version above d
 ## Yagisan's Patches
 
 - **The Bustling Valley - Config Files**
-- **Yagisan's - Crop Regrowth and Perennial Crops Patch**
 - **Yagisan's - Coffee Maker Patch**
-- **Yagisan's - SSaturn's Oriental Kitchen Patch**
-- **Yagisan's - PPJA Artisan Valley Machine Goods Exploit Patch**
-- **Yagisan's - PPJA Fruits and Veggies Exploit Patch**
 - **Yagisan's - Snow-Covered Craftables Patch**
+- **Yagisan's - Yri the Architect Animation Patch**
