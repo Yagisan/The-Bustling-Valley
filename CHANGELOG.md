@@ -95,6 +95,14 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Tiniest Farm](https://www.nexusmods.com/stardewvalley/mods/13651)**
 
+**[Walk Of Life - Immersive Professions](https://www.nexusmods.com/stardewvalley/mods/8111)**
+
+**[Quality Of Life - Immersive Tweaks](https://www.nexusmods.com/stardewvalley/mods/11296)**
+
+**[Fellowship - Immersive Rings](https://www.nexusmods.com/stardewvalley/mods/11380)**
+
+**[Serfdom - Immersive Taxes](https://www.nexusmods.com/stardewvalley/mods/12547)**
+
 ### Updates <!-- omit in toc -->
 
 **[SMAPI](https://smapi.io/)** updated to 3.16.2
