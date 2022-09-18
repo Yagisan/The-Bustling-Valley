@@ -127,7 +127,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Custom Spouse Rooms](https://www.nexusmods.com/stardewvalley/mods/10029)** updated to 0.8.0
 
-**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.2.2
+**[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)** updated to 2.2.3
 
 **[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.3.3
 
@@ -218,6 +218,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[PPJA - Mizu's Flowers](https://www.nexusmods.com/stardewvalley/mods/2028)**
 
 **[Useful Sweet Gem Berries](https://www.nexusmods.com/stardewvalley/mods/3367)**
+
+**[Lumisteria - Alternative Textures - Craftable](https://www.nexusmods.com/stardewvalley/mods/9294)**
 
 ### Modifications <!-- omit in toc -->
 
