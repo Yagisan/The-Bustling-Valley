@@ -9,5 +9,6 @@
   "Spritesheet-Fall": "Default-Flannel",
   "Spritesheet-Winter": "Default-Academia",
   "Spritesheet-Resort": "Default-BlackSwimsuit",
-  "jadeSimilarChildren": "true"
+  "jadeSimilarChildren": "true",
+  "jadeOverrideHomeLocation": "default"
 }
