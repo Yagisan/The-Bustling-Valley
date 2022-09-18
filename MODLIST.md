@@ -234,9 +234,6 @@ This list is only updated when mods are added or removed. If the version above d
 
 ## Skills and Professions
 
-- [Experience Bars](https://www.nexusmods.com/stardewvalley/mods/509)
-- [The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)
-
 ## Texture Packs
 
 - [SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)
