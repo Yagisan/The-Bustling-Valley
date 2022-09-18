@@ -16,6 +16,7 @@ This list is only updated when mods are added or removed. If the version above d
   - [QOL Changes](#qol-changes)
   - [Gifting and Friendship](#gifting-and-friendship)
   - [Marriage](#marriage)
+  - [Custom Farms](#custom-farms)
   - [Immersion](#immersion)
   - [Crops and Recipes](#crops-and-recipes)
   - [Shop Changes](#shop-changes)
@@ -84,6 +85,9 @@ This list is only updated when mods are added or removed. If the version above d
 - [Extra Map Layers](https://www.nexusmods.com/stardewvalley/mods/9633)
 - [Ginger Island Mainland Adjustments](https://www.nexusmods.com/stardewvalley/mods/10004)
   - [CP - Ginger Island Mainland Adjustments](https://www.nexusmods.com/stardewvalley/mods/10004)
+- [Esca's Modding Plugins (EMP)](https://www.nexusmods.com/stardewvalley/mods/9296)
+- [Custom Ore Nodes](https://www.nexusmods.com/stardewvalley/mods/5966)
+- [Waterfall Tilesheets](https://www.nexusmods.com/stardewvalley/mods/10964)
 
 ## Gameplay Changes
 
@@ -144,6 +148,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Avoid Losing Scepter](https://www.nexusmods.com/stardewvalley/mods/11856)
 - [Profiler](https://www.nexusmods.com/stardewvalley/mods/12135)
 - [NPC Location Compass](https://www.nexusmods.com/stardewvalley/mods/3045)
+- [Event Lookup Locations](https://www.nexusmods.com/stardewvalley/mods/13569)
 
 ## Gifting and Friendship
 
@@ -161,6 +166,16 @@ This list is only updated when mods are added or removed. If the version above d
 - [Hugs and Kisses](https://www.nexusmods.com/stardewvalley/mods/10062)
 - [Custom Spouse Patio Redux](https://www.nexusmods.com/stardewvalley/mods/10889)
 - [Planned Parenthood](https://www.nexusmods.com/stardewvalley/mods/12869)
+
+## Custom Farms
+
+- [Marsh Meadows Farm](https://www.nexusmods.com/stardewvalley/mods/13802)
+- [Cliffside Farm](https://www.nexusmods.com/stardewvalley/mods/13531)
+- [Riverbend Farm](https://www.nexusmods.com/stardewvalley/mods/13530)
+- [Remote Villa Farm](https://www.nexusmods.com/stardewvalley/mods/11502)
+- [Hilltop Grove](https://www.nexusmods.com/stardewvalley/mods/10957)
+- [Cute Forest Farm](https://www.nexusmods.com/stardewvalley/mods/13643)
+- [Tiniest Farm](https://www.nexusmods.com/stardewvalley/mods/13651)
 
 ## Immersion
 
@@ -190,7 +205,8 @@ This list is only updated when mods are added or removed. If the version above d
 - [farmerjack's Dialogue Expansions](https://www.nexusmods.com/stardewvalley/mods/9972)
 - [Better Artisan Good Icons](https://www.nexusmods.com/stardewvalley/mods/2080)
 - [Better Artisan Good Icons Fix](https://www.nexusmods.com/stardewvalley/mods/9366)
-- [Better Artisan Good Icons for The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/10174)
+- [Better Mead Icons - BAGI Addon](https://www.nexusmods.com/stardewvalley/mods/11911)
+  - [BAGI Vanilla Mead Icons](https://www.nexusmods.com/stardewvalley/mods/11911)
 - [Ridgeside Valley Better Artisan Good Icons](https://www.nexusmods.com/stardewvalley/mods/11552)
 - [Displays](https://www.nexusmods.com/stardewvalley/mods/7635)
 - [Flower Dance Fix](https://www.nexusmods.com/stardewvalley/mods/8535)
