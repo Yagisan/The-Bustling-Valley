@@ -251,6 +251,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)**
 
+**[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)**
+
+**[Better Junimos Forestry](https://www.nexusmods.com/stardewvalley/mods/8992)**
+
 ### Modifications <!-- omit in toc -->
 
 **[SSaturn's Oriental Kitchen](https://www.nexusmods.com/stardewvalley/mods/6010)** removed all recipes that required PPJA - Fruits and Veggies, PPJA - More Trees and/or PPJA - Artisan Valley. Peanut Sauce, and Sambal are now only purchasable from Sandy. Removed related mail.
