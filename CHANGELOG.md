@@ -77,6 +77,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Event Lookup Locations](https://www.nexusmods.com/stardewvalley/mods/13569)**
 
+**[Esca's Modding Plugins (EMP)](https://www.nexusmods.com/stardewvalley/mods/9296)** required framework mod for several updates.
+
 ### Updates <!-- omit in toc -->
 
 **[SMAPI](https://smapi.io/)** updated to 3.16.2
