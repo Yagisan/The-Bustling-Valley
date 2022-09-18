@@ -92,8 +92,6 @@ This list is only updated when mods are added or removed. If the version above d
 - [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
 - [Super Hopper](https://www.nexusmods.com/stardewvalley/mods/9418)
 - [PFMAutomate](https://www.nexusmods.com/stardewvalley/mods/5038)
-- [Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)
-- [Better Junimos Forestry](https://www.nexusmods.com/stardewvalley/mods/8992)
 - [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
 - [Tea Station (PFM Machine)](https://www.nexusmods.com/stardewvalley/mods/6313)
 - [Coffee Maker](https://www.nexusmods.com/stardewvalley/mods/4396)
@@ -143,7 +141,6 @@ This list is only updated when mods are added or removed. If the version above d
 - [Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615)
 - [Bulk Animal Purchase](https://www.nexusmods.com/stardewvalley/mods/11539)
 - [Livestock Choices](https://www.nexusmods.com/stardewvalley/mods/11551)
-- [Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)
 - [Avoid Losing Scepter](https://www.nexusmods.com/stardewvalley/mods/11856)
 - [Profiler](https://www.nexusmods.com/stardewvalley/mods/12135)
 - [NPC Location Compass](https://www.nexusmods.com/stardewvalley/mods/3045)
@@ -233,6 +230,12 @@ This list is only updated when mods are added or removed. If the version above d
 - [Island Cellar](https://www.nexusmods.com/stardewvalley/mods/8488)
 
 ## Skills and Professions
+
+- [Walk Of Life - Immersive Professions](https://www.nexusmods.com/stardewvalley/mods/8111)
+- [Quality Of Life - Immersive Tweaks](https://www.nexusmods.com/stardewvalley/mods/11296)
+- [Fellowship - Immersive Rings](https://www.nexusmods.com/stardewvalley/mods/11380)
+- [Serfdom - Immersive Taxes](https://www.nexusmods.com/stardewvalley/mods/12547)
+- [Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)
 
 ## Texture Packs
 
