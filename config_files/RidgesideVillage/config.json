@@ -1,5 +1,3 @@
 {
-  "repeatCableCarCutscene": true,
-  "enableOtherNPCsInCableCar": true,
-  "enableRidgesideMusic": true
+  "ShowVillagersOnMap": true
 }
