@@ -77,7 +77,9 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Event Lookup Locations](https://www.nexusmods.com/stardewvalley/mods/13569)**
 
-**[Esca's Modding Plugins (EMP)](https://www.nexusmods.com/stardewvalley/mods/9296)** required framework mod for several updates.
+**[Esca's Modding Plugins (EMP)](https://www.nexusmods.com/stardewvalley/mods/9296)** required framework mod for several mods.
+
+**[Waterfall Tilesheets](https://www.nexusmods.com/stardewvalley/mods/10964)** required framework mod for several mods.
 
 ### Updates <!-- omit in toc -->
 
