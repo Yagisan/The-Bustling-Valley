@@ -181,8 +181,6 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Seasonal Outfits for Adventurer's Guild Expanded](https://www.nexusmods.com/stardewvalley/mods/12254)** updated to 2.0.0
 
-**[Event Repeater](https://www.nexusmods.com/stardewvalley/mods/3642)** updated to 6.4.3
-
 ### Removed <!-- omit in toc -->
 
 **[PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726)**
@@ -264,6 +262,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Better Junimos Forestry](https://www.nexusmods.com/stardewvalley/mods/8992)**
 
 **[Community Center Reimagined](https://www.nexusmods.com/stardewvalley/mods/6966)**
+
+**[Event Repeater](https://www.nexusmods.com/stardewvalley/mods/3642)**
 
 ### Modifications <!-- omit in toc -->
 
