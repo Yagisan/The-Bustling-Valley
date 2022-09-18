@@ -81,6 +81,20 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Waterfall Tilesheets](https://www.nexusmods.com/stardewvalley/mods/10964)** required framework mod for several mods.
 
+**[Marsh Meadows Farm](https://www.nexusmods.com/stardewvalley/mods/13802)**
+
+**[Cliffside Farm](https://www.nexusmods.com/stardewvalley/mods/13531)**
+
+**[Riverbend Farm](https://www.nexusmods.com/stardewvalley/mods/13530)**
+
+**[Remote Villa Farm](https://www.nexusmods.com/stardewvalley/mods/11502)**
+
+**[Hilltop Grove](https://www.nexusmods.com/stardewvalley/mods/10957)**
+
+**[Cute Forest Farm](https://www.nexusmods.com/stardewvalley/mods/13643)**
+
+**[Tiniest Farm](https://www.nexusmods.com/stardewvalley/mods/13651)**
+
 ### Updates <!-- omit in toc -->
 
 **[SMAPI](https://smapi.io/)** updated to 3.16.2
