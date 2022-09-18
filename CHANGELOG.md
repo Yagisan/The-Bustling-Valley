@@ -221,6 +221,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Lumisteria - Alternative Textures - Craftable](https://www.nexusmods.com/stardewvalley/mods/9294)**
 
+**[Experience Bars](https://www.nexusmods.com/stardewvalley/mods/509)**
+
+**[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)**
+
 ### Modifications <!-- omit in toc -->
 
 **[SSaturn's Oriental Kitchen](https://www.nexusmods.com/stardewvalley/mods/6010)** removed all recipes that required PPJA - Fruits and Veggies, PPJA - More Trees and/or PPJA - Artisan Valley. Peanut Sauce, and Sambal are now only purchasable from Sandy. Removed related mail.
