@@ -197,6 +197,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)** updated to 4.0.12
 
+**[Auto Animal Doors](https://www.nexusmods.com/stardewvalley/mods/1019)** updated to 3.3.0
+
 ### Removed <!-- omit in toc -->
 
 **[PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726)**
