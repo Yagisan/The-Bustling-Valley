@@ -123,6 +123,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Ayeisha - The Postal Worker (Custom NPC)](https://www.nexusmods.com/stardewvalley/mods/6427)**
 
+**[Morris Redeemed](https://www.nexusmods.com/stardewvalley/mods/12667)**
+
 ### Updates <!-- omit in toc -->
 
 **[SMAPI](https://smapi.io/)** updated to 3.16.2
@@ -193,15 +195,13 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Seasonal Outfits for Adventurer's Guild Expanded](https://www.nexusmods.com/stardewvalley/mods/12254)** updated to 2.0.0
 
+**[Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)** updated to 4.0.12
+
 ### Removed <!-- omit in toc -->
 
 **[PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726)**
 
 **[TMXL Map Toolkit](https://www.nexusmods.com/stardewvalley/mods/1820)**
-
-**[Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)**
-
-**[Sorren](https://www.nexusmods.com/stardewvalley/mods/4040)**
 
 **[Sorren - Festival Locations](https://www.nexusmods.com/stardewvalley/mods/4040)**
 
