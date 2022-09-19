@@ -54,6 +54,15 @@ This list is only updated when mods are added or removed. If the version above d
 - [Yri the Architect](https://www.nexusmods.com/stardewvalley/mods/10627)
 - [Adventurer's Guild Expanded](https://www.nexusmods.com/stardewvalley/mods/12102)
   - [Adventurer's Guild Expanded - Music](https://www.nexusmods.com/stardewvalley/mods/12102)
+- [Sorren](https://www.nexusmods.com/stardewvalley/mods/4040)
+- [Seasonal Sorren (Slightly Cuter Character Sprites)](https://www.nexusmods.com/stardewvalley/mods/10853)
+- [The Wayfarer](https://www.nexusmods.com/stardewvalley/mods/4499)
+- [Custom Npc Nikolai](https://www.nexusmods.com/stardewvalley/mods/4882)
+- [Custom npc John](https://www.nexusmods.com/stardewvalley/mods/4500)
+- [Magical Family](https://www.nexusmods.com/stardewvalley/mods/5653)
+- [Ayeisha - The Postal Worker (Custom NPC)](https://www.nexusmods.com/stardewvalley/mods/6427)
+- [Morris Redeemed](https://www.nexusmods.com/stardewvalley/mods/12667)
+- [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)
 
 ## Frameworks
 
@@ -87,6 +96,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Esca's Modding Plugins (EMP)](https://www.nexusmods.com/stardewvalley/mods/9296)
 - [Custom Ore Nodes](https://www.nexusmods.com/stardewvalley/mods/5966)
 - [Waterfall Tilesheets](https://www.nexusmods.com/stardewvalley/mods/10964)
+- [FellowClowns TileSheets and Festival Patches](https://www.nexusmods.com/stardewvalley/mods/13166)
 
 ## Gameplay Changes
 
