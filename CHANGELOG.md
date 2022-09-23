@@ -189,7 +189,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Skull Cavern Elevator](https://www.nexusmods.com/stardewvalley/mods/963)** updated to 1.5.0
 
-**[Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)** updated to 1.2.1
+**[Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)** updated to 1.3.1
 
 **[DaisyNiko's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/4736)** updated to 1.7.1
 
@@ -198,6 +198,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)** updated to 4.0.12
 
 **[Auto Animal Doors](https://www.nexusmods.com/stardewvalley/mods/1019)** updated to 3.3.0
+
+**[Expanded Storage](https://www.nexusmods.com/stardewvalley/mods/7431)** updated to 2.0.3 - formerly eXpanded Storage Lite
+
+**[Extra Map Layers](https://www.nexusmods.com/stardewvalley/mods/9633)** updated to 0.3.3
 
 ### Removed <!-- omit in toc -->
 
