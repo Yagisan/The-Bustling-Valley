@@ -155,7 +155,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Canon-Friendly Dialogue Expansion for All Friend-able Characters](https://www.nexusmods.com/stardewvalley/mods/2544)** updated to 2.1.1
 
-**[Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)** updated to 0.3.3
+**[Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179)** updated to 0.4.0
 
 **[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 3.1.0
 
