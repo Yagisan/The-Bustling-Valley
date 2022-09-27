@@ -203,6 +203,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Extra Map Layers](https://www.nexusmods.com/stardewvalley/mods/9633)** updated to 0.3.3
 
+**[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to Github release 18 Sep 2022 (2.2.0 Beta - known issues)
+
 ### Removed <!-- omit in toc -->
 
 **[PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726)**
