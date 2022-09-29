@@ -135,7 +135,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.1.13
 
-**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.1.2
+**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.2.0
 
 **[Wedding Tweaks](https://www.nexusmods.com/stardewvalley/mods/10117)** updated to 0.2.3
 
@@ -191,7 +191,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)** updated to 1.3.1
 
-**[DaisyNiko's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/4736)** updated to 1.7.1
+**[DaisyNiko's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/4736)** updated to 1.8.0
 
 **[Seasonal Outfits for Adventurer's Guild Expanded](https://www.nexusmods.com/stardewvalley/mods/12254)** updated to 2.0.0
 
