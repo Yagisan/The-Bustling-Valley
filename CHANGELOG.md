@@ -133,9 +133,9 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.5.0
 
-**[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.1.13
+**[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.3.0
 
-**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.2.0
+**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.2.1
 
 **[Wedding Tweaks](https://www.nexusmods.com/stardewvalley/mods/10117)** updated to 0.2.3
 
