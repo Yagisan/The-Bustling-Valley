@@ -1,3 +1,4 @@
 {
-  "enableBerryBushes": "false"
+  "enableBerryBushes": "false",
+  "replaceFarm": "false"
 }
