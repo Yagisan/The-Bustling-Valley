@@ -1,0 +1,16 @@
+{
+  "CustomChance": 20,
+  "MaxVisitsPerDay": 1,
+  "Blacklist": "",
+  "StartingHours": 800,
+  "EndingHours": 1800,
+  "Duration": 6,
+  "Verbose": false,
+  "Debug": false,
+  "InLawComments": "VanillaOnly",
+  "ReplacerCompat": false,
+  "NeedsConfirmation": false,
+  "RejectionDialogue": true,
+  "Gifts": true,
+  "WalkOnFarm": true
+}
