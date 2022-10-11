@@ -133,9 +133,11 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Content Code](https://www.nexusmods.com/stardewvalley/mods/10545)**
 
+**[It is Pizza Time](https://www.nexusmods.com/stardewvalley/mods/9292)**
+
 ### Updates <!-- omit in toc -->
 
-**[SMAPI](https://smapi.io/)** updated to 3.16.2
+**[SMAPI](https://smapi.io/)** updated to 3.17.1
 
 **[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** updated to 0.15.0-beta.9
 
@@ -212,6 +214,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Extra Map Layers](https://www.nexusmods.com/stardewvalley/mods/9633)** updated to 0.3.3
 
 **[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** updated to Github release 18 Sep 2022 (2.2.0 Beta - known issues)
+
+**[Diverse Stardew Valley - Sam, Vincent, Jodi & Kent](https://diversestardewvalley.weebly.com/)** updated to 3.2.1
 
 ### Removed <!-- omit in toc -->
 
