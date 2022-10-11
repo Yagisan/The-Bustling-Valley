@@ -7,9 +7,9 @@
   "Duration": 6,
   "Verbose": false,
   "Debug": false,
-  "InLawComments": "VanillaOnly",
+  "InLawComments": "VanillaAndMod",
   "ReplacerCompat": false,
-  "NeedsConfirmation": false,
+  "NeedsConfirmation": true,
   "RejectionDialogue": true,
   "Gifts": true,
   "WalkOnFarm": true
