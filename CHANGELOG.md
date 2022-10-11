@@ -125,6 +125,14 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Morris Redeemed](https://www.nexusmods.com/stardewvalley/mods/12667)**
 
+**[Lumisteria Tilesheets - Outdoor](https://www.nexusmods.com/stardewvalley/mods/10448)**
+
+**[Jorts and Jean the Helper Cats - New Custom NPCs](https://www.nexusmods.com/stardewvalley/mods/10950)**
+
+**[A Stillness In The Rain - Harp Mod](https://www.nexusmods.com/stardewvalley/mods/10744)**
+
+**[Content Code](https://www.nexusmods.com/stardewvalley/mods/10545)**
+
 ### Updates <!-- omit in toc -->
 
 **[SMAPI](https://smapi.io/)** updated to 3.16.2
@@ -159,17 +167,17 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Aquarism - Immersive Fish Ponds](https://www.nexusmods.com/stardewvalley/mods/11288)** updated to 3.1.0
 
-**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.27.5
+**[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** updated to 1.28.0
 
 **[Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)** updated to 1.22.3
 
-**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.28.1
+**[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/3753)** updated to 1.28.2
 
 **[Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)** updated to 1.15.6
 
 **[Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)** updated to 1.1.16
 
-**[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)** updated to 1.37.5
+**[Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)** updated to 1.38.0
 
 **[Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)** updated to 1.9.10
 
@@ -179,7 +187,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Leilani (NPC for Ridgeside Village)](https://www.nexusmods.com/stardewvalley/mods/9375)** updated to 1.3.3
 
-**[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.11.0
+**[NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)** updated to 2.11.1
 
 **[Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)** updated to 1.4.4 (updated to Discord release 26 Aug 2022)
 
