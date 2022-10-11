@@ -111,6 +111,8 @@ DataStoreOverride = ""
 	Enabled = true
 	# Should resampling be enabled for normal sprites?
 	EnabledSprites = true
+	# Should resampling be enabled for portraits?
+	EnabledPortraits = true
 	# Should resampling be enabled for regular text?
 	EnabledLargeText = true
 	# Should resampling be enabled for small text?
@@ -122,6 +124,16 @@ DataStoreOverride = ""
 	#	xBRZ, EPX/ScaleX, EPXLegacy, xBREPX, None
 	# ]
 	Scaler = "xBRZ"
+	# What scaling algorithm should be used for portraits?
+	# Legal Values: [
+	#	xBRZ, EPX/ScaleX, EPXLegacy, xBREPX, None
+	# ]
+	ScalerPortrait = "xBRZ"
+	# What scaling algorithm should be used for text?
+	# Legal Values: [
+	#	xBRZ, EPX/ScaleX, EPXLegacy, xBREPX, None
+	# ]
+	ScalerText = "xBRZ"
 	# What scaling algorithm should be used for gradient sprites?
 	# Legal Values: [
 	#	xBRZ, EPX/ScaleX, EPXLegacy, xBREPX, None
@@ -129,12 +141,18 @@ DataStoreOverride = ""
 	ScalerGradient = "None"
 	# Should dynamic scaling be used (scaling based upon apparent sprite size)
 	EnableDynamicScale = true
-	# Should excess transparent rows/colums be trimmed?
+	# Should excess transparent rows/columns be trimmed?
 	TrimExcessTransparency = true
 	# Should we assume that input sprites are gamma corrected?
 	AssumeGammaCorrected = true
+	# Minimum scale factor of sprites (clamped to chosen scaler)
+	MinScale = 1
 	# Maximum scale factor of sprites (clamped to chosen scaler)
 	MaxScale = 6
+	# What value should be added to the calculated scale?
+	OverScale = 0.5
+	# Should sprites that are already at their rendering size be forced to be rescaled?
+	ForceOverScaling = true
 	# Minimum edge length of a sprite to be considered for resampling
 	MinimumTextureDimensions = 1
 	# Should wrapped addressing be enabled for sprite resampling (when analysis suggests it)?
@@ -234,16 +252,16 @@ DataStoreOverride = ""
 		# Minimum different shades required (per channel) for a sprite to be a gradient?
 		MinimumGradientShades = 2
 		# Maximum proportion of opaque texels for a sprite to be a gradient?
-		MaximumGradientOpaqueProportion = 0.95
+		MaximumGradientOpaqueProportion = 0.949999988079071
 		# Minimum proportion of opaque texels for a sprite to be premultiplied?
-		MinimumPremultipliedOpaqueProportion = 0.05
+		MinimumPremultipliedOpaqueProportion = 0.05000000074505806
 		# Experimental resample-based recolor support
 		[Config.Resample.Recolor]
 		# Should (experimental) resample-based recoloring be enabled?
 		Enabled = false
-		RScalar = 0.8976420000000001
-		GScalar = 0.998476
-		BScalar = 1.18365
+		RScalar = 0.8976420164108276
+		GScalar = 0.9984760284423828
+		BScalar = 1.183650016784668
 
 		[Config.Resample.BlockCompression]
 		# Should block compression of sprites be enabled?
@@ -314,9 +332,9 @@ DataStoreOverride = ""
 
 		[Config.Resample.xBRZ]
 		# The threshold for a corner-direction to be considered 'dominant'
-		DominantDirectionThreshold = 4.4
+		DominantDirectionThreshold = 4.400000095367432
 		# The threshold for a corner-direction to be considered 'steep'
-		SteepDirectionThreshold = 2.2
+		SteepDirectionThreshold = 2.200000047683716
 		# Bias towards kernel center applied to corner-direction calculations
 		CenterDirectionBias = 3
 		# Should gradient block copies be used? (Note: Very Broken)
