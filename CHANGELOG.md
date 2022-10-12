@@ -111,16 +111,6 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Play Prairie King With NPCs](https://www.nexusmods.com/stardewvalley/mods/12750)**
 
-**[FellowClowns TileSheets and Festival Patches](https://www.nexusmods.com/stardewvalley/mods/13166)**
-
-**[The Wayfarer](https://www.nexusmods.com/stardewvalley/mods/4499)**
-
-**[Custom Npc Nikolai](https://www.nexusmods.com/stardewvalley/mods/4882)**
-
-**[Custom npc John](https://www.nexusmods.com/stardewvalley/mods/4500)**
-
-**[Magical Family](https://www.nexusmods.com/stardewvalley/mods/5653)**
-
 **[Ayeisha - The Postal Worker (Custom NPC)](https://www.nexusmods.com/stardewvalley/mods/6427)**
 
 **[Morris Redeemed](https://www.nexusmods.com/stardewvalley/mods/12667)**
