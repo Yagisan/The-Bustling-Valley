@@ -125,6 +125,14 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[It is Pizza Time](https://www.nexusmods.com/stardewvalley/mods/9292)**
 
+**[Bus Locations](https://www.nexusmods.com/stardewvalley/mods/2905)**
+
+**[Warp Network](https://www.nexusmods.com/stardewvalley/mods/8567)**
+
+**[(WN) Less Cheaty Desert And Island](https://www.nexusmods.com/stardewvalley/mods/8575)**
+
+**[Welcome to Mineral Town](https://www.nexusmods.com/stardewvalley/mods/13996)**
+
 ### Updates <!-- omit in toc -->
 
 **[SMAPI](https://smapi.io/)** updated to 3.17.1
@@ -207,6 +215,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Diverse Stardew Valley - Sam, Vincent, Jodi & Kent](https://diversestardewvalley.weebly.com/)** updated to 3.2.1
 
+**[Event Repeater](https://www.nexusmods.com/stardewvalley/mods/3642)** updated to 6.5.3
+
 ### Removed <!-- omit in toc -->
 
 **[PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726)**
@@ -284,8 +294,6 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Better Junimos Forestry](https://www.nexusmods.com/stardewvalley/mods/8992)**
 
 **[Community Center Reimagined](https://www.nexusmods.com/stardewvalley/mods/6966)**
-
-**[Event Repeater](https://www.nexusmods.com/stardewvalley/mods/3642)**
 
 ### Modifications <!-- omit in toc -->
 
