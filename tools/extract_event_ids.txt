@@ -1,0 +1,1 @@
+cat NormalMode.json | grep 13 | cut  --delimiter=/ --fields=1 |  sed 's/"//' | sort | sed 's/$/,/'
