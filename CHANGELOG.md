@@ -127,10 +127,6 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Bus Locations](https://www.nexusmods.com/stardewvalley/mods/2905)**
 
-**[Warp Network](https://www.nexusmods.com/stardewvalley/mods/8567)**
-
-**[(WN) Less Cheaty Desert And Island](https://www.nexusmods.com/stardewvalley/mods/8575)**
-
 **[Welcome to Mineral Town](https://www.nexusmods.com/stardewvalley/mods/13996)**
 
 ### Updates <!-- omit in toc -->
