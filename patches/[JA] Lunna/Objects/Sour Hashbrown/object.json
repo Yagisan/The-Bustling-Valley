@@ -1,0 +1,53 @@
+{
+	"Name": "Sour Hashbrown",
+	"Description": "A unique-tasting potato made into a hashbrown!",
+	"Category": "Cooking",
+	"Edibility": 50,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 2,
+    "Mining": 2,
+    "Luck": 0,
+	"Foraging": 3,
+	"MaxStamina": 0,
+    "MagnetRadius": 0,
+	"Speed": 0,
+	"Defense": 0,
+	"Attack": 0,
+    "Duration": 200,
+	},
+	"Price": 250,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Love": ["Gus", "Raphael", "Dianna", "Alex", "Elliott", "Shane", "Harvey,"],
+	},
+
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Sour Potato",
+        "Count": 2,
+      },
+      {
+        "Object": "Oil",
+        "Count": 1,
+      },
+    ],
+    "CanPurchase": true,
+        "PurchaseFrom": "OddiShop",
+        "PurchasePrice": 5000,
+		"PurchaseRequirements": [ "f Raphael 2000" ]
+	},
+
+	"NameLocalization":
+	{
+		//
+	},
+	"DescriptionLocalization":
+	{
+		//
+	},
+}

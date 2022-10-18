@@ -1,0 +1,14 @@
+{
+  "Name": "Pale Berry",
+  "Description": "A pale purple-colored berry that has a soothing sweet aftertaste.",
+  "Category": "Fruit",
+  "Edibility": 30,
+  "Price": 100,
+  "IsColored": false,
+  "Recipe": null,
+  "GiftTastes":
+  {
+  "Love": ["Dianna", "Gus", "Lunna", "Bianka"],
+  "Like": ["Haley", "Penny", "Alex", "George"],
+  },
+}

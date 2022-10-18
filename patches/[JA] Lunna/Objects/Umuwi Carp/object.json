@@ -1,0 +1,22 @@
+{
+	"Name": "Umuwi Carp",
+	"Description": "A rare fish found in Umuwi. It seems to radiate magic.",
+	"Category": "Fish",
+	"Edibility": 40,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": null,
+	"Price": 800,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Love": ["Willy", "Reenus", "Lunna", "Dianna", "Laarni", "Yvenn", "Antiunn", "Gabbi", "Mico", "Oddi", "Bellia", "Gellos"],
+	},
+	"NameLocalization":
+	{
+		//
+	},
+	"DescriptionLocalization":
+	{
+		//
+	},
+}
