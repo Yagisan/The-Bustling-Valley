@@ -129,6 +129,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Welcome to Mineral Town](https://www.nexusmods.com/stardewvalley/mods/13996)**
 
+**[Alvadea's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/13743)**
+
 ### Updates <!-- omit in toc -->
 
 **[SMAPI](https://smapi.io/)** updated to 3.17.1
@@ -137,7 +139,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 **[Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)** updated to 2.5.0
 
-**[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.3.0
+**[Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358)** updated to 2.3.1
 
 **[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** updated to 1.2.1
 
@@ -212,6 +214,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 **[Diverse Stardew Valley - Sam, Vincent, Jodi & Kent](https://diversestardewvalley.weebly.com/)** updated to 3.2.1
 
 **[Event Repeater](https://www.nexusmods.com/stardewvalley/mods/3642)** updated to 6.5.3
+
+**[Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)** updated to a 1.7.2
 
 ### Removed <!-- omit in toc -->
 
