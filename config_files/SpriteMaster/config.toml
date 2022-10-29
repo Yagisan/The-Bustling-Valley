@@ -1,5 +1,5 @@
 [Config]
-ConfigVersion = "0.15.0.107.0"
+ConfigVersion = "0.15.0.110.0"
 # Should SpriteMaster be enabled? Unsetting this will disable _all_ SpriteMaster functionality.
 Enabled = true
 # Button to toggle SpriteMaster
@@ -138,7 +138,7 @@ DataStoreOverride = ""
 	# Legal Values: [
 	#	xBRZ, EPX/ScaleX, EPXLegacy, xBREPX, None
 	# ]
-	ScalerGradient = "None"
+	ScalerGradient = "ScaleX"
 	# Should dynamic scaling be used (scaling based upon apparent sprite size)
 	EnableDynamicScale = true
 	# Should excess transparent rows/columns be trimmed?
@@ -252,16 +252,16 @@ DataStoreOverride = ""
 		# Minimum different shades required (per channel) for a sprite to be a gradient?
 		MinimumGradientShades = 2
 		# Maximum proportion of opaque texels for a sprite to be a gradient?
-		MaximumGradientOpaqueProportion = 0.949999988079071
+		MaximumGradientOpaqueProportion = 0.95
 		# Minimum proportion of opaque texels for a sprite to be premultiplied?
-		MinimumPremultipliedOpaqueProportion = 0.05000000074505806
+		MinimumPremultipliedOpaqueProportion = 0.05
 		# Experimental resample-based recolor support
 		[Config.Resample.Recolor]
 		# Should (experimental) resample-based recoloring be enabled?
 		Enabled = false
-		RScalar = 0.8976420164108276
-		GScalar = 0.9984760284423828
-		BScalar = 1.183650016784668
+		RScalar = 0.8976420000000001
+		GScalar = 0.998476
+		BScalar = 1.18365
 
 		[Config.Resample.BlockCompression]
 		# Should block compression of sprites be enabled?
@@ -285,7 +285,8 @@ DataStoreOverride = ""
 		PadSolidEdges = false
 		# What spritesheets should not be padded?
 		BlackList = [
-			"LooseSprites\\Cursors::256,308:50,34"
+			"LooseSprites\\Cursors::256,308:50,34", 
+			"Portraits\\"
 		]
 		# What spritesheets should have a stricter edge-detection algorithm applied?
 		StrictList = [
@@ -332,9 +333,9 @@ DataStoreOverride = ""
 
 		[Config.Resample.xBRZ]
 		# The threshold for a corner-direction to be considered 'dominant'
-		DominantDirectionThreshold = 4.400000095367432
+		DominantDirectionThreshold = 4.4
 		# The threshold for a corner-direction to be considered 'steep'
-		SteepDirectionThreshold = 2.200000047683716
+		SteepDirectionThreshold = 2.2
 		# Bias towards kernel center applied to corner-direction calculations
 		CenterDirectionBias = 3
 		# Should gradient block copies be used? (Note: Very Broken)
@@ -371,7 +372,7 @@ DataStoreOverride = ""
 	# Legal Values: [
 	#	None, Compress, Deflate, Zstd/Best
 	# ]
-	Compress = "Zstd"
+	Compress = "None"
 
 	[Config.TextureFileCache]
 	# Should the texture memory cache be enabled?
