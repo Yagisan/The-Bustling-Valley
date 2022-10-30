@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.5.1](#051)
   - [0.5.0](#050)
 
 ## Semantic Versioning
@@ -16,6 +17,23 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
 
+## 0.5.1
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+Many Spacechase mods have updated to the new SMAPI 4.0 API. This reduces log spam, and may provide a performance boost.
+
+### Updates <!-- omit in toc -->
+
+- Updated [Bigger Craftables](https://www.nexusmods.com/stardewvalley/mods/7530/?tab=files&file_id=62101)
+- Updated [Custom NPC Fixes](https://www.nexusmods.com/stardewvalley/mods/3849/?tab=files&file_id=62124)
+- Updated [Displays](https://www.nexusmods.com/stardewvalley/mods/7635/?tab=files&file_id=62108)
+- Updated [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098/?tab=files&file_id=62127)
+- Updated [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720/?tab=files&file_id=62097)
+- Updated [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348/?tab=files&file_id=62096)
+- Updated [Surfing Festival](https://www.nexusmods.com/stardewvalley/mods/6688/?tab=files&file_id=62121)
 ## 0.5.0
 
 **Released:** `30 Oct 2022`
