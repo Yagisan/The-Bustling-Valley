@@ -25,15 +25,24 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 Many Spacechase mods have updated to the new SMAPI 4.0 API. This reduces log spam, and may provide a performance boost.
 
+Many Pathoschild mods have updated to the new GMCM API. This reduces log spam.
+
 ### Updates <!-- omit in toc -->
 
+- Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063/?tab=files&file_id=62157)
 - Updated [Bigger Craftables](https://www.nexusmods.com/stardewvalley/mods/7530/?tab=files&file_id=62101)
+- Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518/?tab=files&file_id=62158)
+- Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915/?tab=files&file_id=62159)
 - Updated [Custom NPC Fixes](https://www.nexusmods.com/stardewvalley/mods/3849/?tab=files&file_id=62124)
 - Updated [Displays](https://www.nexusmods.com/stardewvalley/mods/7635/?tab=files&file_id=62108)
 - Updated [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098/?tab=files&file_id=62127)
+- Updated [Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500/?tab=files&file_id=62162)
 - Updated [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720/?tab=files&file_id=62097)
+- Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541/?tab=files&file_id=62164)
+- Updated [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533/?tab=files&file_id=62166)
 - Updated [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348/?tab=files&file_id=62096)
 - Updated [Surfing Festival](https://www.nexusmods.com/stardewvalley/mods/6688/?tab=files&file_id=62121)
+
 ## 0.5.0
 
 **Released:** `30 Oct 2022`
