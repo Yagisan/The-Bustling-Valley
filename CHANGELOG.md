@@ -29,6 +29,10 @@ Many Pathoschild mods have updated to the new GMCM API. This reduces log spam.
 
 East Scarp had a map change. The Bush "bug" is back. See the tutorial at [https://youtu.be/bn8s0NBEWKI](https://youtu.be/bn8s0NBEWKI) on how to easily fix it.
 
+### Additions <!-- omit in toc -->
+
+- Added [Atras Interaction Tweaks - aka Stop Rug Removal](https://www.nexusmods.com/stardewvalley/mods/10192/?tab=files&file_id=57936)
+
 ### Updates <!-- omit in toc -->
 
 - Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063/?tab=files&file_id=62157)
@@ -37,10 +41,13 @@ East Scarp had a map change. The Bush "bug" is back. See the tutorial at [https:
 - Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915/?tab=files&file_id=62159)
 - Updated [Custom NPC Fixes](https://www.nexusmods.com/stardewvalley/mods/3849/?tab=files&file_id=62124)
 - Updated [Displays](https://www.nexusmods.com/stardewvalley/mods/7635/?tab=files&file_id=62108)
+- Updated [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787/?tab=files&file_id=62207)
 - Updated [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098/?tab=files&file_id=62127)
 - Updated [Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500/?tab=files&file_id=62162)
 - Updated [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720/?tab=files&file_id=62097)
+- Updated [Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398/?tab=files&file_id=62200)
 - Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541/?tab=files&file_id=62164)
+- Updated [Mister Ginger (cat NPC)](https://www.nexusmods.com/stardewvalley/mods/5295/?tab=files&file_id=62199)
 - Updated [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533/?tab=files&file_id=62166)
 - Updated [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348/?tab=files&file_id=62096)
 - Updated [Surfing Festival](https://www.nexusmods.com/stardewvalley/mods/6688/?tab=files&file_id=62121)
