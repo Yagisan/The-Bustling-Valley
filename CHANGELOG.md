@@ -27,6 +27,8 @@ Many Spacechase mods have updated to the new SMAPI 4.0 API. This reduces log spa
 
 Many Pathoschild mods have updated to the new GMCM API. This reduces log spam.
 
+East Scarp had a map change. The Bush "bug" is back. See the tutorial at [https://youtu.be/bn8s0NBEWKI](https://youtu.be/bn8s0NBEWKI) on how to easily fix it.
+
 ### Updates <!-- omit in toc -->
 
 - Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063/?tab=files&file_id=62157)
