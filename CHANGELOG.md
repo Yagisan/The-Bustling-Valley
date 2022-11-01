@@ -29,9 +29,22 @@ Many Pathoschild mods have updated to the new GMCM API. This reduces log spam.
 
 East Scarp had a map change. The Bush "bug" is back. See the tutorial at [https://youtu.be/bn8s0NBEWKI](https://youtu.be/bn8s0NBEWKI) on how to easily fix it.
 
+### Modifications <!-- omit in toc -->
+
+**[Wilford - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/7313/?tab=files&file_id=56945)** - Renamed Carrot to Danvers Carrot to avoid confusion with Carrot in [The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830/?tab=files&file_id=61706).
+
 ### Additions <!-- omit in toc -->
 
+- Added [Custom Npc Nikolai](https://www.nexusmods.com/stardewvalley/mods/4882/?tab=files&file_id=61474)
+- Added [Isla - Custom NPC](https://www.nexusmods.com/stardewvalley/mods/6931/?tab=files&file_id=62176)
 - Added [Atras Interaction Tweaks - aka Stop Rug Removal](https://www.nexusmods.com/stardewvalley/mods/10192/?tab=files&file_id=57936)
+- Added [Custom npc John](https://www.nexusmods.com/stardewvalley/mods/4500/?tab=files&file_id=61434)
+- Added [FellowClowns TileSheets and Festival Patches](https://www.nexusmods.com/stardewvalley/mods/13166/?tab=files&file_id=60626)
+- Added [Isla Reimagined](https://www.nexusmods.com/stardewvalley/mods/8720/?tab=files&file_id=41450)
+- Added [Magical Family](https://www.nexusmods.com/stardewvalley/mods/5653/?tab=files&file_id=60847)
+- Added [Sable - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/12533/?tab=files&file_id=58137)
+- Added [Custom npc Lyell](https://www.nexusmods.com/stardewvalley/mods/4499/?tab=files&file_id=60858)
+- Added [Wilford - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/7313/?tab=files&file_id=56945)
 
 ### Updates <!-- omit in toc -->
 
