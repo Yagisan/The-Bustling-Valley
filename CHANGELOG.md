@@ -27,7 +27,9 @@ Many Spacechase mods have updated to the new SMAPI 4.0 API. This reduces log spa
 
 Many Pathoschild mods have updated to the new GMCM API. This reduces log spam.
 
-East Scarp had a map change. The Bush "bug" is back. See the tutorial at [https://youtu.be/bn8s0NBEWKI](https://youtu.be/bn8s0NBEWKI) on how to easily fix it.
+Multiple maps have had unavoidable map changes. The Bush "bug" is back. See the tutorial at [https://youtu.be/bn8s0NBEWKI](https://youtu.be/bn8s0NBEWKI) on how to easily fix it.
+
+In an effort to improve performance, [Diverse Stardew Valley](https://diversestardewvalley.weebly.com/) has been reconfigured to use a "Light" profile. This improves performance by about 35% at the time change, by restricting outfit changes to happen only when the player changes locations. As a result playing should be smoother at the 10 minute tick.
 
 ### Modifications <!-- omit in toc -->
 
