@@ -379,6 +379,8 @@
     "Custom_WilfordHouse": "Dynamic",
     "Custom_EastWoods": "Dynamic",
     "Custom_EastWoodsDate": "Dynamic",
-    "Custom_ArkOrchard": "Dynamic"
+    "Custom_ArkOrchard": "Dynamic",
+    "Custom_ESMateoHome": "Dynamic",
+    "Custom_ESCoastalGuild": "Dynamic"
   }
 }
