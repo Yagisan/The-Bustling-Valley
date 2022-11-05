@@ -1,10 +1,10 @@
 {
   "KrobusVariant": "Modded",
-  "KrobusLightweightConfig": "Full",
+  "KrobusLightweightConfig": "Light",
   "Mermaids": "RandomBoth",
   "WitchVariant": "off",
   "WizardVariant": "Vanilla",
-  "WizardLightweightConfig": "Full",
+  "WizardLightweightConfig": "Light",
   "WizardFamiliars": "HatJunimos, ShoulderJunimos, SpiritCreatures",
   "WizardMarriageMod": "None",
   "MermaidPendants": "true"

@@ -1,10 +1,10 @@
 {
   "WillyVariant": "Vanilla",
-  "WillyLightweightConfig": "Full",
+  "WillyLightweightConfig": "Light",
   "ClintVariant": "Vanilla",
-  "ClintLightweightConfig": "Full",
+  "ClintLightweightConfig": "Light",
   "LinusVariant": "Vanilla",
-  "LinusLightweightConfig": "Full",
+  "LinusLightweightConfig": "Light",
   "LookingForLove": "",
   "MermaidPendants": "false",
   "ClintScar": "NoScar"

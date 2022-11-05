@@ -1,10 +1,10 @@
 {
   "AlexVariant": "Vanilla",
-  "AlexLightweightConfig": "Full",
+  "AlexLightweightConfig": "Light",
   "EvelynVariant": "Vanilla",
-  "EvelynLightweightConfig": "Full",
+  "EvelynLightweightConfig": "Light",
   "GeorgeVariant": "Vanilla",
-  "GeorgeLightweightConfig": "Full",
+  "GeorgeLightweightConfig": "Light",
   "PlatonicNPCs": "",
   "MermaidPendants": "true",
   "Pyjamas": "marriage",

@@ -1,10 +1,10 @@
 {
   "EmilyVariant": "Vanilla",
-  "EmilyLightweightConfig": "Full",
+  "EmilyLightweightConfig": "Light",
   "HaleyVariant": "Vanilla",
-  "HaleyLightweightConfig": "Full",
+  "HaleyLightweightConfig": "Light",
   "SandyVariant": "Vanilla",
-  "SandyLightweightConfig": "Full",
+  "SandyLightweightConfig": "Light",
   "MaternitySprites": "false",
   "PlatonicNPCs": "",
   "LookingForLove": "",

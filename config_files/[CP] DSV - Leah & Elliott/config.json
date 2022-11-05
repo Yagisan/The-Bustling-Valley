@@ -1,8 +1,8 @@
 {
   "ElliottVariant": "Vanilla",
-  "ElliottLightweightConfig": "Full",
+  "ElliottLightweightConfig": "Light",
   "LeahVariant": "Vanilla",
-  "LeahLightweightConfig": "Full",
+  "LeahLightweightConfig": "Light",
   "MaternitySprites": "false",
   "PlatonicNPCs": "",
   "MermaidPendants": "true",

@@ -1,10 +1,10 @@
 {
   "AbigailVariant": "VanillaStraightSize",
-  "AbigailLightweightConfig": "Full",
+  "AbigailLightweightConfig": "Light",
   "CarolineVariant": "Vanilla",
-  "CarolineLightweightConfig": "Full",
+  "CarolineLightweightConfig": "Light",
   "PierreVariant": "Vanilla",
-  "PierreLightweightConfig": "Full",
+  "PierreLightweightConfig": "Light",
   "MaternitySprites": "false",
   "PlatonicNPCs": "",
   "MermaidPendants": "true",

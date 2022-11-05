@@ -1,10 +1,10 @@
 {
   "ShaneVariant": "Vanilla",
-  "ShaneLightweightConfig": "Full",
+  "ShaneLightweightConfig": "Light",
   "JasVariant": "Vanilla",
-  "JasLightweightConfig": "Full",
+  "JasLightweightConfig": "Light",
   "MarnieVariant": "Vanilla",
-  "MarnieLightweightConfig": "Full",
+  "MarnieLightweightConfig": "Light",
   "PlatonicNPCs": "",
   "LookingForLove": "",
   "MermaidPendants": "true",

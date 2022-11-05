@@ -1,10 +1,10 @@
 {
   "HarveyVariant": "Vanilla",
-  "HarveyLightweightConfig": "Full",
+  "HarveyLightweightConfig": "Light",
   "GusVariant": "Vanilla",
-  "GusLightweightConfig": "Full",
+  "GusLightweightConfig": "Light",
   "LewisVariant": "Vanilla",
-  "LewisLightweightConfig": "Full",
+  "LewisLightweightConfig": "Light",
   "HarveyCharacterMustache": "NoMustache",
   "PlatonicNPCs": "",
   "MermaidPendants": "true",
