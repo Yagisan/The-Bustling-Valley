@@ -29,7 +29,7 @@ Many Pathoschild mods have updated to the new GMCM API. This reduces log spam.
 
 Multiple maps have had unavoidable map changes. The Bush "bug" is back. See the tutorial at [https://youtu.be/bn8s0NBEWKI](https://youtu.be/bn8s0NBEWKI) on how to easily fix it.
 
-In an effort to improve performance, [Diverse Stardew Valley](https://diversestardewvalley.weebly.com/) has been reconfigured to use a "Light" profile. This improves performance by about 35% at time change (on my PC), by restricting outfit changes to happen only when the player changes locations. As a result playing *should* be smoother at the 10 minute tick, at the expense of less immersive outfit changes. As most modded NPCs lack dynamic outfits, this may not be noticable.
+In an effort to improve performance, [Diverse Stardew Valley](https://diversestardewvalley.weebly.com/) has been reconfigured to use a "Light" profile. This improves performance by about 35% at time change (on my PC), by restricting outfit changes to happen only when the player changes locations. As a result playing *should* be smoother at the 10 minute tick, at the expense of less immersive outfit changes. As most modded NPCs lack dynamic outfits, this may not be noticeable.
 
 ### Modifications <!-- omit in toc -->
 
@@ -49,6 +49,7 @@ In an effort to improve performance, [Diverse Stardew Valley](https://diversesta
 - Added [Never Ending Adventure - NPC Mateo](https://www.nexusmods.com/stardewvalley/mods/12369/?tab=files&file_id=62391)
 - Added [Sable - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/12533/?tab=files&file_id=58137)
 - Added [Sebastian after-marriage loved gift dialogue tweak](https://www.nexusmods.com/stardewvalley/mods/14319/?tab=files&file_id=62261)
+- Added [Seed Maker - Better quality more seeds](https://www.nexusmods.com/stardewvalley/mods/14236/?tab=files&file_id=62363)
 - Added [Special Orders Tags Extended](https://www.nexusmods.com/stardewvalley/mods/9855/?tab=files&file_id=57935)
 - Added [Custom npc Lyell](https://www.nexusmods.com/stardewvalley/mods/4499/?tab=files&file_id=62350)
 - Added [Wilford - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/7313/?tab=files&file_id=56945)
