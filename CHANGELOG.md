@@ -29,7 +29,7 @@ Many Pathoschild mods have updated to the new GMCM API. This reduces log spam.
 
 Multiple maps have had unavoidable map changes. The Bush "bug" is back. See the tutorial at [https://youtu.be/bn8s0NBEWKI](https://youtu.be/bn8s0NBEWKI) on how to easily fix it.
 
-In an effort to improve performance, [Diverse Stardew Valley](https://diversestardewvalley.weebly.com/) has been reconfigured to use a "Light" profile. This improves performance by about 35% at the time change, by restricting outfit changes to happen only when the player changes locations. As a result playing should be smoother at the 10 minute tick.
+In an effort to improve performance, [Diverse Stardew Valley](https://diversestardewvalley.weebly.com/) has been reconfigured to use a "Light" profile. This improves performance by about 35% at time change (on my PC), by restricting outfit changes to happen only when the player changes locations. As a result playing *should* be smoother at the 10 minute tick, at the expense of less immersive outfit changes. As most modded NPCs lack dynamic outfits, this may not be noticable.
 
 ### Modifications <!-- omit in toc -->
 
@@ -39,24 +39,33 @@ In an effort to improve performance, [Diverse Stardew Valley](https://diversesta
 
 - Added [Custom Npc Nikolai](https://www.nexusmods.com/stardewvalley/mods/4882/?tab=files&file_id=61474)
 - Added [Isla - Custom NPC](https://www.nexusmods.com/stardewvalley/mods/6931/?tab=files&file_id=62176)
+- Added [Lavril - East Scarp NPC (King's Raid)](https://www.nexusmods.com/stardewvalley/mods/10016/?tab=files&file_id=62248)
 - Added [Atras Interaction Tweaks - aka Stop Rug Removal](https://www.nexusmods.com/stardewvalley/mods/10192/?tab=files&file_id=57936)
 - Added [Custom npc John](https://www.nexusmods.com/stardewvalley/mods/4500/?tab=files&file_id=61434)
+- Added [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787/?tab=files&file_id=62207)
 - Added [FellowClowns TileSheets and Festival Patches](https://www.nexusmods.com/stardewvalley/mods/13166/?tab=files&file_id=60626)
 - Added [Isla Reimagined](https://www.nexusmods.com/stardewvalley/mods/8720/?tab=files&file_id=41450)
-- Added [Magical Family](https://www.nexusmods.com/stardewvalley/mods/5653/?tab=files&file_id=60847)
+- Added [Magical Family](https://www.nexusmods.com/stardewvalley/mods/5653/?tab=files&file_id=62352)
+- Added [Never Ending Adventure - NPC Mateo](https://www.nexusmods.com/stardewvalley/mods/12369/?tab=files&file_id=62391)
 - Added [Sable - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/12533/?tab=files&file_id=58137)
-- Added [Custom npc Lyell](https://www.nexusmods.com/stardewvalley/mods/4499/?tab=files&file_id=60858)
+- Added [Sebastian after-marriage loved gift dialogue tweak](https://www.nexusmods.com/stardewvalley/mods/14319/?tab=files&file_id=62261)
+- Added [Special Orders Tags Extended](https://www.nexusmods.com/stardewvalley/mods/9855/?tab=files&file_id=57935)
+- Added [Custom npc Lyell](https://www.nexusmods.com/stardewvalley/mods/4499/?tab=files&file_id=62350)
 - Added [Wilford - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/7313/?tab=files&file_id=56945)
 
 ### Updates <!-- omit in toc -->
 
+- Updated [Almanac](https://www.nexusmods.com/stardewvalley/mods/11022/?tab=files&file_id=62369)
 - Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063/?tab=files&file_id=62157)
 - Updated [Bigger Craftables](https://www.nexusmods.com/stardewvalley/mods/7530/?tab=files&file_id=62101)
 - Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518/?tab=files&file_id=62158)
 - Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915/?tab=files&file_id=62159)
 - Updated [Custom NPC Fixes](https://www.nexusmods.com/stardewvalley/mods/3849/?tab=files&file_id=62124)
+- Updated [DaisyNiko's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/4736/?tab=files&file_id=62278)
 - Updated [Displays](https://www.nexusmods.com/stardewvalley/mods/7635/?tab=files&file_id=62108)
 - Updated [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787/?tab=files&file_id=62207)
+- Updated [Free Love](https://www.nexusmods.com/stardewvalley/mods/10021/?tab=files&file_id=62268)
+- Updated [Friend of a Friend](https://www.nexusmods.com/stardewvalley/mods/13666/?tab=files&file_id=62318)
 - Updated [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098/?tab=files&file_id=62127)
 - Updated [Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500/?tab=files&file_id=62162)
 - Updated [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720/?tab=files&file_id=62097)
@@ -66,6 +75,8 @@ In an effort to improve performance, [Diverse Stardew Valley](https://diversesta
 - Updated [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533/?tab=files&file_id=62166)
 - Updated [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348/?tab=files&file_id=62096)
 - Updated [Surfing Festival](https://www.nexusmods.com/stardewvalley/mods/6688/?tab=files&file_id=62121)
+- Updated [DSV-Sam-Vincent-Jodi-Kent](https://github.com/AirynS/DSV-Sam-Vincent-Jodi-Kent/releases/download/v3.2.2/CP.DSV.-.Sam.Vincent.Jodi.Kent.zip)
+- Updated [DSV - Shane, Jas, Marnie](https://www.moddrop.com/stardew-valley/mods/1073357-diverse-stardew-valley-shane-jas-and-marnie-dsv-seasonal-outfits) *note - this update is from ModDrop. It will be replaced with a GitHub update if one becomes available.
 
 ## 0.5.0
 
