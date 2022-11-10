@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.5.3](#053)
   - [0.5.2](#052)
   - [0.5.1](#051)
   - [0.5.0](#050)
@@ -17,6 +18,27 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.5.3
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+It is no longer possible to swim at [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787). This is an upstream change. If you need to heal from crab / bat attacks, use the hot spring in the East Scarp Inn.
+
+### Additions <!-- omit in toc -->
+
+- Added [Seasonal Japanese Buildings for Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/13720/?tab=files&file_id=60047)
+
+### Updates <!-- omit in toc -->
+
+- Updated [Custom Npc Nikolai](https://www.nexusmods.com/stardewvalley/mods/4882/?tab=files&file_id=62560)
+- Updated [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286/?tab=files&file_id=60549)
+- Updated [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787/?tab=files&file_id=62570)
+- Updated [Friend of a Friend](https://www.nexusmods.com/stardewvalley/mods/13666/?tab=files&file_id=62425)
+- Updated [Never Ending Adventure - NPC Mateo](https://www.nexusmods.com/stardewvalley/mods/12369/?tab=files&file_id=62573)
+- Updated [DSV - Shane, Jas, Marnie](https://github.com/AirynS/DSV-Shane-Jas-Marnie/releases/download/v3.1.0/CP.DSV.-.Shane.Jas.Marnie.zip) *note - replaced with the GitHub release.
 
 ## 0.5.2
 
