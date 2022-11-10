@@ -7,7 +7,7 @@
     "enabled": true,
     "hotkey": "None",
     "hotkeyList": "None",
-    "hideAtFestivals": false,
+    "hideAtFestivals": true,
     "maxWidth": 600,
     "maxItems": 10,
     "backgroundColor": {
@@ -23,6 +23,6 @@
       "A": 203
     },
     "offsetX": 0,
-    "offsetY": 300
+    "offsetY": 0
   }
 }
