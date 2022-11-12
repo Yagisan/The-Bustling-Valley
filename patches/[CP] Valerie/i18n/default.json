@@ -27,10 +27,15 @@
 
     // Mail
     "mail.ValSolar":"I'm in need of Solar Essence for a project I'm conducting.^If you get me one I'll happily pay you.^ -Valerie %item quest 768 true %%",
+    "mail.ValSolar.title":"Valerie needs Solar Essence",
     "mail.ValVoid":"I'm studying the effects of Void Essence, if you could bring me one I'd be very grateful.^ -Valerie %item quest 769 true %%",
+    "mail.ValVoid.title":"Valerie needs Void Essence",
     "mail.ValArrowhead":"I've been looking for a arrowhead, I suspect there are string engeries attached to the trinket.^If you find one, consider giving it to me.-Valerie %item quest 710 true %%",
+    "mail.ValArrowhead.title":"Valerie needs Arrowhead",
     "mail.ValBat":"I've new Specimen jars to fill up, if you come across a bat wing I'd pay you for it.^ -Valerie %item quest 767 true %%",
-     "mail.ValsInvite": "Dearest @, We've been becoming close friends and I wanted to invite you to a trip I'm taking with a group of my friends.^It'll be a surprise but bring a coat, it's usually chilly where we'll be going.^Meet me at the  bus stop around seven in the evening if you'd like to join us.^I won't wait all night though, so try not to be too long. -Valerie",
+    "mail.ValBat.title":"Valerie needs Bat Wing",
+    "mail.ValsInvite": "Dearest @, We've been becoming close friends and I wanted to invite you to a trip I'm taking with a group of my friends.^It'll be a surprise but bring a coat, it's usually chilly where we'll be going.^Meet me at the  bus stop around seven in the evening if you'd like to join us.^I won't wait all night though, so try not to be too long. -Valerie",
+    "mail.ValsInvite.title":"Valerie's invite",
 
 
 //Quest

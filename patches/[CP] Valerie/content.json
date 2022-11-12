@@ -398,10 +398,10 @@
             "Action": "EditData",
             "Target": "data/mail",
             "Entries": {
-                "ValSolar": "{{i18n:mail.ValSolar}}",
-                "ValVoid": "{{i18n:mail.ValVoid}}",
-                "ValArrowhead": "{{i18n:mail.ValArrowhead}}",
-                "ValBat": "{{i18n:mail.ValBat}}",
+                "ValSolar": "{{i18n:mail.ValSolar}}[#]{{i18n:mail.ValSolar.title}}",
+                "ValVoid": "{{i18n:mail.ValVoid}}[#]{{i18n:mail.ValVoid.title}}",
+                "ValArrowhead": "{{i18n:mail.ValArrowhead}}[#]{{i18n:mail.ValArrowhead.title}}",
+                "ValBat": "{{i18n:mail.ValBat}}[#]{{i18n:mail.ValBat.title}}",
             }
         },
 
@@ -597,7 +597,7 @@
             "Action": "EditData",
             "Target": "data/mail",
             "Entries": {
-                "ValsInvite": "{{i18n:mail.ValsInvite}}",
+                "ValsInvite": "{{i18n:mail.ValsInvite}}[#]{{i18n:mail.ValsInvite.title}}",
             }
         },        {
             "LogName": " Sleep Portraits",
@@ -651,7 +651,7 @@
             "Action": "EditData",
             "Target": "data/mail",
             "Entries": {
-                "ValsInvite": "{{i18n:mail.ValsInvite}}",
+                "ValsInvite": "{{i18n:mail.ValsInvite}}[#]{{i18n:mail.ValsInvite.title}}",
             }
         },
         {
@@ -730,7 +730,7 @@
             "Action": "EditData",
             "Target": "data/mail",
             "Entries": {
-                "ValsInvite": "{{i18n:mail.ValsInvite}}",
+                "ValsInvite": "{{i18n:mail.ValsInvite}}[#]{{i18n:mail.ValsInvite.title}}",
             }
         },
         {
