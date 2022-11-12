@@ -21,23 +21,31 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.5.3
 
-**Released:** `DD MMM YYYY`
+**Released:** `12 Nov 2022`
 
 ### Info <!-- omit in toc -->
 
 It is no longer possible to swim at [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787). This is an upstream change. If you need to heal from crab / bat attacks, use the hot spring in the East Scarp Inn.
 
+Added [Lasting Conversation Topics](https://www.nexusmods.com/stardewvalley/mods/14377) so now NPCs no longer have amnesia about the important things you've done. However this may mean that some of them have suddenly remembered that they have never introduced themselves - even though you've lived there for 3 years or more.
+
+There have been quest and other NPC fixes in a variety of NPC mods.
+
 ### Additions <!-- omit in toc -->
 
+- Added [Lasting Conversation Topics](https://www.nexusmods.com/stardewvalley/mods/14377/?tab=files&file_id=62430)
+- Added [Lasting Conversation Topics](https://www.nexusmods.com/stardewvalley/mods/14377/?tab=files&file_id=62437)
+- Added [Mandatory Bug Fix Patch](https://www.nexusmods.com/stardewvalley/mods/14419/?tab=files&file_id=62581)
 - Added [Seasonal Japanese Buildings for Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/13720/?tab=files&file_id=60047)
 
 ### Updates <!-- omit in toc -->
 
-- Updated [Custom Npc Nikolai](https://www.nexusmods.com/stardewvalley/mods/4882/?tab=files&file_id=62560)
+- Updated [Custom Npc Nikolai](https://www.nexusmods.com/stardewvalley/mods/4882/?tab=files&file_id=62594)
 - Updated [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286/?tab=files&file_id=60549)
+- Updated [Alecto the Witch (new NPC)](https://www.nexusmods.com/stardewvalley/mods/10671/?tab=files&file_id=62652)
 - Updated [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787/?tab=files&file_id=62570)
 - Updated [Friend of a Friend](https://www.nexusmods.com/stardewvalley/mods/13666/?tab=files&file_id=62425)
-- Updated [Never Ending Adventure - NPC Mateo](https://www.nexusmods.com/stardewvalley/mods/12369/?tab=files&file_id=62573)
+- Updated [Never Ending Adventure - NPC Mateo](https://www.nexusmods.com/stardewvalley/mods/12369/?tab=files&file_id=62665)
 - Updated [DSV - Shane, Jas, Marnie](https://github.com/AirynS/DSV-Shane-Jas-Marnie/releases/download/v3.1.0/CP.DSV.-.Shane.Jas.Marnie.zip) *note - replaced with the GitHub release.
 
 ## 0.5.2
