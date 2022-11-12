@@ -207,14 +207,23 @@
     ************************************************/
   ///Mail
     "mail.nikolaiwood":"@,^If you have extra wood, I'd love to take it off your hands.^I'll pay you, of course^-Nikolai %item quest 388 true %%",
+    "mail.nikolaiwood.title":"Nikolai needs Wood",
     "mail.colddrink":"@,^I would kill for something cold to drink.^If you could bring me a beer, that would be awesome.^I'll pay you, of course^-Nikolai %item quest 346 true %%",
+    "mail.colddrink.title":"Nikolai needs Beer",
     "mail.costume":"@,^I've been looking everywhere for cloth for my Spirit's Eve costume. If you could bring me some, I would be grateful.^I'll pay you, of course^ -Nikolai %item quest 428 true %%",
+    "mail.costume,title":"Nikolai needs Cloth",
     "mail.coal":"@,^I'm wanting to grill soon but I don't have coal. If you have extra, can I have it?^I'll pay you, of course^-Nikolai %item quest 382 true %%",
+    "mail.coal.title":"Nikolai needs Coal",
     "mail.marketpalooza":"@,^Join us Fall 3rd for our very first Marketpalooza, starts at 6pm! The event benefits charity!^-Nikolai",
+    "mail.marketpalooza.title":"Marketpalooza Invitation",
     "mail.clubinvite": "Hey, @,^I'm going to the club later tonight at 11 PM.^I'd love it if you came with me.^Just me and you.^-Nikolai",
+    "mail.clubinvite.title":"Nikolai's club invitation",
     "mail.NicDinner": "@,^You should join me for dinner at the saloon tonight. I'll be around at 5 PM.^-Nikolai",
+    "mail.NicDinner.title":"Nikolai's dinner invitation",
     "mail.NikOnline": "@,^I've been working on new kinds of honey and I wanted to give you a sample.^Hope you enjoy it!^-Nikolai",
+    "mail.NikOnline.title":"Nikolai's new honey sample",
     "mail.NikFossial": "@,^I found this weird egg and thought of you.^Take care of it.^-Nikolai",
+    "mail.NikFossial.title":"Nikolai's weird egg",
 
 //Quest
     "quest.nikolaiwood":"ItemDelivery/Bring Nikolai some wood./Nikolai needs wood./Bring Nikolai wood./Nikolai 388/-1/500/-1/true/Oh hey! This is just what I needed, thank you!",
