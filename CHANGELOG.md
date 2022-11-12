@@ -31,6 +31,8 @@ Added [Lasting Conversation Topics](https://www.nexusmods.com/stardewvalley/mods
 
 There have been quest and other NPC fixes in a variety of NPC mods.
 
+[Planned Parenthood](https://www.nexusmods.com/stardewvalley/mods/12869) has some sort of load order conflict that prevents it from working correctly. This was worked around by renaming the project to take advantage of how SMAPI actually loads files, and making it first to be loaded.
+
 ### Additions <!-- omit in toc -->
 
 - Added [Lasting Conversation Topics](https://www.nexusmods.com/stardewvalley/mods/14377/?tab=files&file_id=62430)
