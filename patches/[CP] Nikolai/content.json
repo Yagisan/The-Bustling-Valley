@@ -1,0 +1,831 @@
+{
+    "Format": "1.27.0",
+        "CustomLocations": [
+      // add the in-game location
+      {
+         "Name": "Custom_Fellowclown.Nikolai_NikolaisProperty",
+         "FromMapFile": "assets/Maps/NikolaisProperty.tbin"
+      },
+        {
+         "Name": "Custom_Fellowclown.Nikolai_NikolaisHome",
+         "FromMapFile": "assets/Maps/NikolaisHome.tbin"
+      },
+        {
+         "Name": "Custom_Fellowclown.Nikolai_NikolaisPropertySell",
+         "FromMapFile": "assets/Maps/NikolaisPropertySell.tbin"
+      },
+        {
+         "Name": "Custom_Fellowclown.Nikolai_Forestlake",
+         "FromMapFile": "assets/Maps/Forestlake.tbin"
+      },
+       {
+         "Name": "Custom_Fellowclown.Nikolai_NikolaisPropertyEvent",
+         "FromMapFile": "assets/Maps/NikolaisPropertyEvent.tbin"
+      },
+         {
+         "Name": "Custom_Fellowclown.Nikolai_Marketpalooza",
+         "FromMapFile": "assets/Maps/Marketpalooza.tbin"
+      },
+         {
+         "Name": "Custom_Fellowclown.Nikolai_TheClub",
+         "FromMapFile": "assets/Maps/TheClub.tbin"
+      },
+          {
+         "Name": "Custom_Fellowclown.Nikolai_CatEvent",
+         "FromMapFile": "assets/Maps/CatEvent.tbin"
+      },
+             {
+         "Name": "Custom_Fellowclown.Nikolai_CatBeach",
+         "FromMapFile": "assets/Maps/CatBeach.tbin"
+      },
+             {
+         "Name": "Custom_Fellowclown.Nikolai_NiksHideAway",
+         "FromMapFile": "assets/Maps/NiksHideAway.tbin"
+      },
+   ],
+    "DynamicTokens": [
+        {
+            "Name": "WeatherVariant",
+            "Value": "Rain",
+            "When": {
+                "Season": "spring, summer, fall",
+                "Weather": "rain, storm, snow"
+            }
+        },
+         {
+      "Name": "ValidNpcs",
+      "Value": "Abigail,Clint,Sebastian,Marnie,Alex,Haley,Harvey,Jodi,George,Evelyn,Emily,Elliott,Maru,Pierre,Pam,Penny,Sam,Demetrius,Robin,Vincent,Jas,Shane,Caroline,Leah,Willy,Linus"
+   },
+ {
+      "Name": "ValidNpcs",
+      "Value": "{{ValidNpcs}},Lyell",
+      "When": {
+         "HasMod": "Fellowclown.Lyell",
+      }
+   },
+    {
+      "Name": "ValidNpcs",
+      "Value": "{{ValidNpcs}},John",
+      "When": {
+         "HasMod": "Fellowclown.JohnNpc",
+      }
+   }, 
+   {
+      "Name": "ValidNpcs",
+      "Value": "{{ValidNpcs}},Valerie",
+      "When": {
+         "HasMod": "Fellowclown.MagicalFamily"
+      }
+   },
+        {
+            "Name": "WeatherVariant",
+            "Value": "Sun",
+            "When": {
+                "Weather": "sun, wind",
+                "Season": "spring, summer, fall, winter"
+            }
+        },
+        {
+            "Name": "WeatherVariant",
+            "Value": "Snow",
+            "When": {
+                "Season": "winter",
+                "Weather": "snow, rain, storm"
+            }
+        },
+   {
+            "Name": "IsEnglish",
+            "Value": "{{Language |contains=en}}"
+        }
+    ],
+
+    "Changes": [
+        {
+      "Action": "EditData",
+      "Target": "Data/CustomNPCExclusions",
+      "Entries": {
+        "Boxy": "TownEvent",
+        "Boxy": "TownQuest",
+        "Boxy": "IslandEvent",
+        "Boxy": "OtherEvent",
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Strings/Characters",
+      "Entries": {
+        "MovieInvite_CantInvite": "{0} has been excluded from movie invitations.",
+        "MovieInvite_CantInvite_Boxy": "{0} is a Cat...You can't take him to the movies."
+      }
+    },
+        /************************************************
+        ** Map edits
+        ************************************************/
+                  {
+            //Add "displayname" to locations
+            "Action": "EditData",
+            "Target": "Mods/shekurika.EventLookup/locationnames",
+            "Entries": {
+                "Custom_Fellowclown.Nikolai_NikolaisProperty": "Nikolai's Home",
+                 "Custom_Fellowclown.Nikolai_NikolaisHome": "Nikolai's Property",
+            }
+        },
+                 {
+         "Action": "EditMap",
+         "Target": "Maps/Mountain",
+         "FromFile": "assets/Maps/MountainRI3.tbin",
+          "When": {
+          "HasMod: |contains=DaisyNiko.SVR3": true},
+         "ToArea": { "X": 0, "Y": 34, "Width": 5, "Height": 7},
+      "TextOperations": [
+      {
+         "Operation": "Append",
+         "Target": ["MapProperties", "Warp"],
+         "When": {
+          "HasMod: |contains=DaisyNiko.SVR3": true},
+         "Value": "0 37 Custom_Fellowclown.Nikolai_NikolaisProperty 20 23",
+         "Delimiter": " "
+      }
+  ]
+},
+{
+            "Action": "EditMap",
+            "Target": "Maps/Custom_Fellowclown.Nikolai_NikolaisProperty",
+            "When": {
+      "HasMod: |contains=DaisyNiko.SVR3": true,
+    },
+            "MapProperties": {
+                "Warp": "23 23 Mountain 1 36"
+            },
+            "AddWarps": [
+                "23 23 Mountain 1 37"
+            ]
+        },
+         {
+         "Action": "EditMap",
+         "Target": "Maps/Mountain",
+         "FromFile": "assets/Maps/MountainSve.tbin",
+          "When": {
+          "HasMod: |contains=FlashShifter.StardewValleyExpandedALL": true},
+         "ToArea": { "X": 0, "Y": 26, "Width": 6, "Height": 13},
+      "TextOperations": [
+      {
+         "Operation": "Append",
+         "Target": ["MapProperties", "Warp"],
+         "When": {
+          "HasMod: |contains=Bridunow.DanielNPC": false,
+          "HasMod: |contains=FlashShifter.StardewValleyExpandedALL": true},
+         "Value": "0 36 Custom_Fellowclown.Nikolai_NikolaisProperty 20 23 0 37 Custom_Fellowclown.Nikolai_NikolaisProperty 20 23",
+         "Delimiter": " "
+      }
+  ]
+},
+          {
+         "Action": "EditMap",
+         "Target": "Maps/Mountain",
+         "FromFile": "assets/Maps/DMountain.tbin",
+          "When": {
+            "HasMod: |contains=Bridunow.DanielNPC": true,
+        },
+         "ToArea": { "X": 0, "Y": 35, "Width": 8, "Height": 6},
+      "TextOperations": [
+      {
+         "Operation": "Append",
+         "Target": ["MapProperties", "Warp"],
+         "Value": "0 39 Custom_Fellowclown.Nikolai_NikolaisProperty 20 23",
+         "Delimiter": " "
+      }
+  ]
+},
+       {
+         "Action": "EditMap",
+         "Target": "Maps/Mountain",
+         "FromFile": "assets/Maps/D&SVEMountain.tbin",
+          "When": {
+            "HasMod: |contains=Bridunow.DanielNPC": true,
+            "HasMod: |contains=FlashShifter.StardewValleyExpandedALL": true
+        },
+         "ToArea": { "X": 0, "Y": 35, "Width": 15, "Height": 6},
+      "TextOperations": [
+      {
+         "Operation": "Append",
+         "Target": ["MapProperties", "Warp"],
+         "Value": "0 39 Custom_Fellowclown.Nikolai_NikolaisProperty 20 23",
+         "Delimiter": " "
+      }
+  ]
+},
+  {
+            "Action": "EditMap",
+            "Target": "Maps/Custom_Fellowclown.Nikolai_NikolaisProperty",
+            "When": {
+      "HasMod: |contains=Bridunow.DanielNPC": true,
+    },
+            "MapProperties": {
+                "Warp": "23 23 Mountain 1 36"
+            },
+            "AddWarps": [
+                "23 23 Mountain 1 39"
+            ]
+        },
+  {
+         "Action": "EditMap",
+         "Target": "Maps/Mountain",
+         "FromFile": "assets/Maps/Mountain.tbin",
+          "When": {
+            "HasMod: |contains=Bridunow.DanielNPC": false,
+          "HasMod: |contains=FlashShifter.StardewValleyExpandedALL": false,
+         "HasMod: |contains=DaisyNiko.SVR3": false},
+         "ToArea": { "X": 0, "Y": 26, "Width": 6, "Height": 13},
+      "TextOperations": [
+      {
+         "Operation": "Append",
+         "Target": ["MapProperties", "Warp"],
+         "Value": "0 36 Custom_Fellowclown.Nikolai_NikolaisProperty 20 23 0 37 Custom_Fellowclown.Nikolai_NikolaisProperty 20 23",
+         "Delimiter": " "
+      }
+  ]
+},
+          {
+         "Action": "EditMap",
+         "Target": "Maps/AnimalShop",
+         "FromFile": "assets/Maps/AnimalShop.tbin",
+         "ToArea": { "X": 31, "Y": 9, "Width": 3, "Height": 10},
+          "When": {"HasMod |contains=Karmylla.ImmersiveMaps": false,},
+           "MapProperties": {
+            "Doors": "15 12 1 120 21 13 1 120 6 12 1 120",
+         }
+      },
+       {
+         "Action": "EditMap",
+         "Target": "Maps/AnimalShop",
+         "FromFile": "assets/Maps/AnimalShopKarm.tbin",
+         "ToArea": { "X": 31, "Y": 9, "Width": 3, "Height": 10},
+          "When": {"HasMod |contains=Karmylla.ImmersiveMaps": true},
+           "MapProperties": {
+            "Doors": "15 12 1 120 21 13 1 120 6 12 1 120",
+         }
+      },
+             {
+      "LogName": "Load Nikolais room",
+      "Action": "Load",
+      "Target": "Maps/NikolaisRoom",
+      "FromFile": "assets/Maps/NiksRoom.tbin",
+    },
+      {
+            "LogName": "Nikolais SpousePatios",
+            "Action": "EditData",
+            "Target": "Data/SpousePatios",
+            "Entries": {
+           "Nikolai": "Fellowclown.Nikolai_NikolaiPatio/0/45 45 45 45 45 45 45 45 45 45 45 46 46 46 46 46 46 46 46 46 46 46/0 0"
+            }
+        },
+         {
+            "LogName": "Nikolais Spouse room",
+            "Action": "EditData",
+            "Target": "Data/SpouseRooms",
+            "Entries": {
+           "Nikolai": "NikolaisRoom/0"
+            }
+        },
+     {
+        "LogName": "Load Nikolais patio",
+        "Action": "Load",
+        "Target": "Maps/Fellowclown.Nikolai_NikolaiPatio",
+        "FromFile": "assets/Maps/NiksPatio.tbin"
+    },
+             { 
+        "LogName": "Cs Strings Edits",
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "Event.cs.1531": "{{i18n:Event.cs.1531}}",
+      },
+     "When": {
+        "DayEvent": "Marketpalooza",
+        }
+      },
+         {
+         "Action": "EditData",
+         "Target": "Data/ChairTiles",
+         "Entries": {
+       
+       //chairs
+            
+           "townInterior/8/12": "1/1/right/chair/-1/-1/false",
+      }
+    },
+        {
+            "LogName": "Map Strings Edit",
+            "Action": "EditData",
+            "Target": "Strings/StringsFromMaps",
+            "Entries": {
+     "NikolaisHome.1": "{{i18n:NikolaisHome.1}}",
+    "NikolaisHome.2": "{{i18n:NikolaisHome.2}}",
+    "NikolaisHome.3": "{{i18n:NikolaisHome.3}}",
+    "NikolaisHome.4": "{{i18n:NikolaisHome.4}}",
+    "NikolaisHome.5": "{{i18n:NikolaisHome.5}}",
+    "NikolaisHome.6": "{{i18n:NikolaisHome.6}}",
+    "NikolaisHome.7": "{{i18n:NikolaisHome.7}}",
+    "NikolaisHome.8": "{{i18n:NikolaisHome.8}}",
+    "NikolaisHome.9": "{{i18n:NikolaisHome.9}}",
+    "NikolaisHome.10": "{{i18n:NikolaisHome.10}}.",
+    "NikolaisHome.11": "{{i18n:NikolaisHome.11}}",
+    "NikolaisHome.12": "{{i18n:NikolaisHome.12}}",
+    "NikolaisSpouseRoom.1": "{{i18n:SpouseRoom.1}}",
+    "Marketpalooza.1": "{{i18n:Marketpalooza.1}}!",
+    "AnimalShop.911": "{{i18n:AnimalShop.911}}",
+    "NikolaisProperty.1": "{{i18n:NikolaisProperty.1}}",
+    "NikolaisProperty.2": "{{i18n:NikolaisProperty.2}}",
+    "NikolaisProperty.3": "{{i18n:NikolaisProperty.3}}",
+    "NikolaisProperty.4": "{{i18n:NikolaisProperty.4}}",
+    "NikolaisProperty.5": "{{i18n:NikolaisProperty.5}}",
+    "NikolaisProperty.6": "{{i18n:NikolaisProperty.6}}",
+    "NikolaisProperty.7": "{{i18n:NikolaisProperty.7}}.",
+    "NikolaisProperty.8": "{{i18n:NikolaisProperty.8}}",
+    "NikolaisProperty.9": "{{i18n:NikolaisProperty.9}}",
+    "Marketpalooza.01": "{{i18n:Marketpalooza.01}}.",
+    "Marketpalooza.02": "{{i18n:Marketpalooza.02}}",
+    "Marketpalooza.03": "{{i18n:Marketpalooza.03}}.",
+    "Marketpalooza.04": "{{i18n:Marketpalooza.04}}.",
+    "Marketpalooza.05": "{{i18n:Marketpalooza.05}}",
+     "NiksPatio.01": "{{i18n:NiksPatio.01}}",
+            }
+        },
+        /************************************************
+        ** Secret notes
+        ************************************************/
+   {
+            "LogName": "SecretNotes",
+            "Action": "EditData",
+            "Target": "Data/SecretNotes",
+            "Entries": {
+                "800": "{{i18n:journal.1}}",
+                "801": "{{i18n:journal.2}}",
+                "802": "{{i18n:journal.3}}",
+                "803": "{{i18n:journal.4}}",
+                "804": "{{i18n:journal.5}}",
+            }
+        },
+
+ /************************************************
+        ** Festival spots
+        ************************************************/
+        {
+            "LogName": "Adds Nikolai to festivals",
+            "Action": "Include",
+            "FromFile": "assets/Data/Festivals.json",
+        },
+        /************************************************
+        ** NPC info
+        ************************************************/
+        {
+            "LogName": "NPCDispositions",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Nikolai": "adult/polite/outgoing/neutral/male/datable/null/town/summer 1//Custom_Fellowclown.Nikolai_NikolaisHome 10 5 2/{{i18n:npc-display-NIK}}",
+                "Boxy": "adult/neutral/shy/positive/male/not-datable/null/town/winter 22//Custom_Fellowclown.Nikolai_NikolaisProperty 15 21 2/{{i18n:npc-display-BOXY}}"
+            }
+        },
+        {
+            "LogName": "NPCGiftTastes",
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Nikolai": "{{i18n:gift.love}}/70 88 101 205 210 211/{{i18n:gift.like}}/284 488 252 248 242 238 265/{{i18n:gift.dislike}}/223 243 266 276/{{i18n:gift.hate}}/307 308 372 426 456 632 684/{{i18n:gift.neutral}}/-4/ ",
+                "Boxy": "{{i18n:gift.loveBoxy}}/715 720 130/{{i18n:gift.likeBoxy}}/227 219 214/{{i18n:gift.dislikeBoxy}}/148 154 196 248/{{i18n:gift.hateBoxy}}/167/{{i18n:gift.neutralBoxy}}/-4/ "
+            }
+        },
+
+
+        /************************************************
+        ** Movies
+        ************************************************/
+        {
+            "LogName": "Movie Theatre",
+            "Action": "Include",
+            "FromFile": "assets/movie-reactions.json"
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/ConcessionTastes",
+            "Entries": { 
+                "Nikolai": {
+                    "Name": "Nikolai",
+                    "LovedTags": [ "Apple Slices", "Truffle Popcorn" ],
+                    "LikedTags": [ "Ice Cream Sandwich","Chocolate Popcorn","Personal Pizza"],
+                    "DislikedTags": [ "Joja" ]
+                }
+            }
+        },
+
+
+        /************************************************
+        ** Generic dialogue
+        ************************************************/
+        {
+            "Action": "EditData",
+            "Target": "Data/ExtraDialogue",
+            "Entries": {
+                "Mines_PlayerKilled_Nikolai_NotSpouse": "{{i18n:player-killed.not-spouse}}",
+                "Mines_PlayerKilled_Nikolai_Spouse": "{{i18n:player-killed.spouse}}"
+            }
+        },
+        {
+            "LogName": "Coriel Courtship",
+            "Action": "Include",
+            "FromFile": "assets/MissCoriel-courtship-dialogue.json",
+            "When": {
+                "HasMod |contains=misscoriel.courtship": true
+            }
+        },
+        {
+            "LogName": "Engagement Dialogue",
+            "Action": "EditData",
+            "Target": "Data/EngagementDialogue",
+            "Entries": {
+                "Nikolai0": "{{i18n:engagement.0}}",
+                "Nikolai1": "{{i18n:engagement.1}}",
+            }
+        },
+        {
+            "LogName": "Nikolai Jealousy Messages",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Nikolai",
+            "Entries": {
+                "giftquestion_yes": "{{i18n:gift-question.truth}}",
+                "giftquestion_lie": "{{i18n:gift-question.lie}}"
+            },
+            "When": {
+                "HasMod |contains=minervamaga.CP.JealousyResponses": true
+            }
+        },
+          {
+            "LogName": "Dialogue Default",
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Boxy",
+            "FromFile": "assets/Dialogue/DialogueBoxy-en.json",
+        },
+        {
+            "LogName": "Dialogue Edit",
+            "Action": "Include",
+            "FromFile": "assets/Dialogue/DialogueBoxy-{{language}}.json",
+            "When": {
+                "HasFile:{{FromFile}}": true,
+                "Language |contains=en": false
+            }
+        },
+           {
+            "LogName": "Dialogue Edit",
+            "Action": "Include",
+            "FromFile": "assets/Dialogue/DialogueBoxyKnown-en.json",
+            "When": {
+                "HasSeenEvent |contains=488201": "true"
+            }
+        },
+         {
+            "LogName": "Dialogue Edit",
+            "Action": "Include",
+            "FromFile": "assets/Dialogue/DialogueBoxyKnown-{{language}}.json",
+            "When": {
+                "HasFile:{{FromFile}}": true,
+                "Language |contains=en": false,
+                "HasSeenEvent |contains=488201": "true"
+            }
+        },
+        {
+            "LogName": "Dialogue Default",
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Nikolai",
+            "FromFile": "assets/Dialogue/Dialogue-en.json",
+        },
+        {
+            "LogName": "Dialogue Edit",
+            "Action": "Include",
+            "FromFile": "assets/Dialogue/Dialogue-{{language}}.json",
+            "When": {
+                "HasFile:{{FromFile}}": true,
+                "Language |contains=en": false
+            }
+        },
+        {
+            "LogName": "Dialogue 2 3 4 hearts",
+            "Action": "Include",
+            "FromFile": "assets/Dialogue/Dialogue 2 3 4-en.json",
+            "When": {
+                "Hearts:Nikolai": "2,3,4",
+            }
+        },
+        {
+            "LogName": "Dialogue 2 3 4 hearts",
+            "Action": "Include",
+            "FromFile": "assets/Dialogue/Dialogue 2 3 4-{{language}}.json",
+            "When": {
+                "Hearts:Nikolai": "2,3,4",
+                "HasFile:{{FromFile}}": true,
+                "Language |contains=en": false
+            }
+        },
+        {
+            "LogName": "Dialogue 5 6 7",
+            "Action": "Include",
+            "FromFile": "assets/Dialogue/Dialogue 5 6 7-en.json",
+            "When": {
+                "Hearts:Nikolai": "5,6,7",
+            }
+        },
+        {
+            "LogName": "Dialogue 5 6 7",
+            "Action": "Include",
+            "FromFile": "assets/Dialogue/Dialogue 5 6 7-{{language}}.json",
+            "When": {
+                "Hearts:Nikolai": "5,6,7",
+                "HasFile:{{FromFile}}": true,
+                "Language |contains=en": false
+            }
+        },
+        {
+            "LogName": "Marriage Dialogue",
+            "Action": "Load",
+            "Target": "Characters/Dialogue/MarriageDialogueNikolai",
+            "FromFile": "assets/Dialogue/MarriageDialogue-en.json",
+        },
+        {
+            "LogName": "Marriage Dialogue",
+            "Action": "Include",
+            "FromFile": "assets/Dialogue/MarriageDialogue-{{Language}}.json",
+            "When": {
+                "HasFile:{{FromFile}}": true,
+                "Language |contains=en": false
+            }
+        },
+{
+      "Action": "EditData",
+      "Target": "strings/StringsFromCSFiles",
+      "Entries": {
+
+      "Utility.cs.5367": "{{i18n:Utility.cs.5367}}",
+      "Utility.cs.5369": "{{i18n:Utility.cs.5369}}",
+      "Utility.cs.5371": "{{i18n:Utility.cs.5371}}",
+      "Utility.cs.5377": "{{i18n:Utility.cs.5377}}",
+      },
+      "When": {
+      "Relationship:Valerie": "Engaged,Married"
+      },
+    },
+        {
+            "LogName": "Mail",
+            "Action": "EditData",
+            "Target": "data/mail",
+            "Entries": {
+                "nikolaiwood": "{{i18n:mail.nikolaiwood}}",
+                "colddrink": "{{i18n:mail.colddrink}}",
+                "costume": "{{i18n:mail.costume}}",
+                "coal": "{{i18n:mail.coal}}",
+                "marketpalooza": "{{i18n:mail.marketpalooza}}",
+                "clubinvite": "{{i18n:mail.clubinvite}}",
+                "NicDinner": "{{i18n:mail.NicDinner}}",
+                "NikOnline": "{{i18n:mail.NikOnline}} %item object {{spacechase0.jsonAssets/ObjectId:Lava Honey}} 1 %%",
+                "NikFossial": "{{i18n:mail.NikFossial}} %item object 392 1 %%",
+
+            }
+        },
+          {
+            "LogName": "Quests",
+            "Action": "EditData",
+            "Target": "Data/Quests",
+            "Entries": {
+                "388": "{{i18n:quest.nikolaiwood}}",
+                "346": "{{i18n:quest.colddrink}}",
+                 "428": "{{i18n:quest.costume}}",
+                "382": "{{i18n:quest.coal}}",
+            }
+        },
+
+        /************************************************
+        ** Schedules
+        ************************************************/
+        {
+            "LogName": "Schedule",
+            "Action": "Load",
+            "Target": "Characters/schedules/Nikolai",
+            "FromFile": "assets/Schedule/Schedule.json",
+        },
+        {
+            "LogName": "Schedule strings",
+            "Action": "Load",
+            "Target": "Strings/schedules/Nikolai",
+            "FromFile": "assets/Schedule/ScheduleDialogue-en.json",
+        },
+     {
+            "LogName": "Schedule strings Edit",
+            "Action": "Include",
+            "FromFile": "assets/Schedule/ScheduleDialogue-{{Language}}.json",
+            "When": {
+                "IsEnglish": false,
+                "HasFile:{{FromFile}}": true
+            }
+        },
+
+ {
+            "LogName": "Schedule",
+            "Action": "Load",
+            "Target": "Characters/schedules/Boxy",
+            "FromFile": "assets/Schedule/Stray_Cat.json",
+        },
+        {
+            "LogName": "Schedule strings",
+            "Action": "Load",
+            "Target": "Strings/schedules/Boxy",
+            "FromFile": "assets/Schedule/Stray_CatDialogue-en.json",
+        },
+       {
+            "LogName": "Schedule strings Edit",
+            "Action": "Include",
+            "FromFile": "assets/Schedule/Stray_CatDialogue-{{Language}}.json",
+            "When": {
+                "IsEnglish": false,
+                "HasFile:{{FromFile}}": true
+            }
+        },
+        /************************************************
+        ** Festival dialogue
+        ************************************************/
+        {
+            "LogName": "Festival dialogue",
+            "Action": "EditData",
+            "Target": "Data/Festivals/spring13, Data/Festivals/spring24, Data/Festivals/summer11, Data/Festivals/summer28,Data/Festivals/fall16, Data/Festivals/fall27,Data/Festivals/fall3, Data/Festivals/winter8, Data/Festivals/winter25",
+            "Entries": {
+                // show the first translation found from 'spring13.dating', 'spring13', or 'festival-default'
+                "Nikolai": "{{i18n:{{TargetWithoutPath}}.{{Relationship:Nikolai}} |default={{i18n:{{TargetWithoutPath}} |default={{i18n:festival-default}} }} }}"
+            }
+        },
+          {
+      "LogName": "Marketpalooza",
+      "Action": "EditData",
+      "Target": "Data/Festivals/FestivalDates",
+      "Entries": {"fall3": "Marketpalooza",
+      },
+             "When": {
+              "HasFlag": "marketpalooza",
+                }
+        },
+
+
+
+        /************************************************
+        ** Sprites and portraits
+        ************************************************/
+        // animations
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+      "NikolaiWash": "24/25 25 25 25 24 24 24 24 25 25 25 25 24 24 24/25",
+      "NikolaiDrink": "32/33 34 35 34 33 32 32 32 32 32 32 32 32 32 32 32 32 32 33 34 35 33 32 32 32 32 32 32 32 32 32 32 32/32",
+      "NikolaiSit": "29/29/29",
+      "BoxyLick": "16/16 16 16 16 17 17 17 17 17 18 18 18 18 18 18 19 19 19 19 19 19 18 18 18 18 18 17 17 17 17 17/17",
+      "BoxySleep": "20/20 20 20 20 20 20 20 20 20 20 21 21 21 21 21 21 21 21 21 21 21/21",
+      "nikolai_sleep": "16/16/16",
+      "nikolai_beach_dance": "2/2/2/Strings\\animationDescriptions:nikolai_beach_dance",
+      "nikolai_beach_umbrella": "2/2/2Strings\\animationDescriptions:nikolai_beach_umbrella",
+      "nikolai_beach_towel": "2/2/2/Strings\\animationDescriptions:nikolai_beach_towel",
+      "nikolai_beach_drink": "21/21 21 21 21 21 21 21 21 21 21 21 21 21 22 22 22 22 22 22 23 23 23 23 23 23 23 23 23 23 23 24 24 24 24 24 24 24 24 24 24 24 24 23 23 23 23 23 23 23 23 23 22 22 22 22 22 22 22 22 22 22 21 21/21/Strings\\animationDescriptions:nikolai_beach_drink",
+
+            }
+        },
+        ////tempactors
+               {
+            "LogName": "sprites",
+            "Action": "Load",
+            "Target": "Characters/forestsprite",
+            "FromFile": "assets/Image/TempActors/Sprites/forestsprite.png",
+        },
+
+        // Everyday sprites and Portraits
+          {
+            "LogName": "Portraits",
+            "Action": "Load",
+            "Target": "Portraits/Boxy",
+            "FromFile": "assets/Image/Portraits/{{TargetWithoutPath}}/Boxy_Sun.png",
+        },
+             {
+            "LogName": "sprites",
+            "Action": "Load",
+            "Target": "Characters/Boxy",
+            "FromFile": "assets/Image/Sprites/{{TargetWithoutPath}}/Boxy_Sun.png",
+        },
+        {
+            "LogName": "Portraits",
+            "Action": "Load",
+            "Target": "Portraits/Nikolai",
+            "FromFile": "assets/Image/Portraits/{{TargetWithoutPath}}/Nikolai_Spring.png",
+        },
+           {
+            "LogName": "Portraits",
+            "Action": "EditImage",
+            "Target": "Portraits/Boxy",
+            "FromFile": "assets/Image/Portraits/{{TargetWithoutPath}}/Boxy_{{WeatherVariant}}.png",
+        },
+             {
+            "LogName": "sprites",
+            "Action": "EditImage",
+            "Target": "Characters/Boxy",
+            "FromFile": "assets/Image/Sprites/{{TargetWithoutPath}}/Boxy_{{WeatherVariant}}.png",
+        },
+        {
+            "LogName": "Sprites",
+            "Action": "Load",
+            "Target": "Characters/Nikolai",
+            "FromFile": "assets/Image/Sprites/{{TargetWithoutPath}}/Nikolai_Spring.png",
+        },
+        {
+            "LogName": "Portraits",
+            "Action": "EditImage",
+            "Target": "Portraits/Nikolai",
+            "FromFile": "assets/Image/Portraits/{{TargetWithoutPath}}/Nikolai_{{season}}.png",
+        },
+        {
+            "LogName": "Sprites",
+            "Action": "EditImage",
+            "Target": "Characters/Nikolai",
+            "FromFile": "assets/Image/Sprites/{{TargetWithoutPath}}/Nikolai_{{season}}.png",
+        },
+        {
+            "LogName": "Festival Sprites",
+            "Action": "EditImage",
+            "Target": "Characters/Nikolai",
+            "FromFile": "assets/Image/Sprites/{{TargetWithoutPath}}/Festivals/{{DayEvent}}.png",
+            "Update": "OnLocationChange",
+            "When": {
+                "HasFile:{{FromFile}}": true,
+                "LocationName": "Temp"
+            }
+        },
+        {
+            "LogName": "Festival Portraits",
+            "Action": "EditImage",
+            "Target": "Portraits/Nikolai",
+            "FromFile": "assets/Image/Portraits/{{TargetWithoutPath}}/Festivals/{{DayEvent}}.png",
+            "Update": "OnLocationChange",
+            "When": {
+                "HasFile:{{FromFile}}": true,
+                "LocationName": "Temp"
+            }
+        },
+        {
+            "LogName": " Sleep Portraits",
+            "Action": "EditImage",
+            "Target": "Portraits/Nikolai",
+            "FromFile": "assets/Image/Portraits/{{TargetWithoutPath}}/SleepWear.png",
+                        "Update": "OnTimeChange, OnLocationChange",
+            "When":
+            {
+                "LocationName": "Cabin, FarmHouse, Custom_Fellowclown.Nikolai_NikolaisHome",
+                "Time": "{{Range: 2300, 2600}}"
+            }
+        },
+        {
+            "LogName": "sleep sprites",
+            "Action": "EditImage",
+            "Target": "Characters/Nikolai",
+            "FromFile": "assets/Image/Sprites/{{TargetWithoutPath}}/SleepWear.png",
+             "Update": "OnTimeChange, OnLocationChange",
+
+            "When":
+            {
+                "LocationName": "Cabin, FarmHouse, Custom_Fellowclown.Nikolai_NikolaisHome",
+                "Time": "{{Range: 2200, 2600}}"
+            }
+        },
+          {
+            "LogName": " Swimsuits",
+            "Action": "EditImage",
+            "Target": "Portraits/Nikolai",
+            "FromFile": "assets/Image/Portraits/{{TargetWithoutPath}}/SwimWear.png",
+            "When":
+            {
+                "LocationName": "IslandSouth, IslandWest, IslandEast, IslandNorth",
+            },
+            "Update": "OnLocationChange"
+        },
+               {
+            "LogName": " Swimsuits ",
+            "Action": "EditImage",
+            "Target": "Characters/Nikolai",
+            "FromFile": "assets/Image/Sprites/{{TargetWithoutPath}}/SwimWear.png",
+            "When":
+            {
+                "LocationName": "IslandSouth, IslandWest, IslandEast, IslandNorth",
+            },
+            "Update": "OnLocationChange"
+        },
+        {
+            "LogName": "Events",
+            "Action": "Include",
+            "FromFile": "assets/events.json"
+        }
+    ]
+}
