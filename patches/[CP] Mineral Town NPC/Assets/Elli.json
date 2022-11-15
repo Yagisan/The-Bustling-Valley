@@ -1,0 +1,67 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Elli": "teen/polite/neutral/positive/female/datable/null/other/spring 16/Ellen 'grandma' Stu 'brother'/Custom_HM_EllenHouse 6 5 1/Elli"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Elli": "Thank you. I'm so happy. But is it really all right for me to receive something so...so...?/72 221 253 395 597/Thank you. This is nice./852 376 203 873 771 815/ I-I mustn't turn down an act of generosity... I'm always telling Stu not to be picky, after all./260 606/I hate this! Thanks anyway, I guess./215 226 907/Thanks, @./403 305 -2/,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Elli Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Elli, Characters/Elli",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Elli, Characters/schedules/Elli",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Elli/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Elli/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Elli_sleep": "48/48/48",
+            }
+        },
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Carter": "adult/polite/neutral/positive/male/not-datable/null/other/fall 20/Cliff 'friend'/Custom_HM_CarterHouseInterior 11 6 1/Carter"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Carter": "Thank you. Labor as I might in the realm of the divine. I lack a true \"job\" here, so I feel blessed by such kindness./246 424 426 907/Thank you. This is a true blessing./852 376 203 873 771 815/I'll take it./395/My stars and holy garters... Well it's awkward. I'm not entirely sure why you would give this to me. I will...think it over for a while./-2/Thanks, @./403 305 -2/,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Carter Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Carter, Characters/Carter",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Carter, Characters/schedules/Carter",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Carter/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Carter/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Carter_sleep": "48/48/48",
+                "Carter_reading": "16/16 16 16 17 17 17 18 18 18/17",
+            }
+        },
+    ]
+}

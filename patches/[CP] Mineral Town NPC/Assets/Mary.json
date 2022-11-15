@@ -1,0 +1,68 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Mary": "teen/polite/shy/neutral/female/datable/Gray/other/winter 20/Basil 'dad' Anna 'mother' Penny 'friend'/Custom_HM_LibraryHouseSecFloor 18 12 3/Mary"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Mary": "Wow, I love this! Thank you. I'll happily accept it./223 350 422 614/Whoa, I'm so happy! I like these./852 376 203 873 771 815/Uh, sorry. These really aren't my favorite.../232 423 905/Umm, what is this?/346/Thanks, @./403 305 -2/,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Mary Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Mary, Characters/Mary",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Mary, Characters/schedules/Mary",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Mary/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Mary/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Mary_sleep": "48/48/48",
+                "Mary_reading": "16/16 16 16 17 17 17 18 18 18 19 19 19 18 18 18/18"
+            }
+        },
+    ]
+}

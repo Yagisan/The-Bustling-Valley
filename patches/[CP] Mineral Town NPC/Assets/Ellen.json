@@ -1,0 +1,67 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Ellen": "adult/polite/outgoing/positive/female/not-datable/null/other/winter 13/Stu 'grandson' Elli 'granddaughter'/Custom_HM_EllenHouse 21 5 3/Ellen"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Ellen": "Thank you kindly, sweetheart. Do come visit me again, you hear?/340 341 428 440 614 /Oh, why thank you dear. This is very thoughtful./233 194/I'm sorry dear but I don't particularly like this..../70 194/....thank you. I appreciate the thought I suppose./219/Thank you.//,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Ellen Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Ellen, Characters/Ellen",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Ellen, Characters/schedules/Ellen",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Ellen/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Ellen/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Ellen_chairsleep": "16/16 16 16 17 17 17 18 18 18 19 19 19 16 16 16/16",
+            }
+        },
+    ]
+}

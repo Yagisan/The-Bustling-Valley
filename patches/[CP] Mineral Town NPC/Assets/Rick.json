@@ -1,0 +1,67 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Rick": "teen/neutral/neutral/neutral/male/datable/Karen/other/fall 27/Lillian 'mother' Popuri 'sister'/Custom_HM_PoultrySecFloor 2 15 3/Rick"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Rick": "Ooh! Thanks. It's so nice of you to get a present for me, @./194 253 395 -5/Ooh, is this for me? Great! I can really use this. Thanks./233 194/Um...thanks? I guess?/208 236 276 280 608/EGG-SCUSE ME?! EW! Are you really giving this to me?! What the heck were you thinking?/197 -2/Thank you.//,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Rick Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Rick, Characters/Rick",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Rick, Characters/schedules/Rick",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Rick/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Rick/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Rick_sleep": "48/48/48",
+            }
+        },
+    ]
+}

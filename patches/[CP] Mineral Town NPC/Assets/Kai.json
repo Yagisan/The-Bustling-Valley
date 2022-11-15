@@ -1,0 +1,67 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Kai": "teen/neutral/outgoing/positive/male/datable/Popuri/other/summer 22/null/Custom_HM_SnackShack 2 4 2/Kai"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Kai": "Whoa, thanks! Good looking out./256 270 276 832 -5/Whoa, this is for me? Cool! Thanks./233 194/Sorry, but, uh...this REALLY isn't my style./205 218 404 606 -2/Hey, quick question: what's your major malfunction? I really don't have time for your weird pranks or whatever./219/Thank you.//,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Kai Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Kai, Characters/Kai",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Kai, Characters/schedules/Kai",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Kai/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Kai/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Kai_sleep": "48/48/48",
+            }
+        },
+    ]
+}

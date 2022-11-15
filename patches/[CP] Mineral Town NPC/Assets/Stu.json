@@ -1,0 +1,68 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Stu": "child/rude/outgoing/positive/male/not-datable/null/other/fall 5/Ellen 'grandma' Elli 'sister'/Custom_HM_EllenHouse 15 5 1/Stu"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Stu": "Yaaay! Sooo cool! Thanks./211 220 233 234 350/Nice! Thanks!/852 376 203 873 771 815/Haha, very funny prank @./198 202 205 214 231 250 272 -80/Gah! You're copying me?! But I hate these things!/215 226 260 907/Thanks, @./403 305 -2/,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Stu Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Stu, Characters/Stu",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Stu, Characters/schedules/Stu",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Stu/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Stu/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Stu_sleep": "16/16/16",
+                "Stu_play": "18/18 18 19 19 18 18/18",
+            }
+        },
+    ]
+}

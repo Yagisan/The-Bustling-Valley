@@ -1,0 +1,67 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Anna": "adult/polite/outgoing/positive/female/not-datable/null/other/fall 23/Mary 'daughter' Basil 'husband'/Custom_HM_LibraryHouseSecFloor 4 11 3/Anna"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Anna": "Thank you! I'm absolutely delighted. You make gift-giving an art form./270 340 233 72 608/Oh, my! What a considerate gift./852 376 203 873 771 815/Hmmm. I... don't particularly like this. But since you're offering, I suppose it would be rude not to take it./440 -80 422 281/Absolutely NOT. What is the meaning of this?/346/Thanks, @./70/,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Anna Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Anna, Characters/Anna",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Anna, Characters/schedules/Anna",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Anna/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Anna/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Anna_sleep": "48/48/48",
+            }
+        },
+    ]
+}

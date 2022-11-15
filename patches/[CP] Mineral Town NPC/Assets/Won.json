@@ -1,0 +1,68 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Won": "adult/neutral/outgoing/neutral/male/not-datable/null/other/winter 19/Zack 'friend'/Custom_HM_ZackHouse 17 8 2/Won"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Won": "Aiyaaah! You are a good person, yes? You have made me happy. Xie xie!/-2/Aah, many thanks. I like this very much./233 194/Aiyaaah! This is no good, dear costumer. No good at all. What use have I for something like this?/728/Dear Custom_HMer, pranks are not good! You may cause me to be angry./219/Thank you.//,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Won Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Won, Characters/Won",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Won, Characters/schedules/Won",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Won/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Won/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Won_sleep": "48/48/48",
+                "Won_reading": "16/16 16 16 17 17 17 18 18 18/17"
+            }
+        },
+    ]
+}

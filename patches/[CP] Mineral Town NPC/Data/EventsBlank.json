@@ -1,0 +1,58 @@
+{
+	"Changes": [
+		{
+			"LogName": "Events Blank",
+			"Action": "Load",
+			"Target": "Data/Events/Custom_HM_HospitalFirstFloor",
+			"FromFile": "Data/blank.json",
+		},
+		{		
+			"LogName": "Events Blank",
+			"Action": "Load",
+			"Target": "Data/Events/Custom_HM_EllenHouse",
+			"FromFile": "Data/blank.json",
+		},
+		{
+			"LogName": "Events Blank",
+			"Action": "Load",
+			"Target": "Data/Events/Custom_HM_Inn",
+			"FromFile": "Data/blank.json",
+		},
+		{
+			"LogName": "Events Blank",
+			"Action": "Load",
+			"Target": "Data/Events/Custom_HM_MineralTown",
+			"FromFile": "Data/blank.json",
+		},
+		{
+			"LogName": "Events Blank",
+			"Action": "Load",
+			"Target": "Data/Events/Custom_HM_LibrarySecFloor",
+			"FromFile": "Data/blank.json",
+		},
+		{
+			"LogName": "Events Blank",
+			"Action": "Load",
+			"Target": "Data/Events/Custom_HM_JeffMarket",
+			"FromFile": "Data/blank.json",
+		},
+		{
+			"LogName": "Events Blank",
+			"Action": "Load",
+			"Target": "Data/Events/Custom_HM_MayorHouse",
+			"FromFile": "Data/blank.json",
+		},
+		{
+			"LogName": "Events Blank",
+			"Action": "Load",
+			"Target": "Data/Events/Custom_HM_GoddessHill",
+			"FromFile": "Data/blank.json",
+		},
+		{
+			"LogName": "Events Blank",
+			"Action": "Load",
+			"Target": "Data/Events/Custom_HM_SnackShack",
+			"FromFile": "Data/blank.json",
+		},
+	]
+}

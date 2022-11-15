@@ -1,0 +1,68 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Duke": "Adult/polite/outgoing/neutral/male/not-datable/null/other/winter 15/Manna 'wife'/Custom_HM_AjaWinerySecFloor 3 19 1/Duke"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Duke": "Oh, ho! Thank you. I'm a simple man--I'm happy as long as I have honest work and a full belly. Thanks for helping me with the latter./216 219 228 231 272/Oh ho! Thank you. I think I'll hide it from Manna and keep it all to myself./233 194/Well now, I bet you think you're pretty funny, don't you @?/350 395 614 815/What is this? Get this out of my sight immediately!/-2/Thank you.//,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Duke Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Duke, Characters/Duke",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Duke, Characters/schedules/Duke",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Duke/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Duke/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Duke_sleep": "48/48/48",
+                "Duke_drink": "16/16 16 16 17 17 17 18 18 18 16 16 16/16",
+            }
+        },
+    ]
+}

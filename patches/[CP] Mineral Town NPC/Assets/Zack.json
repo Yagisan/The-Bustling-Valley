@@ -1,0 +1,56 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Zack": "adult/rude/outgoing/positive/male/not-datable/null/other/summer 29/Won 'friend'/Custom_HM_ZackHouse 19 5 3/Zack"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Zack": "Yo, thanks! Now ain't this a hot little number?/72 195 227 400 424 426 613/Yo, thanks. 'Preciate it./233 194/Huh. Well, uh... 'Preciate the thought, but I ain't got much use for somethin' like this./-2/Yo, what the heck! Yer brain fulla lead or somethin'? Ugh, can't even begin to imagine what you were thinkin'.../219/Thank you.//,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Zack Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Zack, Characters/Zack",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Zack, Characters/schedules/Zack",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Zack/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Zack/Schedule.json"
+        },
+    ]
+}

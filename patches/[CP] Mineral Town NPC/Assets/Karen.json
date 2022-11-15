@@ -1,0 +1,68 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Karen": "teen/rude/outgoing/positive/female/datable/null/other/fall 15/null/Custom_HM_JeffMarket 3 5 3/Karen"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Karen": "Oh my, are you really giving this to me? I love this kinda stuff./210 227 424 426/Wow, thanks. That was cool of you./852 376 203 873 771 815/Yeah...no. Hard Pass./208 211 220 221 223 233 280 613 635/GAH. Uh, how about you save that for someone else next time, huh?/70 428 440/Thanks, @./403 305 -2/,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Karen Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Karen, Characters/Karen",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Karen, Characters/Schedules/Karen",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Karen/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Karen/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Karen_sleep": "48/48/48",
+                "Karen_drink": "16/16 16 16 17 17 17 18 18 18 19 19 19 20 20 20 16 16 16/16",
+            }
+        }
+    ]
+}

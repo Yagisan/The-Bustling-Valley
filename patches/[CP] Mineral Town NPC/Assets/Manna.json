@@ -1,0 +1,68 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Manna": "adult/neutral/outgoing/positive/female/not-datable/null/other/fall 11/Duke 'husband'/Custom_HM_AjaWinerySecFloor 1 19 3/Manna"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Manna": "Why, thank you! Do you always give such lovely gifts to the townspeople? If you're going to give gifts, you should give them out to everyone, you know. Bad rumors will start circulating if you're only generous with folks who are young, single, and ready to mingle. Well, tobe honest, everyone likes you enough that you prooobably don't have to worry. But anyway, thank you. I love it!/72 198 213 832/Why, thank you. You're surprisingly conscientious. No, that wasn't a backhanded compliment. It's a good thing! Truly! I live with a pushy, insensitive oaf of a man like Duke, so... When I encounter folks like you, I can't help but compare them to my only frame of reference. Anyway, thank you so much./852 376 203 873 771 815/Uh, thanks? I don't really like this, but okay./907/I hate this! Thanks anyway, I guess./346/Thanks, @./403 305 -2/,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Manna Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Manna, Characters/Manna",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Manna, Characters/schedules/Manna",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Manna/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Manna/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Manna_sleep": "48/48/48",
+                "Duke_drink": "16/16 16 16 17 17 17 18 18 18 16 16 16/16",
+            }
+        },
+    ]
+}

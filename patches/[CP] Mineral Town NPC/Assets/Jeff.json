@@ -1,0 +1,76 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Jeff": "adult/polite/neutral/negative/male/not-datable/null/other/winter 29/Karen 'daughter' Sasha 'wife'/Custom_HM_JeffMarket 14 5 1/Jeff"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Jeff": "Wow, thank you! That's so thoughtful of you. I love it./253 395 614 904 /Thank you! What a nice gesture. I like it./852 376 203 873 771 815/I'm afraid I'm not too fond of stuff like this, sorry to say./197 233 424 426/Huh... All right. I think I see what you're trying to say. Guess I really left a bad impression on you./346/Thanks, @./403 305 -2/,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Jeff Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Jeff, Characters/Jeff",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Jeff, Characters/schedules/Jeff",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Jeff/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Jeff/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Jeff_sleep": "48/48/48",
+                "Jeff_work": "16/16 16 16 17 17 17 18 18 18 19 19 19 20 20 20 21 21 21 22 22 22 23 23 23 24 24 24 25 25 25 26 26 26 27 27 27/16/Strings\\animationDescriptions:Jeff_work",
+            }
+        },
+        {
+            "LogName": "Animation strings",
+            "Action": "EditData",
+            "Target": "Strings/animationDescriptions",
+            "Entries": {
+                "Jeff_work": "Hello @. Can I help you find anything?",
+            }
+        },
+    ]
+}

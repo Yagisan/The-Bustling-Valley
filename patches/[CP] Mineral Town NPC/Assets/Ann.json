@@ -1,0 +1,78 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Ann": "teen/neutral/outgoing/positive/female/datable/Cliff/other/summer 7/Doug 'dad' Karen 'friend'/Custom_HM_InnKitchen 11 5 3/Ann"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Ann": "Whoa! Heeeeck yeah! Can I really have this? Thanks!/233 211 220 196 227/Thank you, I'm happy!/216/What are you doing? Throw this stuff away properly!/459 304 88 348 213 -4/Just because I like to clean doesn't mean you should bring me trash! Throw this away yourself!/70/Thanks, @./403 305 -2/,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Ann Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Ann, Characters/Ann",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Ann, Characters/schedules/Ann",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Ann/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Ann/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Ann_sleep": "48/48/48",
+                "Ann_washing": "16/16 16 17 17/16/Strings\\animationDescriptions:Ann_washing",
+                "Ann_brooming": "20/20 20 20 20 21 21 21 21 22 22 22 22 21 21 21 21/20/Strings\\animationDescriptions:Ann_sweeping"
+            }
+        },
+        {
+            "LogName": "Animation strings",
+            "Action": "EditData",
+            "Target": "Strings/animationDescriptions",
+            "Entries": {
+                "Ann_sweeping": "Hey there @. Sorry, but do you mind coming to talk later? I'm in the middle of some work right now.",
+                "Ann_washing": "Hey there @. Sorry, but do you mind coming to talk later? I'm in the middle of some work right now.",
+            }
+        },
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Doctor": "adult/neutral/neutral/negative/male/datable/null/other/fall 19/null/Custom_HM_DoctorHouseInterior 15 6 3/Doctor"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Doctor": "Wow, thank you! I'll be able to get plenty of use out of this./225 350 597 -6/Oh, you're giving that to me? You're so considerate./233 194/Urgh... Th-Thank you, but this isn't something I particularly desire./211 220 221 -2/Interesting....what is it you're trying to say exactly, @?/210/Thank you.//,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Doctor Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Doctor, Characters/Doctor",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Doctor, Characters/schedules/Doctor",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Doctor/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Doctor/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Doctor_sleep": "48/48/48",
+            }
+        },
+    ]
+}

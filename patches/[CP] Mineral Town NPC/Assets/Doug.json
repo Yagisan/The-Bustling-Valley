@@ -1,0 +1,76 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Doug": "Adult/polite/neutral/neutral/male/not-datable/null/other/winter 11/Ann 'daughter'/Custom_HM_InnKitchen 25 5 1/Doug"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Doug": "Hey, thanks! I love it. Seriously./220 253 340 395 728/Thanks. Sorry to put you out like this./233 194/Now you've put me on the spot. Well... I guess since you're offering.../428 -80/Hold on, back it up. What exactly do you expect me to do with this?/219/Thank you.//,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Doug Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Doug, Characters/Doug",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Doug, Characters/schedules/Doug",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Doug/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Doug/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Doug_sleep": "48/48/48",
+                "Doug_work": "16/16 16 16 17 17 17 18 18 18 17 17 17/16/Strings\\animationDescriptions:Doug_work",
+            }
+        },
+        {
+            "LogName": "Animation strings",
+            "Action": "EditData",
+            "Target": "Strings/animationDescriptions",
+            "Entries": {
+                "Doug_work": "Hello @. What would you like order?",
+            }
+        },
+    ]
+}

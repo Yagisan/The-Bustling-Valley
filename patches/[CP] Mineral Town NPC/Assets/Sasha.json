@@ -1,0 +1,67 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Sasha": "adult/neutral/outgoing/positive/female/not-datable/null/other/spring 30/Karen 'daughter' Jeff 'husband' Lillia 'friend'/Custom_HM_JeffMarket 16 5 3/Sasha"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Sasha": "My, my! How thoughtful of you. I like this ever so much./72 223 593 597 904/My, how thoughtful! No matter how old you get, it always feels nice to get a present, don't you think?/852 376 203 873 771 815/I don't think so, dear. I'm sorry, but I can't stomach that./66 197 198 219 227 424 426/Goodness, take that away! I can barely stand looking at it!/70/Thanks, @./403 305 -2/,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Sasha Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Sasha, Characters/Sasha",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Sasha, Characters/schedules/Sasha",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Sasha/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Sasha/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Sasha_sleep": "48/48/48",
+            }
+        }
+    ]
+}

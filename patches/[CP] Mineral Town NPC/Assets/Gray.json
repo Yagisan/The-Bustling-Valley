@@ -1,0 +1,67 @@
+{
+  "Changes": [
+    //-------------------------
+    // NPCDispositions
+    //-------------------------        
+    {
+      "LogName": "NPC Manifestation",
+      "Action": "EditData",
+      "Target": "Data/NPCDispositions",
+      "Entries": {
+        "Gray": "teen/rude/neutral/negative/male/datable/Mary/other/winter 6/Saibara 'grandpa'/Custom_HM_InnSecFloor 21 19 3/Gray"
+      }
+    },
+    //------------------------
+    // Gift             	
+    //------------------------
+    {
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {
+        "Gray": "Oh, thanks! Gotta say, it's nice to have friends who have your back./62 64 66 70 232 270 904/Lucky me! Y'know, if you ever wanted to give me one of these again sometime... Heh./233 194/...I guess I'll take it, but I don't like it./215 226 260 907/For me? wow... thanks.../What's wrong with you!? Don't give me something like that!/Thank you.//,"
+      }
+    },
+    //------------------------
+    // Portraits & Sprite              	
+    //------------------------
+    {
+      "LogName": "Gray Portraits & Sprite",
+      "Action": "Load",
+      "Target": "Portraits/Gray, Characters/Gray",
+      "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+    },
+    //------------------------
+    // Load blank
+    //------------------------
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Gray, Characters/schedules/Gray",
+      "FromFile": "Assets/blank.json"
+    },
+    //------------------------
+    // Dialogue              	
+    //------------------------
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Dialogues/Gray/Dialogues.json"
+    },
+    //------------------------
+    // Schedule              	
+    //------------------------
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Schedules/Gray/Schedule.json"
+    },
+    //------------------------
+    // Animation & Animation strings             	
+    //------------------------
+    {
+      "LogName": "Animations",
+      "Action": "EditData",
+      "Target": "Data/animationDescriptions",
+      "Entries": {
+        "Gray_sleep": "48/48/48",
+      }
+    },
+  ]
+}

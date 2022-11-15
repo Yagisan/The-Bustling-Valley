@@ -1,0 +1,67 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Harris": "adult/polite/outgoing/positive/male/not-datable/null/other/summer 4/Thomas 'father'/Custom_HM_MayorHouse 20 5 3/Harris"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Harris": "Thank you! And not just for the lovely gift, but for even thinking of me in the first place./220 221 234 350/Thank You! I appreciate your thoughtfulness./233 194/Erm, w-well... Your heart was certainly in the right place.../227 250 428 -2/I admit to feeling disappointed--not out of greediness, but because I didn't think you capable of being so hurtful./219/Thank you.//,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Harris Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Harris, Characters/Harris",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Harris, Characters/schedules/Harris",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Harris/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Harris/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Harris_sleep": "48/48/48",
+            }
+        },
+    ]
+}

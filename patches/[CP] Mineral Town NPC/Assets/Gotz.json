@@ -1,0 +1,68 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Gotz": "adult/neutral/neutral/positive/male/not-datable/null/other/fall 2/null/Custom_HM_WoodCutterInterior 18 5 1/Gotz"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Gotz": "Whoa, you're such a thoughtful person. Thank you, I'll take it./306 307 424 426 440 613 635/Oh, thank you for helping me with this kind of thing./852 376 203 873 771 815/What? What is this thing? Hey, what am I supposed to do with this?/215 428 -2/I don't need this. Here, take it back. Hey... Why don't you accept it?/346/Thanks, @./403 305 -2/,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Gotz Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Gotz, Characters/Gotz",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Gotz, Characters/schedules/Gotz",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Gotz/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Gotz/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Gotz_sleep": "48/48/48",
+                "Gotz_work": "16/16 16 16 17 17 17 18 18 18 18 19 19 19 20 20 20 16 16 16/16",
+            }
+        },
+    ]
+}

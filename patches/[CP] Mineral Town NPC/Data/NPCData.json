@@ -1,0 +1,123 @@
+{
+  "Changes": [
+    //****************Resident NPCs***************
+    //********************************************
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Ann.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Doug.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Thomas.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Basil.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Cliff.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Karen.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Popuri.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Ellen.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Mei.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Saibara.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Stu.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Won.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Anna.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Barley.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Carter.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Doctor.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Duke.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Elli.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Gotz.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Gray.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Harris.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Jeff.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Kai.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Lillia.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Manna.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Mary.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Rick.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Sasha.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Assets/Zack.json"
+    },
+
+  ]
+}

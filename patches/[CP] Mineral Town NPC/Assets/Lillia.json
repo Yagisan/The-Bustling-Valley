@@ -1,0 +1,67 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Lillia": "adult/polite/neutral/positive/female/not-datable/null/other/spring 19/Popuri 'daughter' Rick 'son' Sasha 'friend'/Custom_HM_PoultrySecFloor 16 11 3/Lillia"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Lillia": "My, my! Why, thank you! My husband used to bring this to me a lot in our younger days./72 250 256 340 400 424 426 613 614 -6/Why, thank you, sweetie. I wonder, does Rick even know what sorts of things his mother likes?/852 376 203 873 771 815/Oh, dear. I'm afraid I really don't care for this at all, sweetheart./459 304 88 348 213 -4/Goodness, gracious, great balls of grossness! I can't believe you would try to give me something like that!/346/Thanks, @./403 305 -2/,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Lillia Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Lillia, Characters/Lillia",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Lillia, Characters/schedules/Lillia",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Lillia/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Lillia/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Lillia_sleep": "48/48/48",
+            }
+        },
+    ]
+}

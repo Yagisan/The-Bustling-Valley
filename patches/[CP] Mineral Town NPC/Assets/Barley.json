@@ -1,0 +1,67 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Barley": "adult/polite/outgoing/positive/male/not-datable/null/other/spring 17/May 'granddaughter'/Custom_HM_YodelSecFloor 1 10 1/Barley"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Barley": "This is my favorite. Thank you. I gratefully accept./406 604 565 797 614/What is this all about? You don't have to pay me any special mind. I do appreciate it, though./852 376 203 873 771 815/Erm, thanks.... But giving this to an old-timer like me doesn't do anyone any good./197 223 424 312 211 306 307/I hate this! Thanks anyway, I guess./346/Thanks, @./403 305 -2/,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Barley Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Barley, Characters/Barley",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Barley, Characters/schedules/Barley",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Barley/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Barley/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Barley_sleep": "48/48/48",
+            }
+        },
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Thomas": "adult/polite/outgoing/negative/male/not-datable/null/other/summer 25/Harris 'son'/Custom_HM_MayorHouse 27 5 1/Thomas"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Thomas": "How very kind of you. I am always appreciative of presents./197 208 398 614/Oh ho! What have we here? Aah, splendid, splendid! I do so enjoy these. Thank you kindly./233 194/Oh ho? What have we-- Erm./227 228 -2/Oh ho! ...A-Ah, now what am I to do with this? I see that you have decided to, erm...test me./219/Thank you.//,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Thomas Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Thomas, Characters/Thomas",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Thomas, Characters/schedules/Thomas",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Thomas/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Thomas/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Thomas_sleep": "24/24/24",
+            }
+        },
+    ]
+}

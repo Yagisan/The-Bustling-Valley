@@ -1,0 +1,68 @@
+{
+    "Changes": [
+        //-------------------------
+        // NPCDispositions
+        //-------------------------        
+        {
+            "LogName": "NPC Manifestation",
+            "Action": "EditData",
+            "Target": "Data/NPCDispositions",
+            "Entries": {
+                "Mei": "child/polite/outgoing/positive/female/not-datable/null/other/winter 26/Barley 'grandpa'/Custom_HM_YodelSecFloor 1 13 3/Mei"
+            }
+        },
+        //------------------------
+        // Gift             	
+        //------------------------
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Entries": {
+                "Mei": "Wow! Thanks, lady! I'll show it to Grandpa later./211 223 233 350 832/Wow, thanks. This is nice./852 376 203 873 771 815/I don't like this. But don't tell Grandpa, okay?/198 260/Do I reeeally hafta take this?/70 215 226 606/Thanks, @./403 305 -2/,"
+            }
+        },
+        //------------------------
+        // Portraits & Sprite              	
+        //------------------------
+        {
+            "LogName": "Mei Portraits & Sprite",
+            "Action": "Load",
+            "Target": "Portraits/Mei, Characters/Mei",
+            "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        //------------------------
+        // Load blank
+        //------------------------
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Mei, Characters/schedules/Mei",
+            "FromFile": "Assets/blank.json"
+        },
+        //------------------------
+        // Dialogue              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Dialogues/Mei/Dialogues.json"
+        },
+        //------------------------
+        // Schedule              	
+        //------------------------
+        {
+            "Action": "Include",
+            "FromFile": "Assets/Schedules/Mei/Schedule.json"
+        },
+        //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Mei_sleep": "16/16/16",
+                "Mei_rope": "20/20 20 20 21 21 21 22 22 22 23 23 23 20 20 20/20",
+            }
+        },
+    ]
+}
