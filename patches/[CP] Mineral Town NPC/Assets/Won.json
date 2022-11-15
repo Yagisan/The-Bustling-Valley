@@ -64,5 +64,17 @@
                 "Won_reading": "16/16 16 16 17 17 17 18 18 18/17"
             }
         },
+        //------------------------
+        // Special Event Exclusions
+        // Exclude from Winter Star and Movie Invites by default.
+        //------------------------
+        {
+            "LogName": "Custom NPC Exclusions",
+            "Action": "EditData",
+            "Target": "Data/CustomNPCExclusions",
+            "Entries": {
+              "Won": "WinterStar MovieInvite"
+            }
+        }
     ]
 }

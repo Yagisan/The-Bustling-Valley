@@ -74,5 +74,17 @@
                 "Ann_washing": "Hey there @. Sorry, but do you mind coming to talk later? I'm in the middle of some work right now.",
             }
         },
+        //------------------------
+        // Special Event Exclusions
+        // Exclude from Winter Star and Movie Invites by default.
+        //------------------------
+        {
+            "LogName": "Custom NPC Exclusions",
+            "Action": "EditData",
+            "Target": "Data/CustomNPCExclusions",
+            "Entries": {
+              "Ann": "WinterStar MovieInvite"
+            }
+        }
     ]
 }

@@ -72,5 +72,17 @@
                 "Doug_work": "Hello @. What would you like order?",
             }
         },
+        //------------------------
+        // Special Event Exclusions
+        // Exclude from Winter Star and Movie Invites by default.
+        //------------------------
+        {
+            "LogName": "Custom NPC Exclusions",
+            "Action": "EditData",
+            "Target": "Data/CustomNPCExclusions",
+            "Entries": {
+              "Doug": "WinterStar MovieInvite"
+            }
+        }
     ]
 }

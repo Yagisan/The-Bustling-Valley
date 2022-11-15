@@ -1,0 +1,5 @@
+Exclude all NPCs from giving or receiving secret gifts at the Feast of the Winter Star festival.
+
+Exclude all NPCs from receiving a Movie Ticket.
+
+Fix Manna drinking animation.

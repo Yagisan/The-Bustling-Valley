@@ -64,5 +64,17 @@
                 "Stu_play": "18/18 18 19 19 18 18/18",
             }
         },
+        //------------------------
+        // Special Event Exclusions
+        // Exclude from Winter Star and Movie Invites by default.
+        //------------------------
+        {
+            "LogName": "Custom NPC Exclusions",
+            "Action": "EditData",
+            "Target": "Data/CustomNPCExclusions",
+            "Entries": {
+              "Stu": "WinterStar MovieInvite"
+            }
+        }
     ]
 }

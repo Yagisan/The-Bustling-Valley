@@ -72,5 +72,17 @@
                 "Jeff_work": "Hello @. Can I help you find anything?",
             }
         },
+        //------------------------
+        // Special Event Exclusions
+        // Exclude from Winter Star and Movie Invites by default.
+        //------------------------
+        {
+            "LogName": "Custom NPC Exclusions",
+            "Action": "EditData",
+            "Target": "Data/CustomNPCExclusions",
+            "Entries": {
+              "Jeff": "WinterStar MovieInvite"
+            }
+        }
     ]
 }

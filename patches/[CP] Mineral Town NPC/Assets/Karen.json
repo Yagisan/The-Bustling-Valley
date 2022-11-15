@@ -63,6 +63,18 @@
                 "Karen_sleep": "48/48/48",
                 "Karen_drink": "16/16 16 16 17 17 17 18 18 18 19 19 19 20 20 20 16 16 16/16",
             }
+        },
+        //------------------------
+        // Special Event Exclusions
+        // Exclude from Winter Star and Movie Invites by default.
+        //------------------------
+        {
+            "LogName": "Custom NPC Exclusions",
+            "Action": "EditData",
+            "Target": "Data/CustomNPCExclusions",
+            "Entries": {
+              "Karen": "WinterStar MovieInvite"
+            }
         }
     ]
 }

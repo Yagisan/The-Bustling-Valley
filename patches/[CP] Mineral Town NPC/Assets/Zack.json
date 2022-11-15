@@ -52,5 +52,17 @@
             "Action": "Include",
             "FromFile": "Assets/Schedules/Zack/Schedule.json"
         },
+        //------------------------
+        // Special Event Exclusions
+        // Exclude from Winter Star and Movie Invites by default.
+        //------------------------
+        {
+            "LogName": "Custom NPC Exclusions",
+            "Action": "EditData",
+            "Target": "Data/CustomNPCExclusions",
+            "Entries": {
+              "Zack": "WinterStar MovieInvite"
+            }
+        }
     ]
 }

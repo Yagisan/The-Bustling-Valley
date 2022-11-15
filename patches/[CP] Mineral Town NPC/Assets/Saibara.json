@@ -64,5 +64,17 @@
                 "Saibara_work": "20/20 20 20 21 21 21 20 20 20/20",
             }
         },
+        //------------------------
+        // Special Event Exclusions
+        // Exclude from Winter Star and Movie Invites by default.
+        //------------------------
+        {
+            "LogName": "Custom NPC Exclusions",
+            "Action": "EditData",
+            "Target": "Data/CustomNPCExclusions",
+            "Entries": {
+              "Saibara": "WinterStar MovieInvite"
+            }
+        }
     ]
 }

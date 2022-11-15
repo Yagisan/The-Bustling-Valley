@@ -63,5 +63,17 @@
                 "Rick_sleep": "48/48/48",
             }
         },
+        //------------------------
+        // Special Event Exclusions
+        // Exclude from Winter Star and Movie Invites by default.
+        //------------------------
+        {
+            "LogName": "Custom NPC Exclusions",
+            "Action": "EditData",
+            "Target": "Data/CustomNPCExclusions",
+            "Entries": {
+              "Rick": "WinterStar MovieInvite"
+            }
+        }
     ]
 }

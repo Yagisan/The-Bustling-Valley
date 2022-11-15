@@ -61,8 +61,20 @@
             "Target": "Data/animationDescriptions",
             "Entries": {
                 "Manna_sleep": "48/48/48",
-                "Duke_drink": "16/16 16 16 17 17 17 18 18 18 16 16 16/16",
+                "Manna_drink": "16/16 16 16 17 17 17 18 18 18 16 16 16/16",
             }
         },
+        //------------------------
+        // Special Event Exclusions
+        // Exclude from Winter Star and Movie Invites by default.
+        //------------------------
+        {
+            "LogName": "Custom NPC Exclusions",
+            "Action": "EditData",
+            "Target": "Data/CustomNPCExclusions",
+            "Entries": {
+              "Manna": "WinterStar MovieInvite"
+            }
+        }
     ]
 }

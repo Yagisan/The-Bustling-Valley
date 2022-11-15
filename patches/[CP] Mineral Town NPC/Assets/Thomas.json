@@ -63,5 +63,17 @@
                 "Thomas_sleep": "24/24/24",
             }
         },
+        //------------------------
+        // Special Event Exclusions
+        // Exclude from Winter Star and Movie Invites by default.
+        //------------------------
+        {
+            "LogName": "Custom NPC Exclusions",
+            "Action": "EditData",
+            "Target": "Data/CustomNPCExclusions",
+            "Entries": {
+              "Thomas": "WinterStar MovieInvite"
+            }
+        }
     ]
 }
