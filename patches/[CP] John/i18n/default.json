@@ -1,0 +1,666 @@
+ {
+    /************************************************
+    ** Generic text
+    ************************************************/
+    // NPC info
+    "npc-display-john": "John",
+    // gift taste dialogue
+    "john.gift.love": "Oh hey, I love this!#$b#Thank you very much @.",
+    "john.gift.like": "I like this.#$b#It’s sweet you thought of me.",
+    "john.gift.dislike": "I’m sorry but, this is…#$b#I suppose it’s thoughtful.",
+    "john.gift.hate": "This is truly awful.#$b#Do you hate me or something?",
+    "john.gift.neutral": "This is very thoughtful of you.",
+   
+
+    // map text
+    "maps.saloon.1": "Looks like a personal journal, better not read it.",
+    "maps.saloon.2": "It's a religious book but it's in its original plastic wrapping...",
+    "maps.saloon.3": "An altar for Yoba; Does John pray?",
+    "maps.saloon.4": "There's a lot of information on this paper, but most of it is scribbled over.",
+    "maps.saloon.5": "John keeps his clothes in here, but the selection is limited.",
+    "maps.saloon.6": "There's a knife hidden beneath a shirt. Wonder why he needs that?",
+    "maps.saloon.7": "You don't need to rent a room. The room is for anyone needing a place to stay.",
+    "maps.saloon.8": "There's a lot of crumpled up paper in the trash can.",
+    "maps.PatioJohn.1": "An outdoor shrine to yoba; John set this up.",
+
+
+    // player killed dialogue
+    "john-player-killed.not-spouse": "You look pretty beat up... I found you in the mines... You should be more careful.$s",
+    "john-player-killed.spouse": "Sweetheart, you need to be more careful in the mines... I don't know what I'd do if I lost you!$s",
+    "mouse-player-killed.not-spouse": "@!#$b#You had me so scared; please be more careful in the caves…$2",
+
+    // engagement dialogue
+    "engagement.0": "I can't believe you're serious.$4",
+    "engagement.1": "It's just days away.$4",
+
+    // jealousy dialogue
+    "gift-question.truth": "That was nice of you then.$h",
+    "gift-question.lie": "...Why would you lie?$s#$b#I don't feel like talking...$s",
+
+
+    /************************************************
+    ** Festival dialogue
+    ************************************************/
+    // text shown if nothing else matches
+    "john.festival-default": "It's a beautiful day for a festival. $1#$e#Hopefully I don't get tired too early...$2", // TODO
+
+    // egg festival
+    "john.spring13": "Every town has their own version of the spring Egg Festival.#$b#What's funny though, is eggs have no real symbolic significance to this festival.#$b#Funny how culture develops huh?$1#$e#The rabbit though, it's pretty imporant symbolically.#$b#Not really sure how eggs got involved actually.$3",
+    "john.spring13.dating": "Having you around, it really makes the holidays better.$1#$b#It's nice having someone to celebrate with.$4",
+    "john.spring13.married": "Are you going to hunt for eggs this year?$1#$e#I bet you'll do great.$1#$b#Leave the easy finds for the kiddos though.",
+    "john.spring13.divorced": "Please go away, you're ruining the holiday for me.$2",
+
+    // flower festival
+    "john.spring24": "I love dancing...$2#$b#But I'm really terrible at it.#$b#Best I can do is move my arms to the beat.$1",
+    "john.spring24.dating": "Of you want me to dance I will, but if you giggle at me I'll have to get pay backs.$2",
+    "john.spring24.married": "You look wonderful, think you'll be asking me to dance?$1#$b#Hope so, we are married after all.",
+    "john.spring24.divorced": "I really don't want to dance with you. Why are you talking to me?$5",
+
+    // luau
+    "john.summer11": "I hope everyone likes artichoke.$1#$b#I'm sure it'll taste great in the pot.$3",
+    "john.summer11.friendly": "I ordered some artisan honey for the pot this year.$3#$b#It's called lava honey.$1",
+    "john.summer11.dating": "I put your favorite spice into the pot.$1#$b#Hopefully it taste right with the other ingredients.",
+    "john.summer11.married": "I hope you're having a good festival.$1#$b#I'm really enjoying myself.$1#$e#I decided to add some butter squash to the pot, hoping it taste good.$2",
+    "john.summer11.divorced": "What, do you want to eat together?$2#$e#Sorry, but no way.$5",
+
+    // jellies
+    "john.summer28": "It's a beautiful night.$3#$b#It'll get even better when we see the jellyfish.$1#$b#There's a story in the book Yoba that I've loved since grade school.#$b#It's about the first peoples of Ferngill getting lost on sea in a thick fog.#$b#They were lost for days and low on supplies.#$b#The voice of Yoba summoned a trail of glow jellies to lead them to the new homeland when the group started losing faith.$1",
+    "john.summer28.dating": "It's romantic, isn't it? Watching the jellies.$4#$b#I read in a book that the glowing pink jellies of the East Gotoro sea. Gives a blessing of a lifetime of love; to anyone that survives its sting.#$b$Pretty interesting isn't it?$1",
+    "john.summer28.married": "Hey, sweetheart, you look nice tonight.$4#$b#I can't wait to see the Jellies, they're incredible. $1",
+    "john.summer28.divorced": "I don't want to talk to you. Just let me watch the jellies in peace.$2",
+
+    // Marketpalooza (from Fellowclown.Nikolai mod)
+    "john.fall3": "There's plenty of places to shop from, it's pretty cool.$1#$b#Nikolai did a great job.$1",
+    "john.fall3.dating": "This is a lot of fun, isn't it?$1#$e#I'm really glad you're here.$4",
+    "john.fall3.married": "The mysterious merchant sold me some remedies for my exhaustion.#$b#Here's hoping they work right!$1",
+    "john.fall3.divorced": "Why are you talking to me?$5#$e#Just leave me alone...",
+
+    // fair
+    "john.fall16": "Oh jeez, there's a lot of people here.$2#$b#I feel like my insides are shaking.$2",
+    "john.fall16.dating": "I can hardly breathe right now, it's so crowded.$12#$b#But I refuse to miss out on the fun.$12",
+    "john.fall16.married": "I took some medication before coming here - it really makes a difference.$1#$b#I can actually enjoy myself this year.$1",
+    "john.fall16.divorced": "You look nice...#$e#But that doesn't mean stick around.$2",
+
+    // spirit's eve
+    "john.fall27": "I know I'll end up with a cold after this.$1#$b#But I like this holiday too much to stay home.$3",
+    "john.fall27.dating": "We should have done a couple's costume! It would have been pretty cute, I bet.$1",
+    "fall27.married": "Did you see the kids running around? It's so sweet to see them having fun.$1",
+    "fall27.divorced": "Would you please just leave me alone?$2",
+
+    // festival of ice
+    "john.winter8": "I'm terrible at fishing, but I like watching.$3",
+    "john.winter8.dating": "I hope you win, @, I'll be rooting for you.$1",
+    "john.winter8.married": "If you catch some fish, maybe we can talk Lewis into letting us keep them.$1#$e#It'll be nice to cook.$1",
+    "john.winter.divorced": "Just because it's a festival doesn't mean I'll talk to you.$5",
+
+    // winter star
+    "john.winter25": "I read a book once that said that the Winter Star festival was originally celebrated by an ancient city in Gotoro.$1#$b#It's said that when a group from the city went across the sea, it was adopted by the people of the Republic and modified.#$b#Makes you think, doesn't it?$1",
+    "john.winter25.dating": "Hey, sweetheart, I got you this.$4[###]",
+    "john.winter25.spouse": "I got you this. I love you so much, @.$4[###]",
+    "john.winter25.divorced": "I hope you're not expecting anything from me.",
+
+    /************************************************
+    ** MissCoriel's Courtship dialogue
+    ************************************************/
+    "courtship.give_flowersA": "This is so sweet of you.$4",
+    "courtship.give_flowersB": "But I have nothing to give you!$4",
+    "courtship.give_pendant": "It's beautiful.#$b#I accept.$4",
+    "courtship.stardrop_gift": "This is... I'm speechless.$h",
+    "courtship.rejectNPCA": "Oh no, I'm not interested",
+    "courtship.rejectNPCB": "No way, I'm sorry.",
+    "courtship.reject_two_heartA": "It's a bit soon, isn't it?$3",
+    "courtship.reject_two_heartB": "Oh jeez, no... Sorry.$3",
+    "courtship.reject_four_heartA": "I'm not ready for that... Can't we stay friends?$3",
+    "courtship.reject_four_heartB": "Uh... I'm sorry?$3",
+    "courtship.engageA": "You're terrible! Aren't you engaged already?!$5",
+    "courtship.engageB": "Wait, what? Aren't you engaged already?$5",
+    "courtship.marriedA": "Is this a joke? You're already married?!$5",
+    "courtship.marriedB": "I can't believe this! You're already married!$3",
+    "courtship.refusal_no_heartsA": "Oh no, we're just not close enough.$3",
+    "courtship.refusal_no_heartsB": "I'm sorry, I don't know you very well.$3",
+    "courtship.refusal_knownA": "I'm flattered, but I don't think so.$3",
+    "courtship.refusal_knownB": "This is so...#$b#Sudden... It's a no, I'm sorry.$3",
+    "courtship.refusal_botherA": "I would, but you don't seem stable enough at the moment.$3",
+    "courtship.refusal_botherB": "I don't think so. It seems to be a bad time right now.$3",
+
+
+    /************************************************
+    ** Movie reactions
+    ************************************************/
+    "John.movies.0.before": "The movies are always fun!$1#$e#Thanks for inviting me, @!$1",
+    "John.movies.0.during": "John's staring wide-eyed at the screen.",
+    "John.movies.0.after": "That was really nice, thank you for inviting me.$1",
+
+    "John.movies.1.before": "I've seen this movie before, it was really good.$1#$e#I'd love to watch it again!$1",
+    "John.movies.1.during": "John's eyes are watering.",
+    "John.movies.1.after": "The movie really pulled at my heartstrings.",
+
+    "John.movies.3.before": "I'm hoping I like this one.",
+    "John.movies.3.during": "John's looking yearnful...",
+    "John.movies.3.after": "Movies like that always make me want more in life.",
+
+    "John.movies.4.before": "It's been a while since I had a good laugh...",
+    "John.movies.4.during": "Oh man! That's rich!$3",
+    "John.movies.4.after": "That was just what I needed, I feel so much happier.$1",
+
+    "John.movies.5.before": "I've never liked scary movies. Makes my chest hurt.",
+    "John.movies.5.during": "Oh, I can't watch...!$2",
+    "John.movies.5.after": "That was terrible, I can barely breathe...$2",
+
+    "John.movies.6.before": "I hope the movie is good.",
+    "John.movies.6.after": "That was pretty good. Hopefully they make another one.",
+
+    "John.movies.7.before": "I've overheard from people that this is a good movie.",
+    "John.movies.7.after": "The movie wasn't bad at all. I'd watch it again.$1",
+
+    "John.movies.8.before": "I don't know about this one...",
+    "John.movies.8.during": "...",
+    "John.movies.8.after": "I don't have the best opinion on the movie....",
+
+    "John.movies.9.before": "Ooh, '{0}'! This is a good movie!!",
+
+    "John.movies.10.before": "I've seen this movie, it was pretty good.",
+
+    "John.movies.11.before": "I really don't like this movie, it's pretty bad...$2",
+       /************************************************
+    ** Schedule Dialogue Default
+    ************************************************/
+    "spring.000": "It's nice and calm here... Reading is my favorite thing to do, since it takes little energy.",
+    "spring.001": "There's so much gossip going around. People think I can't hear them but I can...$2",
+    "spring.002": "I love to swim when it's warm enough. The water is easier on my aching joints.$1",
+    "spring.003": "Oh hey, it's been a long day, hasn't it? Why don't you have a drink with me?",
+    "spring.004": "I just had to sit down, I'm so winded.$12",
+    "spring.005": "When I was young, I loved to dance.$1",
+    "spring.006": "I'm tired. Please leave me alone.$12",
+    "summer.000": "I read every medical book I can get my hands on... It's important I become educated.$2",
+    "summer.001": "The summer heat makes it really hard to breathe, but I go crazy staying inside all the time.$6",
+    "summer.002": "Harvey's said that the fresh air is good for me. I'm inclined to agree.$3",
+    "summer.003": "Small town doctors are much nicer than city ones. Harvey actually does home visits!$1",
+    "summer.004": "I can understand why Pam has a drinking problem. It's easy to go overboard.",
+    "summer.005": "I still haven't really made any friends. It's really hard when people think you're weird.$2",
+    "summer.006": "*He's asleep. You can hear him wheezing badly.*",
+    "fall.000": "I recently read that Spirit's Eve was a Gotoro tradition. Isn't it funny how culture spreads?$1",
+    "fall.001": "The cool mountain breeze is just what I needed after that hot summer heat.$3",
+    "fall.002": "I love coming over and petting Marnie's cows, they're really the cutest animals.$3",
+    "fall.003": "I'm thinking of trying something pumpkin spice-flavored. There's a pretty big uproar about it in the city.",
+    "fall.004": "I envy Gus quite a bit. He has so much work experience... I'm on disability benefits right now. I just can't seem to work.$2",
+    "fall.005": "*John's asleep. He looks like he's in a lot of pain.*",
+    "winter.000": "I know the Winter Star festival is supposed to be this big celebration, but I can't seem to get the energy to get excited about it.$2",
+    "winter.001": "I ordered some tea from the city. Pierre charges to order, but that's okay.",
+    "winter.002": "Shane's been really worrying us. He really needs a good friend, but it's hard talking to him.$2",
+    "winter.003": "It's been quite a year, hasn't it? I'm glad to see it over with, I have to admit.$2",
+    "winter.004": "*John opens his eyes but he doesn't seem like he's awake*",
+    "winter.005": "I wonder if everything does happen for a reason...$2",
+    "winter.006": "I love mango, but Pierre never has any. I always have to go to Joja for it and I really hate that place.",
+    "winter.007": "Jas is really mature for her age. It blows my mind.$1",
+    "winter.008": "Oh, @, it's nothing serious... Just here to get some test results back.",
+    "winter.009": "*He lets out a groan and then rolls over in his sleep.*",
+    "rain.000": "I refuse to let a little rain keep me from the library.$3",
+    "rain.001": "I'm soaked to the bone, but really, I don't think I care much.$1",
+    "rain.002": "I needed some more coffee. It's the best for rainy days.$1",
+    "rain.003": "I'm loving this weather, it's the best.$3",
+    "rain.004": "*He looks peaceful as he sleeps.*",
+       /************************************************
+    **  Dialogue Default
+    ************************************************/
+    "John_Introduction_Default": "You're that fella at %farm?#$eDon't overwork yourself okay?$2",
+    "John_danceRejection_Default": "Oh... Oh, no thank you.$7",
+    "John_divorced_Default": "Please, I can't stand the sight of you.$2",
+    "John_breakUp_Default": "Oh...#$b#I understand, I'm not exactly a spring chicken anymore.$2",
+    "John_Resort_Entering_Default": "The air is so clean here.#$e#I could stay here all week but I don't have that kind of money.$1",
+    "John_Resort_Leaving_Default": "I think I need to lay down.#$b#The island is beautiful but it's not very disability friendly.#$e#I'm so tired.$2",
+    "John_Resort_Leaving_2_Default": "There's too much sand in too many places.#$e#This is why I should wear pants to the island, but everytime I convince myself to wear shorts.$1",
+    "John_Resort_Shore_Default": "The ocean is sort of scary isn't it?$2#$b#Still very beautiful though.$1",
+    "John_Resort_Shore_2_Default": "I'm really glad I moved to Pelican town.$1#$b#I've been feeling much better lately.$1",
+    "John_Resort_Umbrella_Default": "It's great there's umbrellas available. #$b#It's not the best idea to stay in direct sunlight all day.$1",
+    "John_Resort_Umbrella_2_Default": "I saw Robin sunbathing a little while  ago.#$e#She's pretty, the sun makes her hair even redder.$4",
+    "John_Resort_Umbrella_3_Default": "I hope there's scuba diving sessions here.$1#$b#I used to go diving whenever I had free time in Zuzu.#$b#It's a lot of fun.$1",
+    "John_Resort_Wander_Default": "After the tide recedes, you can find a lot of shells and critters.#$b#I like picking up shells but the sea life I toss back into the water.$1",
+    "John_Resort_Bar_Default": "I don't overdo it with alcohol, but I do like some wine every day.",
+    "John_Resort_Default": "Have you met little Leo yet?#$b#He's so sweet, I like talking to him sometimes. $1",
+    "John_Mon_Default": "Hm…?#$b#Oh, I didn't notice you there @.#$b#Hope your days going well.$2",
+    "John_Tue_Default": "%You can hear John softly singing to himself.#$b#There's something very healing about music isn't there?$1#$b#When I'm feeling unwell, music is my go to for feeling better.$1",
+    "John_Wed_Default": "It's a beautiful day...#$e#I'd rather enjoy it alone.$#$b#Sorry that was rude, I just need some time to myself.$3#$b#Gus was very talkative early this morning.$2",
+    "John_Thu_Default": "Hey @!$1#$b#It's been a pretty great day so far, I got to visit with Marnie and pet her cows.$1#$b#I've always loved animals.",
+    "John_Fri_Default": "You look... thirsty.#$e#Here, you can have this. [350]#$e#You should carry a bottle of water with you.#$b#Dehydration can be very dangerous.$3",
+    "John_Sat_Default": "The weekends always drag on don't they?.#$b#But I sort of like that actually.$1#$b#I kind of process things differently, so the slower day gives me plenty of time to think.$1 ",
+    "John_Sun_Default": "I've been meaning to visit the shrine, but I can't bring myself to.$2#$e#I just feel kind of lost right now I guess.#$b#But I still believe I think, I've the heart of a preacher afterall.$1",
+    "John_Mon_summer_Default": "It's gotten quite hot.#$b#I can't stand the heat.$2#$e#I don't have fully functioning sweat glands, So instead of sweating I just end up with heat exhaustion. $3",
+    "John_Tue_summer_Default": "I'm planning a road trip to Zuzu pretty soon.#$b#The sisters I used to work with wanted to talk to me.$1 ",
+    "John_Wed_summer_Default": "It's hard finding out who I am.#$b#I became a preacher in my mid twenties, it's honestly all I know.",
+    "John_Thu_summer_Default": "It's crazy how often you talk to me.$1#$b#I really enjoy it though, it's nice to have someone to talk to occasionally.$1",
+    "John_Fri_summer_Default": "The second story of the saloon is pretty comfortable.$1#$b#I just really hate that I have to climb a ladder to get to my room.$2#$b#Really wears me out.$3",
+    "John_Sat_summer_Default": "It's nearly Sunday, on Saturday I'd be writing the next morning's sermon.$2#$b#I kinda of miss it actually.$3",
+    "John_Sun_summer_Default": "Robin is very talented. #$b#She builds house upgrades all by herself.#$b#Bet she's pretty strong.$1",
+    "John_Mon_fall_Default": "Fall is such a great season.$3#$b#It really is just the perfect weather for me usually.$1",
+    "John_Tue_fall_Default": "I could use a cup of hot coffee, don't tell Gus but he makes pretty weak coffee.#$b$It's very watered down.$2",
+    "John_Wed_fall_Default": "I'm always in a better mood during this season.#$e#I get pretty cranky when I'm too hot.$1#$b#I really admire you in that regard.#$b#Bet nothing stops you from doing things.$1",
+    "John_Thu_fall_Default": "Feel that cool breeze?#$e#It's refreshing, isn't it?#$b#A crisp morning always makes me happier.$1",
+    "John_Fri_fall_Default": "The week went by so quickly, I don't know what happened.$6#$b#But that's okay I guess, just one day closer to the rest of our lives right?$1",
+    "John_Sat_fall_Default": "I heard from Guther, that the woods have a lot of knowledge hidden within its land.#$b#Not really sure what that means, but it makes me want to go explore the area.$1",
+    "John_Sun_fall_Default": "I've been reading up on the ancient animals of Ferngill and it's incredible.$1#$b#I'd love seeing some fossils up close one day.$1",
+    "John_Mon_winter_Default": "The snow is beautiful this time of year.$3",
+    "John_Tue_winter_Default": "The holidays are stressful.$2",
+    "John_Wed_winter_Default": "It's already winter. Feels like I just got here.$2",
+    "John_Thu_winter_Default": "Think I'll hang around the fireplace tonight. It gets pretty cold in my room.",
+    "John_Fri_winter_Default": "This is around the time I retired from my religious service.#$e#It wasn't too bad of a day either, I remember ordering pizza.$1",
+    "John_Sat_winter_Default": "I could really use a cup of coffee.#$b#It's pretty cold today.$2",
+    "John_Sun_winter_Default": "This cold air really messes with my joints, I should head inside soon.",
+    "John_Saloon_Default": "I can finally relax.$2",
+    "John_Saloon_Entry_Default": "Good to be back.",
+    "John_Spring_12_Default": "I'm not sure about going to the festival. Crowds stress me out.$2",
+    "John_Spring_23_Default": "Dancing has always been my strong suit, but I don't know if I'll attend the flower festival this year.$2",
+    "John_Summer_10_Default": "The luau is tomorrow. I've no idea what to bring for the pot.",
+    "John_Summer_27_Default": "I'm excited to see the jellyfish tomorrow.",
+    "John_Fall_15_Default": "The fair is supposed to be a big deal. I'm thinking of going.$2",
+    "John_Fall_26_Default": "Spirit's Eve is such an interesting holiday. You should read up on the lore.$1",
+    "John_Winter_7_Default": "I would fish with the rest of the townspeople tomorrow, but I am terrible at it.",
+    "John_Winter_24_Default": "Would it be disrespectful not to go to the Feast of the Winter Star tomorrow? I don't want to offend anyone.$2",
+    "John_thanks_1_Default": "You really mean that?$6#$b#Well, thank you, that means a lot to me.$3#$b#Being in this town, not many people notice me.$2#$b#And if they do it's just gossip.$2#$b#But you're different.$1",
+    "John_thanks_2_Default": "I won't let it happen again.#$b#Sorry for burdening you.$2",
+    "John_haley_1_Default": "Oh...$2#$b#So you heard that too...?$2#$b#I don't know why it bothers me so much... It's not the first time someone's gossiped about me.$2",
+    "John_haley_2_Default": "Well, yeah, of course it does.$6#$b#All people ever do is gossip. It happened in Zuzu and it's happening here.$2",
+    "John_doctor_1_Default": "...$2#$b#I guess you're right.#$b#It just gets so tiring. I've been through so many tests and still we can't figure out why I'm in pain.$2#$b#But I guess anything helps in this situation.$2",
+    "John_doctor_2_Default": "No... no answers?$2#$b#I can't just give up, I can't live without knowing why this is happening.$5#$b#",
+    "John_doctor_3_Default": "It's a good idea. I would have to go back and forth to Zuzu since there's more doctors there.#$b#Thank you, @, I shouldn't give up hope so easily.$3#$b#I'll accept the help I can get.$1",
+    "John_priest_1_Default": "You're right, I'm excited to try things I never got to before.#$b#It's like being young again.$1",
+    "John_priest_2_Default": "...$2#$b#I guess you're right. I'm sorry.#$b#I just got carried away, I suppose.$2",
+    "John_event_final1_Default": "I'm really happy you feel that way. Sometimes I worry I might be annoying you.$14",
+    "John_event_final2_Default": "Oh, I guess I understand that.$14#$b#Everyone needs their space.$14",
+    "John_event_final3": "You do?$14#$b#I... I'm so happy you feel the same.$16",
+    "John_event_final4_Default": "Oh, I...$14#$b#I'm sorry if I made you uncomfortable.$14",
+
+        /************************************************
+    **  Dialogue 2,3,4
+    ************************************************/
+    "John_danceRejection_2_3_4": "Wha?$4#$b#Oh, I'm sorry I'm uncomfortable with that.$2",
+    "John_Resort_Entering_2_3_4": "It's beautiful out here.$1#$b#The fresh air really helps me feel better.$1",
+    "John_Resort_Leaving_2_3_4": "Are you heading back too?#$b#I'm pretty tired myself, don't let yourself get too tired okay.$1",
+    "John_Resort_Leaving_2_2_3_4": "I feel like I'm starving.#$b#I might have a late breakfast.$1 ",
+    "John_Resort_Shore_2_3_4": "I found a sand dollar, I've always wondered what to do with them though.$1#$e#Maybe Coraline would like it…$4",
+    "John_Resort_Shore_2_2_3_4": "The Dolphins have been very active today!$1#$b#I keep seeing them peaking towards the resort.$1",
+    "John_Resort_Umbrella_2_3_4": "The sun is pretty overwhelming today isn't it?#$b#Maybe I should go back to my room.$2",
+    "John_Resort_Umbrella_2_2_3_4": "The ocean is really pretty, but I don't think I'd swim in it.#$b#I'd rather stay safely ashore.$1",
+    "John_Resort_Umbrella_3_2_3_4": "Isn't it interesting, that a new place to visit can be all you needed to feel better.$1#$b#I love the change of scenery.$1",
+    "John_Resort_Wander_2_3_4": "I've been looking for sea glass.$1#$b#It's very pretty, I like making chimes out of them.$1",
+    "John_Resort_Bar_2_3_4": "I know I shouldn't, but I just can't resist a cold drink under all this sunlight.$1",
+    "John_Resort_2_3_4": "This resort is very nice, but sometimes I get a very ominous feeling when looking out to sea.$2",
+    "John_Mon_2_3_4": "Happy Monday.$1#$b#I know it's odd, but I've always enjoyed Mondays.$1#$e#Hey there…$2#$b#Um…Oh, well I mean, Monday is when I start planning my week.$1#$b#I love planning ahead and making list.$1",
+    "John_Tue_2_3_4": "%You can hear John softly singing to himself.#$b#There's something very healing about music isn't there?$1#$b#When I'm feeling unwell, music is my go to for feeling better.$1",
+    "John_Wed_2_3_4": "I saw Alex playing football by himself the other day.$6#$b#If I could I would offer to play with him, but honestly...$2#$b#I don't like sports much.$3",
+    "John_Thu_2_3_4": "You know,every  thursday of spring  is a pretty important day of the week for a follower of Yoba..$1#$b#It’s a day for self celebration.$3#$b#I guess it’s Yoba’s way of telling us to practice self love.$1",
+    "John_Fri_2_3_4": "Robin suggested I try wood burning, but I'm worried about getting burned.$2",
+    "John_Sat_2_3_4": "Elliott has been writing this book and he asked me to beta read it.$3#$b#Not sure I'm qualified for that though.",
+    "John_Sun_2_3_4": "Lately I've been playing with clay. $1#$b#I'm enjoying it quite a bit.$1",
+    "John_Mon_summer_2_3_4": "I really enjoy how Pelican Town experiences all four seasons.$1",
+    "John_Tue_summer_2_3_4": "I overheat easily, but I've a lot of great Summer memories. $1#$e#When I was a boy, my brother and I used to treasure hunt at Zuzu beach.$1",
+    "John_Wed_summer_2_3_4": "I wish my brother would come and visit me.#$b#But, we've had bad blood for a while now.$2",
+    "John_Thu_summer_2_3_4": "I never considered myself a family man; but since I've been babysitting Jas, I've started to like the idea of settling down.$1",
+    "John_Fri_summer_2_3_4": "Jas must be so lonely being an only child.#$b#I was raised with my five other siblings; can't even imagine how she feels…$2",
+    "John_Sat_summer_2_3_4": "I'm thinking about heading to the beach this evening.#$b#I used to swim in a team back in highschool.$1",
+    "John_Sun_summer_2_3_4": "I can't stand that old man;George I think is his name.$2#$b#He's so needlessly rude.$5",
+    "John_Mon_fall_2_3_4": "In Zuzu there’s this little coffee shop called Rosebud Cafe.#$b#It’s a really nice place and I love their fall themed coffee’s.$1",
+    "John_Tue_fall_2_3_4": "The weather is just perfect isn't it?$1#$b#Fall and Spring both are very comfortable to me.$1",
+    "John_Wed_fall_2_3_4": "I've always wondered if the old myths of the Ferngill forests are true.#$b#I've always wanted to see the Jacabowy.$1",
+    "John_Thu_fall_2_3_4": "Fall is the best season to pick mushrooms, the forest caves become overgrown with them.#$b#I'm not a big fan of mushrooms, but I like flattening and drying them.$1#$b#They make cute bookmarks.$1",
+    "John_Fri_fall_2_3_4": "Haley doesn't seem to like or trust me very much.$2#$b#I mean, as a young adult I was used to it but currently it really does feel awful.$3",
+    "John_Sat_fall_2_3_4": "Have you ever tried felting?#$b#It's a bit difficult but I really enjoy it.#$e#Just be careful not to stick yourself with the needle.$1",
+    "John_Sun_fall_2_3_4": "Have you ever had black Liquorice?#$b#It's one of my favorite flavors.$1#$e#Joja sells really good black liquorice ice cream.$1",
+    "John_Mon_winter_2_3_4": "It's gotten so cold so quickly.$2#$b#Whenever I see the cows at Marnie’s; I really wish I could give them sweaters.$1",
+    "John_Tue_winter_2_3_4": "Pierre’s has some of the worst coffee I’ve ever taste.$2#$b#It’s expensive to order out of town so, I just buy Coffee from Gus.$3",
+    "John_Wed_winter_2_3_4": "Coffee is one of my favorite drinks, but if I have too much my blood pressure spikes.$2",
+    "John_Thu_winter_2_3_4": "I once met this fellow in Zuzu city; he was such an odd person I’ll never forget him.#$b#He had such pretty eyes too; they looked almost purple!$1",
+    "John_Fri_winter_2_3_4": "You don't get snow like this in Zuzu city.#$b#The city keeps their streets and sidewalks clear during winter.",
+    "John_Sat_winter_2_3_4": "When I was a boy, my father used to take me hunting during the cold seasons.$2#$b#It wasn't something I enjoyed, but my family was poor so we needed the extra food.",
+    "John_Sun_winter_2_3_4": "My mother's favorite time of the year was winter and my brother's the same way.#$e#Honestly, they were very similar. $1",
+    "John_Saloon_2_3_4": "I think Gus has the best coffee I've ever had.#$b#I might end up buying beans from him.",
+    "John_Saloon_Entry_2_3_4": "Hey Gus, is coffee made?",
+    "John_Saloon3_2_3_4": "If you stay for a drink, you're welcomed to keep me company $1",
+    "John_Saloon4_2_3_4": "Sometimes I can't tell certain emotions apart, if I ever get confused please be patient with me.",
+
+        /************************************************
+    **  Dialogue 5,6,7
+    ************************************************/
+    "John_Resort_Entering_5_6_7": "What a beautiful day.",
+    "John_Resort_Leaving_5_6_7": "I could use a nap, I'm so tired.",
+     "John_Resort_Leaving_2_5_6_7": "be careful, don't hang out in the sun for too long.",
+    "John_Resort_Shore_5_6_7": "I've been finding a lot of washed up jellies today.#$b#It's a bit sad honestly.$2",
+    "John_Resort_Shore_2_5_6_7": "Sea glass is so hard to find for some reason, it's well hidden.$1",
+    "John_Resort_Umbrella_5_6_7": "You're looking pretty sunburnt, need the umbrella for a bit?$1",
+    "John_Resort_Umbrella_2_2_3_4": "Do you think the people of this island mind us visiting?$2#$b#I read recently that foreigners can be a pain for locals.$2",
+    "John_Resort_Umbrella_3_5_6_7": "The woods around here are really abundant with resources, but if you're not careful you'll pick something toxic.$1",
+    "John_Resort_Wander_5_6_7": "I saw the weirdest looking crab.$1#$b#I'm not completely sure it was actually a crab honestly.$3",
+    "John_Resort_Bar_5_6_7": "I drank a star fruit drink and now my mouth is burning…#$b#Is that even normal?$2",
+    "John_Resort_5_6_7": "I love the local architecture around here, it's incredibly naturalistic.$1#$b#I would love to live here honestly $1",
+   "John_Mon_5_6_7": "@, it's great seeing you today.$1#$e#Hm?#$b#Oh, I'm doing fine, I've just been busy with my studies.$1",
+   "John_Tue_5_6_7": "Lately I've been feeling happier, I've even gotten motivated to study the book of Yoba again.$1#$b#It's surprising, I didn't think it would hit the same way.$2",
+   "John_Wed_5_6_7": "People seem to have some very negative feelings towards Pam.$1#$b#I understand why though…$2#$b#I guess I'm soft on her cause she reminds me of mother.$1",
+   "John_Thu_5_6_7": "I went and checked out that old house of worship that Lewis told me about.#$b#It's really run down, but I can see potential.$1",
+   "John_Fri_5_6_7": "My brother called me last night.#$b#It was an awkward conversation, but I’m happy he’s doing well.$1",
+   "John_Sat_5_6_7": "Recently, I’ve been thinking about the story of creation.#$b#It’s shockingly similar to an older legend from Gotoro.#$b#Maybe our cultures are more connected than we thought.$1",
+   "John_Sun_5_6_7": "As much as I enjoy living here; I sometimes really miss the privacy a city offers.#$b#In such a small town, everyone knows everyone’s business.$2",
+   "John_Mon_summer_5_6_7": "In the worship community, people often debate on where Yoba’s kingdom resides.#$b#Personally, I think it doesn't reside anywhere in a physical sense.$1",
+   "John_Tue_summer_5_6_7": "You wouldn't believe what I overheard last night.#$b#Apparently people really do believe in monsters in this town.#$b#I don't know if I believe, but I guess I'll keep an eye out.$2",
+   "John_Wed_summer_5_6_7": "Summer bears some of the best fruits in my opinion.#$b#Like watermelon!$1#$b#It's very refreshing.$1",
+   "John_Thu_summer_5_6_7": "Sometimes I wonder what it would have been like to be an only child.#$b#But, I honestly I would have probably gotten pretty lonely.$1",
+   "John_Fri_summer_5_6_7": "I find it pretty odd that Linus lives in a tent like he does.#$b#I'm sure Gus would let him stay at the saloon for free if he asked.$2",
+   "John_Sat_summer_5_6_7": "I've never been interested in crime stories, but I recently read one that was very funny.$1#$b#This man tried to rob a store in a chicken costume, but as he walked out with the money he took the mask off for some reason.#$b#Got caught pretty quick.$1",
+   "John_Sun_summer_5_6_7": "You look pretty strong, bet it's all that physical labor from working the land.#$b#I'd love to be that fit, maybe I should try farming too.$1",
+   "John_Mon_fall_5_6_7": "I love Alex's dog so much, he's a sweet pup.#$b#You'd think with my allergies I would stay away, but it's never stopped me from petting our furry friends before.$1",
+   "John_Tue_fall_5_6_7": "My brother keeps saying he's going to visit soon, but I don't think he ever will.$2#$b#He has a bad habit of doing the opposite of what he says.$2",
+   "John_Wed_fall_5_6_7": "There's this really interesting museum of natural history in downtown Zuzu, I was really considering taking a trip to it.$1",
+   "John_Thu_fall_5_6_7": "I was walking the river’s edge this morning and I found this old arrowhead by the water.$1#$b#I’ve always loved reading about ancient history and artifacts.#$b#I can’t wait to look up the stories behind it.$1",
+   "John_Fri_fall_5_6_7": "Hey @, it’s nice seeing you out and about.#$b#You know, I was thinking about how weird I was when we first met.$2#$b#I’m really sorry about that…$2#$b#I was just really anxious at the time.",
+   "John_Sat_fall_5_6_7": "Elliott let me read a few pages of his writing this morning.#$b#You know, I really admire his efforts to  create something.$1#$b#I try to write a story and I end up forgetting my own story arches.$1 ",
+   "John_Sun_fall_5_6_7": "I hope I don’t look as awful as I feel today.$2#$b#I woke up in a lot of pain this morning, must be a pretty bad flare up.$2",
+   "John_Mon_winter_5_6_7": "I can tell it’s winter by the way my joints sound off in the morning.$1#$b#It’s like a orchestra of snapping.$1",
+   "John_Tue_winter_5_6_7": "Haley and I have been chatting occasionally.#$b#She’s actually not as bad as I thought.$1#$b#She has a quick mouth on her, but she’s actually pretty insightful.$1",
+   "John_Wed_winter_5_6_7": "I noticed that Clint really has an odd perspective on life; misguided really….#$b#He seems to have a good heart though.$2",
+   "John_Thu_winter_5_6_7": "As happy as I am living above the saloon, I really am considering buying my own land.#$b#I really would like to start working with glass again.#$b#I love making things from recycled bottles and sea glass.$1",
+   "John_Fri_winter_5_6_7": "Robin is one of the sweetest women I know.#$b#She’s always the first to offer her help, such a beautiful soul.$4",
+   "John_Sat_winter_5_6_7": "I couldn’t help but notice there really aren't a lot of kids running around this town.#$b#I suppose it makes sense though, the population is small.$1",
+   "John_Sun_winter_5_6_7": "I saw something very strange last night…$2#$b#There was this odd, dark figure outside. It stood in the same spot for ten minutes straight and then it bolted down the sidewalk towards the beach.$2",
+   "John_Saloon_5_6_7": "This place has really become home to me.$1#$b#And Gus makes such great food.$1",
+   "John_Saloon_Entry_5_6_7": "Gus, I’m back.",
+   "John_Saloon6_5_6_7": "I heard about this little town nearby.#$b#Thinking about visiting and checking it out.$1",
+   "John_Saloon7_5_6_7": "Have you ever had lava honey before?#$b#It’s sweet and spicy but that makes it really good,",
+
+     /************************************************
+    ** Marriage Dialogue Spring
+    ************************************************/
+    "Rainy_Day_0_Spring": "The rain sounds so relaxing.$3",
+    "Rainy_Day_1_Spring": "I wonder what animals think when it starts raining?$2",
+    "Rainy_Day_2_Spring": "Make sure you wear a coat, you don't want to catch a cold out there.",
+    "Rainy_Day_3_Spring": "It's so tempting to go play in the rain.$3",
+    "Rainy_Day_4_Spring": "I'm ready for this weather to clear up.$2",
+    "patio_John_Spring": "Don't you love looking out at our fields? Isn't it beautiful.$3",
+    "spouseRoom_John_Spring": "Being retired, I'm finding I have way too much free time.#$b#What am I supposed to do with it all?$1",
+    "Rainy_Night_0_Spring": "We should cuddle in bed, it's the perfect weather for it.$4",
+    "Rainy_Night_1_Spring": "Did you hear that noise? I wonder what it was.$9",
+    "Rainy_Night_2_Spring": "I might make some hot tea. It sounds good right now.",
+    "Rainy_Night_3_Spring": "It's been raining all day. I wonder when it'll stop.$2",
+    "Rainy_Night_4_Spring": "You're going to get drenched out there.$2",
+    "Rainy_Night_5_Spring": "I heard a old story about the rain once, that everytime it rains it's a goddess shedding her tears.",
+    "Rainy_Night_John_Spring": "I like watching the rain hit the collecting puddles outside. It's pretty.",
+    "Indoor_Day_0_Spring": "If I ever start rambling about something pointless, please stop me.$2",
+    "Indoor_Day_1_Spring": "I love you, @.$4",
+    "Indoor_Day_2_Spring": "I still get bashful over our wedding night.$4",
+    "Indoor_Day_3_Spring": "I've been meaning to start writing again, but I can't seem to find my muse.",
+    "Indoor_Day_4_Spring": "It's amazing I found love so late in the game.$1",
+    "Indoor_Day_John_Spring": "Think I'll clean up the house today. It needs it.",
+    "Indoor_Night_0_Spring": "Sometimes I see shadows from the corner of my eye. It's real concerning.$2",
+    "Indoor_Night_1_Spring": "The sunset was beautiful. We should watch it together sometime.$3",
+    "Indoor_Night_2_Spring": "*mumble mumble*#$b#Hm? Oh no, it's nothing.$2",
+    "Indoor_Night_3_Spring": "I'm more tired than usual. Think I'll turn in early.$2",
+    "Indoor_Night_4_Spring": "I need some more hobbies. I'm losing my mind here.$2",
+    "Indoor_Night_John_Spring": "Ever wonder what creatures come out at night? Makes me wanna sit out there and watch.",
+    "Outdoor_0_Spring": "Do you ever look at the sky, just really look at it? It's inspiring.$3",
+    "Outdoor_1_Spring": "Don't mind me, I'm just enjoying the day.$3",
+    "Outdoor_2_Spring": "I could have sworn I saw something, but I guess it was just my imagination.$2",
+    "Outdoor_3_Spring": "The farm is looking so good! You're doing a great job.$1",
+    "Outdoor_4_Spring": "Living in the country is so different from Zuzu.",
+    "Outdoor_John_Spring": "The air is so clean here.$3",
+    "funLeave_John_Spring": "I'm heading out, sweetheart, don't wait up.$3",
+    "funReturn_John_Spring": "That was fun, but I'm glad to be home.$2",
+    "OneKid_3_Spring": "Can't believe I'm having children at this age.$3",
+    "OneKid_2_Spring": "I'm always scared I'll drop the baby.$2",
+    "OneKid_0_Spring": "I never was good with children... But it really is different when they're your own.$3",
+    "TwoKids_0_Spring": "I'm so dazed - we have two kids already?$6",
+    "TwoKids_2_Spring": "I hope our little ones like me.$2",
+    "TwoKids_3_Spring": "I already took care of the little ones, no need to worry.$3",
+    "Good_1_Spring": "I love you, @, you always brighten my day.$3",
+    "Good_2_Spring": "Oh.... Nothing, I was just thinking about last night.$4",
+    "Good_3_Spring": "I would love to go to the beach soon.$3",
+    "Good_4_Spring": "I was finally able to write today. It's about time.$1",
+    "Good_5_Spring": "I know I don't do it often, but I prayed today. It felt pretty nice.",
+    "Good_6_Spring": "I was raised to believe there's a plan for all of us... It's a nice sentiment.$3",
+    "Good_7_Spring": "I think I'll unwind with a glass of wine.$3",
+    "Neutral_0_Spring": "It's... it's such a gray day. Bleh.$2",
+    "Neutral_1_Spring": "I need more hobbies, I'm getting bored.",
+    "Neutral_6_Spring": "Don't overwork yourself.",
+    "Neutral_7_Spring": "Here, I want you to have this.[347]",
+    "Neutral_8_Spring": "Here you go, sweetheart, this is for you.[351]",
+    "Neutral_9_Spring": "I want you to have this. I hope it helps.[369]",
+    "Bad_7_Spring": "I just... I need to be alone right now, okay?$2",
+    "Bad_8_Spring": "Now's not a good time.$2",
+    "Bad_9_Spring": "I think I'm going to lay back down. I'm feeling pretty low today.$2",
+    "spring_23_Spring": "The Flower Dance is tomorrow. Are you ready for it?",
+    "spring_12_Spring": "The Egg Festival is always sort of fun. I like watching the kids play.$1",
+
+     /************************************************
+    ** Event dialogue
+    ************************************************/
+    /*********
+    ** Bus stop arrival event
+    *********/
+    // main segment
+    "arrival.01": "...Who are you?$2",
+    "arrival.02": "Hello! I'm Lewis. I'm the mayor of this town! I got word that someone new would be arriving from Zuzu City today.$1",
+    "arrival.03": "So I wanted to come and personally welcome you to Pelican Town.$1",
+    "arrival.04": "Oh...$2",
+    "arrival.05": "oh,Hello...$2",
+    "arrival.06": "Well, what's your name?$2",
+    "arrival.07": "Oh, @, it's nice to see you! I hope you're settling in nicely.$1",
+    "arrival.08": "So, new guy.",
+    "arrival.09": "What's your name?",
+    "arrival.10": "I... Uh.",
+    "arrival.11": "It's John.$2",
+    "arrival.12": "John it is, then!#$b#Well, John, it's nice to meet you! This is @.",
+    "arrival.13": "@'s the local farmer, who just moved here as well not that long ago.$1",
+    "arrival.14": "Hello...$2",
+    "arrival.15": "Where do you plan to stay, John?",
+    "arrival.16": "I, uh...$5$b#I called Gus, he said there's a room open at the saloon.$2",
+    "arrival.17": "Gus is a good man.",
+    "arrival.18": "Hey, I've got an idea.",
+    "arrival.19": "Why don't you show John where the saloon is?",
+    "arrival.20": "...It's fine. I can find it on my own...$2",
+
+    // accept fork
+    "arrival.accept.01": "I insist.",
+    "arrival.accept.02": "Well, I-$11",
+    "arrival.accept.03": "Wonderful! I'll leave you to it then, @. Nice to meet you, John!",
+    "arrival.accept.04": "Lead the way then, I guess.$11",
+    "arrival.accept.05": "Uh... thanks.$5",
+    "arrival.accept.06": "I'll just go now.$2",
+
+    // refuse fork
+    "arrival.refuse.01": "Yeah, Lewis, he can find it on his own.",
+    "arrival.refuse.02": "It's called hospitality, @.$4",
+    "arrival.refuse.03": "I'm sorry, John, I'll show you where it is.$3",
+    "arrival.refuse.04": "But I...$11",
+    "arrival.refuse.05": "Just follow me.",
+    "arrival.refuse.06": "*sigh*$11",
+
+
+    /*********
+    ** Saloon 1-heart event
+    *********/
+  "event-9588564.01": "Hey?$3#$b#Psst.#$b#Alex, see the new face over there?$0",
+  "event-9588564.02": "What?$2#$b#Why are you whispering?$7",
+  "event-9588564.03": "Shoosh!$2#$b#I don't want him to hear us.$3",
+  "event-9588564.04": "Oh okay, I gotcha.$0",
+  "event-9588564.05": "So wait, what about him?$2",
+  "event-9588564.06": "Well, I overheard Lewis and Robin talking about him.$0#$b#Apparently he's a retired priest.$1",
+  "event-9588564.07": "...$2",
+  "event-9588564.08": "John lets out a sigh, he looks annoyed.",
+  "event-9588564.09": "Why does it matter?$7",
+  "event-9588564.10": "It doesn't really-$3#$b#But Robin mentioned renovating that abandoned church.$0#$b#You know, the one up from the community center.$1",
+  "event-9588564.11": "I bet that Robin and the Mayor.#$b#Are going to try and get the new guy to take over the church.$1",
+  "event-9588564.12": "...$24#$b#I don't think that'll be happening...$2",
+  "event-9588564.13": "You're not very skilled at whispering by the way.$2",
+  "event-9588564.14": "Haley quickly glances away, she looks kind of embarrassed.",
+  "event-9588564.15": "I mean, you never know for sure right?$1",
+  "event-9588564.16": "Excuse me...$5#$b#I need some fresh air.$2",
+  "event-9588564.17": "He left in such a hurry.",
+  "event-9588564.18": "Oh it's you.$2",
+  "event-9588564.19": "I know they didn't mean anything by it.",
+  "event-9588564.20": "It's not like they know about my health.$0",
+  "event-9588564.21": "But it still gets to me sometimes...$2#$b#I guess because I would love to return to being a priest.$1#$b#But...$0#$b#I don't know if I can handle it.$2",
+  "event-9588564.22": "Uh, I don't know why I told you any of that...$7",
+  "event-9588564.23": "Um...#$b#I'm gonna go for a walk now...$2",
+
+
+    /*********
+    ** Forest 2-heart event
+    *********/
+    "2hearts.01": "...*huff huff*$12",
+    "2hearts.02": "@, it's fine.$12#$b#Just feeling a bit faint.$12",
+    "2hearts.03": "I'll be okay, I just need to get to my room.$2",
+    "2hearts.04": "Okay...$12#$b#Maybe I'm not okay.$12",
+    "2hearts.05": "Better get him to Harvey.",
+    "2hearts.06": "What brings you two in so late at night?$s",
+    "2hearts.07": "I felt faint again...$12#$b#If it wasn't for @, I wouldn't have made it here.$12",
+    "2hearts.08": "I see...$s#$b#This has been happening quite a bit.$s#$b#And you look very winded.",
+    "2hearts.09": "I think I'd like to keep you overnight.#$b#For observation.$2",
+    "2hearts.10": "I guess if I need to.$2",
+    "2hearts.11": "Thank you for helping me, @.",
+    "2hearts.12": "Not many people would do that.",
+    "2hearts.13": "It's no problem. Anything for a friend.",
+    "2hearts.14": "It's fine, just don't make a habit of it.",
+    "2hearts.15": "We should really get you in the back.",
+    "2hearts.16": "I'll see you around, okay?$3#$b#I gotta get this night over with.$2",
+    "2hearts.17": "Okay, please follow me then.",
+ 
+ /*********
+    ** Forest 3-heart event
+    *********/
+
+   "3hearts.01": "@! It's nice seeing you here!$1",
+    "3hearts.02": "I'm just having a drink before turning in for the night.",
+    "3hearts.03": "It's funny.#$b#I used to not drink because of my priesthood, but after retiring, I've decided I like it.$1",
+    "3hearts.04": "There's a lot of expectations when you're a priest.$2#$b#I miss it sometimes, but I'm glad I retired.$3",
+    "3hearts.05": "Hm? Well, as a priest, you're not supposed to indulge much.#$b#Most of your time is spent teaching or worshiping.#$b#It's a strict routine, honestly.$2",
+    "3hearts.06": "It's nice being just a regular guy for a change.#$b#It gets pretty lonely being a priest.$2",
+    "3hearts.07": "Priests can go on dates, but not many people want to date a priest.$7",
+    "3hearts.08": "But, well, I guess I'm rambling, aren't I?",
+    "3hearts.09": "Sorry about that, it was just a big part of my life.#$b#I entered into priesthood at age nineteen, so I spent most of my life doing it.",
+    "3hearts.10": "When most people my age were partying, I was living in a place of worship.$2",
+    "3hearts.11": "Sometimes I regret starting so young. I missed out on a lot of milestones.#$b#But I actually miss the work a lot too.$2",
+    "3hearts.12": "It's okay, you can try new things now and maybe return to it later.",
+    "3hearts.13": "It's an honorable thing, being a priest. You shouldn't talk so badly about it.",
+    "3hearts.14": "It's getting pretty late, isn't it?#$b#I should head to bed.#$b# We should do this again sometime.",
+
+
+    /*********
+    ** Pierre's shop 4-heart event
+    *********/
+    "4hearts.01": "It's been a year now.$2#$b#I still pray every night, but you don't answer.$2#$b#Even as a priest, you've never answered me.$2",
+    "4hearts.02": "Yoba, things just keep getting worse.$2#$b#I don't understand why I've gotten like this...$2",
+    "4hearts.03": "My health just keeps getting worse.$2",
+    "4hearts.04": "Is this your way of testing me?$5",
+    "4hearts.05": "I wish you'd give me some guidance.$2#$b#I really need some help right now.",
+    "4hearts.06": "I don't even know if you're real anymore...$2",
+    "4hearts.07": "Oh, @, I didn't notice you there...",
+    "4hearts.08": "I was just praying, I guess... You didn't hear me, did you?$2",
+
+    // main fork
+    "4hearts.09": "I heard everything. Please stay strong.",
+    "4hearts.10": "...$7",
+    "4hearts.11": "...It's not so simple.$2",
+    "4hearts.12": "I'm so tired, @, all the time.$2#$b#And it just keeps getting worse.$2#$b#Harvey has no clue why I'm in so much pain either.#$b#It's hard to stay strong through that.$2",
+    "4hearts.13": "I'm sorry, I guess that's pretty pitiful of me.#$b#Thanks for being supportive, @, it means a lot to me.$2",
+    "4hearts.14": "I should really get going.",
+    "4hearts.15": "I'll see you around, @.",
+
+    // sad fork
+    "4hearts.sad.01": "I heard some of it. It was sad.",
+    "4hearts.sad.02": "Please don't say that.",
+    "4hearts.sad.03": "I don't need your pity, @.$5",
+    "4hearts.sad.04": "I should leave, I've been here long enough.",
+
+
+    /*********
+    ** Hospital 5-heart event
+    *********/
+    "5hearts.01": "The tests all came back negative, but I can recommend you to a doctor in Zuzu City if you'd like.$11",
+    "5hearts.02": "Your condition is just outside my level of expertise.$2#$b#It would be better if you saw a specialist.",
+    "5hearts.03": "I've seen a specialist in Zuzu City. They couldn't figure it out either...$2",
+    "5hearts.04": "Oh, I see.#$b#Then can I get you resources on pain management and mental health?#$b#I know it's not the answer you want, but I think you could benefit from them.",
+    "5hearts.05": "And perhaps a service dog is in order.#$b#They can be trained specifically to help with your problems.",
+    "5hearts.06": "@?!$8",
+    "5hearts.07": "@! ...This isn't a good time.#$b#Could you wait in the waiting room, please?$2",
+    "5hearts.08": "@'s fine, I was just about to go anyway.$2",
+    "5hearts.09": "There's more to discuss.$2",
+    "5hearts.10": "It's fine. I don't need a service dog or any informational resources.#$b#I need answers.",
+    "5hearts.11": "It's driving me crazy not knowing what's wrong with me.$2",
+    "5hearts.12": "There's no point in reading pamphlets if I don't know what I'm trying to manage.",
+    "5hearts.13": "You should listen to Harvey. He knows what he's talking about.",
+    "5hearts.14": "There don't seem to be many answers. You should accept whatever help you can get.",
+    "5hearts.15": "Maybe you need another doctor to take a look. Don't give up hope.",
+
+
+    /*********
+    ** Wizard's house 6-heart event
+    *********/
+    "6hearts.01": "I can't promise results. I'm not a miracle worker in the slightest.",
+    "6hearts.02": "I know... but please try.$2",
+    "6hearts.03": "This illness... the doctors can't discover the cause of it?",
+    "6hearts.04": "No, they can't. Out of all the tests I've taken, I've gotten no answers.$5",
+    "6hearts.05": "It was suggested I move out here. They thought maybe the city was causing it.$6",
+    "6hearts.06": "Ah, but nothing has changed?",
+    "6hearts.07": "Yeah, nothing's changed for me, I'm still just as sick.$2",
+    "6hearts.08": "There's uncertainty without knowing the exact cause of your ailment.",
+    "6hearts.09": "I can't make an elixir for something I know nothing about...",
+    "6hearts.10": "But I suppose I can try brewing you a broad potion. A catch-all, you could say.",
+    "6hearts.11": "Perhaps that was too strong.$2",
+    "6hearts.12": "Yoba above.$12#$b#That's terrible!$12",
+    "6hearts.13": "I'm fine.$12",
+    "6hearts.14": "A bad reaction is rather common.#$b#He'll be fine. I'm sure of it.",
+    "6hearts.15": "How...$2#$b#How will I know if it worked?$2",
+    "6hearts.16": "...#$b#There should have already been a difference.",
+    "6hearts.17": "I don't feel any better.$2",
+    "6hearts.18": "Thank you for trying.$2",
+    "6hearts.19": "Rasmodius was attempting to cure me.$2",
+    "6hearts.20": "I've been sick for a long time now...",
+    "6hearts.21": "I'm starting to think I'll never feel better.",
+
+    // main fork
+    "6hearts.22": "I'll help any way I can.",
+    "6hearts.23": "@... That's really sweet of you.$2",
+
+    // discourage fork
+    "6hearts.discourage.01": "Sometimes there's no getting better.",
+    "6hearts.discourage.02": "I guess you're right.$2#$b#But that's really discouraging coming from a friend.",
+
+    // outro
+    "6hearts.24": "Thank you again for humoring me.",
+    "6hearts.25": "There's so many things that life throws at us, and no matter how many difficulties we overcome, trials will still exist. We're going to get through them. Just be strong.",
+
+    /*********
+    ** Hospital 8-heart event
+    *********/
+    "9hearts.01": "@?#$b#Oh, I'm just getting some test results back...",
+    "9hearts.02": "I'm just waiting to be called.$2",
+    "9hearts.03": "John, I'm ready for you.",
+    "9hearts.04": "Here it goes...$2",
+    "9hearts.05": "I'm...really anxious.$2#$b#Would you come with me?",
+
+    // accept fork
+    "9hearts.06": "Yes",
+    "9hearts.07": "Thank you...$2",
+    "9hearts.08": "Okay, John, let's get right to it.#$b#I know you've been searching for a long time for answers.$2",
+    "9hearts.09": "Yeah, I really have been.$2",
+    "9hearts.10": "Well, the good news is...#$b#That we learned what it is.",
+    "9hearts.11": "You have something referred to as ME, or myalgic encephalomyelitis.$2",
+    "9hearts.12": "What exactly does that mean?",
+    "9hearts.13": "Well, it's a multi-system disease that causes dysfunction of the neurological, immune, endocrine, and energy metabolism systems in the body.",
+    "9hearts.14": "It explains your fatigue.$2#$b#And your other physical systems as well, like your chronic pain.",
+    "9hearts.15": "Is there any treatments for it?",
+    "9hearts.16": "There aren't any concrete treatments yet for this illness.$2#$b#But some patients have noticed improvement with personalized care plans.$2#$b#With a chronic illness, it's not finding a cure that's important.",
+    "9hearts.17": "It's learning how to cope with your symptoms.",
+    "9hearts.18": "Oh, I see...$2",
+    "9hearts.19": "We can start as soon as tomorrow on developing your care plan, if you're willing to come in for a hour?",
+    "9hearts.20": "I'll be here. Thank you, Doctor.$2",
+    "9hearts.21": "Thank you, @, for being there for me.",
+    "9hearts.22": "That...#$b#That wasn't what I wanted to hear, but at least I know now.$2",
+    "9hearts.23": "It's a relief to know it's really happening to me.#$b#That it really isn't just all in my head.",
+    "9hearts.24": "And hey, at least I'm on the right path.$1",
+
+    // decline fork
+    "9hearts.refuse.01": "No",
+    "9hearts.refuse.02": "Oh, okay.$2#$b#I understand, I can do this alone.$2",
+}
+
+
+
+
