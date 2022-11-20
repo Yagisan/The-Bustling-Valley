@@ -51,7 +51,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Why does it crash on load? Why do I get a white screen on load?](#why-does-it-crash-on-load-why-do-i-get-a-white-screen-on-load)
   - [Why is it slow to start?](#why-is-it-slow-to-start)
   - [Why does the game stutter between 6:00am and 6:10am?](#why-does-the-game-stutter-between-600am-and-610am)
-  - [Why don't all my craftables have snow on them in winter?](#why-dont-all-my-craftables-have-snow-on-them-in-winter)
+  - [Why does the game stutter after 7:00pm?](#why-does-the-game-stutter-after-700pm)
   - [I hate the new smooth graphics. How do I stop it?](#i-hate-the-new-smooth-graphics-how-do-i-stop-it)
   - [Stardew Valley just automatically updated, is it safe to run this list?](#stardew-valley-just-automatically-updated-is-it-safe-to-run-this-list)
   - [Does it work with a controller?](#does-it-work-with-a-controller)
@@ -64,7 +64,6 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [There was a  JSON Shuffle. It broke a Ridgeside Village quest. How do I fix it?](#there-was-a--json-shuffle-it-broke-a-ridgeside-village-quest-how-do-i-fix-it)
   - [How do I reset the configuration files?](#how-do-i-reset-the-configuration-files)
   - [Why is the compass npcs pointing to the wrong place ?](#why-is-the-compass-npcs-pointing-to-the-wrong-place-)
-  - [Why are there trees in Ridgeside Village buildings?](#why-are-there-trees-in-ridgeside-village-buildings)
   - [Why do farmhands only see a vanilla map?](#why-do-farmhands-only-see-a-vanilla-map)
   - [Fishing is too Easy. How to to fix this?](#fishing-is-too-easy-how-to-to-fix-this)
   - [How do I exit the better sewers?](#how-do-i-exit-the-better-sewers)
@@ -75,7 +74,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
 
 # Preamble
 
-The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. Designed for experienced players, it comes with 2 big expansions (Ridgeside Village and East Scarp), and several smaller expansions including new NPCS. With an enormous variety of new crops, new artisan goods, and new recipes, you'll find something new to specialise your farm in. **It is expected that players will not add additional mods or otherwise change this modlist.**
+The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. Designed for experienced players, it comes with **2** big expansions (Ridgeside Village, and East Scarp), and several smaller expansions (Lunna - Astray in Stardew Valley, Welcome to Mineral Town, and more) including new NPCS. With an enormous variety of new crops, new artisan goods, and new recipes, you'll find something new to specialise your farm in. **It is expected that players will not add additional mods or otherwise change this modlist.**
 
 **As of 0.4.4 The Bustling Valley will coexist with manual mod installations and/or Nexus Collections.** **This list is self-contained, and includes it's own copy of SMAPI.**
 
@@ -220,9 +219,13 @@ Updating is like installing. You only have to make sure that you select the same
 
 **[Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)** adds a new village, a special quest, new crops, fish and more.
 
+**[Welcome to Mineral Town](https://www.nexusmods.com/stardewvalley/mods/13996)** adds a re-imagined version of a place familiar to many players.
+
 ## Skills and Professions
 
-**[Capstone Professions](https://www.nexusmods.com/stardewvalley/mods/7636)** adds a final choice of professions once you max out all your skills.
+**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** a complete professions overhaul.
+
+**[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)** adds a new cooking skill, and a reason to use it.
 
 ## Automation
 
@@ -231,10 +234,6 @@ Updating is like installing. You only have to make sure that you select the same
 **[Water Bot](https://www.nexusmods.com/stardewvalley/mods/8167)** by right-clicking with your watering can your farmer will go crop by crop watering them, expending the same amount of time and energy as if you had done it yourself to keep as vanilla as possible, but a lot less tedious!
 
 **[Eidee Easy Fishing](https://www.nexusmods.com/stardewvalley/mods/4806)** reduces the tediousness of fishing by automatically catching the fish for you. If you get a bite, and hook the fish, Eidee Easy Fishing will catch the fish. It is **not** an instant catch, nor will it automatically hook for you. Better rods, bait and tackle will improve catch speed and rates.
-
-**[Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)** significantly improves Junimos: automatically plant crops, fertilize, work for a fee, increase range, and more!
-
-**[Better Junimos Forestry](https://www.nexusmods.com/stardewvalley/mods/8992)** adds new skills to the Junimos. They can hoe your fields, grow wild trees for timber, look after your fruit trees, clear debris, and mow the lawn.
 
 ## Gameplay
 
@@ -320,13 +319,9 @@ The Bustling Valley will not start if you have special characters such as `(){}[
 
 ## Why is it slow to start?
 
-The Bustling Valley can take up to 10 minutes or so to start. While it may look like it has hung, it is still loading. The primary cause of the slowdown is a mod called [PyTK](https://www.nexusmods.com/stardewvalley/mods/1726). This is used by many mods to load new maps, and is unfortunately not completely compatible with Stardew Valley 1.5.X, resulting in slow load times.
+The Bustling Valley can take up to 2 or 3 minutes or so to start. While it may look like it has hung, it is still loading. The primary cause of the slowdown is loading all the mod added items and textures.
 
-Additionally, [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720) also slows down the start time of the game (although not to the extent PyTK does). The length of start up depends on how many JSON assets need to be loaded. Bigger mods, have many, many more assets than smaller mods. It doesn't affect runtime performance though.
-
-Furthermore, to be able to coexist with manual modded installs and/or Nexus Collections, the Bustling Valley takes a quick backup of Stardew Valley before the game starts, makes it's needed changes, and restores that backup when you exit the game
-
-Due to steps taken to remove dependencies on PyTK, loading times have been greatly improved since the 0.4.4 release of The Bustling Valley.
+Furthermore, to be able to coexist with manual modded installs and/or Nexus Collections, the Bustling Valley takes a quick backup of Stardew Valley before the game starts, makes it's needed changes, and restores that backup when you exit the game.
 
 ## Why does the game stutter between 6:00am and 6:10am?
 
@@ -334,12 +329,13 @@ Every day between 6:00am and 6:10am the game spawns in many objects. On some sys
 
 Staggering the spawns out over a longer period to avoid this was tried but this resulted in multiple stutters as each group of spawns triggered, rather than a single one, so that solution was rejected.
 
-## Why don't all my craftables have snow on them in winter?
-The snow patches are only for the vanilla objects. Mod added objects do not have a snow patch, and vanilla objects repainted with Alternative Textures do not have a snow patch.
+## Why does the game stutter after 7:00pm?
+
+Many mods start issuing updates at night, such as changing to night maps, spawning monsters, changing outfits. These are all processed by Content Patcher, and unfortunately there is a bit of stutter as they get processed. Where possible, I try to minimise the impact with carefully selected mod options, and/or patches.
 
 ## I hate the new smooth graphics. How do I stop it?
 
-Please see **Modifying the mod list**.
+Press `F11` in game.
 
 ## Stardew Valley just automatically updated, is it safe to run this list?
 
@@ -351,9 +347,7 @@ Several mods seem to behave erratically or not at all with a controller, so the 
 
 ## Does this work in multiplayer?
 
-Generally speaking this should work in multiplayer via the Internet, LAN, or local split screen mode. As with the unmodded game, some events may need to be triggered by the host, and/or each farmhand individually.
-
-Please note that multiplayer primarily relies on community testing and bug reporting.
+**The official position is NO, it does not. There are too many dll based mods in this list, and neither myself, not the mod authors can test multi-player.**
 
 ## Where is the Dwarf?
 
@@ -374,6 +368,8 @@ Simply delete the installation folder (`C:\WJ\TBV` if you have been following th
 Not for the Bustling Valley. As of 0.4.4 the Bustling Valley now includes SMAPI, and this will be updated as needed in the Bustling Valley releases.
 
 ## What is the JSON Shuffle? Can it be fixed?
+
+**As of The Bustling Valley 0.5.1 this is believed to be fixed.**
 
 The JSON Shuffle (or JSON Scramble, as it is also known) is what happens when you add, remove or update a JSON Assets mod and then continue playing your save. The IDs of your items are likely to get messed up (shuffled). The shuffle is due to the fact that JSON Assets does not hardcode item IDs in but assigns them dynamically when the game is started. **This may also be the cause of items not being identical in multiplayer.**
 
@@ -438,10 +434,6 @@ Sometimes configuration files need to be reset. This is sometimes needed after t
 
 The compass mod does not work correctly unless both zoom and ui scales match. Please set them to the same value. The default is 100%.
 
-## Why are there trees in Ridgeside Village buildings?
-
-The Bustling Valley 0.2.0+ includes Ridgeside Village 2.0 - this is a complete overhaul of the previous versions. The maps have changed. As a result you **must** start a new farm for the maps to look correct. You can not continue with your existing save.
-
 ## Why do farmhands only see a vanilla map?
 
 See **Known Bugs**.
@@ -456,25 +448,7 @@ Run up the ladder, do not click on it. It no longer acts like a door.
 
 ## What will be removed in the 1.6 Stardew Valley update?
 
-I (Yagisan) am currently in the Stardew Valley 1.6 alpha test, along with modders of major frameworks and expansions. The upcoming changes to Stardew Valley 1.6 will make several frameworks obsolete, as their functionality will become part of the vanilla game. Other frameworks however have been abandoned, and will not be ported to Stardew Valley 1.6 - there are replacement frameworks available, but not all mods have been ported over.
-
-The following mods are expected to be removed when Stardew Valley 1.6 is released.
-
-- [PyTK - Platonymous Toolkit](https://www.nexusmods.com/stardewvalley/mods/1726) (Abandoned, and broken in Stardew Valley 1.5.5+)
-- [TMXL Map Toolkit](https://www.nexusmods.com/stardewvalley/mods/1820) (Abandoned, and broken in Stardew Valley 1.5.5+)
-- [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120) (Requires PyTK)
-- [Sorren](https://www.nexusmods.com/stardewvalley/mods/4040)  (Requires PyTK)
-  - [Festival Locations](https://www.nexusmods.com/stardewvalley/mods/4040) (Requires Soren)
-  - [Boarding House Patch](https://www.nexusmods.com/stardewvalley/mods/4040) (Requires Soren)
-  - [Festival Locations](https://www.nexusmods.com/stardewvalley/mods/4040) (Requires Soren)
-  - [Spouse Room](https://www.nexusmods.com/stardewvalley/mods/4040) (Requires Soren)
-- [Seasonal Sorren (Slightly Cuter Character Sprites)](https://www.nexusmods.com/stardewvalley/mods/10853) (Requires Soren)
-- [Denver - Male - Boarding House](https://www.nexusmods.com/stardewvalley/mods/4594) (Requires PyTK)
-  - [Denver - Alternate Portraits](https://www.nexusmods.com/stardewvalley/mods/4594) (Requires Denver)
-- [Cecilia - Forest Home](https://www.nexusmods.com/stardewvalley/mods/6246) (Requires PyTK)
-  - [Cecilia - Alternate Portraits](https://www.nexusmods.com/stardewvalley/mods/6246) (Requires Cecilia)
-- [Delores](https://www.nexusmods.com/stardewvalley/mods/5510) (NPC is homeless, and upstream is unresponsive)
-- [Boarding House Nut Butters](https://www.nexusmods.com/stardewvalley/mods/6342) (Requires Boarding House and Bus Stop Extension)
+Any mods that ignore the message to update for SMAPI 4.0 compatibility will need to be removed. As of The Bustling Valley 0.5.4, we are using SMAPI 3.18.0, which is the final release before SMAPI 4.0 - which will coincide with the Stardew Valley 1.6 release.
 
 ## Known Bugs
 
