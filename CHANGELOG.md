@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.5.4](#054)
   - [0.5.3](#053)
   - [0.5.2](#052)
   - [0.5.1](#051)
@@ -18,6 +19,40 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.5.4
+
+**Released:** `21 Nov 2022`
+
+### Info <!-- omit in toc -->
+
+This release is mostly focused on NPC related bugfixes. There are a few mods falsely reporting that they have updates. They can be safely ignored.
+
+SMAPI has been updated, and now the SMAPI 4.0 warning messages are unmissable. As a player, you do not need to worry about these messages. They are intended for the authors of any dll mods in the list.
+
+I wrote patches for [Custom Npc Nikolai](https://www.nexusmods.com/stardewvalley/mods/4882), [Custom npc John](https://www.nexusmods.com/stardewvalley/mods/4500), [Magical Family](https://www.nexusmods.com/stardewvalley/mods/5653), and [Welcome to Mineral Town](https://www.nexusmods.com/stardewvalley/mods/13996).
+
+For Custom Npc Nikolai, and Magical Family, these were minor patches, fixing letter titles. For Custom npc John, it was fixing typos so the 8 heart event would show. [FellowClown](https://www.nexusmods.com/stardewvalley/users/74479268) graciously accepted the patches, and immediately released updates with them.
+
+Welcome to Mineral Town was a much more substantial patch. I excluded all NPCs from giving or receiving secret gifts at the Feast of the Winter Star festival. I excluded all NPCs from receiving a Movie Ticket, and I fixed Manna's drinking animation. [RexStrife2](https://www.nexusmods.com/stardewvalley/users/613803) graciously accepted the patch. They will be included in the next release of Welcome to Mineral Town. Until then, The Bustling Valley will include my patch.
+
+My own Yagisan's Sprinklers for Sale was updated and renamed to [Yagisan's Clint Shop Expanded](https://www.nexusmods.com/stardewvalley/mods/11362), and it's now worth making friends with Clint. It should be noted that this is not really a cheat mod, and it's cheaper to craft the items yourself. Also, he still only has a limited selection, as it's intended to help more with early or mid game runs. If you really want Iridium Sprinklers, Krobus seels them on Fridays - and that's a vanilla feature.
+
+### Updates <!-- omit in toc -->
+
+- Updated [Custom Npc Nikolai](https://www.nexusmods.com/stardewvalley/mods/4882/?tab=files&file_id=62844)
+- Updated [Lavril - East Scarp NPC (King's Raid)](https://www.nexusmods.com/stardewvalley/mods/10016/?tab=files&file_id=62768)
+- Updated [Almanac](https://www.nexusmods.com/stardewvalley/mods/11022/?tab=files&file_id=62760)
+- Updated [Custom npc John](https://www.nexusmods.com/stardewvalley/mods/4500/?tab=files&file_id=62843)
+- Updated [Eidee Easy Fishing](https://www.nexusmods.com/stardewvalley/mods/4806/?tab=files&file_id=62713)
+- Updated [Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179/?tab=files&file_id=62992)
+- Updated [Isla - Custom NPC](https://www.nexusmods.com/stardewvalley/mods/6931/?tab=files&file_id=62977)
+- Updated [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720/?tab=files&file_id=62958)
+- Updated [Lasting Conversation Topics](https://www.nexusmods.com/stardewvalley/mods/14377/?tab=files&file_id=62732)
+- Updated [Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626/?tab=files&file_id=59140)
+- Updated [Magical Family](https://www.nexusmods.com/stardewvalley/mods/5653/?tab=files&file_id=62842)
+- Updated [SMAPI](https://www.nexusmods.com/stardewvalley/mods/2400/?tab=files&file_id=62694)
+- Updated [Yagisan's Sprinklers for Sale](https://www.nexusmods.com/stardewvalley/mods/11362/?tab=files&file_id=62753)
 
 ## 0.5.3
 
