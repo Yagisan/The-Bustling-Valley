@@ -23,6 +23,7 @@
       "A": 203
     },
     "offsetX": 0,
-    "offsetY": 0
+    "offsetY": 0,
+    "scaleWithUI": false
   }
 }
