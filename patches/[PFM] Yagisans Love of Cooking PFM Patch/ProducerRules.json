@@ -1,0 +1,40 @@
+[
+    // Keg
+    {
+        "ProducerName": "Keg",
+        "InputIdentifier": "Apple",
+        "InputStack": 1,
+        "MinutesUntilReady": 2250,
+        "OutputIdentifier": "blueberry.cac.cider",
+        "KeepInputQuality": true,
+        "Sounds": [
+            "Ship",
+            "bubbles"
+        ],
+    },
+    {
+        "ProducerName": "Keg",
+        "InputIdentifier": "blueberry.cac.nettles",
+        "InputStack": 1,
+        "MinutesUntilReady": 180,
+        "OutputIdentifier": "blueberry.cac.nettletea",
+        "KeepInputQuality": true,
+        "Sounds": [
+            "Ship",
+            "bubbles"
+        ],
+    },
+    // Tea Station
+    {
+        "ProducerName": "Tea Station",
+        "InputIdentifier": "blueberry.cac.nettles",
+        "MinutesUntilReady": 20,
+        "OutputIdentifier": "blueberry.cac.nettletea",
+        "KeepInputQuality": true,
+        "OutputStack": 1,
+        "Sounds": [
+            "Ship",
+            "bubbles"
+        ],
+    }
+]

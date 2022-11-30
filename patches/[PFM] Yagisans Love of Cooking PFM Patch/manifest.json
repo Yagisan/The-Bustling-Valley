@@ -1,0 +1,24 @@
+{
+  "$schema": "https://smapi.io/schemas/manifest.json",
+  "Name": "[PFM] Yagisan - Love of Cooking and PFM Patch",
+  "Author": "Yagisan",
+  "Version": "1.0.0",
+  "Description": "Allows PFM to make Love of Cooking Cider and Nettle Tea",
+  "UniqueID": "Yagisan.LoveOfCookingPFMPatch",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [],
+  "Dependencies": [
+    {
+      "UniqueID": "blueberry.LoveOfCooking",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "DIGUS.ProducerFrameworkMod",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "pl611.TeaStationPFM",
+      "IsRequired": true
+    },
+  ]
+}
