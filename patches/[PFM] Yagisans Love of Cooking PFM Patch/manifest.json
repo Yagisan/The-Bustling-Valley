@@ -7,6 +7,10 @@
   "UniqueID": "Yagisan.LoveOfCookingPFMPatch",
   "MinimumApiVersion": "3.0.0",
   "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "DIGUS.ProducerFrameworkMod",
+    "MinimumVersion": "1.7.4"
+  },
   "Dependencies": [
     {
       "UniqueID": "blueberry.LoveOfCooking",
