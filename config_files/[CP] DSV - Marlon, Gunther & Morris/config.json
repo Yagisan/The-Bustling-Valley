@@ -3,5 +3,7 @@
   "MarlonVariant": "Vanilla",
   "MorrisVariant": "Vanilla",
   "MermaidPendants": "true",
-  "AlternateCecily": "true"
+  "AlternateCecily": "true",
+  "AdventurersGuildExpandedCompatibility": "off",
+  "MarlonCompatibility": "Automatic"
 }
