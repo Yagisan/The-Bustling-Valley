@@ -31,7 +31,8 @@
     "Syrup Maker",
     "Vinegar Cask",
     "Wax Barrel",
-    "Yogurt Jar"
+    "Yogurt Jar",
+    "Tea Station"
   ],
   "ForagesNeededForBestQuality": 100,
   "MineralsNeededForBestQuality": 100,
@@ -51,9 +52,9 @@
   "AnglerMultiplierCap": 1.0,
   "ShowFishCollectionMaxIcon": true,
   "LegendaryPondPopulationCap": 6,
-  "TrashNeededPerTaxBonusPct": 20,
+  "TrashNeededPerTaxBonusPct": 10,
   "TrashNeededPerFriendshipPoint": 90,
-  "ConservationistTaxBonusCeiling": 0.3,
+  "ConservationistTaxBonusCeiling": 1.0,
   "PiperBuffCap": 10,
   "EnableSpecials": true,
   "SpecialActivationKey": "LeftShift, LeftShoulder",
