@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.5.5](#055)
   - [0.5.4](#054)
   - [0.5.3](#053)
   - [0.5.2](#052)
@@ -19,6 +20,34 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.5.5
+
+**Released:** `5 Dec 2022`
+
+### Info <!-- omit in toc -->
+
+This release is a maintenance release. It consists of SMAPI 4.0 updates and bugfixes, and a brand new, Bustling Valley exclusive mod by myself.
+
+As detailed in [Behind The Scenes](https://www.patreon.com/yagisan?filters[tag]=behind%20the%20scenes) the new glue mod that makes The Love of Cooking and Producer Framework Mod work together is included.
+
+The taxation system has had considerable fine tuning, and the updated configuration files should make it less punishing. The Conservationist perk now has a greater effect on your tax rebate. Unfortunately contrary to the description, this is a flat taxation mod, and not a progressive taxation mod, and as such has been capped at a maximum of 30% taxes before rebates.
+
+The NPC Compass has been taught about other NPCs now, so more of them will look correct in the compass. It does not yet know about all 191! NPCs.
+
+### Updates <!-- omit in toc -->
+
+- Updated [Custom Fixed Dialogue](https://www.nexusmods.com/stardewvalley/mods/6358/?tab=files&file_id=63397)
+- Updated [Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398/?tab=files&file_id=63495)
+- Updated [Lasting Conversation Topics](https://www.nexusmods.com/stardewvalley/mods/14377/?tab=files&file_id=63457)
+- Updated [Lasting Conversation Topics](https://www.nexusmods.com/stardewvalley/mods/14377/?tab=files&file_id=63458)
+- Updated [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536/?tab=files&file_id=63090)
+- Updated [Never Ending Adventure - NPC Mateo](https://www.nexusmods.com/stardewvalley/mods/12369/?tab=files&file_id=63579)
+- Updated [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599/?tab=files&file_id=63496)
+- Updated [SMAPI](https://www.nexusmods.com/stardewvalley/mods/2400/?tab=files&file_id=63497)
+- Updated [To-Dew](https://www.nexusmods.com/stardewvalley/mods/7409/?tab=files&file_id=63019)
+- Updated [Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174/?tab=files&file_id=63270)
+- Updated [DSV-Marlon-Gunther-Morris](https://github.com/AirynS/DSV-Marlon-Gunther-Morris/releases/download/v3.2.1/CP.DSV.-.Marlon.Gunther.Morris.zip)
 
 ## 0.5.4
 
