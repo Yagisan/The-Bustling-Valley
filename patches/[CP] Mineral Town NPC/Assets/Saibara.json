@@ -30,6 +30,18 @@
             "Target": "Portraits/Saibara, Characters/Saibara",
             "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
         },
+        {
+            "LogName": "Saibara Beach Wear Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Saibara_Beach",
+            "FromFile": "Assets/Portraits/Saibara/Saibara_Beach.png"
+        },
+        {
+            "LogName": "Saibara Beach Wear Sprite",
+            "Action": "Load",
+            "Target": "Characters/Saibara_Beach",
+            "FromFile": "Assets/Characters/Saibara/Saibara_Beach.png"
+        },
         //------------------------
         // Load blank
         //------------------------

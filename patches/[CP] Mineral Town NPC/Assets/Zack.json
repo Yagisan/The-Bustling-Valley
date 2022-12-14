@@ -8,7 +8,7 @@
             "Action": "EditData",
             "Target": "Data/NPCDispositions",
             "Entries": {
-                "Zack": "adult/rude/outgoing/positive/male/not-datable/null/other/summer 29/Won 'friend'/Custom_HM_ZackHouse 19 5 3/Zack"
+                "Zack": "adult/rude/outgoing/positive/male/not-datable/null/other/summer 28/Won 'friend'/Custom_HM_ZackHouse 19 5 3/Zack"
             }
         },
         //------------------------
@@ -29,6 +29,18 @@
             "Action": "Load",
             "Target": "Portraits/Zack, Characters/Zack",
             "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        {
+            "LogName": "Zack Beach Wear Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Zack_Beach",
+            "FromFile": "Assets/Portraits/Zack/Zack_Beach.png"
+        },
+        {
+            "LogName": "Zack Beach Wear Sprite",
+            "Action": "Load",
+            "Target": "Characters/Zack_Beach",
+            "FromFile": "Assets/Characters/Zack/Zack_Beach.png"
         },
         //------------------------
         // Load blank

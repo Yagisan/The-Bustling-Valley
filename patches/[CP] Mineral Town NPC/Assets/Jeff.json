@@ -8,7 +8,7 @@
             "Action": "EditData",
             "Target": "Data/NPCDispositions",
             "Entries": {
-                "Jeff": "adult/polite/neutral/negative/male/not-datable/null/other/winter 29/Karen 'daughter' Sasha 'wife'/Custom_HM_JeffMarket 14 5 1/Jeff"
+                "Jeff": "adult/polite/neutral/negative/male/not-datable/null/other/winter 28/Karen 'daughter' Sasha 'wife'/Custom_HM_JeffMarket 14 5 1/Jeff"
             }
         },
         //------------------------
@@ -29,6 +29,18 @@
             "Action": "Load",
             "Target": "Portraits/Jeff, Characters/Jeff",
             "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
+        },
+        {
+            "LogName": "Jeff Beach Wear Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Jeff_Beach",
+            "FromFile": "Assets/Portraits/Jeff/Jeff_Beach.png"
+        },
+        {
+            "LogName": "Jeff Beach Wear Sprite",
+            "Action": "Load",
+            "Target": "Characters/Jeff_Beach",
+            "FromFile": "Assets/Characters/Jeff/Jeff_Beach.png"
         },
         //------------------------
         // Load blank

@@ -30,6 +30,18 @@
             "Target": "Portraits/Popuri, Characters/Popuri",
             "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
         },
+        {
+            "LogName": "Popuri Beach Wear Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Popuri_Beach",
+            "FromFile": "Assets/Portraits/Popuri/Popuri_Beach.png"
+        },
+        {
+            "LogName": "Popuri Beach Wear Sprite",
+            "Action": "Load",
+            "Target": "Characters/Popuri_Beach",
+            "FromFile": "Assets/Characters/Popuri/Popuri_Beach.png"
+        },
         //------------------------
         // Load blank
         //------------------------

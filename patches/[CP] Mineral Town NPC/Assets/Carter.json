@@ -30,6 +30,18 @@
             "Target": "Portraits/Carter, Characters/Carter",
             "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
         },
+        {
+            "LogName": "Carter Beach Wear Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Carter_Beach",
+            "FromFile": "Assets/Portraits/Carter/Carter_Beach.png"
+        },
+        {
+            "LogName": "Carter Beach Wear Sprite",
+            "Action": "Load",
+            "Target": "Characters/Carter_Beach",
+            "FromFile": "Assets/Characters/Carter/Carter_Beach.png"
+        },
         //------------------------
         // Load blank
         //------------------------

@@ -30,6 +30,18 @@
       "Target": "Portraits/Gray, Characters/Gray",
       "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
     },
+    {
+      "LogName": "Gray Beach Wear Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Gray_Beach",
+      "FromFile": "Assets/Portraits/Gray/Gray_Beach.png"
+  },
+  {
+      "LogName": "Gray Beach Wear Sprite",
+      "Action": "Load",
+      "Target": "Characters/Gray_Beach",
+      "FromFile": "Assets/Characters/Gray/Gray_Beach.png"
+  },
     //------------------------
     // Load blank
     //------------------------

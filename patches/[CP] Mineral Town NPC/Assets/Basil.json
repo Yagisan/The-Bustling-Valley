@@ -30,6 +30,18 @@
             "Target": "Portraits/Basil, Characters/Basil",
             "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
         },
+        {
+            "LogName": "Basil Beach Wear Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Basil_Beach",
+            "FromFile": "Assets/Portraits/Basil/Basil_Beach.png"
+        },
+        {
+            "LogName": "Basil Beach Wear Sprite",
+            "Action": "Load",
+            "Target": "Characters/Basil_Beach",
+            "FromFile": "Assets/Characters/Basil/Basil_Beach.png"
+        },
         //------------------------
         // Load blank
         //------------------------

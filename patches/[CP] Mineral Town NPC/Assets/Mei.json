@@ -30,6 +30,18 @@
             "Target": "Portraits/Mei, Characters/Mei",
             "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
         },
+        {
+            "LogName": "Mei Beach Wear Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Mei_Beach",
+            "FromFile": "Assets/Portraits/Mei/Mei_Beach.png"
+        },
+        {
+            "LogName": "Mei Beach Wear Sprite",
+            "Action": "Load",
+            "Target": "Characters/Mei_Beach",
+            "FromFile": "Assets/Characters/Mei/Mei_Beach.png"
+        },
         //------------------------
         // Load blank
         //------------------------

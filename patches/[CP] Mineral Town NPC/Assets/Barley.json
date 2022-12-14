@@ -30,6 +30,18 @@
             "Target": "Portraits/Barley, Characters/Barley",
             "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
         },
+        {
+            "LogName": "Barley Beach Wear Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Barley_Beach",
+            "FromFile": "Assets/Portraits/Barley/Barley_Beach.png"
+        },
+        {
+            "LogName": "Barley Beach Wear Sprite",
+            "Action": "Load",
+            "Target": "Characters/Barley_Beach",
+            "FromFile": "Assets/Characters/Barley/Barley_Beach.png"
+        },
         //------------------------
         // Load blank
         //------------------------

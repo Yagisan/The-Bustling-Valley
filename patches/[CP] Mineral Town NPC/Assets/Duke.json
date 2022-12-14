@@ -30,6 +30,18 @@
             "Target": "Portraits/Duke, Characters/Duke",
             "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
         },
+        {
+            "LogName": "Duke Beach Wear Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Duke_Beach",
+            "FromFile": "Assets/Portraits/Duke/Duke_BeachShirt.png"
+        },
+        {
+            "LogName": "Duke Beach Wear Sprite",
+            "Action": "Load",
+            "Target": "Characters/Duke_Beach",
+            "FromFile": "Assets/Characters/Duke/Duke_BeachShirt.png"
+        },
         //------------------------
         // Load blank
         //------------------------

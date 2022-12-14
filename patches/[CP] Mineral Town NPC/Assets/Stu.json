@@ -30,6 +30,18 @@
             "Target": "Portraits/Stu, Characters/Stu",
             "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
         },
+        {
+            "LogName": "Stu Beach Wear Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Stu_Beach",
+            "FromFile": "Assets/Portraits/Stu/Stu_Beach.png"
+        },
+        {
+            "LogName": "Stu Beach Wear Sprite",
+            "Action": "Load",
+            "Target": "Characters/Stu_Beach",
+            "FromFile": "Assets/Characters/Stu/Stu_Beach.png"
+        },
         //------------------------
         // Load blank
         //------------------------

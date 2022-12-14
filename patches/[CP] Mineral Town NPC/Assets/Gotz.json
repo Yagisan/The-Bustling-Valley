@@ -30,6 +30,18 @@
             "Target": "Portraits/Gotz, Characters/Gotz",
             "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
         },
+        {
+            "LogName": "Gotz Beach Wear Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Gotz_Beach",
+            "FromFile": "Assets/Portraits/Gotz/Gotz_Beach.png"
+        },
+        {
+            "LogName": "Gotz Beach Wear Sprite",
+            "Action": "Load",
+            "Target": "Characters/Gotz_Beach",
+            "FromFile": "Assets/Characters/Gotz/Gotz_Beach.png"
+        },
         //------------------------
         // Load blank
         //------------------------

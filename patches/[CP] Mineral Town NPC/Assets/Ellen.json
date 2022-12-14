@@ -30,6 +30,18 @@
             "Target": "Portraits/Ellen, Characters/Ellen",
             "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
         },
+        {
+            "LogName": "Ellen Beach Wear Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Ellen_Beach",
+            "FromFile": "Assets/Portraits/Ellen/Ellen_Beach.png"
+        },
+        {
+            "LogName": "Ellen Beach Wear Sprite",
+            "Action": "Load",
+            "Target": "Characters/Ellen_Beach",
+            "FromFile": "Assets/Characters/Ellen/Ellen_Beach.png"
+        },
         //------------------------
         // Load blank
         //------------------------

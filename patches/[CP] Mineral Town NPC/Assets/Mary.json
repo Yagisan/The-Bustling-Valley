@@ -30,6 +30,18 @@
             "Target": "Portraits/Mary, Characters/Mary",
             "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
         },
+        {
+            "LogName": "Mary Beach Wear Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Mary_Beach",
+            "FromFile": "Assets/Portraits/Mary/Mary_Beach.png"
+        },
+        {
+            "LogName": "Mary Beach Wear Sprite",
+            "Action": "Load",
+            "Target": "Characters/Mary_Beach",
+            "FromFile": "Assets/Characters/Mary/Mary_Beach.png"
+        },
         //------------------------
         // Load blank
         //------------------------

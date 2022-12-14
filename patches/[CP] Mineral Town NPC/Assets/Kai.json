@@ -21,6 +21,18 @@
                 "Kai": "Whoa, thanks! Good looking out./256 270 276 832 -5/Whoa, this is for me? Cool! Thanks./233 194/Sorry, but, uh...this REALLY isn't my style./205 218 404 606 -2/Hey, quick question: what's your major malfunction? I really don't have time for your weird pranks or whatever./219/Thank you.//,"
             }
         },
+        {
+            "LogName": "Kai Beach Wear Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Kai_Beach",
+            "FromFile": "Assets/Portraits/Kai/Kai_Beach.png"
+        },
+        {
+            "LogName": "Kai Beach Wear Sprite",
+            "Action": "Load",
+            "Target": "Characters/Kai_Beach",
+            "FromFile": "Assets/Characters/Kai/Kai_Beach.png"
+        },
         //------------------------
         // Portraits & Sprite              	
         //------------------------

@@ -30,6 +30,18 @@
             "Target": "Portraits/Manna, Characters/Manna",
             "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
         },
+        {
+            "LogName": "Manna Beach Wear Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Manna_Beach",
+            "FromFile": "Assets/Portraits/Manna/Manna_Beach.png"
+        },
+        {
+            "LogName": "Manna Beach Wear Sprite",
+            "Action": "Load",
+            "Target": "Characters/Manna_Beach",
+            "FromFile": "Assets/Characters/Manna/Manna_Beach.png"
+        },
         //------------------------
         // Load blank
         //------------------------

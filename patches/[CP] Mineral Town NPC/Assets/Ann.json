@@ -30,6 +30,18 @@
             "Target": "Portraits/Ann, Characters/Ann",
             "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
         },
+        {
+            "LogName": "Ann Beach Wear Portrait",
+            "Action": "Load",
+            "Target": "Portraits/Ann_Beach",
+            "FromFile": "Assets/Portraits/Ann/Ann_Beach.png"
+        },
+        {
+            "LogName": "Ann Beach Wear Sprite",
+            "Action": "Load",
+            "Target": "Characters/Ann_Beach",
+            "FromFile": "Assets/Characters/Ann/Ann_Beach.png"
+        },
         //------------------------
         // Load blank
         //------------------------
