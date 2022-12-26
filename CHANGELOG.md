@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.5.6](#056)
   - [0.5.5](#055)
   - [0.5.4](#054)
   - [0.5.3](#053)
@@ -20,6 +21,33 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.5.6
+
+**Released:** `26 Dec 2022`
+
+### Info <!-- omit in toc -->
+
+This release is an NPC maintenance release. Many NPCs have received bug fixes and updates. I'm very happy to say several Bustling Valley exclusive bug fixes have been accepted by the upstream authors and are now part of the NPC releases.
+
+### Additions <!-- omit in toc -->
+
+- Added [Alternate Portraits for Boarding House Gregory and Sheila](https://www.nexusmods.com/stardewvalley/mods/14849/?tab=files&file_id=64327)
+
+### Updates <!-- omit in toc -->
+
+- Updated [Custom Npc Nikolai](https://www.nexusmods.com/stardewvalley/mods/4882/?tab=files&file_id=63818)
+- Updated [Welcome to Mineral Town](https://www.nexusmods.com/stardewvalley/mods/13996/?tab=files&file_id=63974)
+- Updated [Alecto the Witch (new NPC)](https://www.nexusmods.com/stardewvalley/mods/10671/?tab=files&file_id=64165)
+- Updated [AutoAnimalDoors](https://www.nexusmods.com/stardewvalley/mods/1019/?tab=files&file_id=63872)
+- Updated [Ayeisha - The Postal Worker (Custom NPC)](https://www.nexusmods.com/stardewvalley/mods/6427/?tab=files&file_id=63738)
+- Updated [Dusty Overhaul](https://www.nexusmods.com/stardewvalley/mods/13057/?tab=files&file_id=64023)
+- Updated [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787/?tab=files&file_id=64321)
+- Updated [Free Love](https://www.nexusmods.com/stardewvalley/mods/10021/?tab=files&file_id=64022)
+- Updated [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098/?tab=files&file_id=63827)
+- Updated [Never Ending Adventure - NPC Mateo](https://www.nexusmods.com/stardewvalley/mods/12369/?tab=files&file_id=64304)
+- Updated [Yri the Architect - New Custom NPC's for East Scarp](https://www.nexusmods.com/stardewvalley/mods/10627/?tab=files&file_id=64084)
+- Updated [Custom npc Lyell](https://www.nexusmods.com/stardewvalley/mods/4499/?tab=files&file_id=64085)
 
 ## 0.5.5
 
