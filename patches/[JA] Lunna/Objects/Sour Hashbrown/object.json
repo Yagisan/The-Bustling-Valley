@@ -37,7 +37,7 @@
       },
     ],
     "CanPurchase": true,
-        "PurchaseFrom": "OddiShop",
+        "PurchaseFrom": "STF.OddiShop",
         "PurchasePrice": 5000,
 		"PurchaseRequirements": [ "f Raphael 2000" ]
 	},

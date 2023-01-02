@@ -1,47 +1,47 @@
 {
-	"Name": "Umuwi Mash",
-	"Description": "A spicy, starchy mash good for a cold winter day!",
+	"Name": "Pale Berry Pie",
+	"Description": "A pie filled with Umuwi's Pale Berries. It has a very sweet aftertaste!",
 	"Category": "Cooking",
 	"Edibility": 80,
 	"EdibleIsDrink": false,
 	"EdibleBuffs": {
-    "Farming": 2,
+    "Farming": 0,
     "Fishing": 0,
-    "Mining": 2,
+    "Mining": 0,
     "Luck": 0,
 	"Foraging": 0,
 	"MaxStamina": 5,
     "MagnetRadius": 0,
-	"Speed": 0,
+	"Speed": 3,
 	"Defense": 0,
-	"Attack": 3,
+	"Attack": 0,
     "Duration": 300,
 	},
 	"Price": 300,
 	"IsColored": false,
 	"GiftTastes":
 	{
-		"Love": ["Gus", "Raphael", "Dianna", "Alex", "Elliott", "Shane", "Harvey,"],
+		"Love": ["Lunna", "Bianka", "Marnie", "Leah", "Emily", "Haley", "Penny", "Alex", "Jas", "Vincent", "Abigail", "Maru"],
 	},
 
   "Recipe": {
     "ResultCount": 1,
     "Ingredients": [
       {
-        "Object": "Thorn Pepper",
-        "Count": 5,
+        "Object": "Pale Berry",
+        "Count": 3,
       },
       {
-        "Object": "Eggroot",
-        "Count": 3,
+        "Object": "Wheat Flour",
+        "Count": 1,
       },
     ],
 	"CanPurchase": true,
         "PurchaseFrom": "STF.OddiShop",
         "PurchasePrice": 5000,
-		"PurchaseRequirements": [ "f Raphael 2000" ]
-	
+		"PurchaseRequirements": [ "f Bianka 2000" ]
 	},
+
 
 	"NameLocalization":
 	{

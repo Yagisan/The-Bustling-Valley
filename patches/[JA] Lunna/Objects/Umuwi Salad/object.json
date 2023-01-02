@@ -1,0 +1,57 @@
+{
+	"Name": "Umuwi Salad",
+	"Description": "A salad made with Umuwi produce. It has a sweet savory taste!",
+	"Category": "Cooking",
+	"Edibility": 120,
+	"EdibleIsDrink": false,
+	"EdibleBuffs": {
+    "Farming": 0,
+    "Fishing": 0,
+    "Mining": 0,
+    "Luck": 1,
+	"Foraging": 0,
+	"MaxStamina": 30,
+    "MagnetRadius": 0,
+	"Speed": 0,
+	"Defense": 3,
+	"Attack": 0,
+    "Duration": 300,
+	},
+	"Price": 400,
+	"IsColored": false,
+	"GiftTastes":
+	{
+		"Love": ["Lunna", "Bianka", "Marnie", "Leah", "Emily", "Haley", "Penny", "Alex", "Jas", "Vincent", "Abigail", "Maru"],
+	},
+
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+      {
+        "Object": "Ghost Cabbage",
+        "Count": 3,
+      },
+      {
+        "Object": "Umuwi Lanzones",
+        "Count": 2,
+      },
+      {
+        "Object": "Umuwi Rambutan",
+        "Count": 2,
+      },
+    ],
+    "CanPurchase": true,
+        "PurchaseFrom": "STF.OddiShop",
+        "PurchasePrice": 5000,
+		"PurchaseRequirements": [ "f Raphael 2000" ]
+	},
+
+	"NameLocalization":
+	{
+		//
+	},
+	"DescriptionLocalization":
+	{
+		//
+	},
+}
