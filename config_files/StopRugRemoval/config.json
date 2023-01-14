@@ -8,6 +8,8 @@
   "JukeboxesEverywhere": true,
   "GoldenCoconutsOffIsland": false,
   "PhoneSpeedUpFactor": 1.0,
+  "CraneGameDifficulty": 3,
+  "BetIcons": true,
   "FurniturePlacementKey": "LeftShift + Z",
   "HideCrabPots": true,
   "SaveBombedForage": false,
@@ -387,5 +389,7 @@
     "Custom_HM_InnBasement": "Dynamic",
     "Custom_HM_Void": "Dynamic",
     "Custom_ESSplitScreen_AideenMateo": "Dynamic"
-  }
+  },
+  "EditElliottEvent": true,
+  "RemoveDuplicateNPCs": false
 }

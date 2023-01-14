@@ -5,10 +5,11 @@
   "EvelynLightweightConfig": "Light",
   "GeorgeVariant": "Vanilla",
   "GeorgeLightweightConfig": "Light",
-  "PlatonicNPCs": "",
   "MermaidPendants": "true",
   "Pyjamas": "marriage",
+  "BeachStyle": "",
   "WeddingOutfitAlex": "1",
   "AlexTattoos": "NoTattoos",
-  "GeorgeBeard": "Dynamic"
+  "GeorgeBeard": "Dynamic",
+  "StardewKidsJames": "Off"
 }
