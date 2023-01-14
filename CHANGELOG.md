@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.5.7](#057)
   - [0.5.6](#056)
   - [0.5.5](#055)
   - [0.5.4](#054)
@@ -21,6 +22,47 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.5.7
+
+**Released:** `14 Jan 2023`
+
+### Info <!-- omit in toc -->
+
+This release is an NPC maintenance release. Mostly bug fixes in the NPC mods.
+
+### Additions <!-- omit in toc -->
+
+- Added [More TV Channels for George](https://www.nexusmods.com/stardewvalley/mods/14954/?tab=files&file_id=64729)
+
+### Updates <!-- omit in toc -->
+
+- Updated [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286/?tab=files&file_id=64585)
+- Updated [AtraCore](https://www.nexusmods.com/stardewvalley/mods/12932/?tab=files&file_id=64950)
+- Updated [Atras Interaction Tweaks - aka Stop Rug Removal](https://www.nexusmods.com/stardewvalley/mods/10192/?tab=files&file_id=64911)
+- Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063/?tab=files&file_id=64886)
+- Updated [Avoid Losing Scepter](https://www.nexusmods.com/stardewvalley/mods/11856/?tab=files&file_id=64912)
+- Updated [Better Mead Icons - BAGI Addon](https://www.nexusmods.com/stardewvalley/mods/11911/?tab=files&file_id=64828)
+- Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518/?tab=files&file_id=64887)
+- Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915/?tab=files&file_id=64888)
+- Updated [Custom Spouse Patio Redux](https://www.nexusmods.com/stardewvalley/mods/10889/?tab=files&file_id=65051)
+- Updated [Egg Festival Winner Randomized](https://www.nexusmods.com/stardewvalley/mods/8574/?tab=files&file_id=65072)
+- Updated [Free Love](https://www.nexusmods.com/stardewvalley/mods/10021/?tab=files&file_id=65053)
+- Updated [Ginger Island Mainland Adjustments](https://www.nexusmods.com/stardewvalley/mods/10004/?tab=files&file_id=64919)
+- Updated [Hugs and Kisses](https://www.nexusmods.com/stardewvalley/mods/10062/?tab=files&file_id=64455)
+- Updated [Lasting Conversation Topics](https://www.nexusmods.com/stardewvalley/mods/14377/?tab=files&file_id=64700)
+- Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541/?tab=files&file_id=64890)
+- Updated [Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626/?tab=files&file_id=64590)
+- Updated [Magical Family](https://www.nexusmods.com/stardewvalley/mods/5653/?tab=files&file_id=64354)
+- Updated [Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284/?tab=files&file_id=64999)
+- Updated [Never Ending Adventure - NPC Mateo](https://www.nexusmods.com/stardewvalley/mods/12369/?tab=files&file_id=65070)
+- Updated [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239/?tab=files&file_id=64879)
+- Updated [Planned Parenthood](https://www.nexusmods.com/stardewvalley/mods/12869/?tab=files&file_id=65055)
+- Updated [Profiler](https://www.nexusmods.com/stardewvalley/mods/12135/?tab=files&file_id=64488)
+- Updated [Special Orders Tags Extended](https://www.nexusmods.com/stardewvalley/mods/9855/?tab=files&file_id=64928)
+- Updated [Custom npc Lyell](https://www.nexusmods.com/stardewvalley/mods/4499/?tab=files&file_id=65015)
+- Updated [DSV - Alex, Evelyn, George](https://github.com/AirynS/DSV-Alex-Evelyn-George/releases/download/v.3.1.0/CP.DSV.-.Alex.Evelyn.George.zip)
+
 
 ## 0.5.6
 
