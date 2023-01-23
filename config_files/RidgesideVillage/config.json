@@ -1,3 +1,4 @@
 {
-  "ShowVillagersOnMap": true
+  "ShowVillagersOnMap": true,
+  "progressiveStory": true
 }
