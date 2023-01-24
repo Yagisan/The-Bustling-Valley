@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.5.8](#058)
   - [0.5.7](#057)
   - [0.5.6](#056)
   - [0.5.5](#055)
@@ -22,6 +23,31 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.5.8
+
+**Released:** `25 Jan 2023`
+
+### Info <!-- omit in toc -->
+
+Like the last release, this release is an NPC maintenance release. Many NPCs have received bug fixes and updates. In particular, Fellowclown's NPCs have received substantial updates, new art and bug fixes.
+
+### Updates <!-- omit in toc -->
+
+- Updated [Custom Npc Nikolai](https://www.nexusmods.com/stardewvalley/mods/4882/?tab=files&file_id=65365)
+- Updated [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286/?tab=files&file_id=65135)
+- Updated [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246/?tab=files&file_id=65332)
+- Updated [Alvadea's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/13743/?tab=files&file_id=65308)
+- Updated [AtraCore](https://www.nexusmods.com/stardewvalley/mods/12932/?tab=files&file_id=65159)
+- Updated [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115/?tab=files&file_id=65139)
+- Updated [Canon-Friendly Dialogue Expansion for All Friend-able Characters](https://www.nexusmods.com/stardewvalley/mods/2544/?tab=files&file_id=65335)
+- Updated [FellowClowns TileSheets and Festival Patches](https://www.nexusmods.com/stardewvalley/mods/13166/?tab=files&file_id=65590)
+- Updated [Magical Family](https://www.nexusmods.com/stardewvalley/mods/5653/?tab=files&file_id=65596)
+- Updated [Never Ending Adventure - NPC Mateo](https://www.nexusmods.com/stardewvalley/mods/12369/?tab=files&file_id=65151)
+- Updated [SMAPI](https://www.nexusmods.com/stardewvalley/mods/2400/?tab=files&file_id=64874)
+- Updated [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348/?tab=files&file_id=65175)
+- Updated [Custom npc Lyell](https://www.nexusmods.com/stardewvalley/mods/4499/?tab=files&file_id=65589)
+- Updated [To-Dew](https://www.nexusmods.com/stardewvalley/mods/7409/?tab=files&file_id=65222)
 
 ## 0.5.7
 
