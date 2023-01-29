@@ -125,7 +125,7 @@
 		{
 			"ItemType": "Object",
 			"ItemNames": [ "Void Essence", ],
-			"StockPrice": 5,
+			"StockPrice": 100,
 		},
 		{
 			"ItemType": "Weapon",
