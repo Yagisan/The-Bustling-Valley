@@ -1,0 +1,143 @@
+{
+  "Shops": [
+  //------------
+	//Oddi's Shop
+	//------------
+	{
+	"ShopName": "OddiShop",
+	"StoreCurrency": "Money",
+	"PortraitPath": "assets/OddiShop.png",
+	"Quote": "Browse Umuwi products!",
+	"LocalizedQuote": {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    	},
+	"LocalizedClosedMessage": {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    	},
+	"ItemStocks": [
+		{
+			"ItemType": "Object",
+			"ItemNames": [ "Umuwi Rambutan Sapling", ],
+			"StockPrice": 7000,
+		},
+		{
+			"ItemType": "Object",
+			"ItemNames": [ "Umuwi Lanzones Sapling", ],
+			"StockPrice": 5000,
+		},
+		{
+			"ItemType": "Object",
+			"ItemNames": [ "Pale Berry Seeds", ],
+			"StockPrice": 110,
+		},
+		{
+			"ItemType": "Object",
+			"ItemNames": [ "Eggroot Seeds", ],
+			"StockPrice": 180,
+		},
+		{
+			"ItemType": "Object",
+			"ItemNames": [ "Sour Potato Seeds", ],
+			"StockPrice": 70,
+		},
+		{
+			"ItemType": "Object",
+			"ItemNames": [ "Thorn Pepper Seeds", ],
+			"StockPrice": 100,
+		},
+		{
+			"ItemType": "Object",
+			"ItemNames": [ "Ghost Cabbage Seeds", ],
+			"StockPrice": 100,
+		},
+		{
+			"ItemType": "Object",
+			"ItemNames": [ "Rare Seed", ],
+			"StockPrice": 1500,
+		},
+		{
+			"ItemType": "Object",
+			"ItemNames": [ "Void Egg", ],
+			"StockPrice": 480,
+		},
+	],
+	},
+
+	//------------
+	//Raphael's Shop
+	//------------
+	{
+	"ShopName": "RaphShop",
+	"StoreCurrency": "Money",
+	"PortraitPath": "assets/RaphShop.png",
+	"Quote": "Anything you need?",
+	"LocalizedQuote": {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    	},
+	"LocalizedClosedMessage": {
+    	//remove the "//" from your language
+        //"es": "PLACEHOLDER",
+        //"ko": "PLACEHOLDER",
+        //"de": "PLACEHOLDER",
+        //"fr": "PLACEHOLDER",
+        //"hu": "PLACEHOLDER",
+        //"it": "PLACEHOLDER",
+        //"ja": "PLACEHOLDER",
+        //"pt": "PLACEHOLDER",
+        //"ru": "PLACEHOLDER",
+        //"tr": "PLACEHOLDER",
+        //"zh": "PLACEHOLDER",
+    	},
+	"ItemStocks": [
+		{
+			"ItemType": "Object",
+			"ItemNames": [ "Void Essence", ],
+			"StockPrice": 5,
+		},
+		{
+			"ItemType": "Weapon",
+			"ItemNames": [ "Void Blessed Hammer", ],
+			"StockPrice": 150000,
+		},
+		{
+			"ItemType": "Weapon",
+			"ItemNames": [ "Void Blessed Sword", ],
+			"StockPrice": 150000,
+		},
+	],
+	},
+  ]
+  }
