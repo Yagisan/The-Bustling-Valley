@@ -83,7 +83,6 @@ Please be aware that this modlist may make perfection very hard or impossible to
 # Quick Links
 
 - [Patreon](https://patreon.com/yagisan) contains update posts and provides a way of showing support for the project.
-- [Ko-fi](https://ko-fi.com/yagisan) contains update posts and provides a way of showing support for the project.
 - [Downloads](https://github.com/Yagisan/The-Bustling-Valley/releases) for the most recent releases.
 - [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases) for the tool to install this modlist.
 - [Issues](https://github.com/Yagisan/The-Bustling-Valley/issues) for technical support with this mod list.
@@ -219,11 +218,11 @@ Updating is like installing. You only have to make sure that you select the same
 
 **[Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)** adds a new village, a special quest, new crops, fish and more.
 
-**[Welcome to Mineral Town](https://www.nexusmods.com/stardewvalley/mods/13996)** adds a re-imagined version of a place familiar to many players.
+**[Welcome to Mineral Town](https://www.nexusmods.com/stardewvalley/mods/13996)** adds a re-imagined version of a place familiar to many players. **Under development and may be buggy**
 
 ## Skills and Professions
 
-**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** a complete professions overhaul.
+**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** a complete professions overhaul. **Please note this has been hidden on Nexus, and will be removed entirely in a future update.**
 
 **[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)** adds a new cooking skill, and a reason to use it.
 
@@ -251,7 +250,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 **[Livestock Choices](https://www.nexusmods.com/stardewvalley/mods/11551)** actually choose what animal variant you want.
 
-**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** allows you to repaint almost anything to suit how you want it to look. Building, animals, trees, and crops.
+**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** allows you to repaint almost anything to suit how you want it to look. Building, animals, trees, and crops. **This mod and it's texture packs can cause Stardew Valley to consume over 6GB of RAM. It and they, can be safely disabled at any time.**
 
 # Mod Default Hotkeys
 
