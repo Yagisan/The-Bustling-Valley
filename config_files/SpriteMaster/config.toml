@@ -1,5 +1,5 @@
 [Config]
-ConfigVersion = "0.15.0.110.0"
+ConfigVersion = "0.15.0.113.0"
 # Should SpriteMaster be enabled? Unsetting this will disable _all_ SpriteMaster functionality.
 Enabled = true
 # Button to toggle SpriteMaster
@@ -429,6 +429,18 @@ DataStoreOverride = ""
 	OptimizeTexture2DGetData = true
 	# Should glCopyTexture by used?
 	UseCopyTexture = true
+		# Should glTexStorage be used?
+		UseTexStorage = true
+
+			[Config.Extras.OpenGL.DrawUserIndexedPrimitives]
+			# Should the call be optimized?
+			Optimize = true
+			# Should advanced optimizations be enabled?
+			Advanced = true
+			# Should Vertex Buffer Objects be used?
+			UseVertexBufferObjects = false
+			# Should Index Buffer Objects be used?
+			UseIndexBufferObjects = true
 
 		[Config.Extras.Snow]
 		# Should custom snowfall be used during snowstorms?
