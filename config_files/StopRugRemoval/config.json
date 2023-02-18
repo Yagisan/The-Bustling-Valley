@@ -392,7 +392,8 @@
     "Custom_RodneysBasement": "Dynamic",
     "Custom_FerngillNationalLibrary": "Dynamic",
     "Custom_LibraryExterior": "Dynamic",
-    "Custom_RodneysHouse": "Dynamic"
+    "Custom_RodneysHouse": "Dynamic",
+    "Custom_DinnerSceneChelsea": "Dynamic"
   },
   "EditElliottEvent": true,
   "RemoveDuplicateNPCs": false
