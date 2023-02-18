@@ -62,6 +62,14 @@ This list is only updated when mods are added or removed. If the version above d
 - [Morris Redeemed](https://www.nexusmods.com/stardewvalley/mods/12667)
 - [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)
 - [Creative Differences - Rodney a new NPC for East Scarp](https://www.nexusmods.com/stardewvalley/mods/13437)
+- [Chelsea - New Custom Datable NPC](https://www.nexusmods.com/stardewvalley/mods/8643)
+  - [Chelsea Reimagined](https://www.nexusmods.com/stardewvalley/mods/8810)
+- [Alecto the Witch (new NPC)](https://www.nexusmods.com/stardewvalley/mods/10671)
+- [Jorts and Jean the Helper Cats - New Custom NPCs](https://www.nexusmods.com/stardewvalley/mods/10950)
+- [Wilford - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/7313)
+- [Sable - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/12533)
+- [Isla - Custom NPC](https://www.nexusmods.com/stardewvalley/mods/6931)
+  - [Isla Reimagined](https://www.nexusmods.com/stardewvalley/mods/8720)
 
 ## Frameworks
 
@@ -122,6 +130,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Eidee Easy Fishing](https://www.nexusmods.com/stardewvalley/mods/4806)
 - [Deluxe Grabber Redux](https://www.nexusmods.com/stardewvalley/mods/7920)
 - [Play Prairie King With NPCs](https://www.nexusmods.com/stardewvalley/mods/12750)
+- [Seed Maker - Better quality more seeds](https://www.nexusmods.com/stardewvalley/mods/14236)
 
 ## QOL Changes
 
