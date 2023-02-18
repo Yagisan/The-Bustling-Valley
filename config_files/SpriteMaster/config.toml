@@ -417,6 +417,8 @@ DataStoreOverride = ""
 		[Config.Extras.Pathfinding]
 		# Should NPC Warp Points code be optimized?
 		OptimizeWarpPoints = true
+		# Should cross-thread optimizations be enabled?
+		EnableCrossThreadOptimizations = true
 		# Should gender-locked locations be honored?
 		HonorGenderLocking = true
 
@@ -437,8 +439,6 @@ DataStoreOverride = ""
 			Optimize = true
 			# Should advanced optimizations be enabled?
 			Advanced = true
-			# Should Vertex Buffer Objects be used?
-			UseVertexBufferObjects = false
 			# Should Index Buffer Objects be used?
 			UseIndexBufferObjects = true
 
