@@ -1,6 +1,6 @@
 # The Bustling Valley - Complete Modlist
 
-Last update **0.5.0**
+Last update **0.5.9**
 
 This is a complete list of all mods included in The Bustling Valley. The ordering is somewhat arbitrary and grouping matches my internal classification.
 
@@ -54,8 +54,6 @@ This list is only updated when mods are added or removed. If the version above d
 - [Yri the Architect](https://www.nexusmods.com/stardewvalley/mods/10627)
 - [Adventurer's Guild Expanded](https://www.nexusmods.com/stardewvalley/mods/12102)
   - [Adventurer's Guild Expanded - Music](https://www.nexusmods.com/stardewvalley/mods/12102)
-- [Sorren](https://www.nexusmods.com/stardewvalley/mods/4040)
-- [Seasonal Sorren (Slightly Cuter Character Sprites)](https://www.nexusmods.com/stardewvalley/mods/10853)
 - [The Wayfarer](https://www.nexusmods.com/stardewvalley/mods/4499)
 - [Custom Npc Nikolai](https://www.nexusmods.com/stardewvalley/mods/4882)
 - [Custom npc John](https://www.nexusmods.com/stardewvalley/mods/4500)
@@ -63,6 +61,7 @@ This list is only updated when mods are added or removed. If the version above d
 - [Ayeisha - The Postal Worker (Custom NPC)](https://www.nexusmods.com/stardewvalley/mods/6427)
 - [Morris Redeemed](https://www.nexusmods.com/stardewvalley/mods/12667)
 - [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120)
+- [Creative Differences - Rodney a new NPC for East Scarp](https://www.nexusmods.com/stardewvalley/mods/13437)
 
 ## Frameworks
 
@@ -286,3 +285,7 @@ This list is only updated when mods are added or removed. If the version above d
 - **Yagisan's - Coffee Maker Patch**
 - **Yagisan's - Snow-Covered Craftables Patch**
 - **Yagisan's - Yri the Architect Animation Patch**
+- **Yagisan's - LASV Bugfix Patches**
+- **Yagisan's - Mineral Town NPC - No Winter Star or Movie Invite Patch**
+- **Yagisan's - Love of Cooking PFM Glue**
+- **Yagisan's - TBV Event Limiter Glue**
