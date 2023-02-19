@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.5.9](#059)
   - [0.5.8](#058)
   - [0.5.7](#057)
   - [0.5.6](#056)
@@ -23,6 +24,47 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.5.9
+
+**Released:** `20 Feb 2023`
+
+### Info <!-- omit in toc -->
+
+The biggest, most player visible update in this release has to be the creation of **Yagisan's - TBV Event Limiter Glue**, and an upstream update of [Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735). Players will most likely experience a brief surge in events as the game starts catching up on some overdue events.
+
+There have been as expected by now, more NPC fixes, and in this release we have 2 new NPCs joining the valley. Keep an eye out for them.
+
+We have another round of SMAPI 4.0 code updates, and rounding it out is [SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922) with some measurable performance increases, and stability fixes.
+
+### Additions <!-- omit in toc -->
+
+- **Yagisan's - TBV Event Limiter Glue**
+- Added [Chelsea Reimagined](https://www.nexusmods.com/stardewvalley/mods/8810/?tab=files&file_id=42339)
+- Added [Chelsea - New Custom Datable NPC](https://www.nexusmods.com/stardewvalley/mods/8643/?tab=files&file_id=66252)
+- Added [Creative Differences - Rodney a new NPC for East Scarp](https://www.nexusmods.com/stardewvalley/mods/13437/?tab=files&file_id=66649)
+
+### Updates <!-- omit in toc -->
+
+- Updated [Alecto the Witch (new NPC)](https://www.nexusmods.com/stardewvalley/mods/10671/?tab=files&file_id=65657)
+- Updated [Better Mead Icons - BAGI Addon](https://www.nexusmods.com/stardewvalley/mods/11911/?tab=files&file_id=66724)
+- Updated [Better Ranching](https://www.nexusmods.com/stardewvalley/mods/859/?tab=files&file_id=66060)
+- Updated [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120/?tab=files&file_id=66438)
+- Updated [Crop Transplant Mod](https://www.nexusmods.com/stardewvalley/mods/2594/?tab=files&file_id=65971)
+- Updated [Custom Cask Mod](https://www.nexusmods.com/stardewvalley/mods/2642/?tab=files&file_id=66412)
+- Updated [Custom Gift Dialogue Utillity](https://www.nexusmods.com/stardewvalley/mods/7304/?tab=files&file_id=66668)
+- Updated [Custom npc John](https://www.nexusmods.com/stardewvalley/mods/4500/?tab=files&file_id=66679)
+- Updated [Dusty Overhaul](https://www.nexusmods.com/stardewvalley/mods/13057/?tab=files&file_id=66698)
+- Updated [Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735/?tab=files&file_id=66572)
+- Updated [Free Love](https://www.nexusmods.com/stardewvalley/mods/10021/?tab=files&file_id=66740)
+- Updated [Jorts and Jean the Helper Cats - New Custom NPCs](https://www.nexusmods.com/stardewvalley/mods/10950/?tab=files&file_id=66175)
+- Updated [Magical Family](https://www.nexusmods.com/stardewvalley/mods/5653/?tab=files&file_id=66644)
+- Updated [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536/?tab=files&file_id=66339)
+- Updated [Play Prairie King With NPCs](https://www.nexusmods.com/stardewvalley/mods/12750/?tab=files&file_id=65772)
+- Updated [Quest Framework](https://www.nexusmods.com/stardewvalley/mods/6414/?tab=files&file_id=66672)
+- Updated [Seed Maker - Better quality more seeds](https://www.nexusmods.com/stardewvalley/mods/14236/?tab=files&file_id=66680)
+- Updated [SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922/?tab=files&file_id=66532)
+- Updated [Custom npc Lyell](https://www.nexusmods.com/stardewvalley/mods/4499/?tab=files&file_id=66696)
 
 ## 0.5.8
 
