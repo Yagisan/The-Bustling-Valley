@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.5.10](#0510)
   - [0.5.9](#059)
   - [0.5.8](#058)
   - [0.5.7](#057)
@@ -24,6 +25,43 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.5.10
+
+**Released:** `6 Mar 2023`
+
+### Info <!-- omit in toc -->
+
+[Welcome to Mineral Town](https://www.nexusmods.com/stardewvalley/mods/13996) has had quite some updates. The NPC Mary was renamed to Marie. As a result the first time you load a save with this, you will get a message that says something like `Removed invalid villager` - this is safe to ignore. Unfortunately, you will need to meet and befriend them all over again.
+
+The other big change is that multiple maps from Mineral Town were updated, and while they work fine for a new game, existing games will need to do a little bit of work to fix the maps. After waking up and leaving your farmhouse, you will need to press the `V` key. You will get a popup. Select the following options:
+
+- Affect all locations
+- Bushes
+- Trees
+
+Then click on reset. Then click on the red X to quit. The maps will have been fixed.
+
+### Additions <!-- omit in toc -->
+
+- Added [Mapping Extensions and Extra Properties (MEEP)](https://www.nexusmods.com/stardewvalley/mods/14493/?tab=files&file_id=66849)
+
+### Updates <!-- omit in toc -->
+
+- Updated [Creative Differences - Rodney a new NPC for East Scarp](https://www.nexusmods.com/stardewvalley/mods/13437/?tab=files&file_id=67294)
+- Updated [Custom Npc Nikolai](https://www.nexusmods.com/stardewvalley/mods/4882/?tab=files&file_id=67093)
+- Updated [Welcome to Mineral Town](https://www.nexusmods.com/stardewvalley/mods/13996/?tab=files&file_id=66954)
+- Updated [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246/?tab=files&file_id=67401)
+- Updated [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120/?tab=files&file_id=66831)
+- Updated [Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626/?tab=files&file_id=66993)
+- Updated [Custom npc John](https://www.nexusmods.com/stardewvalley/mods/4500/?tab=files&file_id=67010)
+- Updated [DaisyNiko's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/4736/?tab=files&file_id=67031)
+- Updated [Event Lookup Locations](https://www.nexusmods.com/stardewvalley/mods/13569/?tab=files&file_id=67413)
+- Updated [Farmer Helper](https://www.nexusmods.com/stardewvalley/mods/10179/?tab=files&file_id=66909)
+- Updated [Immersive Sandy](https://www.nexusmods.com/stardewvalley/mods/13609/?tab=files&file_id=67468)
+- Updated [Magical Family](https://www.nexusmods.com/stardewvalley/mods/5653/?tab=files&file_id=67092)
+- Updated [Custom npc Lyell](https://www.nexusmods.com/stardewvalley/mods/4499/?tab=files&file_id=67091)
+- Updated [Wilford - New Custom NPC](https://www.nexusmods.com/stardewvalley/mods/7313/?tab=files&file_id=67285)
 
 ## 0.5.9
 
