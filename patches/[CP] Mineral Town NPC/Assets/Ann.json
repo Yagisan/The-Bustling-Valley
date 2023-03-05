@@ -95,7 +95,7 @@
             "Action": "EditData",
             "Target": "Data/CustomNPCExclusions",
             "Entries": {
-              "Ann": "WinterStar MovieInvite"
+                "Ann": "WinterStar MovieInvite"
             }
         }
     ]

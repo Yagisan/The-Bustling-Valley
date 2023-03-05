@@ -18,7 +18,7 @@
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "Saibara": "Mmm, I'm grateful. You've got real respect for your elders, kid. Thanks for thinking of an old-timer like me. Gray could learn a thing or two from you./24 72 199 218 219/Well, thank you. I'll happily take it./233 194/Urk...! You want me to take that? Can't say it does anything for me.../211 216 220 221 223 232 233 247 398 400 832/Just what are you trying to pull?! Ugh. Kids these days need to mind their manners./219/Thank you.//,"
+                "Saibara": "Mmm, I'm grateful. You've got real respect for your elders, kid. Thanks for thinking of an old-timer like me. Gray could learn a thing or two from you./24 72 199 218 219/Well, thank you. I'll happily take it./233 194/Urk...! You want me to take that? Can't say it does anything for me.../211 216 220 221 223 232 233 247 398 400 832/Just what are you trying to pull?! Ugh. Kids these days need to mind their mSaibaraers./219/Thank you.//,"
             }
         },
         //------------------------
@@ -72,7 +72,7 @@
             "Action": "EditData",
             "Target": "Data/animationDescriptions",
             "Entries": {
-                "Saibara_sleep": "16/16 16 16 17 17 17 18 18 18 16 16 16/16",
+                "Saibara_sleep": "16/16 16 16 17 17 17 18 18 18 19 19 19/19",
                 "Saibara_work": "20/20 20 20 21 21 21 20 20 20/20",
             }
         },
@@ -85,7 +85,7 @@
             "Action": "EditData",
             "Target": "Data/CustomNPCExclusions",
             "Entries": {
-              "Saibara": "WinterStar MovieInvite"
+                "Saibara": "WinterStar MovieInvite"
             }
         }
     ]

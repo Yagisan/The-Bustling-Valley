@@ -65,6 +65,17 @@
             "FromFile": "Assets/Schedules/Zack/Schedule.json"
         },
         //------------------------
+        // Animation & Animation strings             	
+        //------------------------
+        {
+            "LogName": "Animations",
+            "Action": "EditData",
+            "Target": "Data/animationDescriptions",
+            "Entries": {
+                "Zack_sleep": "16/16/16"
+            }
+        },
+        //------------------------
         // Special Event Exclusions
         // Exclude from Winter Star and Movie Invites by default.
         //------------------------
@@ -73,7 +84,7 @@
             "Action": "EditData",
             "Target": "Data/CustomNPCExclusions",
             "Entries": {
-              "Zack": "WinterStar MovieInvite"
+                "Zack": "WinterStar MovieInvite"
             }
         }
     ]

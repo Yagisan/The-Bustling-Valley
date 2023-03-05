@@ -8,7 +8,7 @@
             "Action": "EditData",
             "Target": "Data/NPCDispositions",
             "Entries": {
-                "Kai": "teen/neutral/outgoing/positive/male/datable/Popuri/other/summer 22/null/Custom_HM_SnackShack 2 4 2/Kai"
+                "Kai": "teen/neutral/outgoing/positive/male/datable/Popuri/other/summer 22/null/Custom_HM_KaiBed 2 4 2/Kai"
             }
         },
         //------------------------
@@ -84,7 +84,7 @@
             "Action": "EditData",
             "Target": "Data/CustomNPCExclusions",
             "Entries": {
-              "Kai": "WinterStar MovieInvite"
+                "Kai": "WinterStar MovieInvite"
             }
         }
     ]

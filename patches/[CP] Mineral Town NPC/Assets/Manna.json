@@ -72,8 +72,7 @@
             "Action": "EditData",
             "Target": "Data/animationDescriptions",
             "Entries": {
-                "Manna_sleep": "48/48/48",
-                "Manna_drink": "16/16 16 16 17 17 17 18 18 18 16 16 16/16",
+                "Manna_sleep": "52/52/52"
             }
         },
         //------------------------
@@ -85,7 +84,7 @@
             "Action": "EditData",
             "Target": "Data/CustomNPCExclusions",
             "Entries": {
-              "Manna": "WinterStar MovieInvite"
+                "Manna": "WinterStar MovieInvite"
             }
         }
     ]

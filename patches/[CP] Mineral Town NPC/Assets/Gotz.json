@@ -73,7 +73,7 @@
             "Target": "Data/animationDescriptions",
             "Entries": {
                 "Gotz_sleep": "48/48/48",
-                "Gotz_work": "16/16 16 16 17 17 17 18 18 18 18 19 19 19 20 20 20 16 16 16/16",
+                "Gotz_work": "16/16 17 18 19 20 20 20 20 16 17 18 19 20 16 16 16 16 16 16 16 16 16 16/16",
             }
         },
         //------------------------
@@ -85,7 +85,7 @@
             "Action": "EditData",
             "Target": "Data/CustomNPCExclusions",
             "Entries": {
-              "Gotz": "WinterStar MovieInvite"
+                "Gotz": "WinterStar MovieInvite"
             }
         }
     ]

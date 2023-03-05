@@ -8,7 +8,7 @@
             "Action": "EditData",
             "Target": "Data/NPCDispositions",
             "Entries": {
-                "Won": "adult/neutral/outgoing/neutral/male/not-datable/null/other/winter 19/Zack 'friend'/Custom_HM_ZackHouse 17 8 2/Won"
+                "Won": "adult/neutral/outgoing/neutral/male/not-datable/null/other/winter 19/Zack 'friend'/Custom_HM_ZackHouse 17 9 3/Won"
             }
         },
         //------------------------
@@ -72,8 +72,8 @@
             "Action": "EditData",
             "Target": "Data/animationDescriptions",
             "Entries": {
-                "Won_sleep": "48/48/48",
-                "Won_reading": "16/16 16 16 17 17 17 18 18 18/17"
+                "Won_sleep": "52/52/52",
+                "Won_reading": "16/17 17 17 17 17 17 17 17 17 17 18 18 18 18 18 18 18 18 18 18/16"
             }
         },
         //------------------------
@@ -85,7 +85,7 @@
             "Action": "EditData",
             "Target": "Data/CustomNPCExclusions",
             "Entries": {
-              "Won": "WinterStar MovieInvite"
+                "Won": "WinterStar MovieInvite"
             }
         }
     ]

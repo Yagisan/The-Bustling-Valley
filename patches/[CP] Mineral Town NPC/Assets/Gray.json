@@ -8,7 +8,7 @@
       "Action": "EditData",
       "Target": "Data/NPCDispositions",
       "Entries": {
-        "Gray": "teen/rude/neutral/negative/male/datable/Mary/other/winter 6/Saibara 'grandpa'/Custom_HM_InnSecFloor 21 19 3/Gray"
+        "Gray": "teen/rude/neutral/negative/male/datable/Mary/other/winter 6/Saibara 'grandpa'/Custom_HM_InnSecFloor 27 6 3/Gray"
       }
     },
     //------------------------
@@ -35,13 +35,13 @@
       "Action": "Load",
       "Target": "Portraits/Gray_Beach",
       "FromFile": "Assets/Portraits/Gray/Gray_Beach.png"
-  },
-  {
+    },
+    {
       "LogName": "Gray Beach Wear Sprite",
       "Action": "Load",
       "Target": "Characters/Gray_Beach",
       "FromFile": "Assets/Characters/Gray/Gray_Beach.png"
-  },
+    },
     //------------------------
     // Load blank
     //------------------------
@@ -72,20 +72,20 @@
       "Action": "EditData",
       "Target": "Data/animationDescriptions",
       "Entries": {
-        "Gray_sleep": "48/48/48",
+        "Gray_sleep": "48/48/48"
       }
     },
-        //------------------------
-        // Special Event Exclusions
-        // Exclude from Winter Star and Movie Invites by default.
-        //------------------------
-        {
-          "LogName": "Custom NPC Exclusions",
-          "Action": "EditData",
-          "Target": "Data/CustomNPCExclusions",
-          "Entries": {
-            "Gray": "WinterStar MovieInvite"
-          }
+    //------------------------
+    // Special Event Exclusions
+    // Exclude from Winter Star and Movie Invites by default.
+    //------------------------
+    {
+      "LogName": "Custom NPC Exclusions",
+      "Action": "EditData",
+      "Target": "Data/CustomNPCExclusions",
+      "Entries": {
+        "Gray": "WinterStar MovieInvite"
       }
+    }
   ]
 }

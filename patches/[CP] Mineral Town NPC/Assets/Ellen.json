@@ -72,7 +72,16 @@
             "Action": "EditData",
             "Target": "Data/animationDescriptions",
             "Entries": {
-                "Ellen_chairsleep": "16/16 16 16 17 17 17 18 18 18 19 19 19 16 16 16/16",
+                "Ellen_sleep": "16/16 16 16 17 17 17 18 18 18 19 19 19 16 16 16/16",
+                "Ellen_nap": "16/16 16 16 17 17 17 18 18 18 19 19 19 16 16 16/16/Strings\\animationDescriptions:Ellen_nap"
+            }
+        },
+        {
+            "LogName": "Animation strings",
+            "Action": "EditData",
+            "Target": "Strings/animationDescriptions",
+            "Entries": {
+                "Ellen_nap": "Zzz..."
             }
         },
         //------------------------
@@ -84,7 +93,7 @@
             "Action": "EditData",
             "Target": "Data/CustomNPCExclusions",
             "Entries": {
-              "Ellen": "WinterStar MovieInvite"
+                "Ellen": "WinterStar MovieInvite"
             }
         }
     ]

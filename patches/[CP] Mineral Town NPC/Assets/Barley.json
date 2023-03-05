@@ -72,7 +72,7 @@
             "Action": "EditData",
             "Target": "Data/animationDescriptions",
             "Entries": {
-                "Barley_sleep": "48/48/48",
+                "Barley_sleep": "52/52/52",
             }
         },
         //------------------------
@@ -84,7 +84,7 @@
             "Action": "EditData",
             "Target": "Data/CustomNPCExclusions",
             "Entries": {
-              "Barley": "WinterStar MovieInvite"
+                "Barley": "WinterStar MovieInvite"
             }
         }
     ]

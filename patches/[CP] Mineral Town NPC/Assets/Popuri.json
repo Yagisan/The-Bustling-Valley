@@ -84,7 +84,7 @@
             "Action": "EditData",
             "Target": "Data/CustomNPCExclusions",
             "Entries": {
-              "Popuri": "WinterStar MovieInvite"
+                "Popuri": "WinterStar MovieInvite"
             }
         }
     ]

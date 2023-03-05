@@ -8,7 +8,7 @@
             "Action": "EditData",
             "Target": "Data/NPCDispositions",
             "Entries": {
-                "Cliff": "teen/neutral/shy/negative/male/datable/Ann/other/summer 6/Carter 'friend'/Custom_HM_InnSecFloor 1 5 1/Cliff"
+                "Cliff": "teen/neutral/shy/negative/male/datable/Ann/other/summer 6/Carter 'friend'/Custom_HM_InnSecFloor 19 6 1/Cliff"
             }
         },
         //------------------------
@@ -72,7 +72,7 @@
             "Action": "EditData",
             "Target": "Data/animationDescriptions",
             "Entries": {
-                "Cliff_sleep": "48/48/48",
+                "Cliff_sleep": "52/52/52",
             }
         },
         //------------------------
@@ -84,7 +84,7 @@
             "Action": "EditData",
             "Target": "Data/CustomNPCExclusions",
             "Entries": {
-              "Cliff": "WinterStar MovieInvite"
+                "Cliff": "WinterStar MovieInvite"
             }
         }
     ]

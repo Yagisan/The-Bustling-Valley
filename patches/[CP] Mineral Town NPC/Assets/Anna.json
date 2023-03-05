@@ -72,7 +72,7 @@
             "Action": "EditData",
             "Target": "Data/animationDescriptions",
             "Entries": {
-                "Anna_sleep": "48/48/48",
+                "Anna_sleep": "52/52/52",
             }
         },
         //------------------------
@@ -84,7 +84,7 @@
             "Action": "EditData",
             "Target": "Data/CustomNPCExclusions",
             "Entries": {
-              "Anna": "WinterStar MovieInvite"
+                "Anna": "WinterStar MovieInvite"
             }
         }
     ]

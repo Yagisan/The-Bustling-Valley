@@ -73,7 +73,7 @@
             "Target": "Data/animationDescriptions",
             "Entries": {
                 "Karen_sleep": "48/48/48",
-                "Karen_drink": "16/16 16 16 17 17 17 18 18 18 19 19 19 20 20 20 16 16 16/16",
+                "Karen_drink": "16/16 16 17 18 19 20 20 20 20 20 20 20 20 20 20 19 18 17 16 16 16 16 16 16 16 16 16/16",
             }
         },
         //------------------------
@@ -85,7 +85,7 @@
             "Action": "EditData",
             "Target": "Data/CustomNPCExclusions",
             "Entries": {
-              "Karen": "WinterStar MovieInvite"
+                "Karen": "WinterStar MovieInvite"
             }
         }
     ]

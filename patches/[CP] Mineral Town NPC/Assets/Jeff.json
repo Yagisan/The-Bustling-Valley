@@ -72,8 +72,8 @@
             "Action": "EditData",
             "Target": "Data/animationDescriptions",
             "Entries": {
-                "Jeff_sleep": "48/48/48",
-                "Jeff_work": "16/16 16 16 17 17 17 18 18 18 19 19 19 20 20 20 21 21 21 22 22 22 23 23 23 24 24 24 25 25 25 26 26 26 27 27 27/16/Strings\\animationDescriptions:Jeff_work",
+                "Jeff_sleep": "52/52/52",
+                "Jeff_work": "16/16 17 18 19 20 21 22 23 24 25 26 27/16/Strings\\animationDescriptions:Jeff_work",
             }
         },
         {
@@ -93,7 +93,7 @@
             "Action": "EditData",
             "Target": "Data/CustomNPCExclusions",
             "Entries": {
-              "Jeff": "WinterStar MovieInvite"
+                "Jeff": "WinterStar MovieInvite"
             }
         }
     ]

@@ -72,7 +72,7 @@
             "Action": "EditData",
             "Target": "Data/animationDescriptions",
             "Entries": {
-                "Sasha_sleep": "48/48/48",
+                "Sasha_sleep": "52/52/52",
             }
         },
         //------------------------
@@ -84,7 +84,7 @@
             "Action": "EditData",
             "Target": "Data/CustomNPCExclusions",
             "Entries": {
-              "Sasha": "WinterStar MovieInvite"
+                "Sasha": "WinterStar MovieInvite"
             }
         }
     ]

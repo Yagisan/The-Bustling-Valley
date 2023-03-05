@@ -73,7 +73,7 @@
             "Target": "Data/animationDescriptions",
             "Entries": {
                 "Doug_sleep": "48/48/48",
-                "Doug_work": "16/16 16 16 17 17 17 18 18 18 17 17 17/16/Strings\\animationDescriptions:Doug_work",
+                "Doug_work": "16/16 16 17 17 18 18 17 17/16/Strings\\animationDescriptions:Doug_work",
             }
         },
         {
@@ -93,7 +93,7 @@
             "Action": "EditData",
             "Target": "Data/CustomNPCExclusions",
             "Entries": {
-              "Doug": "WinterStar MovieInvite"
+                "Doug": "WinterStar MovieInvite"
             }
         }
     ]

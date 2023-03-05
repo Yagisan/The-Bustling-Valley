@@ -8,7 +8,7 @@
             "Action": "EditData",
             "Target": "Data/NPCDispositions",
             "Entries": {
-                "Mary": "teen/polite/shy/neutral/female/datable/Gray/other/winter 20/Basil 'dad' Anna 'mother' Penny 'friend'/Custom_HM_LibraryHouseSecFloor 18 12 3/Mary"
+                "Marie": "teen/polite/shy/neutral/female/datable/Gray/other/winter 20/Basil 'dad' Anna 'mother' Penny 'friend'/Custom_HM_LibraryHouseSecFloor 18 12 3/Marie"
             }
         },
         //------------------------
@@ -18,36 +18,36 @@
             "Action": "EditData",
             "Target": "Data/NPCGiftTastes",
             "Entries": {
-                "Mary": "Wow, I love this! Thank you. I'll happily accept it./223 350 422 614/Whoa, I'm so happy! I like these./852 376 203 873 771 815/Uh, sorry. These really aren't my favorite.../232 423 905/Umm, what is this?/346/Thanks, @./403 305 -2/,"
+                "Marie": "Wow, I love this! Thank you. I'll happily accept it./223 350 422 614/Whoa, I'm so happy! I like these./852 376 203 873 771 815/Uh, sorry. These really aren't my favorite.../232 423 905/Umm, what is this?/346/Thanks, @./403 305 -2/,"
             }
         },
         //------------------------
         // Portraits & Sprite              	
         //------------------------
         {
-            "LogName": "Mary Portraits & Sprite",
+            "LogName": "Marie Portraits & Sprite",
             "Action": "Load",
-            "Target": "Portraits/Mary, Characters/Mary",
+            "Target": "Portraits/Marie, Characters/Marie",
             "FromFile": "Assets/{{Target}}/{{TargetWithoutPath}}.png"
         },
         {
-            "LogName": "Mary Beach Wear Portrait",
+            "LogName": "Marie Beach Wear Portrait",
             "Action": "Load",
-            "Target": "Portraits/Mary_Beach",
-            "FromFile": "Assets/Portraits/Mary/Mary_Beach.png"
+            "Target": "Portraits/Marie_Beach",
+            "FromFile": "Assets/Portraits/Marie/Marie_Beach.png"
         },
         {
-            "LogName": "Mary Beach Wear Sprite",
+            "LogName": "Marie Beach Wear Sprite",
             "Action": "Load",
-            "Target": "Characters/Mary_Beach",
-            "FromFile": "Assets/Characters/Mary/Mary_Beach.png"
+            "Target": "Characters/Marie_Beach",
+            "FromFile": "Assets/Characters/Marie/Marie_Beach.png"
         },
         //------------------------
         // Load blank
         //------------------------
         {
             "Action": "Load",
-            "Target": "Characters/Dialogue/Mary, Characters/schedules/Mary",
+            "Target": "Characters/Dialogue/Marie, Characters/schedules/Marie",
             "FromFile": "Assets/blank.json"
         },
         //------------------------
@@ -55,14 +55,14 @@
         //------------------------
         {
             "Action": "Include",
-            "FromFile": "Assets/Dialogues/Mary/Dialogues.json"
+            "FromFile": "Assets/Dialogues/Marie/Dialogues.json"
         },
         //------------------------
         // Schedule              	
         //------------------------
         {
             "Action": "Include",
-            "FromFile": "Assets/Schedules/Mary/Schedule.json"
+            "FromFile": "Assets/Schedules/Marie/Schedule.json"
         },
         //------------------------
         // Animation & Animation strings             	
@@ -72,8 +72,8 @@
             "Action": "EditData",
             "Target": "Data/animationDescriptions",
             "Entries": {
-                "Mary_sleep": "48/48/48",
-                "Mary_reading": "16/16 16 16 17 17 17 18 18 18 19 19 19 18 18 18/18"
+                "Marie_sleep": "52/52/52",
+                "Marie_reading": "16/18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 18 19 19 19 19 19 19 19 19/18"
             }
         },
         //------------------------
@@ -85,7 +85,7 @@
             "Action": "EditData",
             "Target": "Data/CustomNPCExclusions",
             "Entries": {
-              "Mary": "WinterStar MovieInvite"
+                "Mary": "WinterStar MovieInvite"
             }
         }
     ]

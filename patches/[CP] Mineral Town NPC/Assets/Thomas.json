@@ -72,7 +72,7 @@
             "Action": "EditData",
             "Target": "Data/animationDescriptions",
             "Entries": {
-                "Thomas_sleep": "24/24/24",
+                "Thomas_sleep": "20/20/20",
             }
         },
         //------------------------
@@ -84,7 +84,7 @@
             "Action": "EditData",
             "Target": "Data/CustomNPCExclusions",
             "Entries": {
-              "Thomas": "WinterStar MovieInvite"
+                "Thomas": "WinterStar MovieInvite"
             }
         }
     ]
