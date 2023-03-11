@@ -30,7 +30,7 @@
   "ShowNotices": true,
   "NoticesShowAnniversaries": true,
   "NoticesShowFestivals": true,
-  "NoticesShowGathering": true,
+  "NoticesShowGathering": false,
   "NoticesShowMerchant": "Visit",
   "NoticesShowTrains": false
 }
