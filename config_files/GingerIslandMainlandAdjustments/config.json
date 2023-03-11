@@ -11,7 +11,7 @@
   "AllowWilly": "Yes",
   "AllowSandy": "Yes",
   "AllowGeorgeAndEvelyn": true,
-  "AllowWizard": "IfMarried",
+  "AllowWizard": "Yes",
   "ScheduleStrictness": {
     "Ayeisha": "Default",
     "George": "Default",
