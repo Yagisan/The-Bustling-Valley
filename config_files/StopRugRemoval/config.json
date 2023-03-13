@@ -393,7 +393,18 @@
     "Custom_FerngillNationalLibrary": "Dynamic",
     "Custom_LibraryExterior": "Dynamic",
     "Custom_RodneysHouse": "Dynamic",
-    "Custom_DinnerSceneChelsea": "Dynamic"
+    "Custom_DinnerSceneChelsea": "Dynamic",
+    "Custom_HM_KaiBed": "Dynamic",
+    "Custom_HM_SecChurchFloor": "Dynamic",
+    "Custom_HM_ConfessionBox": "Dynamic",
+    "Custom_BusInterior": "Dynamic",
+    "Custom_Ridgeside_RidgesideVillage_CookOff": "Dynamic",
+    "Custom_Ridgeside_RidgesideVillage_Fashion": "Dynamic",
+    "Custom_Ridgeside_PurpleMansion_Ball": "Dynamic",
+    "Custom_Ridgeside_AmethyneCorp": "Dynamic",
+    "Custom_Ridgeside_AmethyneJewelry": "Dynamic",
+    "Custom_Ridgeside_AmethyneMine": "Dynamic",
+    "Custom_JuneNPC_ResortDate": "Dynamic"
   },
   "EditElliottEvent": true,
   "RemoveDuplicateNPCs": false
