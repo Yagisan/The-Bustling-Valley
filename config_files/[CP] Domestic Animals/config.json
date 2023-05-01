@@ -1,17 +1,20 @@
 {
   "Allow Domestic Animals": "true",
   "Allow Dusty to free-roam": "false",
+  "Allow random animals running loose": "true",
   "Edit Dusty's dog house": "false",
+  "Enable spawn at day start": "true",
   "Give Leah pet rabbits": "true",
   "Give Marnie a rooster": "true",
   "Give Willy a pet cat": "true",
   "Give the witch cat slimes": "true",
   "Give the wizard a companion": "true",
-  "Load a cat in the town": "true",
+  "Load stray cats": "true",
+  "Load stray dogs": "true",
   "Load Abigail's pet guinea changes": "true",
+  "Load Abigail's pet guinea bedding": "petbed",
   "Load Charlie the Chicken": "true",
   "Load Emily's parrot changes": "true",
   "Load more animals in Marnie's barn": "true",
-  "Load shadow pups": "true",
-  "Load stray dogs": "true"
+  "Load shadow pups": "true"
 }

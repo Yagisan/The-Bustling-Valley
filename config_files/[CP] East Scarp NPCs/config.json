@@ -1,7 +1,8 @@
 {
   "EnableSpecialOrders": "true",
   "KatarynaDatability": "true",
-  "AllowNagito": "false",
+  "TrentonFamilyDrama": "true",
   "FriendableAnimals": "EmperorDuck, EmpressDuck, LadyShebaCat",
-  "RivalHearts": ""
+  "RivalHearts": "",
+  "AllowNagito": "false"
 }
