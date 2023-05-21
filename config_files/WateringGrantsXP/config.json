@@ -3,7 +3,7 @@
   "WateringChanceToGetXP": 100,
   "ForageSeedWateringGrantsForagingXP": false,
   "CropsCanDieWithoutWater": true,
-  "DaysWithoutWaterForChanceToDie": 5,
+  "DaysWithoutWaterForChanceToDie": 3,
   "ChanceToDieWhenLeftForTooLong": 100,
-  "CantRefillCanWithSaltWater": false
+  "CantRefillCanWithSaltWater": true
 }
