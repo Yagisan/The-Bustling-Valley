@@ -2,7 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
-  - [0.6.0-alpha.1](#060-alpha1)
+  - [0.6.0](#060)
 
 ## Semantic Versioning
 
@@ -16,11 +16,11 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
 
-## 0.6.0-alpha.1
+## 0.6.0
 
-Initial public release.
+**Released:** `13 Jun 2023`
 
-**Released:** `22 May 2023`
+Initial public release. Rebuilt the entire list.
 
 ### Info <!-- omit in toc -->
 
