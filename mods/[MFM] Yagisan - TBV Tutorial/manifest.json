@@ -1,0 +1,20 @@
+{
+  "$schema": "https://smapi.io/schemas/manifest.json",
+  "Name": "[MFM] Yagisan - TBV Tuorial",
+  "Author": "Yagisan",
+  "Version": "1.0.0",
+  "Description": "The Bustling Valley Tutorial Mail",
+  "UniqueID": "Yagisan.TBVTutorialMail",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "DIGUS.MailFrameworkMod",
+    "MinimumVersion": "1.15.0"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "DIGUS.MailFrameworkMod",
+      "IsRequired": true
+    }
+  ]
+}
