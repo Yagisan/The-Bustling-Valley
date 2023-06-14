@@ -21,7 +21,7 @@
         "Id": "TBVTutorialMail.Waterbot",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Waterbot",
-        "Text": "To activate the waterbot, equip your watering can. Then select a crop and right click on it.^^Your farmer will then calculate the most optimal path for watering, and begin watering all your crops.^^Your farmer will automatically stop if you run out of energy, if the farmer gets blocked and can not reach any more crops, if it is unable to fill the watering can, or if it has water all the crops.^^The farmer will refill the watering can if there is an available river, pond, fishpond or well nearby.^^The waterbot will not water larger areas if you upgrade the watering can, however will benefit from the reduced stamina costs.^^ - Yagisan",
+        "Text": "To activate the waterbot, equip your watering can. Then select a crop and right click on it.^^Your farmer will then calculate the most optimal path for watering, and begin watering all your crops.^^Your farmer will automatically stop if you run out of energy, if the farmer gets blocked and can not reach any more crops, if it is unable to fill the watering can, or if it has watered all the crops.^^The farmer will refill the watering can if there is an available river, pond, fishpond or well nearby.^^The waterbot will not water larger areas if you upgrade the watering can, however will benefit from the reduced stamina costs.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -130,15 +130,6 @@
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Skills - Binning",
         "Text": "A new skill, binning has been added.^^Recycler (Lv5) - Cheaper cost to craft recycling machines.^^Environmentalist (Lv10) - Gain friendship from recycling trash.^^Salvager (Lv10) - Get better output from recycling machines.^^Sneak (Lv5) - Never get caught digging through trash cans.^^Upseller (Lv10) - Villagers never hate gifts, even trash.^^Reclaimer (Lv10) - Extra value when trashing items.^^This skill is affected by the Statue of Prestige.^^ - Yagisan",
-        "Date": "1 spring Y1",
-        "Repeatable": false,
-        "AutoOpen": false
-    },
-    {
-        "Id": "TBVTutorialMail.SkillsSocializing",
-        "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Skills - Socializing",
-        "Text": "A new skill, socializing has been added.^^Friendly (Lv5) - Gain additional friendship from talking to villagers.^^Smooth Talker (Lv10) - Gain more friendship (or lose less) during heart events.^^Gifter (Lv10) - Gain additional friendship from giving gifts.^^Helpful (Lv5) - Gain extra quest rewards.^^Haggler (Lv10) - Get a discount at shops when you are friends with the owner.^^Beloved (Lv10) - Sometimes get gifts from your friends.^^This skill is affected by the Statue of Prestige.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -270,10 +261,55 @@
         "AutoOpen": false
     },
     {
-        "Id": "TBVTutorialMail.FarmersChildren1",
+        "Id": "TBVTutorialMail.FarmersChildren2",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Naming Children",
         "Text": "Because in TBV your children will grow up to become actual NPCs, they have some special name requirements. You CAN NOT include a space anywhere in their name. You will break the game if you do.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.AlternativeTextures1",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Paint Bucket Tool",
+        "Text": "In TBV it is possible to change the selected texture on most placed objects, furniture, buildings and decorations (wallpapers / floors). You do this by enabling the paint bucket tool, and left clicking on the object.^^If addtional textures are available, a menu will appear for you to select the one you like.^^Buy the Paint Bucket Tool from Robin.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.AlternativeTextures2",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Paint Brush Tool",
+        "Text": "In TBV it is possible to copy the selected texture from one object to another. You do this by enabling the paint brush tool, and right clicking on the object to copy, then left clicking on the object to paste.^^Buy the Paint Brush Tool from Robin.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.AlternativeTextures3",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Scissors Tool",
+        "Text": "In TBV it is possible to change the selected texture on pets, animals, and toddlers.  You do this by enabling the scissors tool, and left clicking on the object.^^If addtional textures are available, a menu will appear for you to select the one you like.^^Buy the Scissors from Robin.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.AlternativeTextures4",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Spray Can Tool",
+        "Text": "In TBV it is possible apply random textures to most objects (excluding buildings and characters). You do this by enabling the spray can tool, right click to open a menu and select some random textures, then left click to start applying a random texture to objects.^^Buy the Spray Can from Robin.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.LASV1",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Unlocking Umuwi",
+        "Text": "In TBV there are two possible route to access Umuwi. At some point, the Wizard will ask you if you intend to pursue Luuna romantically.^^If you choose YES, you must complete the romance to go to Umumi.^^If you choose NO, you get to Umuwi much quicker, but miss out on events with Lunna.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
