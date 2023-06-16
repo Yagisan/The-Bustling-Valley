@@ -32,6 +32,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - In-Game Tutorial Updated.
 - Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
 - Updated [A Cleaner Sewer](https://www.nexusmods.com/stardewvalley/mods/5751)
+- Updated [Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)
 
 ### Removals <!-- omit in toc -->
 
