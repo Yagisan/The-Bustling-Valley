@@ -33,6 +33,17 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
 - Updated [A Cleaner Sewer](https://www.nexusmods.com/stardewvalley/mods/5751)
 - Updated [Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)
+- Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
+- Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
+- Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
+- Updated [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)
+- Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+- Updated [NPC Location Compass](https://www.nexusmods.com/stardewvalley/mods/3045)
+- Updated [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)
+- Updated [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
+- Updated [Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)
+- Updated [Clint Rewritten](https://www.nexusmods.com/stardewvalley/mods/15830)
 
 ### Removals <!-- omit in toc -->
 
