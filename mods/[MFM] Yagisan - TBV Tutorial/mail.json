@@ -313,5 +313,14 @@
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.SitnRest",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Resting",
+        "Text": "Did you know in TBV you can sit down on chairs to recover energy?^^It's not as fast as eating food, or using a hot spring, but if you need to, why not sit and have a rest.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
     }
 ]
