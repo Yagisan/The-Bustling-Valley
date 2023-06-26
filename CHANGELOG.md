@@ -19,7 +19,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.6.1
 
-**Released:** `DD MMM 2023`
+**Released:** `27 Jun 2023`
 
 ### Info <!-- omit in toc -->
 
