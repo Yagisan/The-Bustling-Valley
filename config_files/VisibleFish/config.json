@@ -5,7 +5,7 @@
   "TrashOutside": false,
   "TrashFarm": false,
   "DisableTrashLvl10": true,
-  "DrawItemShadows": false,
+  "DrawItemShadows": true,
   "ShowTreasure": true,
   "RotateAlgae": false,
   "FilterEels": false
