@@ -1,6 +1,6 @@
 # The Bustling Valley
 
-![TBV_Title_Card](assets/images/TBV_Title.webp)
+![TBV_Title_Card](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/TBV_Title.webp)
 
 ![Latest Version](https://img.shields.io/badge/dynamic/json?label=Latest%20version&query=%24%5B%3F%28%40.links.machineURL%3D%3D%22tbv%22%29%5D.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwabbajack-tools%2Fmod-lists%2Fmaster%2Fmodlists.json&style=for-the-badge)![GitHub all releases](https://img.shields.io/github/downloads/Yagisan/The-Bustling-Valley/total?logo=GitHub&style=for-the-badge)![GitHub issues](https://img.shields.io/github/issues/Yagisan/The-Bustling-Valley?logo=GitHub&style=for-the-badge)![Discord](https://img.shields.io/discord/958710541017317397?label=Yagisan%27s%20Discord&logo=discord&style=for-the-badge)
 
@@ -10,9 +10,9 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
 
 **The Bustling Valley will not start if you have special characters such as `(){}[],;=&|><` - you will need to install to a new location without those characters**
 
-![Early_Farm_Heroshot](assets/images/Early_Farm_Heroshot.png)
+![Early_Farm_Heroshot](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/Early_Farm_Heroshot.png)
 
- | [![patreon](assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) | [![ko-fi](assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan) | [![Discord Banner 2](https://discordapp.com/api/guilds/958710541017317397/widget.png?style=banner2)](https://discord.gg/rB5RFgHhUD) |
+ | [![patreon](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/become_a_patron_button.png)](https://patreon.com/yagisan) | [![ko-fi](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/support_on_kofi_button.png)](https://ko-fi.com/yagisan) | [![Discord Banner 2](https://discordapp.com/api/guilds/958710541017317397/widget.png?style=banner2)](https://discord.gg/rB5RFgHhUD) |
 | - | - | - |
 
 - [The Bustling Valley](#the-bustling-valley)
@@ -119,7 +119,7 @@ As Stardew Valley 1.5.5 and later is now a 64 bit release, you must install the 
 
 #### Disable the Steam Cloud
 
-![Steam_General_Settings](assets/images/Steam_General_Settings.png)
+![Steam_General_Settings](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/Steam_General_Settings.png)
 
 Open the Properties window (right click the game in your Library -> Properties), navigate to the _General_ tab and un-tick the _Keep games saves in the Steam Cloud_.
 
@@ -127,7 +127,7 @@ Open the Properties window (right click the game in your Library -> Properties),
 
 #### Disable the Gog Galaxy Cloud
 
-![Galaxy_General_Settings](assets/images/Galaxy_General_Settings.png)
+![Galaxy_General_Settings](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/Galaxy_General_Settings.png)
 
 Open the Configure window (right click the game in Installed -> Manage installation -> Configure), navigate to _Features_ and un-tick _Sync local saves with the GOG Galaxy Cloud_.
 
@@ -139,11 +139,11 @@ This modlist is in English, and most of the mods you find are in English. **I ca
 
 Start the game using the game shortcut or Steam / GoG Galaxy launcher. Find the language options icon on the main menu.
 
-![Stardew_Language_Icon](assets/images/Stardew_Language_Icon.png)
+![Stardew_Language_Icon](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/Stardew_Language_Icon.png)
 
 From the menu that appears, select English, the exit the game via the main menu.
 
-![Stardew_Language_Settings](assets/images/Stardew_Language_Settings.png)
+![Stardew_Language_Settings](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/Stardew_Language_Settings.png)
 
 ### Using Wabbajack
 
@@ -218,11 +218,9 @@ Updating is like installing. You only have to make sure that you select the same
 
 **[Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)** adds a new village, a special quest, new crops, fish and more.
 
-**[Welcome to Mineral Town](https://www.nexusmods.com/stardewvalley/mods/13996)** adds a re-imagined version of a place familiar to many players. **Under development and may be buggy**
-
 ## Skills and Professions
 
-**[Walk Of Life - A Professions Overhaul](https://www.nexusmods.com/stardewvalley/mods/8111)** a complete professions overhaul. **Please note this has been hidden on Nexus, and will be removed entirely in a future update.**
+**[MARGO -- Modular Gameplay Overhaul](https://www.nexusmods.com/stardewvalley/mods/14470)** a complete professions overhaul.
 
 **[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)** adds a new cooking skill, and a reason to use it.
 
@@ -248,8 +246,6 @@ Updating is like installing. You only have to make sure that you select the same
 
 **[Bulk Animal Purchase](https://www.nexusmods.com/stardewvalley/mods/11539)** buy multiple animals in the same transaction.
 
-**[Livestock Choices](https://www.nexusmods.com/stardewvalley/mods/11551)** actually choose what animal variant you want.
-
 **[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** allows you to repaint almost anything to suit how you want it to look. Building, animals, trees, and crops. **This mod and it's texture packs can cause Stardew Valley to consume over 6GB of RAM. It and they, can be safely disabled at any time.**
 
 # Mod Default Hotkeys
@@ -262,8 +258,6 @@ Updating is like installing. You only have to make sure that you select the same
   - **F1** Show live information about the object under the cursor.
 - [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
   - **F2** Toggle data layers.
-- [To-Dew](https://www.nexusmods.com/stardewvalley/mods/7409)
-  - **L** Access the TO-DEW list.
 - [Horse Overhaul](https://www.nexusmods.com/stardewvalley/mods/7911)
   - **H** Access horse information.
   - **P** Access pet information.
