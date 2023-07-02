@@ -322,5 +322,14 @@
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.Info2",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Tutorials",
+        "Text": "You can re-read any older tutorial messages, by opening the collections tab, and selecting letters.^^This will show the latest version of the tutorial letter.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
     }
 ]
