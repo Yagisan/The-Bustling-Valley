@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.6.2](#062)
   - [0.6.1](#061)
   - [0.6.0](#060)
 
@@ -16,6 +17,30 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.6.2
+
+**Released:** `DD MMM 2023`
+
+### Info <!-- omit in toc -->
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+- In-Game Tutorial Updated.
+- Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
+- Updated [Custom Spouse Rooms](https://www.nexusmods.com/stardewvalley/mods/10029)
+- Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
+- Updated [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)
+- Updated [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)
+- Updated [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)
+- Updated [Lumisteria Tilesheets - Outdoor](https://www.nexusmods.com/stardewvalley/mods/10448)
+- Updated [MARGO -- Modular Gameplay Overhaul](https://www.nexusmods.com/stardewvalley/mods/14470)
+
+### Removals <!-- omit in toc -->
 
 ## 0.6.1
 
