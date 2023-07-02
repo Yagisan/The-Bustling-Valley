@@ -111,7 +111,7 @@
         "Id": "TBVTutorialMail.SkillsMARGOFishing",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Skills - MARGO Fishing",
-        "Text": "MARGO has made the following changes to the fishing skill.^^Fisher (Lv5) - Fish bite faster. Reduced chance to fish junk.^^Angler (Lv10) - Fish worth 1% more for every unique max-sized fish caught and 5% more for every legendary fish caught.^^Aquarist (Lv10) - Fish pond max capacity increased 2. Catching bar loss rate decreases for every unique fish species raised in a fish pond.^^ Trapper (Lv5) - Crab pots are cheaper to craft. Can trap higher-quality haul.^^Luremaster (Lv10) - Crab pots with bait no longer produce junk. Use different baits to attract different catch.^^Conservationist (Lv10) - Crab pots without bait can trap junk. Clean the Valley's waters to merit tax deductions.^^This skill is affected by the Statue of Prestige.^^ - Yagisan",
+        "Text": "MARGO has made the following changes to the fishing skill.^^Fisher (Lv5) - baits are twice as effective^^Angler (Lv10) - Fish worth 0.5% more for every unique fish caught and 2.5% more for every legendary fish caught.^^Aquarist (Lv10) - Fish pond max capacity increased 2. Catching bar increases faster for every unique fish species raised in a fish pond.^^ Trapper (Lv5) - Crab pots are cheaper to craft. Can trap higher-quality haul.^^Luremaster (Lv10) - Baited crab pots produce twice per day.^^Conservationist (Lv10) - Crab pots without bait can trap junk. Clean the Valley's waters to merit tax deductions.^^This skill is affected by the Statue of Prestige.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
