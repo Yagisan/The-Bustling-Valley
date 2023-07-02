@@ -301,7 +301,10 @@
     "Custom_ICB": "Dynamic",
     "Custom_ICE": "Dynamic",
     "Custom_ICS": "Dynamic",
-    "Custom_Si_MR_Morris_CCRoom": "Dynamic"
+    "Custom_Si_MR_Morris_CCRoom": "Dynamic",
+    "Cellar2": "Dynamic",
+    "Cellar3": "Dynamic",
+    "Cellar4": "Dynamic"
   },
   "EditElliottEvent": true,
   "RemoveDuplicateNPCs": false
