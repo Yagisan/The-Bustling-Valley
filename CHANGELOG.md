@@ -39,6 +39,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)
 - Updated [Lumisteria Tilesheets - Outdoor](https://www.nexusmods.com/stardewvalley/mods/10448)
 - Updated [MARGO -- Modular Gameplay Overhaul](https://www.nexusmods.com/stardewvalley/mods/14470)
+- Updated [Ayeisha - The Postal Worker (Custom NPC)](https://www.nexusmods.com/stardewvalley/mods/6427)
+- Updated [Never Ending Adventure - NPC Mateo](https://www.nexusmods.com/stardewvalley/mods/12369)
 
 ### Removals <!-- omit in toc -->
 
