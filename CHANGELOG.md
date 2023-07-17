@@ -31,6 +31,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 ### Updates <!-- omit in toc -->
 
 - In-Game Tutorial Updated.
+- Updated [SMAPI](https://smapi.io/)
 - Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 - Updated [Custom Spouse Rooms](https://www.nexusmods.com/stardewvalley/mods/10029)
 - Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
@@ -41,6 +42,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [MARGO -- Modular Gameplay Overhaul](https://www.nexusmods.com/stardewvalley/mods/14470)
 - Updated [Ayeisha - The Postal Worker (Custom NPC)](https://www.nexusmods.com/stardewvalley/mods/6427)
 - Updated [Never Ending Adventure - NPC Mateo](https://www.nexusmods.com/stardewvalley/mods/12369)
+- Updated [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720)
+- Updated [Wedding Tweaks](https://www.nexusmods.com/stardewvalley/mods/10117)
+- Updated [Better Lightning Rods](https://www.nexusmods.com/stardewvalley/mods/10631)
+- Updated [Immersive Sandy](https://www.nexusmods.com/stardewvalley/mods/13609)
 
 ### Removals <!-- omit in toc -->
 
