@@ -46,6 +46,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Wedding Tweaks](https://www.nexusmods.com/stardewvalley/mods/10117)
 - Updated [Better Lightning Rods](https://www.nexusmods.com/stardewvalley/mods/10631)
 - Updated [Immersive Sandy](https://www.nexusmods.com/stardewvalley/mods/13609)
+- Updated [Creative Differences](https://www.nexusmods.com/stardewvalley/mods/13437)
 
 ### Removals <!-- omit in toc -->
 
