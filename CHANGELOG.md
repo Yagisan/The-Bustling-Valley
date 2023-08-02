@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.6.3](#063)
   - [0.6.2](#062)
   - [0.6.1](#061)
   - [0.6.0](#060)
@@ -17,6 +18,25 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.6.3
+
+**Released:** `MM Aug 2023`
+
+### Info <!-- omit in toc -->
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+- Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
+- Updated [Morris Redeemed](https://www.nexusmods.com/stardewvalley/mods/12667)
+- Updated [Alecto the Witch (new NPC)](https://www.nexusmods.com/stardewvalley/mods/10671)
+- Updated [Traveling Dreamer](https://www.nexusmods.com/stardewvalley/mods/15881)
+
+### Removals <!-- omit in toc -->
 
 ## 0.6.2
 
