@@ -27,6 +27,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Modifications <!-- omit in toc -->
 
+- Patched [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120) to no longer spawn Pterodactyl Eggs, as they break the game.
+
 ### Additions <!-- omit in toc -->
 
 ### Updates <!-- omit in toc -->
