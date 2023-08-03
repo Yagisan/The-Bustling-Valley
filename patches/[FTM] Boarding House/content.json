@@ -7149,20 +7149,16 @@
       },
       {
         "SpringItemIndex": [
-          "Dinosaur Egg",
-          "Pterodactyl Egg"
+          "Dinosaur Egg"
         ],
         "SummerItemIndex": [
-          "Dinosaur Egg",
-          "Pterodactyl Egg"
+          "Dinosaur Egg"
         ],
         "FallItemIndex": [
-          "Dinosaur Egg",
-          "Pterodactyl Egg"
+          "Dinosaur Egg"
         ],
         "WinterItemIndex": [
-          "Dinosaur Egg",
-          "Pterodactyl Egg"
+          "Dinosaur Egg"
         ],
         "UniqueAreaID": "RuinsHouse2Nest",
         "MapName": "Custom_BoardingHouse_Ruins_House2",
@@ -8977,12 +8973,6 @@
                 },
                 {
                   "Category": "Object",
-                  "Name": "Pterodactyl Egg",
-                  "Stack": 1,
-                  "PercentChanceToSpawn": 5
-                },
-                {
-                  "Category": "Object",
                   "Name": "Pterodactyl Claw",
                   "Stack": 1,
                   "PercentChanceToSpawn": 2
@@ -9596,12 +9586,6 @@
                 },
                 {
                   "Category": "Object",
-                  "Name": "Pterodactyl Egg",
-                  "Stack": 1,
-                  "PercentChanceToSpawn": 5
-                },
-                {
-                  "Category": "Object",
                   "Name": "Pterodactyl Claw",
                   "Stack": 1,
                   "PercentChanceToSpawn": 2
@@ -9809,12 +9793,6 @@
                   "Name": "Pterodactyl Vertebra",
                   "Stack": 1,
                   "PercentChanceToSpawn": 2
-                },
-                {
-                  "Category": "Object",
-                  "Name": "Pterodactyl Egg",
-                  "Stack": 1,
-                  "PercentChanceToSpawn": 5
                 },
                 {
                   "Category": "Object",
