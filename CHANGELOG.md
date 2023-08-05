@@ -31,6 +31,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Additions <!-- omit in toc -->
 
+- Added [Diverse Stardew Valley FQC - Always Raining in the Valley (DSV ARV)](https://www.nexusmods.com/stardewvalley/mods/17064)
+
 ### Updates <!-- omit in toc -->
 
 - Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
@@ -39,6 +41,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Traveling Dreamer](https://www.nexusmods.com/stardewvalley/mods/15881)
 - Updated [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)
 - Updated [Event Lookup](https://www.nexusmods.com/stardewvalley/mods/8505)
+- Updated [Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059)
 
 ### Removals <!-- omit in toc -->
 
