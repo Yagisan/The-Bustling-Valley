@@ -37,6 +37,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Morris Redeemed](https://www.nexusmods.com/stardewvalley/mods/12667)
 - Updated [Alecto the Witch (new NPC)](https://www.nexusmods.com/stardewvalley/mods/10671)
 - Updated [Traveling Dreamer](https://www.nexusmods.com/stardewvalley/mods/15881)
+- Updated [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)
+- Updated [Event Lookup](https://www.nexusmods.com/stardewvalley/mods/8505)
 
 ### Removals <!-- omit in toc -->
 
