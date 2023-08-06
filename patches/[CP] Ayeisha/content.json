@@ -1,0 +1,1190 @@
+{
+"Format": "1.29.0",
+//==CONFIG MENU==
+"ConfigSchema": {
+	"Portrait": {
+	//main section
+		"Description": "Change Ayeisha's Portrait Picture.",
+		"AllowValues": "default, airyn",
+		"Default": "default",
+		"Section": "Main Settings"},
+	"Love Token Events": {
+		"Description": "Turns on/off Love Token Delivery Events.",
+		"AllowValues": "true, false",
+		"Default": true,
+		"Section": "Main Settings"},
+	"Ayeisha Asks Pet Question": {
+		"Description": "Ayeisha replaces Marnie when asking the player if they want to adopt a pet.",
+		"AllowValues": "true, false",
+		"Default": true,
+		"Section": "Main Settings"},
+	"Ayeishas Van": {"Description": "Overide Ayeisha's Van Style",
+		"AllowValues": "Automatic, Custom, vanilla, earthyrecolour, elle, flowervalley, gloomyrecolor, pastoral, seasidevalley, starblue, wayback-vanilla, wayback-earthy, wayback-eemie, wayback-pastoral, wayback-starblue, wayback-wittilynamed, wittilynamed, yellog, yetanotherrecolour",
+		"Default": "Automatic",
+		"Section": "Main Settings"},
+	//coordinate section
+	"NightMarket15x": {
+		"Description": "Night Market Day 15 X Co-Ordinate",
+		"AllowValues": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93",
+		"Default": "38",
+		"Section": "Night Market Positions"},
+	"NightMarket15y": {
+		"Description": "Night Market Day 15 Y Co-Ordinate",
+		"AllowValues": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40",
+		"Default": "36",
+		"Section": "Night Market Positions"},
+	"NightMarket16x": {
+		"Description": "Night Market Day 16 X Co-Ordinate",
+		"AllowValues": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93",
+		"Default": "24",
+		"Section": "Night Market Positions"},
+	"NightMarket16y": {
+		"Description": "Night Market Day 16 Y Co-Ordinate",
+		"AllowValues": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40",
+		"Default": "31",
+		"Section": "Night Market Positions"},
+	"NightMarket17x": {
+		"Description": "Night Market Day 17 X Co-Ordinate",
+		"AllowValues": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93",
+		"Default": "13",
+		"Section": "Night Market Positions"},
+	"NightMarket17y": {
+		"Description": "Night Market Day 17 Y Co-Ordinate",
+		"AllowValues": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40",
+		"Default": "36",
+		"Section": "Night Market Positions"},
+//Overides
+		"Town MB": {"Description": "Overide Town's Public Mailbox",
+		"AllowValues": "Automatic, Off, Custom, vanilla, earthyrecolour, flowervalley, gloomyrecolor, pastoral, seasidevalley, starblue, wayback-vanilla, wayback-earthy, wayback-eemie, wayback-pastoral, wayback-starblue, wayback-wittilynamed, wittilynamed, yellog, yetanotherrecolour",
+		"Default": "Automatic",
+		"Section": "Overide Mailbox/Mailslot Style"},
+		"Alex MB": {"Description": "Overide Alex's Mailbox",
+		"AllowValues": "Automatic, Off, Custom, vanilla, earthyrecolour, flowervalley, gloomyrecolor, pastoral, seasidevalley, starblue, wayback-vanilla, wayback-earthy, wayback-eemie, wayback-pastoral, wayback-starblue, wayback-wittilynamed, wittilynamed, yellog, yetanotherrecolour",
+		"Default": "Automatic",
+		"Section": "Overide Mailbox/Mailslot Style"},
+		"Clint MS": {"Description": "Overide Clint's Mailslot",
+		"AllowValues": "Automatic, Off, Custom, vanilla, earthyrecolour, elle, foliageredone, flowervalley, gloomyrecolor, pastoral, seasidevalley, starblue, wayback-vanilla, wittilynamed, yellog, yetanotherrecolour",
+		"Default": "Automatic",
+		"Section": "Overide Mailbox/Mailslot Style"},
+		"Elliott MB": {"Description": "Overide Elliott's Mailbox",
+		"AllowValues": "Automatic, Off, Custom, vanilla, earthyrecolour, flowervalley, gloomyrecolor, pastoral, seasidevalley, starblue, wayback-vanilla, wayback-earthy, wayback-eemie, wayback-pastoral, wayback-starblue, wayback-wittilynamed, wittilynamed, yellog, yetanotherrecolour",
+		"Default": "Automatic",
+		"Section": "Overide Mailbox/Mailslot Style"},
+		"Gus MS": {"Description": "Overide Gus's Mailslot",
+		"AllowValues": "Automatic, Off, Custom, vanilla, earthyrecolour, elle, foliageredone, flowervalley, gloomyrecolor, pastoral, seasidevalley, starblue, wayback-vanilla, wittilynamed, yellog, yetanotherrecolour",
+		"Default": "Automatic",
+		"Section": "Overide Mailbox/Mailslot Style"},
+		"Haley MB": {"Description": "Overide Haley's Mailbox",
+		"AllowValues": "Automatic, Off",
+		"Default": "Automatic",
+		"Section": "Overide Mailbox/Mailslot Style"},
+		"Harvey MS": {"Description": "Overide Harvey's Mailslot",
+		"AllowValues": "Automatic, Off, Custom, vanilla, earthyrecolour, elle, foliageredone, flowervalley, gloomyrecolor, pastoral, seasidevalley, starblue, wayback-vanilla, wittilynamed, yellog, yetanotherrecolour",
+		"Default": "Automatic",
+		"Section": "Overide Mailbox/Mailslot Style"},
+		"Jodi MB": {"Description": "Overide Jodi's Mailbox",
+		"AllowValues": "Automatic, Off, Custom, vanilla, earthyrecolour, flowervalley, gloomyrecolor, pastoral, seasidevalley, starblue, wayback-vanilla, wayback-earthy, wayback-eemie, wayback-pastoral, wayback-starblue, wayback-wittilynamed, wittilynamed, yellog, yetanotherrecolour",
+		"Default": "Automatic",
+		"Section": "Overide Mailbox/Mailslot Style"},
+		"Leah MB": {"Description": "Overide Leah's Mailbox",
+		"AllowValues": "Automatic, Off, Custom, vanilla, earthyrecolour, flowervalley, gloomyrecolor, pastoral, seasidevalley, starblue, wayback-vanilla, wayback-earthy, wayback-eemie, wayback-pastoral, wayback-starblue, wayback-wittilynamed, wittilynamed, yellog, yetanotherrecolour",
+		"Default": "Automatic",
+		"Section": "Overide Mailbox/Mailslot Style"},
+		"Lewis MB": {"Description": "Overide Lewis's Mailbox",
+		"AllowValues": "Automatic, Off, Custom, vanilla, earthyrecolour, flowervalley, gloomyrecolor, pastoral, seasidevalley, starblue, wayback-vanilla, wayback-earthy, wayback-eemie, wayback-pastoral, wayback-starblue, wayback-wittilynamed, wittilynamed, yellog, yetanotherrecolour",
+		"Default": "Automatic",
+		"Section": "Overide Mailbox/Mailslot Style"},
+		"Marnie MB": {"Description": "Overide Marnie's Mailbox",
+		"AllowValues": "Automatic, Off, Custom, vanilla, earthyrecolour, flowervalley, gloomyrecolor, pastoral, seasidevalley, starblue, wayback-vanilla, wayback-earthy, wayback-eemie, wayback-pastoral, wayback-starblue, wayback-wittilynamed, wittilynamed, yellog, yetanotherrecolour",
+		"Default": "Automatic",
+		"Section": "Overide Mailbox/Mailslot Style"},
+		"Pam MB": {"Description": "Overide Pam's Mailbox",
+		"AllowValues": "Automatic, Off, Custom, vanilla, earthyrecolour, flowervalley, gloomyrecolor, pastoral, seasidevalley, starblue, wayback-vanilla, wayback-earthy, wayback-eemie, wayback-pastoral, wayback-starblue, wayback-wittilynamed, wittilynamed, yellog, yetanotherrecolour",
+		"Default": "Automatic",
+		"Section": "Overide Mailbox/Mailslot Style"},
+		"Robin MB": {"Description": "Overide Robin's Mailbox",
+		"AllowValues": "Automatic, Off, Custom, vanilla, earthyrecolour, flowervalley, gloomyrecolor, pastoral, seasidevalley, starblue, wayback-vanilla, wayback-earthy, wayback-eemie, wayback-pastoral, wayback-starblue, wayback-wittilynamed, wittilynamed, yellog, yetanotherrecolour",
+		"Default": "Automatic",
+		"Section": "Overide Mailbox/Mailslot Style"},
+		"Pierre MS": {"Description": "Overide Pierre's Mailslot",
+		"AllowValues": "Automatic, Off, Custom, vanilla, earthyrecolour, elle, foliageredone, flowervalley, gloomyrecolor, pastoral, seasidevalley, starblue, wayback-vanilla, wittilynamed, yellog, yetanotherrecolour",
+		"Default": "Automatic",
+		"Section": "Overide Mailbox/Mailslot Style"},
+		"Willy MB": {"Description": "Overide Willy's Mailbox",
+		"AllowValues": "Automatic, Off, Custom, vanilla, earthyrecolour, flowervalley, gloomyrecolor, pastoral, seasidevalley, starblue, wayback-vanilla, wayback-earthy, wayback-eemie, wayback-pastoral, wayback-starblue, wayback-wittilynamed, wittilynamed, yellog, yetanotherrecolour",
+		"Default": "Automatic",
+		"Section": "Overide Mailbox/Mailslot Style"},
+	},
+
+  "DynamicTokens": [
+//Tilesheet Tokens
+      {
+         "Name": "Tilesheet",
+         "Value": "vanilla"
+      },
+      {
+         "Name": "Tilesheet",
+         "Value": "earthyrecolour",
+         "When": {"HasMod |contains=DaisyNiko.EarthyRecolour": true}
+      },
+      {
+         "Name": "Tilesheet",
+         "Value": "starblue",
+         "When": {"HasMod |contains=Lita.StarblueValley": true}
+      },
+      {
+         "Name": "Tilesheet",
+         "Value": "wittilynamed",
+         "When": {"HasMod |contains=Acerbicon.Recolor": true}
+      },
+      {
+         "Name": "Tilesheet",
+         "Value": "flowervalley",
+         "When": {"HasMod |contains=kaya.floralvalley": true}
+      },
+      {
+         "Name": "Tilesheet",
+         "Value": "pastoral",
+         "When": {"HasMod |contains=grapeponta.VibrantPastoralRecolor": true}
+      },
+      {
+         "Name": "Tilesheet",
+         "Value": "yellog",
+         "When": {"HasMod |contains=yri.ProjectYellogTownOverhaul": true}
+      },
+      {
+         "Name": "Tilesheet",
+         "Value": "yetanotherrecolour",
+         "When": {"HasMod |contains=Narianka.YetAnotherRecolour": true}
+      },
+      {
+         "Name": "Tilesheet",
+         "Value": "gloomyrecolor",
+         "When": {"HasMod |contains=KittenTyme.GloomyRecolour": true}
+      },
+      {
+         "Name": "Tilesheet",
+         "Value": "seasidevalley",
+         "When": {"HasMod |contains=rainkius.SeasideValley": true}
+      },
+      {
+         "Name": "Tilesheet",
+         "Value": "wayback-vanilla",
+         "When": {"HasMod |contains=Gweniaczek.WayBackPT": true}
+      },
+      {
+         "Name": "Tilesheet",
+         "Value": "wayback-earthy",
+         "When": {"HasMod |contains=Gweniaczek.WayBackPT": true,
+		"HasMod |contains=DaisyNiko.EarthyRecolour": true}
+      },
+      {
+         "Name": "Tilesheet",
+         "Value": "wayback-wittilynamed",
+         "When": {"HasMod |contains=Gweniaczek.WayBackPT": true,
+		"HasMod |contains=Acerbicon.Recolor": true}
+      },
+      {
+         "Name": "Tilesheet",
+         "Value": "wayback-starblue",
+         "When": {"HasMod |contains=Gweniaczek.WayBackPT": true,
+		"HasMod |contains=Lita.StarblueValley": true}
+      },
+      {
+         "Name": "Tilesheet",
+         "Value": "wayback-pastoral",
+         "When": {"HasMod |contains=Gweniaczek.WayBackPT": true,
+		"HasMod |contains=grapeponta.VibrantPastoralRecolor": true}
+      },
+      {
+         "Name": "Tilesheet",
+         "Value": "wayback-eemie",
+         "When": {"HasMod |contains=Gweniaczek.WayBackPT": true,
+		"HasMod |contains=minervamaga.CP.eemieMapRecolour": true}
+      },
+
+//Map Patch Tokens
+      {
+         "Name": "Mappatch",
+         "Value": "vanilla"
+      },
+
+//Alex Box Location
+
+{
+"Name": "AlexLoc",
+"Value": "49 64",
+"When": {"HasMod |contains=FlashShifter.StardewValleyExpandedCP": false}
+},
+{
+"Name": "AlexLoc",
+"Value": "51 64",
+"When": {"HasMod |contains=FlashShifter.StardewValleyExpandedCP": true}
+},
+//Museum Box Location
+{
+"Name": "MuseLoc",
+"Value": "94 93",
+"When": {"HasMod |contains=FlashShifter.StardewValleyExpandedCP": false}
+},
+{
+"Name": "MuseLoc",
+"Value": "99 93",
+"When": {"HasMod |contains=FlashShifter.StardewValleyExpandedCP": true}
+},
+
+//Random Schedules
+// Vanilla
+      {
+         "Name": "PossibleSchedules",
+         "Value": "
+             610 Town 46 57 0 Ayeisha_Deliver/640 Town {{AlexLoc}} 0 Ayeisha_Deliver/700 Town 41 72 0 Ayeisha_Deliver/730 Town 21 90 0 Ayeisha_Deliver/820 Town 8 89 0 Ayeisha_Deliver/850 Forest 100 34 0 Ayeisha_Deliver/940 Forest 89 24 0 Ayeisha_Deliver/1010 Beach 42 7 0 Ayeisha_Deliver/1150 Beach 27 34 0 Ayeisha_Deliver/1240 Town {{MuseLoc}} 0 Ayeisha_Deliver/1420 Town 95 82 0 Ayeisha_Deliver/1450 Saloon 15 20 3 Ayeisha_Sit3/1640 Custom_AyeishaWarpRoom 0 1 2
+             @@ 610 Town 46 57 0 Ayeisha_Deliver/640 Mountain 9 27 0 Ayeisha_Deliver/820 Town {{AlexLoc}} 0 Ayeisha_Deliver/1000 Town 68 71 0 Ayeisha_Deliver/1030 Town 21 90 0 Ayeisha_Deliver/1110 Forest 89 24 0 Ayeisha_Deliver/1210 Forest 100 34 0 Ayeisha_Deliver/1240 Beach 42 7 0 Ayeisha_Deliver/1420 Town 95 82 0 Ayeisha_Deliver/1530 Town {{MuseLoc}} 0 Ayeisha_Deliver/1600 Custom_AyeishaWarpRoom 0 1 2
+             @@ 610 Town 41 72 0 Ayeisha_Deliver/640 Town {{AlexLoc}} 0 Ayeisha_Deliver/710 Town 68 71 0 Ayeisha_Deliver/740 Town 56 87 0 Ayeisha_Deliver/820 Town {{MuseLoc}} 0 Ayeisha_Deliver/910 Town 95 82 0 Ayeisha_Deliver/940 Beach 42 7 0 Ayeisha_Deliver/1050 Beach 27 34 0 Ayeisha_Deliver/1140 Town 21 90 0 Ayeisha_Deliver/1310 Town 8 89 0 Ayeisha_Deliver/1340 Forest 100 34 0 Ayeisha_Deliver/1420 Forest 89 24 0 Ayeisha_Deliver/1450 Custom_AyeishaWarpRoom 0 1 2
+             @@ 610 Town 46 57 0 Ayeisha_Deliver/640 Mountain 9 27 0 Ayeisha_Deliver/820 Town {{AlexLoc}} 0 Ayeisha_Deliver/1000 Town 68 71 0 Ayeisha_Deliver/1030 Town 41 72 0 Ayeisha_Deliver/1110 Town 56 87 0 Ayeisha_Deliver/1150 Beach 42 7 0 Ayeisha_Deliver/1230 Town {{MuseLoc}} 0 Ayeisha_Deliver/1330 Town 8 89 0 Ayeisha_Deliver/1500 Forest 100 34 0 Ayeisha_Deliver/1540 Forest 89 24 0 Ayeisha_Deliver/1610 Custom_AyeishaWarpRoom 0 1 2
+             @@ 610 Town 46 57 0 Ayeisha_Deliver/640 Town {{AlexLoc}} 0 Ayeisha_Deliver/700 Town 41 72 0 Ayeisha_Deliver/730 Town 56 87 0 Ayeisha_Deliver/810 Beach 42 7 0 Ayeisha_Deliver/850 Beach 27 34 0 Ayeisha_Deliver/940 Town 95 82 0 Ayeisha_Deliver/1120 Town 21 90 0 Ayeisha_Deliver/1240 Town 8 89 0 Ayeisha_Deliver/1310 Forest 89 24 0 Ayeisha_Deliver/1400 Forest 100 34 0 Ayeisha_Deliver/1420 Saloon 15 20 3 Ayeisha_Sit3/1620 Custom_AyeishaWarpRoom 0 1 2
+         "
+      },
+// EastScarpe Only
+      {
+         "Name": "PossibleSchedules",
+         "Value": "
+             {{PossibleSchedules}}
+             @@ 610 Town 41 72 0 Ayeisha_Deliver/640 Town 56 87 0 Ayeisha_Deliver/720 Town 95 82 0 Ayeisha_Deliver/820 Custom_EastScarpe 14 65 0 Ayeisha_Deliver/1000 Custom_EastScarpe 19 50 0 Ayeisha_Deliver/1030 Custom_EastScarpe 49 57 0 Ayeisha_Deliver/1110 Custom_EastScarpe 45 69 0 Ayeisha_Deliver/1140 Custom_EastScarpe 23 36 0 Ayeisha_Deliver/1240 Custom_EastScarpe 59 76 0 Ayeisha_Deliver/1400 Town {{MuseLoc}} 0 Ayeisha_Deliver/1640 Town 21 90 0 Ayeisha_Deliver/1800 Custom_AyeishaWarpRoom 0 1 2
+             @@ 610 Town 46 57 0 Ayeisha_Deliver/640 Town {{MuseLoc}} 0 Ayeisha_Deliver/800 Custom_EastScarpe 45 69 0 Ayeisha_Deliver/1010 Custom_EastScarpe 23 36 0 Ayeisha_Deliver/1100 Beach 42 7 0 Ayeisha_Deliver/1440 Town 8 89 0 Ayeisha_Deliver/1550 Forest 100 34 0 Ayeisha_Deliver/1640 Forest 89 24 0 Ayeisha_Deliver/1710 Custom_AyeishaWarpRoom 0 1 2
+             @@ 610 Town 41 72 0 Ayeisha_Deliver/640 Town 21 90 0 Ayeisha_Deliver/720 Town 8 89 0 Ayeisha_Deliver/740 Town 56 87 0 Ayeisha_Deliver/840 Town {{MuseLoc}} 0 Ayeisha_Deliver/930 Custom_EastScarpe 14 65 0 Ayeisha_Deliver/1110 Custom_EastScarpe 19 50 0 Ayeisha_Deliver/1140 Custom_EastScarpe 45 69 0 Ayeisha_Deliver/1230 Custom_EastScarpe 49 57 0 Ayeisha_Deliver/1300 Custom_EastScarpe 23 36 0 Ayeisha_Deliver/1350 Beach 42 7 0 Ayeisha_Deliver/1720 Beach 27 34 0 Ayeisha_Deliver/1800 Custom_AyeishaWarpRoom 0 1 2
+             @@ 610 Town 46 57 0 Ayeisha_Deliver/640 Mountain 9 27 0 Ayeisha_Deliver/820 Town {{AlexLoc}} 0 Ayeisha_Deliver/1000 Town 68 71 0 Ayeisha_Deliver/1040 Custom_EastScarpe 45 69 0 Ayeisha_Deliver/1330 Custom_EastScarpe 19 50 0 Ayeisha_Deliver/1420 Custom_EastScarpe 59 76 0 Ayeisha_Deliver/1540 Custom_AyeishaWarpRoom 0 1 2
+             @@ 610 Town 68 71 0 Ayeisha_Deliver/700 Custom_EastScarpe 14 65 0 Ayeisha_Deliver/920 Custom_EastScarpe 19 50 0 Ayeisha_Deliver/950 Custom_EastScarpe 49 57 0 Ayeisha_Deliver/1030 Custom_EastScarpe 23 36 0 Ayeisha_Deliver/1120 Custom_EastScarpe 59 76 0 Ayeisha_Deliver/1240 Custom_EastScarpe 45 69 0 Ayeisha_Deliver/1340 Saloon 15 20 3 Ayeisha_Sit3/1750 Custom_AyeishaWarpRoom 0 1 2
+         ",
+         "When": {
+	      "HasMod |contains=LemurKat.EastScarpe.CP": true,
+         }
+      },
+// SVE Only
+      {
+         "Name": "PossibleSchedules",
+         "Value": "
+             {{PossibleSchedules}}
+             @@ 610 Town 46 57 0 Ayeisha_Deliver/640 Town {{AlexLoc}} 0 Ayeisha_Deliver/710 Town 41 72 0 Ayeisha_Deliver/740 Town 68 71 0 Ayeisha_Deliver/820 Town 56 87 0 Ayeisha_Deliver/900 Town {{MuseLoc}} 0 Ayeisha_Deliver/950 Town 95 82 0 Ayeisha_Deliver/1020 Beach 42 7 0 Ayeisha_Deliver/1130 Beach 27 34 0 Ayeisha_Deliver/1220 Forest 89 24 0 Ayeisha_Deliver/1430 Forest 100 34 0 Ayeisha_Deliver/1500 Forest 70 74 0 Ayeisha_Deliver/1610 Custom_BlueMoonVineyard 30 48 0 Ayeisha_Deliver/1740 Custom_AyeishaWarpRoom 0 1 2
+             @@ 610 Town 46 57 0 Ayeisha_Deliver/640 Town 67 53 0 Ayeisha_Deliver/710 Mountain 9 27 0 Ayeisha_Deliver/830 Town 68 71 0 Ayeisha_Deliver/1000 Town 56 87 0 Ayeisha_Deliver/1040 Beach 42 7 0 Ayeisha_Deliver/1120 Beach 27 34 0 Ayeisha_Deliver/1210 Town {{MuseLoc}} 0 Ayeisha_Deliver/1340 Town 21 90 0 Ayeisha_Deliver/1500 Forest 100 34 0 Ayeisha_Deliver/1550 Custom_BlueMoonVineyard 30 48 0 Ayeisha_Deliver/1740 Custom_AyeishaWarpRoom 0 1 2
+             @@ 610 Town 41 72 0 Ayeisha_Deliver/640 Town 68 71 0 Ayeisha_Deliver/720 Town {{MuseLoc}} 0 Ayeisha_Deliver/820 Town 95 82 0 Ayeisha_Deliver/850 Town 67 53 0 Ayeisha_Deliver/950 Mountain 9 27 0 Ayeisha_Deliver/1110 Town 8 89 0 Ayeisha_Deliver/1340 Forest 89 24 0 Ayeisha_Deliver/1420 Forest 70 74 0 Ayeisha_Deliver/1540 Custom_AyeishaWarpRoom 0 1 2
+         ",
+         "When": {
+	      "HasMod |contains=FlashShifter.StardewValleyExpandedCP": true,
+         }
+      },
+// SVE and EastScarpe
+      {
+         "Name": "PossibleSchedules",
+         "Value": "
+             {{PossibleSchedules}}
+             @@ 610 Custom_BlueMoonVineyard 30 48 0 Ayeisha_Deliver/750 Beach 42 7 0 Ayeisha_Deliver/840 Town {{MuseLoc}} 0 Ayeisha_Deliver/950 Custom_EastScarpe 14 65 0 Ayeisha_Deliver/1130 Custom_EastScarpe 19 50 0 Ayeisha_Deliver/1200 Custom_EastScarpe 45 69 0 Ayeisha_Deliver/1250 Custom_EastScarpe 49 57 0 Ayeisha_Deliver/1320 Custom_EastScarpe 23 36 0 Ayeisha_Deliver/1410 Custom_EastScarpe 59 76 0 Ayeisha_Deliver/1530 Custom_AyeishaWarpRoom 0 1 2
+             @@ 610 Town 21 90 0 Ayeisha_Deliver/700 Forest 89 24 0 Ayeisha_Deliver/750 Forest 70 74 0 Ayeisha_Deliver/850 Town 56 87 0 Ayeisha_Deliver/1100 Custom_EastScarpe 45 69 0 Ayeisha_Deliver/1340 Custom_EastScarpe 49 57 0 Ayeisha_Deliver/1410 Custom_EastScarpe 19 50 0 Ayeisha_Deliver/1450 Custom_AyeishaWarpRoom 0 1 2
+         ",
+         "When": {
+	      "HasMod |contains=FlashShifter.StardewValleyExpandedCP": true,
+	      "HasMod |contains=LemurKat.EastScarpe.CP": true,
+         }
+      },
+// SVE inc Susan
+      {
+         "Name": "PossibleSchedules",
+         "Value": "
+             {{PossibleSchedules}}
+             @@ 610 Town {{AlexLoc}} 0 Ayeisha_Deliver/640 Town 67 53 0 Ayeisha_Deliver/720 Mountain 9 27 0 Ayeisha_Deliver/840 Railroad 33 54 0 Ayeisha_Deliver/930 Town 56 87 0 Ayeisha_Deliver/1210 Beach 27 34 0 Ayeisha_Deliver/1320 Town 95 82 0 Ayeisha_Deliver/1500 Town 21 90 0 Ayeisha_Deliver/1620 Custom_AyeishaWarpRoom 0 1 2
+             @@ 610 Railroad 33 54 0 Ayeisha_Deliver/830 Town 41 72 0 Ayeisha_Deliver/1100 Town 8 89 0 Ayeisha_Deliver/1150 Forest 89 24 0 Ayeisha_Deliver/1240 Forest 70 74 0 Ayeisha_Deliver/1350 Custom_BlueMoonVineyard 30 48 0 Ayeisha_Deliver/1520 Custom_AyeishaWarpRoom 0 1 2
+         ",
+         "When": {
+	      "HasMod |contains=FlashShifter.StardewValleyExpandedCP": true,
+	      "HasSeenEvent |contains=1000077": true,
+         }
+      },
+// Boarding House
+      {
+         "Name": "PossibleSchedules",
+         "Value": "
+             {{PossibleSchedules}}
+             @@ 610 Town 46 57 0 Ayeisha_Deliver/640 Town {{AlexLoc}} 0 Ayeisha_Deliver/700 Town 41 72 0 Ayeisha_Deliver/730 Town 56 87 0 Ayeisha_Deliver/810 Beach 42 7 0 Ayeisha_Deliver/850 Beach 27 34 0 Ayeisha_Deliver/940 Town 95 82 0 Ayeisha_Deliver/1120 Town 21 90 0 Ayeisha_Deliver/1240 Town 8 89 0 Ayeisha_Deliver/1310 Custom_BoardingHouse_BackwoodsPlateau 50 12 0 Ayeisha_Deliver/1500 Custom_BoardingHouse_BackwoodsPlateau 3 11 0 Ayeisha_Deliver/1550 Custom_AyeishaWarpRoom 0 1 2
+             @@ 610 Town 46 57 0 Ayeisha_Deliver/640 Mountain 9 27 0 Ayeisha_Deliver/820 Town {{AlexLoc}} 0 Ayeisha_Deliver/1000 Town 68 71 0 Ayeisha_Deliver/1030 Town 41 72 0 Ayeisha_Deliver/1110 Town 56 87 0 Ayeisha_Deliver/1150 Beach 42 7 0 Ayeisha_Deliver/1230 Town {{MuseLoc}} 0 Ayeisha_Deliver/1330 Town 8 89 0 Ayeisha_Deliver/1500 Custom_BoardingHouse_BackwoodsPlateau 50 12 0 Ayeisha_Deliver/1650 Custom_BoardingHouse_BackwoodsPlateau 3 11 0 Ayeisha_Deliver/1740 Custom_AyeishaWarpRoom 0 1 2
+             ",
+         "When": {
+	      "HasMod |contains=CPBoardingHouse": true,
+         }
+      },
+// Stray Catfe
+      {
+         "Name": "PossibleSchedules",
+         "Value": "
+             {{PossibleSchedules}}
+             @@ 610 Town 46 57 0 Ayeisha_Deliver/640 Town {{AlexLoc}} 0 Ayeisha_Deliver/700 Town 41 72 0 Ayeisha_Deliver/730 Town 56 87 0 Ayeisha_Deliver/810 Beach 42 7 0 Ayeisha_Deliver/850 Beach 27 34 0 Ayeisha_Deliver/940 Custom_StrayCatfe_CafeIndoors 10 21 3 Ayeisha_Sit2/1350 Custom_AyeishaWarpRoom 0 1 2
+             ",
+         "When": {
+	      "HasMod |contains=ch20youk.TSCCP": true,
+	      "DayOfWeek |contains=Monday": false
+         }
+      },
+// BLANK FOR YOUR OWN USE - USE THIS TO ADD YOUR OWN RANDOM ROUTES
+      {
+         "Name": "PossibleSchedules",
+         "Value": "{{PossibleSchedules}}
+             //INSERT CUSTOM SCHEDULE HERE
+             //INSERT 2ND CUSTOM SCHEDULE HERE
+             //INSERT 3RD CUSTOM SCHEDULE HERE
+             //ONCE DONE SET THE BELOW CONDITION FROM false TO true
+          ",
+         "When": {
+              "HasMod |contains=TheLimeyDragon.Ayeisha": false,
+         }
+      },
+   ],
+   
+
+//////CUSTOM MAPS
+
+   "CustomLocations": [
+      {
+         "Name": "Custom_AyeishaVanRoad",
+         "FromMapFile": "assets/maps/vanilla/AyeishaVanRoad.tmx"
+      },
+      {
+         "Name": "Custom_AyeishaWarpRoom",
+         "FromMapFile": "assets/maps/vanilla/AyeishaWarpRoom.tmx"
+      }
+   ],
+
+////////////////////////////////////////////MAIN MOD START
+
+  "Changes": [ 
+  
+  {    //Add custom tilesheets
+     "LogName": "Load Tilesheets", 
+     "Action": "Load",
+     "Target": "Maps/spring_z_mailboxes,Maps/summer_z_mailboxes,Maps/fall_z_mailboxes,Maps/winter_z_mailboxes,Maps/spring_z_vanfpsheet,Maps/summer_z_vanfpsheet,Maps/fall_z_vanfpsheet,Maps/winter_z_vanfpsheet",
+     "FromFile": "assets/images/tilesheets/{{Tilesheet}}/{{TargetWithoutPath}}.png",
+},
+
+//Overides
+//Target the tilesheet that was automatically loaded
+//Patch an area with a different tilesheet based on the setting given by the user
+
+{
+         "Action": "Include",
+         "FromFile": "includes/tilesheetpatches.json",
+},
+
+//Add Ayeisha's Offset
+{
+      "LogName": "NPC Map Sprite Offset", 
+      "Action": "EditData",
+      "Target": "Mods/Bouhm.NPCMapLocations/NPCs",
+      "Entries": {"Ayeisha": {"MarkerCropOffset": 1}},
+      "When": {"HasMod |contains=Bouhm.NPCMapLocations": true}
+},
+
+//Add Ayeisha's tiny road to the map
+{
+      "LogName": "Ayeisha's Van Map Tool Tip",
+      "Action": "EditData",
+      "Target": "Mods/Bouhm.NPCMapLocations/Locations",
+      "Entries": {
+           "Custom_AyeishaVanRoad": {
+           "MapVectors": [
+                 {"MapX": 585,"MapY": 215,"TileX": 0,"TileY": 8},
+                 {"MapX": 595,"MapY": 225,"TileX": 10,"TileY": 13}
+                         ],
+           "MapTooltip": { "X": 585,"Y": 215,"Width": 10,"Height": 10,"PrimaryText": "Ayeisha's Van"}
+                },
+            },
+      "When": {"HasMod |contains=Bouhm.NPCMapLocations": true}
+},
+
+//Shekurika.EventLookup location name
+      {
+      "Action": "EditData",
+      "Target": "Mods/shekurika.EventLookup/locationnames",
+      "Entries": {"Custom_AyeishaVanRoad": "Ayeisha's Van Road"},
+      "When": {"HasMod |contains=Shekurika.EventLookup": true}
+    },
+
+//Ayeisha's Disposition
+      {
+      "LogName": "NPC Disposition",
+      "Action": "EditData",
+      "Target": "Data/NPCDispositions",
+      "Entries": {"Ayeisha": "adult/polite/neutral/positive/female/non-datable/null/Town/summer 9//Town 35 56/Ayeisha"},
+    },
+
+//Ayeisha's Exclusions
+      {
+      "LogName": "NPC Exclusions",
+      "Action": "EditData",
+      "Target": "Data/CustomNPCExclusions",
+      "Entries": {"Ayeisha": "WinterStar IslandEvent"},
+      "When": {"HasMod |contains=Esca.CustomNPCExclusions": true}
+      },
+
+///GIFT TASTES
+// Subject to change.
+
+    {
+      "LogName": "NPC Gift Tastes",
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "Entries": {"Ayeisha": "Thank you so much! I love it! $l#/60 195 205 231 248 252 258 281 402 406 611/Thank you. This is very nice. $h#/-81 376 564/Umm... Thanks. $s#/64 72 190 280 727 728/I'm going to deliver this straight to the recycling bin. $a#/270/Thank you.//"}
+    },
+
+
+//Ayeisha's Animations
+    {
+      "LogName": "NPC Animations",
+      "Action": "EditData",
+      "Target": "Data/animationdescriptions",
+      "Entries": {
+      "Ayeisha_Deliver": "8 8/19 19 19 19 19 19 19 19 19 19 8 8 8 8 8/8 8",
+	  "Ayeisha_Sit2": "21/21/21",
+      "Ayeisha_Sit3": "18/18/18",
+      }
+    },
+
+//Custom_AyeishaVanRoad Events
+
+{
+      "LogName": "Custom_AyeishaVanRoad Events",
+      "Action": "Load",
+      "Target": "Data/Events/Custom_AyeishaVanRoad",
+      "FromFile": "assets/other/Custom_AyeishaVanRoad.json",
+},
+
+//Map Labels
+{
+      "LogName": "Map Labels",
+      "Action": "EditData",
+      "Target": "Strings/StringsFromMaps",
+      "Entries": {
+      "TheLimeyDragon.Ayeisha1": "-Willy's Fish Shop-",
+      "TheLimeyDragon.Ayeisha2": "'Elliott' has been painted on in a cursive script.",
+      "TheLimeyDragon.Ayeisha3": "24 Mountain Road#-The Carpenter's Shop-",
+      "TheLimeyDragon.Ayeisha4": "-Marnie's Ranch-",
+      "TheLimeyDragon.Ayeisha5": "-The Cottage-#An L has been carved underneath.",
+      "TheLimeyDragon.Ayeisha6": "1 River Road",
+      "TheLimeyDragon.Ayeisha7": "2 River Road",
+      "TheLimeyDragon.Ayeisha8": "1 Willow Lane",
+      "TheLimeyDragon.Ayeisha9": "2 Willow Lane",
+      "TheLimeyDragon.Ayeisha10": "The paint has rusted off.",
+      "TheLimeyDragon.Ayeisha11": "Mail",
+      "TheLimeyDragon.Ayeisha12": "-Mayor's Manor-",
+      "TheLimeyDragon.Ayeisha13": "Stardew Valley Museum and Library",
+      "TheLimeyDragon.Ayeisha14": "Mail and Perscriptions",
+      "TheLimeyDragon.Ayeisha15": "~Ferngill Post~^Collection days are Monday to Friday.^Collection time is at 2:10am.^Nearest Post Office is located in Zuzu City.",
+	  }
+},
+
+//MAP CHANGES
+//==ADD WARPS==
+
+      {
+         "Action": "EditMap",
+         "Target": "Maps/BusStop",
+         "AddWarps": [
+		"33 6 Custom_AyeishaVanRoad 1 9",
+		"33 7 Custom_AyeishaVanRoad 1 10",
+		"33 8 Custom_AyeishaVanRoad 1 11",
+		"33 9 Custom_AyeishaVanRoad 1 12",
+		"32 10 Custom_AyeishaVanRoad 1 12",
+         ]
+      },
+
+//=======TOWN
+//-------Main Postbox
+  {
+         "Action": "EditMap",
+         "Target": "Maps/Town, Maps/Town-EggFestival",
+         "FromFile": "assets/maps/{{Mappatch}}/Mailboxesv2.tmx",
+         "FromArea": { "X": 4, "Y": 0, "Width": 1, "Height": 2 },
+         "ToArea": { "X": 60, "Y": 92, "Width": 1, "Height": 2 },
+         "When": {"Town MB|contains=Off": false}
+  },
+  {
+         "Action": "EditMap",
+         "Target": "Maps/Town-Fair, Maps/Town-Halloween",
+         "FromFile": "assets/maps/{{Mappatch}}/Mailboxesv2fallfes.tmx",
+         "FromArea": { "X": 4, "Y": 0, "Width": 1, "Height": 2 },
+         "ToArea": { "X": 60, "Y": 92, "Width": 1, "Height": 2 },
+         "When": {"Town MB|contains=Off": false}
+  },
+  {
+         "Action": "EditMap",
+         "Target": "Maps/Town-Christmas",
+         "FromFile": "assets/maps/{{Mappatch}}/Mailboxesv2winterfes.tmx",
+         "FromArea": { "X": 4, "Y": 0, "Width": 1, "Height": 2 },
+         "ToArea": { "X": 60, "Y": 92, "Width": 1, "Height": 2 },
+         "When": {"Town MB|contains=Off": false}
+  },
+
+
+{
+         "Action": "Include",
+         "FromFile": "includes/mappatches-vanilla.json",
+         "When": {"HasMod |contains=FlashShifter.StardewValleyExpandedCP": false,
+                  "HasMod |contains=DaisyNiko.SVR3": false}
+},
+{
+         "Action": "Include",
+         "FromFile": "includes/mappatches-sve.json",
+         "When": {"HasMod |contains=FlashShifter.StardewValleyExpandedCP": true}
+},
+{
+         "Action": "Include",
+         "FromFile": "includes/mappatches-svr3.json",
+         "When": {"HasMod |contains=DaisyNiko.SVR3": true}
+},
+
+
+  //Remove Rubbish by Van (TrashBear)
+
+    {
+         "LogName": "Remove Trash",
+         "Action": "EditMap",
+         "Target": "Maps/Custom_AyeishaVanRoad",
+         "FromFile": "assets/maps/{{Mappatch}}/VanPatch.tmx",
+         "FromArea": { "X": 7, "Y": 3, "Width": 7, "Height": 1 },
+         "ToArea": { "X": 3, "Y": 8, "Width": 7, "Height": 1 },
+         "When": { "HasSeenEvent |contains=64273003": true, }
+  },
+
+  //-------GARDEN VILLAGE (Add FP Van)
+  {
+         "LogName": "Add GV Van", 
+         "Action": "EditMap",
+         "Target": "Maps/MainShops, Maps/Custom_MainShops",
+         "FromFile": "assets/maps/{{Mappatch}}/VanPatch.tmx",
+         "FromArea": { "X": "{{Random: 0, 7}}", "Y": 0, "Width": 7, "Height": 4 },
+         "ToArea": { "X": 2, "Y": 17, "Width": 7, "Height": 4 },
+         "When": {
+		"HasMod |contains=Tarniyar.CP.GardenVillage": true,
+	         }
+  },
+
+  //Unique Courtship Responses
+  {
+   "LogName": "Ayeisha's Gift Messages",
+   "Action": "EditData",
+   "Target": "Characters/Dialogue/Ayeisha",
+   "Entries": {
+	       "rejectNPCA": "Nice bouquet however I don't want it. Sorry.$s",
+	       "rejectNPCB": "You can keep it. I don't need it. Sorry.$s",
+	       "engageA": "I thought you were engaged? Besides you're not my type. Sorry.$s",
+	       "engageB": "I thought you were engaged? Besides it wouldn't work. Sorry.$s",
+	       "marriedA": "You're already married!$a",
+	       "marriedB": "You ARE married!$a",
+	       "refusal_no_heartsA": "Sorry you're not my type.$s", 
+	       "refusal_no_heartsB": "It wouldn't work, sorry.$s",
+	       "birthdayLoveA": "For my birthday?!$u#$b#WOW! Thank you so much.$l",
+	       "birthdayLoveB": "For my birthday?!$u#$b#This is wonderful! Thank you.$l",
+	       "birthdayLikeA": "For my birthday?$u#$b#This is really nice. Thank you.",
+	       "birthdayLikeB": "For my birthday?$u#$b#Thank you this is lovely.",
+	       "birthdayDislikeA": "This is a bithday present?$s#$b#er thanks.$s",
+	       "birthdayDislikeB": "This is for my birthday?$s#$b#er thanks.$s",
+	       "birthdayNeutralA": "Thank you for the birthday present.",
+	       "birthdayNeutralB": "Thanks for the birthday present.",
+              },
+   "When": {"HasMod |contains=misscoriel.UCRFix": true}
+  },
+
+//Rain Dialogue
+    {
+     "LogName": "Rainy Dialogue", 
+     "Action": "EditData", 
+     "Target": "Characters/Dialogue/Rainy",
+     "Entries": {
+        "Ayeisha": "I love the smell and sound of the rain. I find it really relaxing.#$b#Even if I am walking in it.$h#$e#I guess you have to work in the rain a lot too.",
+      },
+    },
+
+//Sprites 
+
+    {
+      "LogName": "NPC Sprite",
+      "Action": "Load",
+      "Target": "Characters/Ayeisha",
+      "FromFile": "assets/images/sprites/spritesheet-shorts.png",
+    },
+
+
+   {
+      "LogName": "NPC Sprite",
+      "Action": "EditImage",
+      "Target": "Characters/Ayeisha",
+      "FromFile": "assets/images/sprites/spritesheet-long.png",
+      "When": {
+		"Season": "Spring, Fall",
+		"Weather": "Wind, Rain, Storm",
+		}
+    },
+
+    {
+      "LogName": "NPC Sprite",
+      "Action": "EditImage",
+      "Target": "Characters/Ayeisha",
+      "FromFile": "assets/images/sprites/spritesheet-long.png",
+      "When": {
+		"Season": "Summer",
+		"Weather": "Rain, Storm"
+		}
+    },
+
+    {
+      "LogName": "NPC Sprite",
+      "Action": "EditImage",
+      "Target": "Characters/Ayeisha",
+      "FromFile": "assets/images/sprites/spritesheet-long.png",
+      "When": {
+		"Season": "Winter",
+		}
+    },
+
+    {
+      "LogName": "Dialogue",
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Ayeisha",
+      "FromFile": "assets/dialogue/Dialogue.json",
+    },
+
+    {
+      "LogName": "NPC Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Ayeisha, Portraits/Marnie_Ayeisha",
+      "FromFile": "assets/images/portraits/{{Portrait}}.png",
+    },
+
+    {
+      "LogName": "ScheduleBlank",
+      "Action": "Load",
+      "Target": "Characters/schedules/Ayeisha",
+      "FromFile": "assets/schedules/ScheduleAll.json",
+
+    },
+    {
+      "LogName": "Schedule strings Default",
+      "Action": "Load",
+      "Target": "Strings/schedules/Ayeisha",
+      "FromFile": "assets/schedules/ScheduleDialogue.json",
+     },
+
+//Schedule
+
+{
+    "LogName": "Schedule",
+    "Action": "EditData",
+    "Target": "Characters/schedules/Ayeisha",
+    "Entries": {
+        "spring": "{{Random: {{PossibleSchedules}} |inputSeparator=@@ }}",
+        "winter_15": "610 Town 46 57 0 Ayeisha_Deliver/630 Mountain 9 27 0 Ayeisha_Deliver/800 Town 68 71 0 Ayeisha_Deliver/930 Town 51 64 0 Ayeisha_Deliver/1000 Town 41 72 0 Ayeisha_Deliver/1030 Town 56 87 0 Ayeisha_Deliver/1110 Town 99 93 0 Ayeisha_Deliver/1200 Town 95 82 0 Ayeisha_Deliver/1230 Beach 42 7 0 Ayeisha_Deliver/1340 Beach 27 34 0 Ayeisha_Deliver/1430 Town 21 90 0 Ayeisha_Deliver/1600 Town 8 89 0 Ayeisha_Deliver/1630 Forest 89 24 0 Ayeisha_Deliver/1720 Beach {{NightMarket15x}} {{NightMarket15y}} 2/2200 Custom_AyeishaVanRoad 3 11 0",
+        "winter_16": "610 Town 46 57 0 Ayeisha_Deliver/630 Mountain 9 27 0 Ayeisha_Deliver/800 Town 68 71 0 Ayeisha_Deliver/930 Town 51 64 0 Ayeisha_Deliver/1000 Town 41 72 0 Ayeisha_Deliver/1030 Town 56 87 0 Ayeisha_Deliver/1110 Town 99 93 0 Ayeisha_Deliver/1200 Town 95 82 0 Ayeisha_Deliver/1230 Beach 42 7 0 Ayeisha_Deliver/1340 Beach 27 34 0 Ayeisha_Deliver/1430 Town 21 90 0 Ayeisha_Deliver/1600 Town 8 89 0 Ayeisha_Deliver/1630 Forest 100 34 0 Ayeisha_Deliver/1720 Beach {{NightMarket16x}} {{NightMarket16y}} 3/2240 Custom_AyeishaVanRoad 3 11 0",
+        "winter_17": "610 Town 46 57 0 Ayeisha_Deliver/630 Mountain 9 27 0 Ayeisha_Deliver/800 Town 68 71 0 Ayeisha_Deliver/930 Town 51 64 0 Ayeisha_Deliver/1000 Town 41 72 0 Ayeisha_Deliver/1030 Town 56 87 0 Ayeisha_Deliver/1110 Town 99 93 0 Ayeisha_Deliver/1200 Town 95 82 0 Ayeisha_Deliver/1230 Beach 42 7 0 Ayeisha_Deliver/1340 Beach 27 34 0 Ayeisha_Deliver/1430 Town 21 90 0 Ayeisha_Deliver/1600 Town 8 89 0 Ayeisha_Deliver/1630 Forest 89 24 0 Ayeisha_Deliver/1720 Beach {{NightMarket17x}} {{NightMarket17y}} 2/2210 Custom_AyeishaVanRoad 3 11 0",
+    }
+},
+
+//Film Snacks/Drinks
+
+    {
+      "LogName": "Concessions Tastes",
+      "Action": "EditData",
+      "Target": "Data/ConcessionTastes",
+      "Entries": {
+      "Ayeisha": {
+      "Name": "Ayeisha",
+      "LovedTags":["Chocolate Popcorn", "Jasmine Tea", "Panzanella Salad", "Personal Pizza", "Salted Peanuts", "Sour Slimes", "Star Cookie", "Truffle Popcorn"],
+      "LikedTags":["Apple Slices", "Black Licorice", "Cappuccino Mousse Cake", "Fries", "Ice Cream Sandwich", "Nachos", "Popcorn", "Stardrop Sorbet"],
+      "DislikedTags":["Cotton Candy", "Hummus Snack Pack", "Jawbreaker", "Joja Cola", "JojaCorn", "Kale Smoothie", "Rock Candy", "Salmon Burger"],
+                 }
+                 },
+    },
+
+//Film Reactions
+{
+  "Action": "EditData",
+  "Target": "Data/MoviesReactions",
+  "Entries": {
+  "Ayeisha": {
+    "NPCName": "Ayeisha",
+    "Reactions": [
+//Brave Little Sapling
+      {
+        "Tag": "spring_movie_0",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "This movie looks really cute and fun"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "I like the animation style."
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "That was a really sweet movie."
+          }
+        },
+        "ID": "reaction_0"
+      },
+//Journey of the Praire King
+      {
+        "Tag": "summer_movie_0",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "I remember playing the game, I can't remember the plot tho."
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Haha! This is great! $h"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "That movie was great! Makes me want to play the game again now! $h"
+          }
+        },
+        "ID": "reaction_1"
+      },
+//Mysterium
+      {
+        "Tag": "fall_movie_0",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "I don't know anything about this movie. It looks unusual."
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "This movie is weird. $u"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "That was a very odd movie. I kind of liked it."
+          }
+        },
+        "ID": "reaction_2"
+      },
+//Mirale at Coldstar Ranch
+      {
+        "Tag": "winter_movie_0",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "I remember seeing this on TV as a child. I don't think I liked it much but maybe my taste has changed."
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": ""
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Did you enjoy it? I don't think my opinion of it has changed sadly. $s"
+          }
+        },
+        "ID": "reaction_3"
+      },
+//Natural Wonders
+      {
+        "Tag": "spring_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "I've been wanting to see this since I saw a trailer for it. $h"
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "This is really fascinating. $u"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Thanks for inviting me. I loved it! $h"
+          }
+        },
+        "ID": "reaction_4"
+      },
+//Wumbus
+      {
+        "Tag": "summer_movie_1",
+        "Response": "love",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "I love sci-fi films."
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Hahahaha $h"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "That film was hilarious. I had a great time. Thanks for inviting me. $h"
+          }
+        },
+        "ID": "reaction_5"
+      },
+//Howls in the Rain
+      {
+        "Tag": "fall_movie_1",
+        "Response": "dislike",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "I don't really like horror movies but I'll try to like it."
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "... $6"
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "Sorry I really didn't enjoy that at all. I had to close my eyes for most of it. $s"
+          }
+        },
+        "ID": "reaction_6"
+      },
+//Zuzu City Express
+      {
+        "Tag": "winter_movie_1",
+        "Response": "like",
+        "Whitelist": [],
+        "SpecialResponses": {
+          "BeforeMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "I've not seen a black and white movie for a long time. I don't think I've ever seen this one."
+          },
+          "DuringMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": ""
+          },
+          "AfterMovie": {
+            "ResponsePoint": null,
+            "Script": "",
+            "Text": "That was nice. I can see why it's a classic."
+          }
+        },
+        "ID": "reaction_7"
+      }
+     ]
+	}
+  }
+  },
+
+
+//DELIVERY EVENTS
+
+//--Pierre Secret Stash Delivery
+{
+	 "Action": "EditData",
+	 "Target": "data/events/seedshop",
+	 "Entries": {
+	 "64271002/f Pierre 1250/t 900 1700": "playful/6 21/farmer 12 27 3 Pierre 4 17 2 Caroline 10 17 0 Ayeisha 6 29 0/skippable/move Ayeisha 0 -8 0/speak Ayeisha \"Hi Pierre! I have a package for you.\"/move Pierre 0 0 1/pause 500/move Pierre 0 0 2/pause 400/move Pierre 0 0 1/pause 300/move Pierre 0 0 2/pause 200/jump Pierre/textAboveHead Pierre \"!?!?\"/showFrame Pierre 16/shake Pierre 800/move Caroline 0 0 3/pause 1500/move Caroline 0 0 0/pause 800/speed Pierre 4/advancedMove Pierre false -2 0 0 2 4 0 0 1/pause 1600/speak Pierre \"Thank you Ayeisha. However can you be a little more discreet next time.$s\"/advancedmove Caroline false 4 0 0 -5 4 0/speak Pierre \"Because...$4\"/pause 200/move Pierre 0 0 0/pause 400/move Pierre 0 0 2/speak Pierre \"...I have some deliveries that I would like to keep secret.$4\"/pause 300/speak Ayeisha \"Sure thing.$h\"/move Ayeisha 0 9 2/pause 150/playSound doorClose/warp Ayeisha -100 -100/pause 500/speak Pierre \"Now I need to hide this somewhere.\"/end position 6 29",
+	 },
+},
+
+//--Willy Magazine Delivery
+{
+	 "Action": "EditData",
+	 "Target": "data/events/fishshop",
+	 "Entries": {
+	 "64271003/f Willy 1250/t 900 1700/z summer": "distantBanjo/6 6/farmer 6 7 1 Willy 5 4 2 Ayeisha 5 9 0/skippable/move Ayeisha 0 -3 0/speak Ayeisha \"Hey Willy, I have some letters and your magazine subscription for you today.\"/speak Willy \"Ah... Me favorite magazine, The Ferngill Angler.$h#$b#But is there anythin' I can do for ya today?\"/speak Ayeisha \"There is actually. Do you have any fresh sardines? I want a couple as a small treat for my cats.\"/speak Willy \"Give me a moment.\"/pause 100/showFrame Willy 25/pause 1000/showFrame Willy 0/speak Willy \"Here ya go, two fresh sardines.$h\"/speak Ayeisha \"Thanks Willy. How much do I owe you?\"/speak Willy \"Nothin', they're on me.$h\"/speak Ayeisha \"Oh wow! Thanks.$h\"/speak Willy \"Me pleasure.$h\"/move Ayeisha 0 3 2/playSound doorClose/warp Ayeisha -100 -100/end position 5 9",
+	 },
+},
+
+//--Lewis Lucky Shorts Delivery
+//--Jean and Jorts Food Delivery
+//--Vincent Delivery
+
+{
+	 "Action": "EditData",
+	 "Target": "data/events/town",
+	 "Entries": {
+	 "64271004/f Lewis 1250/t 830 1400/w sunny/z winter": "distantBanjo/56 87/farmer 54 83 1 Lewis 65 86 4 Ayeisha 54 95 0/skippable/animate Lewis false true 500 16 17/move Ayeisha 0 -7 1/speak Ayeisha \"Hello Lewis. I think this package is for you.\"/pause 200/stopAnimation Lewis 12/advancedMove Lewis false 0 2 -10 0/speak Ayeisha \"The label has been damaged but it looks like your address.\"/pause 800/speak Ayeisha \"Seems to be from Lucky Shorts C...\"/speak Lewis \"Yep.$2\"/speak Lewis \"That's mine.$5\"/speak Lewis \"Thank you.$2\"/pause 500/speed Lewis 4/advancedMove Lewis false 4 0 0 -2/pause 2000/playSound doorClose/warp Lewis -100 -100/end",
+	 "64271011/f JeanCat 500/f JortsCat 500/t 800 1400": "distantBanjo/84 54/farmer 76 53 1 JeanCat 85 52 2 JortsCat 83 52 2 Ayeisha 79 53 2/skippable/animate JeanCat false true 400 36 37 38 39/animate JortsCat false true 400 44 45 46 47/move Ayeisha 5 0 0/speak Ayeisha \"Hi you two!$h\"/stopAnimation JeanCat/stopAnimation JortsCat/pause 400/speak Ayeisha \"Have you both been behaving?$h\"/pause 400/move JeanCat 0 0 3/move JortsCat 0 0 1/pause 1200/move JeanCat 0 0 2/move JortsCat 0 0 2/pause 100/textAboveHead JeanCat \"Yes\"/textAboveHead JortsCat \"Yes\"/beginSimultaneousCommand/playSound cat/playSound cat/endSimultaneousCommand/pause 400/speak Ayeisha \"Glad to hear it$h#$b#My cat wasn't keen on this cat food I bought him. So I wondered if you would like it?\"/pause 200/textAboveHead JeanCat \"<\"/textAboveHead JortsCat \"<\"/beginSimultaneousCommand/playSound cat/playSound cat/endSimultaneousCommand/pause 500/move JortsCat 1 0 2/pause 200/showFrame Ayeisha 19/playSound cat/pause 700/showFrame Ayeisha 8/move JortsCat -1 0 2/move JeanCat -1 0 2/pause 200/showFrame Ayeisha 19/playSound cat/pause 700/showFrame Ayeisha 8/move JeanCat 1 0 2/textAboveHead JeanCat \"Thanks!\"/textAboveHead JortsCat \"Thanks!\"/pause 500/speak Ayeisha \"I'm glad you both enjoyed it.$h\"/pause 900/end position 69 53",
+	 "64271013/f Vincent 750/t 1000 1500/w sunny/z winter": "distantBanjo/11 88/farmer 5 90 1 Vincent 10 87 2 Jodi 12 87 3 Ayeisha 17 90 2/skippable/animate Vincent false true 800 22 23/move Ayeisha -7 0 0/move Ayeisha 0 -1 0/speak Ayeisha \"Hello there Vincent.\"/stopAnimation Vincent/speak Vincent \"Hi Miss Ayeisha.\"/speak Ayeisha \"Looks like you have a small parcel today.\"/emote Vincent 8/move Vincent 0 1 2/pause 200/showFrame Ayeisha 19/playSound throwDownITem/pause 1000/showFrame Ayeisha 8/speak Vincent \"Thank you.$3\"/speak Ayeisha \"You're welcome.\"/move Vincent 0 -1 1/speak Vincent \"Mom?$3\"/speak Jodi \"It must be the suprise I ordered for you. You can open it now if you like.\"/emote Vincent 8/emote Vincent 20/speak Vincent \"Wow! It's a cool shark!$1#$b#Thanks Mom! Can I play with it now?\"/speak Jodi \"You can.\"/speak Vincent \"Yay! Come on Sharky!$1\"/move Vincent 0 -1 0/pause 150/playSound doorClose/warp Vincent -200 -200/speak Ayeisha \"Looks like he enjoyed the gift Jodi.\"/speak Jodi \"I am glad! He's been feeling low lately.#$b#Thanks Ayeisha for delivering it safely.\"/speak Ayeisha \"My pleasure.\"/speak Jodi \"Sorry I best go inside. I don't want him to make too much of a mess. Hope you have a nice day.\"/speak Ayeisha \"You too.\"/advancedMove Ayeisha false 0 2 10 0/move Jodi -2 0 0/move Jodi 0 -1 0/pause 150/playSound doorClose/warp Jodi -200 -200/end position 9 90",
+	},
+},
+
+//--Gus Drink Samples Delivery
+{
+	 "Action": "EditData",
+	 "Target": "data/events/saloon",
+	 "Entries": {
+	 "64271005/f Gus 1250/t 1230 1500": "ragtime/14 17/farmer 9 22 1 Gus 14 18 2 Emily 10 17 0 Ayeisha 14 24 0/skippable/move Ayeisha 0 -4 0/speak Ayeisha \"Hi Gus. I have a large package for you today.\"/speak Gus \"Great! My free drink samples arrived.$h#$b#Do you want to try one and let me know what you think?\"/speak Ayeisha \"Sure.\"/playSound gulp/playSound gulp/pause 1000/move Ayeisha 0 0 2/showFrame Ayeisha 20/emote Ayeisha 60/pause 1000/move Ayeisha 0 0 0/speak Ayeisha \"*blech* What was that?!$6\"/move Emily 2 0 0/speak Gus \"Peanut butter soda.\"/speak Ayeisha \"Tasted more like mud soda.$s\"/speak Gus \"I'm sorry.$s#$b#Let me make it up to you with something nicer.\"/move Emily 2 0 0/speak Ayeisha \"Thanks. I'm ahead of schedule and can use a 5 minute break.\"/advancedMove Gus false 4 0 0 -1/move Ayeisha -1 0 1/showFrame Ayeisha 17/pause 1200/end",
+	 },
+},
+
+
+//--Mister Gigner Fish Delivery
+{
+	"Action": "EditData",
+	"Target": "data/events/forest",
+	"Entries": {
+	"64271006/f MisterGinger 750/Hl Tristan_Returns/t 800 1400": "distantBanjo/90 23/farmer 83 23 1 MisterGinger 90 23 2 Ayeisha 97 24 4/skippable/animate MisterGinger false true 400 29 30 31/move Ayeisha -7 0 0/speak Ayeisha \"Hello Mr Ginger.\"/stopAnimation MisterGinger 26/speak MisterGinger \"Meow.\"/speak Ayeisha \"A little bird asked me to give you a package.$h\"/speak MisterGinger \"Mreoow??$l\"/speak Ayeisha \"Let me open it for you.\"/speak MisterGinger \"Mirp!$h\"/speak Ayeisha \"Oh look! It's one of your favorite fish and no bones!$h\"/speak MisterGinger \"Meooow meooww!$l\"/emote MisterGinger 20/pause 1000/speak MisterGinger \"Mrr$6\"/speak Ayeisha \"I'm glad you like it!$h\"/end",
+	},
+},
+
+//--Marnie Lew Lew Gift Delivery
+//50706110 is an event from 'The Ranch Expansion Marnie and Jas'
+{
+	"Action": "EditData",
+	"Target": "data/events/animalshop",
+	"Entries": {
+	"64271007/f Marnie 750/t 800 1150/k 50706110": "distantBanjo/13 16/farmer 17 16 3 Marnie 12 14 2 Ayeisha 13 19 0/skippable/move Ayeisha 0 -3 0/speak Ayeisha \"Morning Marnie.\"/speak Marnie \"Morning Ayeisha. How can I help you this morning?\"/speak Ayeisha \"I just have a special delivery for you today.\"/pause 1000/speak Marnie \"Special delivery?$s\"/pause 500/speak Marnie \"I didn't order anything?$s\"/pause 200/showFrame Ayeisha 19/playSound throwDownITem/pause 1000/showFrame Ayeisha 8/pause 500/speak Marnie \"Awww.. It's from LewLew. I told him not to.$h\"/speak Ayeisha \"LewLew?$u\"/speak Marnie \"...$l#$b#Did I say LewLew? I meant...$u\"/speak Ayeisha \"It's OK. You don't have to worry. I'm sworn to secrecy.$h\"/pause 500/move Ayeisha 0 3 2/playSound doorClose/warp Ayeisha -100 -100/end position 17 16",
+	},
+},
+
+//--Maru Heavy Package Delivery
+{
+	"Action": "EditData",
+	"Target": "data/events/mountain",
+	"Entries": {
+	"64271008/f Maru 1250/t 1200 1600/w sunny": "distantBanjo/10 25/farmer 12 26 3 Maru 8 23 2 Ayeisha 7 28 0/skippable/move Ayeisha 0 -2 0/speak Ayeisha \"Afternoon Maru.\"/speak Maru \"Hey Ayeisha.#$b#Oooh! My new package has arrived!$h\"/pause 400/move Ayeisha 0 0 1/pause 400/addObject 8 26 923/playSound axe/pause 800/move Ayeisha 0 0 0/pause 200/speak Ayeisha \"It has!#$b#I just hope you're not ordering many more heavy packages. It's very tiring getting them up here.$s\"/speak Maru \"I'm sorry Ayeisha. I have a few projects I'm working on at the moment.$s\"/pause 200/move Maru 0 0 3/pause 1000/move Maru 0 0 2/pause 200/speak Maru \"I had a thought!$u#$b#In the future you can drop all my packages at the clinic.#$b#Harvey wont mind.$h\"/speak Ayeisha \"Thanks that will be a great help.$h#$b#Sorry but I must get going. I've got a lot more deliveries to make. Hope you enjoy the rest of your day.\"/speak Maru \"You too.\"/move Maru 0 0 3/move Ayeisha 0 2 0/textAboveHead Ayeisha \"Hello {{PlayerName}}\"/move Ayeisha 5 0 0/move Ayeisha 0 8 0/end position 12 26",
+	},
+},
+
+//--Jacob Animal Drug Delivery
+{
+	"Action": "EditData",
+	"Target": "data/events/Custom_ESVetHouse",
+	"Entries": {
+	"64271009/f Jacob 1250/t 1000 1100": "breezy/10 22/farmer 12 27 0 Jacob 5 23 2 Ayeisha 5 25 0 RichieTheMacaw 8 22 0/skippable/move farmer 0 -3 0/move farmer 2 0 3/speak Ayeisha \"... and sign here.\"/pause 500/speak Ayeisha \"Here too.\"/playSound parrot/speak RichieTheMacaw \"Sign here! Sign here!\"/pause 500/speak Ayeisha \"And just one more here.\"/pause 500/speak Ayeisha \"That's it. Nothing else needed. $h\"/speak Jacob \"Thanks Ayeisha, you're a gem. I didn't realize I'd run so low on Enrofloxacin until it was almost too late.\"/speak Ayeisha \"That's ok. I always try to get your and Harvey's urgent deliveries done first.#$b#I can also always tell when the delivery is veterinary drugs.#$b#When it's a food package all the pets in the town follow me around. $h\"/speak Jacob \"Hah yes, they do that, don't they?$h\"/pause 300/speak Jacob \"Oh, before I forget - I picked up some new cat treats the other day.#$b#Princess Midnight loves them - and I'm sure your cats will too.$1\"/speak Ayeisha \"Awww thank you. It's very sweet of you. $l\"/playSound parrot/speak RichieTheMacaw \"Ooh La La!\"/speak Jacob \"Thanks for that Richie... Sorry about him, he's just excited to have a visitor.\"/pause 200/speak Ayeisha \"I must dash. I still have more deliveries to make. See you later Jacob\"/speak Jacob \"Thanks Ayeisha. Have a good day.\"/playSound parrot/speak RichieTheMacaw \"Hasta la vista Baby!\"/move Ayeisha 7 0 2/move Ayeisha 0 2 2/playSound doorClose/warp Ayeisha -100 -100/end position 14 24",
+	},
+},
+
+//--Mia Ingredients Delivery UNFINISHED EVENT
+{
+	"Action": "EditData",
+	"Target": "data/events/Custom_EastScarpe",
+	"Entries": {
+	"64271010/f Mia 1250/t 900 1500": "distantBanjo/31 54/farmer 24 57 1 Mia 34 53 2 Ayeisha 28 57 1/skippable/move Ayeisha 3 0 0/move Ayeisha 0 -2 0/speak Ayeisha \"Hey Mia, I've got another package for you here. I'm guessing it's igredients again.$h\"/move Mia -3 0 2/move Mia 0 1 2/speak Mia \"Hiya Ayeisha! Yeah Probably!$u#$b#Thanks.\"/speak Ayeisha \"You're welcome.\"/move Ayeisha 0 2 2/speak Mia \"WAIT! Do you have second. I want you to try my new creation!\"/move Ayeisha 0 0 0/pause 500/speak Ayeisha \"Sure!\"/move Mia 0 -3 0/warp Mia 0 0/playSound doorClose/pause 500/move Ayeisha 0 -3 0/pause 2500/move Mia 0 0 2/warp Mia 31 51/playSound doorClose/move Mia 0 2 2/pause 200/speak Mia \"Now try this.\"/playSound eat/pause 1000/speak Mia \"What do you think?$6\"/pause 500/playSound eat/emote Ayeisha 20/pause 250/playSound eat/speak Ayeisha \"Hmm delicious and I needed that extra boost in energy!$h\"/speak Mia \"I'm so glad you liked it!$u\"/speak Ayeisha \"You always make great snacks.\"/speak Mia \"aww thank you.$h\"/pause 300/speak Ayeisha \"I have to get going now tho, see you later.\"/speak Mia \"Bye Ayeisha.\"/move Ayeisha 0 2 1/move Ayeisha 5 0 1/end position 30 57",
+	},
+	"When": { "HasFlag": "UNFINISHEDEVENTDONOTUSE" },
+},
+
+//Juna Question
+{
+	"Action": "EditData",
+	"Target": "data/events/BusStop",
+	"Entries": {
+	"64271012/f Juna 750": "ragtime/14 21/farmer 7 22 1 Ayeisha 14 22 0 Juna -200 -200 3/skippable/move Ayeisha 4 0 1/playSound wand/screenFlash 1/warp Juna 20 22/jump Ayeisha/textAboveHead Ayeisha \"!?!?\"/speak Ayeisha \"... $6\"/speak Juna \"Ayeisha! I've got a question for you.$6\"/speak Ayeisha \"Hello, sure?$3\"/speak Juna \"Why do I never see you deliver anything to the annoying purple's tower?\"/speak Ayeisha \"Sorry? Who?$3#$b#I don't know who or what that is.$2\"/speak Juna \"The decrepit tower in the forest, you know the one. Houses a very old, very annoying old man who calls himself a wizard.\"/speak Ayeisha \"Oh, that tower. I always thought that tower was pretty. However the reason I never go there is I just never have anything to deliver.\"/speak Juna \"Hm. If, hypothetically, one were to send something rather large and fragile to the tower, would that go through you as well?$3\"/speak Ayeisha \"Yes, yes it would. However it's also a good idea to mark it 'Fragile'.\"/emote Juna 32/speak Juna \"Interesting. And could one send something that goes bang?$1#$b#Hypothetically.$3\"/emote Ayeisha 16/speak Ayeisha \"No!$5#$b#No, you can't send such things in the mail.$5\"/pause 400/textAboveHead Juna \"*sigh*\"/pause 500/speak Juna \"Oh well. Have a nice day then, I suppose.$2\"/pause 300/playSound wand/screenFlash 1/warp Juna -200 -200/pause 50/jump Ayeisha/pause 200/speak Ayeisha \"I wish she wouldn't do that.$6\"/pause 500/advancedMove Ayeisha false 5 0 0 5000/end",
+	},
+},
+
+//Love Token Deliveries
+{
+	 "LogName": "Love Token Deliveries",
+	 "Action": "EditData",
+	 "Target": "data/events/farm",
+	 "Entries": {
+//Vanilla
+	 "64272000/f Abigail 2125/D Abigail/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[66]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Abigail xxx'\"/end",
+	 "64272001/f Emily 2125/D Emily/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[62]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Emily xxx'\"/end",
+	 "64272002/f Haley 2125/D Haley/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[421]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Haley xxx'\"/end",
+	 "64272003/f Leah 2125/D Leah/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[348]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Leah xxx'\"/end",
+	 "64272004/f Maru 2125/D Maru/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[72]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Maru xxx'\"/end",
+	 "64272005/f Penny 2125/D Penny/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[376]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Penny xxx'\"/end",
+	 "64272006/f Alex 2125/D Alex/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[446]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Alex xxx'\"/end",
+	 "64272007/f Elliott 2125/D Elliott/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[444]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Elliott xxx'\"/end",
+	 "64272008/f Harvey 2125/D Harvey/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[348]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Harvey xxx'\"/end",
+	 "64272009/f Sam 2125/D Sam/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[562]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Sam xxx'\"/end",
+	 "64272010/f Sebastian 2125/D Sebastian/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[84]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Sebastian xxx'\"/end",
+	 "64272011/f Shane 2125/D Shane/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[446]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Shane xxx'\"/end",
+//SVE 
+	 "64272012/f Claire 2125/D Claire/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[421]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Claire xxx'\"/end",
+	 "64272013/f Olivia 2125/D Olivia/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[348]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Olivia xxx'\"/end",
+	 "64272014/f Sophia 2125/D Sophia/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[595]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Sophia xxx'\"/end",
+	 "64272015/f Victor 2125/D Victor/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[551]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Victor xxx'\"/end",
+	 "64272044/f Lance 2125/D Lance/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[797]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Lance xxx'\"/end",
+//Ridgeside
+	 "64272016/f Alissa 2125/D Alissa/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [60]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Alissa xxx'\"/end",
+	 "64272017/f Corine 2125/D Corine/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [591]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Corine xxx'\"/end",
+	 "64272018/f Flor 2125/D Flor/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [64]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Flor xxx'\"/end",
+	 "64272019/f Ian 2125/D Ian/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [446]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Ian xxx'\"/end",
+	 "64272020/f Jeric 2125/D Jeric/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [597]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Jeric xxx'\"/end",
+	 "64272021/f Kenneth 2125/D Kenneth/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [338]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Kenneth xxx'\"/end",
+	 "64272022/f Maddie 2125/D Maddie/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [586]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Maddie xxx'\"/end",
+	 "64272023/f Philip 2125/D Philip/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [86]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Philip xxx'\"/end",
+	 "64272024/f Shiro 2125/D Shiro/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [446]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Shiro xxx'\"/end",
+	 "64272025/f Ysabelle 2125/D Ysabelle/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [72]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Ysabelle xxx'\"/end",
+	 "64272040/f Daia 2125/D Daia/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[64]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Daia xxx'\"/end",
+	 "64272041/f Kiarra 2125/D Kiarra/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[348]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Kiarra xxx'\"/end",
+	 "64272042/f Jio 2125/D Jio/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[797]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Jio xxx'\"/end",
+	 "64272043/f Sean 2125/D Sean/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[348]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Sean xxx'\"/end",
+	 "64272045/f Paula 2125/D Paula/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[421]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Paula xxx'\"/end",
+	 "64272046/f Anton 2125/D Anton/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[459]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Anton xxx'\"/end",
+	 "64272047/f June 2125/D June/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[421]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - June xxx'\"/end",
+	 "64272043/f Bryle 2125/D Bryle/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[444]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Bryle xxx'\"/end",
+	 "64272045/f Faye 2125/D Faye/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[348]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Faye xxx'\"/end",
+	 "64272046/f Irene 2125/D Irene/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[222]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Irene xxx'\"/end",
+	 "64272047/f Zayne 2125/D Zayne/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go.[221]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Zayne xxx'\"/end",
+//Boarding House
+	 "64272026/f Gregory 2125/D Gregory/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [82]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Gregory xxx'\"/end",
+	 "64272027/f Sheila 2125/D Sheila/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [459]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Sheila xxx'\"/end",
+//Stray Catfe
+	 "64272028/f Tabitha 2125/D Tabitha/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [222]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Tabitha xxx'\"/end",
+	 "64272029/f Theo 2125/D Theo/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [591]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Theo xxx'\"/end",
+//Other
+	 "64272028/f John 2125/D John/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [348]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - John xxx'\"/end",
+	 "64272029/f Nikolai 2125/D Nikolai/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [70]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Nikolai xxx'\"/end",
+	 "64272030/f Lyell 2125/D Lyell/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [84]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Lyell xxx'\"/end",
+	 "64272031/f Juliet 2125/D Juliet/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [272]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Juliet xxx'\"/end",
+	 "64272032/f Jasper 2125/D Jasper/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [72]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Jasper xxx'\"/end",
+	 "64272033/f Charlie 2125/D Charlie/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [64]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Charlie xxx'\"/end",
+	 "64272034/f Riley 2125/D Riley/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [104]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Riley xxx'\"/end",
+	 "64272035/f Jade 2125/D Jade/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [577]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Jade xxx'\"/end",
+	 "64272036/f Delores 2125/D Delores/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [62]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Delores xxx'\"/end",
+	 "64272037/f Aspen 2125/D Aspen/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [595]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Aspen xxx'\"/end",
+	 "64272038/f Aideen 2125/D Aideen/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [597]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Aideen xxx'\"/end",
+	 "64272039/f Stirling 2125/D Stirling/t 600 730/c 1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [421]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Stirling xxx'\"/end",
+	 "64272048/f Katrielle 2125/D Katrielle/t 600 730/c 1/u 21/e 999979/k 64272049": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [819]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'K khsiy sp dr pzgi - K xxx'\"/end",
+	 "64272049/f Katrielle 2125/D Katrielle/t 600 730/c 1/e 999979/k 64272048": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [819]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - K xxx'\"/end",
+	 "64272050/f Baron 2124/D Baron/t 600 730/c1": "50s/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/pause 1500/speak Ayeisha \"Good Morning @. I have a special delivery for you today.\"/pause 500/showFrame Ayeisha 19/pause 800/playSound pickUpItem/speak Ayeisha \"Here you go. [60]$h\"/showFrame Ayeisha 8/pause 400/message \"A note is attached:\"/message \"'A token of my love - Baron xxx'\"/end",
+	 },
+	 "When": {"Love Token Events": true}
+
+},
+
+//EVENTS
+//--Spring and Autumn  Seed Gift
+{
+	 "Action": "EditData",
+	 "Target": "data/events/farm",
+	 "Entries": {
+	 "64273000/f Ayeisha 1100/t 600 700/c 1/z summer/z fall/z winter": "Pink Petals/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/skippable/pause 1500/speak Ayeisha \"Hi @. I have a left over pack of blue jazz seeds and I thought you could make use of them.[429]\"/end",
+	 "64273001/f Ayeisha 1600/t 600 700/c 1/z spring/z summer/z winter": "kindadumbautumn/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/skippable/pause 1500/speak Ayeisha \"Hello @. I have a spare pack of fairy rose seeds and I thought the bees on your farm would love them.[425]\"/end",
+	 },
+},
+
+{
+	 "Action": "EditData",
+	 "Target": "data/events/farm",
+	 "Entries": {
+	 "64273002/w sunny": "spring_day_ambient/-200 -200/farmer 2 2 2 Ayeisha 3 3 0/skippable/pause 1500/speak Ayeisha \"Hey @!!! I have an odd question for you.$s#$b#Have seen any strange creatures around lately?$s\"/quickQuestion #Yes, I have!#No, I haven't!#Only Linus.(break)speak Ayeisha \"Really?!$u#$b#I think I may have seen it too then!$h#$b#I saw this strange creature go into some bushes near my van this morning.#$b#I thought I'd let you know in case it damaged your crops.\"(break)speak Ayeisha \"Oh?$s#$b#I thought I saw this strange creature go into some bushes near my van this morning.$s#$b#I thought I'd let you know in case it damaged your crops.$s\"(break)speak Ayeisha \"....$a#$b#...So I thought I saw this strange creature go into some bushes near my van this morning.$s#$b#I thought I'd let you know in case it damaged your crops.$s\"\\friendship Ayeisha -100/end",
+	 },
+	 "When": { "HasFlag": "trashBearDone" },
+},
+
+
+//--TrashBear
+{
+	"Action": "EditData",
+	"Target": "data/events/Custom_AyeishaVanRoad",
+	"Entries": {
+	"64273003/e 64273002": "spring_day_ambient/5 10/farmer 1 13 0/skippable/addTemporaryActor TrashBear 32 32 9 9 0 false/animate TrashBear false true 250 0 1/move farmer 8 0 0/move farmer 0 -1 0/pause 250/stopAnimation TrashBear/pause 100/animate TrashBear false true 275 13 14 15 14/playSound trashbear_flute/pause 1300/removeTile 3 8 Buildings/pause 1300/removeTile 4 8 Buildings/pause 1300/removeTile 5 8 Buildings/pause 1300/removeTile 8 8 Buildings/pause 1300/removeTile 9 8 Buildings/pause 1300/removeTile 7 8 Buildings/pause 800/stopAnimation TrashBear/animate TrashBear false true 250 0 1/pause 1500/playSound yoba/screenFlash 1/warp TrashBear -100 -100/stopAnimation TrashBear/pause 500/animate farmer false true 100 94/jump farmer/pause 800/stopAnimation farmer/move farmer 0 -3 0/emote farmer 8/pause 300/move farmer 0 0 1/pause 280/move farmer 0 0 3/pause 280/move farmer 0 0 2/pause 250/move farmer 0 0 1/pause 240/move farmer 0 0 1/pause 1000/end position 9 9",
+	},
+
+},
+
+ {
+            "Action": "EditMap",
+            "Target": "Maps/Forest",
+            "MapTiles": [
+                {
+                    "Position": { "X": 34, "Y": 95 },
+                    "Layer": "AlwaysFront",
+                    "SetTilesheet": "outdoors",
+                    "SetIndex": "1972"
+                },
+                {
+                    "Position": { "X": 34, "Y": 94 },
+                    "Layer": "AlwaysFront",
+                    "SetTilesheet": "outdoors",
+                    "SetIndex": "1947"
+                }
+            ],
+            "When": {
+				"HasSeenEvent |contains=64273004": "false"
+				}
+},
+
+{
+	 "Action": "EditData",
+	 "Target": "data/events/forest",
+	 "Entries": {
+	 "64273004/w sunny": "spring_day_ambient/34 98/Ayeisha 32 97 0/addObject 30 96 923/addObject 31 96 923/addObject 32 96 923/addObject 33 96 923/addObject 35 96 923/pause 1000/speak Ayeisha \"Odd.$s\"/pause 500/speak Ayeisha \"I wonder why I had to deliver 5 packages to this house today.$s#$b#Nobody has lived here for years.$s\"/pause 700/speak Ayeisha \"I hope someone isn't playing a trick on me.$s\"/pause 100/move Ayeisha 0 0 2/pause 280/move Ayeisha 0 0 3/pause 280/move Ayeisha 0 0 2/pause 250/move Ayeisha 0 0 1/pause 240/move Ayeisha 0 0 2/pause 700/speak Ayeisha \"Well I've done a good job and the packages should be safe.#$b#Now I just need to trek back into town. Hopefully I will find some nice forage on the way.$h\"/pause 500/advancedMove Ayeisha false 5 0 0 5000/fade/viewport -200 -200/removeTile 34 94 AlwaysFront/removeTile 34 95 AlwaysFront/end",
+	 },
+	 "When": { "HasFlag": "hatter" },
+},
+
+
+//MODIFIED VANILLA EVENTS
+{
+	 "LogName": "Modify Vanilla Events",
+	 "Action": "EditData",
+	 "Target": "data/events/town",
+	 "Entries": {
+	 "choseToBeKnown": "pause 200/addConversationTopic pamHouseUpgrade/speak Robin \"Okay... let's go.\"/pause 500/move Robin 0 1 2/move farmer 0 2 2 true/move Robin 0 3 1 false/move Robin 2 0 1/move farmer 3 0 1/move farmer 0 1 1/faceDirection Pam 3/move Penny 0 -1 3/move Penny -1 0 3/speak Robin \"Hi there, neighbors... that's a nice new house you got there!$4\"/pause 250/playMusic musicboxsong/speak Pam \"Robin... I... I dunno what to say...$s#$b#This is a dream come true... it's all I've ever wanted.$s\"/faceDirection Pam 2/animate Pam false true 100 25/pause 1000/animate Pam false true 150 26 27/pause 1000/speak Penny \"Robin, thank you so much...$s\"/speak Robin \"Hey, don't thank me! This was @'s idea... And he paid for the whole thing, too!^Hey don't thank me! This was @'s idea... And she paid for the whole thing, too!\"/pause 100/stopAnimation Pam/showFrame Pam 12/pause 500/speak Penny \"@... This is absolutely incredible...$7#$b#I... I don't know what else to say...$s\"/stopAnimation Pam/faceDirection Pam 3/stopAnimation Penny/faceDirection Penny 3/pause 300/speak Pam \"This must have cost a fortune, @...$s#$b#...To be honest, this is kind of embarrassing. How can I ever repay you for this?$4\"/pause 300/question fork1 \"...#It's a gift... no repayment needed.#You can start by treating Penny better...\"/fork itsagift/pause 500/faceDirection Pam 2/showFrame Pam 25/pause 250/faceDirection Penny 2/speak Pam \"...I'm sorry.$s\"/pause 500/speak Pam \"I'll do whatever you say...$s\"/pause 500/animate Robin false true 150 34 35/pause 500/speak Penny \"Mom...$s\"/faceDirection Pam 0/speak Penny \"Don't worry... I understand why you get angry sometimes. Your life hasn't been so easy...$s\"/stopAnimation Robin/faceDirection Robin 1/speak Pam \"Thanks, kid.$h#$b#From now on we'll be like a real family... you hear?#$b#I don't wanna be so bitter all the time anymore...$s#$b#I'm gonna try to turn my life around...\"/emote Penny 20/pause 100/animate Penny false true 200 0 1 2 3/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 500/positionOffset Penny 0 8/animate Penny false true 100 39/warp Pam -100 -100/playSound coin/pause 3000/fade/viewport -2000 -2000/pause 400/playMusic none/pause 1000/end",
+	 "choseToBeKnown_pennySpouse": "pause 200/addConversationTopic pamHouseUpgrade/speak Robin \"Okay... let's go.\"/pause 500/move Robin 0 1 2/move farmer 0 2 2 true/move Robin 0 3 1 false/move Robin 2 0 1/move farmer 3 0 1/move farmer 0 1 1/faceDirection Pam 3/move Penny 0 -1 3/move Penny -1 0 3/speak Robin \"Hi there, neighbors... that's a nice new house you got there!$4\"/pause 250/playMusic musicboxsong/speak Pam \"Robin... I... I dunno what to say...$s#$b#This is a dream come true... it's all I've ever wanted.$s\"/faceDirection Pam 2/animate Pam false true 100 25/pause 1000/animate Pam false true 150 26 27/pause 1000/speak Penny \"@? What are you doing here?\"/speak Robin \"What, you didn't tell your wife about this, @?$u\"/faceDirection Robin 0/faceDirection farmer 2/pause 100/faceDirection Robin 1/speak Robin \"@ came up with this idea and paid for the whole thing!\"/faceDirection farmer 1/stopAnimation Pam/showFrame Pam 12/pause 500/speak Penny \"@... you didn't need to do this...#$b#But, thank you. This means a lot to me.$s\"/stopAnimation Pam/faceDirection Pam 3/stopAnimation Penny/faceDirection Penny 3/pause 300/speak Pam \"This must have cost a fortune, @...$s#$b#...To be honest, this is kind of embarrassing. How can I ever repay you for this?$4\"/pause 300/question fork1 \"...#You're my 'Mom'!. No repayment needed!#You can start by treating Penny better...\"/fork itsagift_pennySpouse/pause 500/faceDirection Pam 2/showFrame Pam 25/pause 250/faceDirection Penny 2/speak Pam \"...I'm sorry.$s\"/pause 500/speak Pam \"I'll do whatever you say...$s\"/pause 500/animate Robin false true 150 34 35/pause 500/speak Penny \"Mom...$s\"/faceDirection Pam 0/speak Penny \"Don't worry... I understand why you get angry sometimes. Your life hasn't been so easy...$s\"/stopAnimation Robin/faceDirection Robin 1/speak Pam \"Thanks, kid.$h#$b#From now on we'll be like a real family... you hear?#$b#I don't wanna be so bitter all the time anymore...$s#$b#I'm gonna try to turn my life around...\"/emote Penny 20/pause 100/animate Penny false true 200 0 1 2 3/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 50/positionOffset Penny 0 2/pause 500/positionOffset Penny 0 8/animate Penny false true 100 39/warp Pam -100 -100/playSound coin/pause 3000/fade/viewport -2000 -2000/pause 400/playMusic none/pause 1000/end"
+	 },
+},
+
+//AYEISHA REPLACES MARNIE FOR PET ADOPTION
+{
+	 "Action": "EditData",
+	 "Target": "Data/Events/Farm",
+	 "Entries": {
+  "1590166/m 1000/t 600 930/d Mon Tue Thu Sat Sun/w sunny/h cat/H": null,
+   "897405/m 1000/t 600 930/d Mon Tue Thu Sat Sun/w sunny/h dog/H": null,
+  "64273005/m 1000/t 600 930/d Mon Tue Thu Sat Sun/w sunny/h cat/H": "continue/64 15/farmer 64 15 2 Ayeisha 65 16 0 cat 63 16 2 Marnie 0 0 0/warp Marnie -500 -500/changeName Marnie Ayeisha/changePortrait Marnie Ayeisha/faceDirection Cat 2/pause 500/animate Cat false false 120 16 17 18 18/pause 480/animate Cat false true 120 18/pause 1000/speak Ayeisha \"Hi @!$h#$b#This cat...$s\"/faceDirection Ayeisha 3/pause 400/showFrame Cat 18/playSound cat/pause 1200/faceDirection Ayeisha 0/speak Ayeisha \"I found it sitting on top of your mailbox this morning! I think it's a stray...$s\"/showFrame Cat 19/pause 500/showFrame Cat 18/playSound cat/shake Cat 150/pause 1500/speak Ayeisha \"It seems to like this farm!#$b#I would look after it myself, but my other cat is unwell at the moment and needs my attention.$s#$b# I don't suppose this farm could use a cat?$h\"/catQuestion/pause 1000/faceDirection Ayeisha 3/speak Ayeisha \"I'll probably see you tomorrow morning %pet.$h\"/pause 500/showFrame Cat 19/shake Cat 100/playSound cat/pause 800/animate Cat false false 120 20 21 22 23 21 22 23 21 22 23 21 22 23 21 22 23 21 22 23 21 22 23/pause 200/globalFade/viewport -1000 -1000/end",
+  "64273006/m 1000/t 600 930/d Mon Tue Thu Sat Sun/w sunny/h dog/H": "continue/64 15/farmer 64 15 2 Ayeisha 65 16 0 dog 63 16 2 Marnie 0 0 0/warp Marnie -500 -500/changeName Marnie Ayeisha/changePortrait Marnie Ayeisha/faceDirection Dog 1/pause 500/animate Dog false false 120 20 21 22 23 23/pause 480/animate Dog false true 120 23/pause 1000/speak Ayeisha \"Hi @!$h#$b#This dog...$s\"/faceDirection Ayeisha 3/pause 400/showFrame Dog 26/playSound dog_bark/pause 200/showFrame Dog 23/pause 600/showFrame Dog 26/playSound dog_bark/pause 200/showFrame Dog 23/pause 1000/animate Dog false true 200 24 25/playSound dog_pant/pause 400/playSound dog_pant/pause 400/playSound dog_pant/pause 1200/faceDirection Ayeisha 0/speak Ayeisha \"I found it laying by your mailbox this morning! I think it's a stray...$s\"/pause 500/animate Dog false true 400 23 31/pause 1500/speak Ayeisha \"It seems to like this farm!#$b#I would look after it myself, but my cat would not be happy.$s#$b# I don't suppose this farm could use a dog?$h\"/catQuestion/pause 1000/faceDirection Ayeisha 3/speak Ayeisha \"I'll probably see you tomorrow morning %pet.$h\"/pause 500/stopAnimation Dog/showFrame Dog 26/playSound dog_bark/pause 200/showFrame Dog 23/pause 1000/globalFade/viewport -1000 -1000/end",
+//This is to add a conversationtopic and also a workaround for a very specific quirk (Marnie's dialogue is generic from her file)
+  "64279000/e 64273005 64273006": "continue/64 15/Marnie 0 0 0/warp Marnie -500 -500/viewport 500 500/addConversationTopic PetRejectionAyeisha/end dialogue Marnie \"Hi. Need something?#$e#I might be getting some different kinds of animals in the future.\"",
+  },
+	 "When": {"Ayeisha Asks Pet Question": true}
+},
+
+{
+      "LogName": "Pet Rejection Vanilla",
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {"Event.cs.1798": "No? Okay... I'll have to ask around to find a home for the poor thing.$s",},
+      "When": {"Ayeisha Asks Pet Question": true,
+      	       "HasMod |contains=LemurKat.EastScarpe.CP": false,}
+},
+{
+      "LogName": "Pet Rejection East Scarp",
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {"Event.cs.1798": "No? Okay... I'll have to ask Jacob to see if he can help find a home for the poor thing.$s",},
+      "When": {"Ayeisha Asks Pet Question": true,
+      	       "HasMod |contains=LemurKat.EastScarpe.CP": true,}
+},
+  ]
+}
