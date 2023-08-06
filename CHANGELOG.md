@@ -28,6 +28,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 ### Modifications <!-- omit in toc -->
 
 - Patched [Boarding House and Bus Stop Extension](https://www.nexusmods.com/stardewvalley/mods/4120) to no longer spawn Pterodactyl Eggs, as they break the game.
+- Patched [Ayeisha - The Postal Worker (Custom NPC)](https://www.nexusmods.com/stardewvalley/mods/6427) to no longer crash with a broken Barron event when [Traveling Dreamer](https://www.nexusmods.com/stardewvalley/mods/15881) is installed.
 
 ### Additions <!-- omit in toc -->
 
@@ -38,6 +39,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
 - Updated [Morris Redeemed](https://www.nexusmods.com/stardewvalley/mods/12667)
 - Updated [Alecto the Witch (new NPC)](https://www.nexusmods.com/stardewvalley/mods/10671)
+- Updated [Traveling Dreamer](https://www.nexusmods.com/stardewvalley/mods/15881)
 - Updated [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)
 - Updated [Event Lookup](https://www.nexusmods.com/stardewvalley/mods/8505)
 - Updated [Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059)
