@@ -36,8 +36,15 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 ### Updates <!-- omit in toc -->
 
 - Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
+- Updated [Anniversary on Calendar](https://www.nexusmods.com/stardewvalley/mods/8351)
+- Updated [Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)
+- Updated [Custom Spouse Rooms](https://www.nexusmods.com/stardewvalley/mods/10029)
+- Updated [The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)
+- Updated [Ayeisha - The Postal Worker (Custom NPC)][https://www.nexusmods.com/stardewvalley/mods/6427]
 
 ### Removals <!-- omit in toc -->
+
+- Removed Yagisan's - Ayeisha - Barron Event Fix. This has been fixed upstream.
 
 ## 0.6.3
 
