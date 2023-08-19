@@ -30,6 +30,9 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Additions <!-- omit in toc -->
 
+- Added [Lurking in the Dark - NPC Sen (East Scarp)](https://www.nexusmods.com/stardewvalley/mods/10770)
+- Added [Fievel Goes East Scarp - Hat Mouse NPC](https://www.nexusmods.com/stardewvalley/mods/17315/)
+
 ### Updates <!-- omit in toc -->
 
 - Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
