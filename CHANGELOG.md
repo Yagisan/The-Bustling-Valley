@@ -40,7 +40,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)
 - Updated [Custom Spouse Rooms](https://www.nexusmods.com/stardewvalley/mods/10029)
 - Updated [The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)
-- Updated [Ayeisha - The Postal Worker (Custom NPC)][https://www.nexusmods.com/stardewvalley/mods/6427]
+- Updated [Ayeisha - The Postal Worker (Custom NPC)](https://www.nexusmods.com/stardewvalley/mods/6427)
+- Updated [MARGO -- Modular Gameplay Overhaul](https://www.nexusmods.com/stardewvalley/mods/14470)
+- Updated [Never Ending Adventure - NPC Mateo](https://www.nexusmods.com/stardewvalley/mods/12369)
+- Updated [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)
 
 ### Removals <!-- omit in toc -->
 
