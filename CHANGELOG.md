@@ -44,6 +44,14 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [MARGO -- Modular Gameplay Overhaul](https://www.nexusmods.com/stardewvalley/mods/14470)
 - Updated [Never Ending Adventure - NPC Mateo](https://www.nexusmods.com/stardewvalley/mods/12369)
 - Updated [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)
+- Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
+- Updated [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Extra Map Layers](https://www.nexusmods.com/stardewvalley/mods/9633)
+- Updated [Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)
+- Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+- Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
+- Updated [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)
+- Updated [Romanced NPCs in CC Ceremony RSV](https://www.nexusmods.com/stardewvalley/mods/10261)
 
 ### Removals <!-- omit in toc -->
 
