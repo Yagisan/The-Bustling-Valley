@@ -52,6 +52,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 - Updated [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)
 - Updated [Romanced NPCs in CC Ceremony RSV](https://www.nexusmods.com/stardewvalley/mods/10261)
+- Updated [Traveling Dreamer](https://www.nexusmods.com/stardewvalley/mods/15881)
 
 ### Removals <!-- omit in toc -->
 
