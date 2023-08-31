@@ -1729,9 +1729,9 @@ To work around install issues, rebuild Professor Jasper Thomas 1.5.0 from Profes
 
 On 9 Aug 2021, Nexus decided that the configuration files, and all my own supporting mod files, violated a non-existent part of their terms and conditions. It was especially odd considering that they just forced all mod authors remaining on Nexus to accept being included in mod packs as of 5 Aug 2021. **So they deleted them.**
 
-![9_Aug_Nexus_TOS_Breach](assets/images/Nexus/09_Aug_2021_Support_Files_Deletion/Nexus_Against_Non-existant_ToS.png)
+![9_Aug_Nexus_TOS_Breach](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/Nexus/09_Aug_2021_Support_Files_Deletion/Nexus_Against_Non-existant_ToS.png)
 
-![9_Aug_Nexus_Deleted_My_Files](assets/images/Nexus/09_Aug_2021_Support_Files_Deletion/Nexus_Deleted_Support_Mods.png)
+![9_Aug_Nexus_Deleted_My_Files](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/Nexus/09_Aug_2021_Support_Files_Deletion/Nexus_Deleted_Support_Mods.png)
 
 ## 0.1.2
 
