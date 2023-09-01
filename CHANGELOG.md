@@ -53,6 +53,11 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)
 - Updated [Romanced NPCs in CC Ceremony RSV](https://www.nexusmods.com/stardewvalley/mods/10261)
 - Updated [Traveling Dreamer](https://www.nexusmods.com/stardewvalley/mods/15881)
+- Updated [Penny 8 Heart Event Adjusted](https://www.nexusmods.com/stardewvalley/mods/9865)
+- Updated [Yagisan's Bountiful Valley](https://www.nexusmods.com/stardewvalley/mods/9259)
+- Updated [Yagisan's Bountiful Valley for Boarding House](https://www.nexusmods.com/stardewvalley/mods/9263)
+- Updated [Yagisan's Bountiful Valley for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/9272)
+- Updated [Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)
 
 ### Removals <!-- omit in toc -->
 
