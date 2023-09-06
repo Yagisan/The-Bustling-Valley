@@ -58,6 +58,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Yagisan's Bountiful Valley for Boarding House](https://www.nexusmods.com/stardewvalley/mods/9263)
 - Updated [Yagisan's Bountiful Valley for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/9272)
 - Updated [Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)
+- Updated [Event Lookup Locations](https://www.nexusmods.com/stardewvalley/mods/13569)
+- Updated [Unique Winter Star](https://www.nexusmods.com/stardewvalley/mods/14709)
 
 ### Removals <!-- omit in toc -->
 
