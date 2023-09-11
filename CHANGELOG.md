@@ -32,6 +32,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 - Added [Lurking in the Dark - NPC Sen (East Scarp)](https://www.nexusmods.com/stardewvalley/mods/10770)
 - Added [Fievel Goes East Scarp - Hat Mouse NPC](https://www.nexusmods.com/stardewvalley/mods/17315/)
+- Added [Circle of Thorns - NPC Hector](https://www.nexusmods.com/stardewvalley/mods/16032)
 
 ### Updates <!-- omit in toc -->
 
