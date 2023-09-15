@@ -33,6 +33,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Added [Lurking in the Dark - NPC Sen (East Scarp)](https://www.nexusmods.com/stardewvalley/mods/10770)
 - Added [Fievel Goes East Scarp - Hat Mouse NPC](https://www.nexusmods.com/stardewvalley/mods/17315/)
 - Added [Circle of Thorns - NPC Hector](https://www.nexusmods.com/stardewvalley/mods/16032)
+- Added [Seasonal Outfits for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/18202)
 
 ### Updates <!-- omit in toc -->
 
@@ -61,6 +62,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)
 - Updated [Event Lookup Locations](https://www.nexusmods.com/stardewvalley/mods/13569)
 - Updated [Unique Winter Star](https://www.nexusmods.com/stardewvalley/mods/14709)
+- Updated [Custom Ore Nodes](https://www.nexusmods.com/stardewvalley/mods/5966)
 
 ### Removals <!-- omit in toc -->
 
