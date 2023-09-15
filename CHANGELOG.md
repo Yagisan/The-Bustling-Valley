@@ -34,6 +34,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Added [Fievel Goes East Scarp - Hat Mouse NPC](https://www.nexusmods.com/stardewvalley/mods/17315/)
 - Added [Circle of Thorns - NPC Hector](https://www.nexusmods.com/stardewvalley/mods/16032)
 - Added [Seasonal Outfits for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/18202)
+- Added [Flower Dance Acceptance Responses](https://www.nexusmods.com/stardewvalley/mods/16446)
+- Added [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
 
 ### Updates <!-- omit in toc -->
 
