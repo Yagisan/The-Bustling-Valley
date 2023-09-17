@@ -65,6 +65,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Event Lookup Locations](https://www.nexusmods.com/stardewvalley/mods/13569)
 - Updated [Unique Winter Star](https://www.nexusmods.com/stardewvalley/mods/14709)
 - Updated [Custom Ore Nodes](https://www.nexusmods.com/stardewvalley/mods/5966)
+- Updated [Golden Coconut Tree](https://www.nexusmods.com/stardewvalley/mods/8280)
 
 ### Removals <!-- omit in toc -->
 
