@@ -66,6 +66,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Unique Winter Star](https://www.nexusmods.com/stardewvalley/mods/14709)
 - Updated [Custom Ore Nodes](https://www.nexusmods.com/stardewvalley/mods/5966)
 - Updated [Golden Coconut Tree](https://www.nexusmods.com/stardewvalley/mods/8280)
+- Updated [Farm Type Manager](https://www.nexusmods.com/stardewvalley/mods/3231)
+- Updated [Custom NPC Exclusions](https://www.nexusmods.com/stardewvalley/mods/7089)
 
 ### Removals <!-- omit in toc -->
 
