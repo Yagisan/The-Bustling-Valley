@@ -331,5 +331,14 @@
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.Info3",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Bush Bug fixes",
+        "Text": "Stardew Valley handles many mod updates very gracefully, including map updates.^^One thing it doe not handle well, is bushes moving or being destroyed. This often happens when large mods, or NPC mods are updated. This is the infamous bush bug.^^Luckily TBV has a quick and easy fix included.^^After updating TBV, while still in your farmhouse press the 'V' key.^^Next check 'Affect all locations', then check 'Bushes'.^^Now click on the button that says 'Reset'.^^Nothing will appear to happen, but it has just fixed all bushes in the game. Now click on the 'X' in the top corner, and continue playing.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
     }
 ]

@@ -40,6 +40,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Updates <!-- omit in toc -->
 
+- In-Game Tutorial Updated.
 - Updated [SMAPI](https://smapi.io/)
 - Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
 - Updated [Anniversary on Calendar](https://www.nexusmods.com/stardewvalley/mods/8351)

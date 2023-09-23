@@ -2,7 +2,7 @@
   "$schema": "https://smapi.io/schemas/manifest.json",
   "Name": "[MFM] Yagisan - TBV Tuorial",
   "Author": "Yagisan",
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "Description": "The Bustling Valley Tutorial Mail",
   "UniqueID": "Yagisan.TBVTutorialMail",
   "MinimumApiVersion": "3.0.0",
