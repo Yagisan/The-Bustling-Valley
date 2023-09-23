@@ -4,5 +4,7 @@
   "TrentonFamilyDrama": "true",
   "FriendableAnimals": "EmperorDuck, EmpressDuck, LadyShebaCat",
   "RivalHearts": "",
-  "AllowNagito": "false"
+  "GenderNeutral": "false",
+  "AllowNagito": "false",
+  "BeatriceAltPortraits": "true"
 }
