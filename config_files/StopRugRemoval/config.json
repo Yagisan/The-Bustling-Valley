@@ -304,7 +304,19 @@
     "Custom_Si_MR_Morris_CCRoom": "Dynamic",
     "Cellar2": "Dynamic",
     "Cellar3": "Dynamic",
-    "Cellar4": "Dynamic"
+    "Cellar4": "Dynamic",
+    "Custom_Ridgeside_RSVTheRide_static": "Dynamic",
+    "Custom_ESLanternRoom": "Dynamic",
+    "Custom_Fellowclown_PlayHouse": "Dynamic",
+    "Custom_Fellowclown_LoresRoad": "Dynamic",
+    "Custom_MouseHole": "Dynamic",
+    "Custom_MouseHoleRenovated": "Dynamic",
+    "Custom_ESDruidTower": "Dynamic",
+    "Custom_ESDruidGrove": "Dynamic",
+    "Custom_ESRiverStage1": "Dynamic",
+    "Custom_ESRiverStage2": "Dynamic",
+    "Custom_ESRiverStage3": "Dynamic",
+    "Custom_ESRiverStage4": "Dynamic"
   },
   "EditElliottEvent": true,
   "RemoveDuplicateNPCs": false
