@@ -36,6 +36,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Added [Seasonal Outfits for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/18202)
 - Added [Flower Dance Acceptance Responses](https://www.nexusmods.com/stardewvalley/mods/16446)
 - Added [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
+- Added [Object Product Display](https://www.nexusmods.com/stardewvalley/mods/18365)
 
 ### Updates <!-- omit in toc -->
 
