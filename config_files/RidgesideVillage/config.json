@@ -10,6 +10,5 @@
   "EnableBetterBusStop": true,
   "PoleAtBackwoods": true,
   "SeasonalRSVMap": true,
-  "EnableTouristNPCs": true,
-  "EnableWTDRCompat": false
+  "EnableTouristNPCs": true
 }
