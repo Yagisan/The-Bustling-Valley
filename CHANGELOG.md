@@ -39,6 +39,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Updates <!-- omit in toc -->
 
+- Updated [SMAPI](https://smapi.io/)
 - Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
 - Updated [Anniversary on Calendar](https://www.nexusmods.com/stardewvalley/mods/8351)
 - Updated [Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)
@@ -68,6 +69,11 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Golden Coconut Tree](https://www.nexusmods.com/stardewvalley/mods/8280)
 - Updated [Farm Type Manager](https://www.nexusmods.com/stardewvalley/mods/3231)
 - Updated [Custom NPC Exclusions](https://www.nexusmods.com/stardewvalley/mods/7089)
+- Updated [Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059)
+- Updated [The Last Smoluanu - A Dwarf Expansion](https://www.nexusmods.com/stardewvalley/mods/9642)
+- Updated [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
+- Updated [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)
+- Updated [AtraCore](https://www.nexusmods.com/stardewvalley/mods/12932)
 
 ### Removals <!-- omit in toc -->
 
