@@ -22,7 +22,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.6.4
 
-**Released:** `?? Sep 2023`
+**Released:** `25 Sep 2023`
 
 ### Info <!-- omit in toc -->
 
@@ -37,6 +37,9 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Added [Flower Dance Acceptance Responses](https://www.nexusmods.com/stardewvalley/mods/16446)
 - Added [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
 - Added [Object Product Display](https://www.nexusmods.com/stardewvalley/mods/18365)
+- Added [ReMapping](https://www.nexusmods.com/stardewvalley/mods/18122)
+- Added [MinecartPatcher](https://www.nexusmods.com/stardewvalley/mods/11424)
+- Added [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
 
 ### Updates <!-- omit in toc -->
 
