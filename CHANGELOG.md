@@ -31,6 +31,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Additions <!-- omit in toc -->
 
+- Added [FellowClowns TileSheets and Festival Patches](https://www.nexusmods.com/stardewvalley/mods/13166)
+
 ### Updates <!-- omit in toc -->
 
 - Updated [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
