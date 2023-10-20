@@ -47,6 +47,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Traveling Dreamer](https://www.nexusmods.com/stardewvalley/mods/15881)
 - Updated [ReMapping](https://www.nexusmods.com/stardewvalley/mods/18122)
 - Updated [Seasonal Outfits for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/18202)
+- Updated [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
 
 ### Removals <!-- omit in toc -->
 
