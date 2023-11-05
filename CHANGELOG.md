@@ -35,6 +35,13 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 ### Updates <!-- omit in toc -->
 
 - Updated [Traveling Dreamer](https://www.nexusmods.com/stardewvalley/mods/15881)
+- Updated [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
+- Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
+- Updated [Farm Type Manager](https://www.nexusmods.com/stardewvalley/mods/3231)
+- Updated [Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)
+- Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+- Updated [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
+- Updated [Immersive Sandy](https://www.nexusmods.com/stardewvalley/mods/13609)
 
 ## 0.6.5
 
