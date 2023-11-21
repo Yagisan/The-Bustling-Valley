@@ -42,6 +42,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
 - Updated [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
 - Updated [Immersive Sandy](https://www.nexusmods.com/stardewvalley/mods/13609)
+- Updated [The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)
 
 ## 0.6.5
 
