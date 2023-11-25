@@ -32,6 +32,9 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Additions <!-- omit in toc -->
 
+- Added [Diverse Stardew Valley FQC - Ridgeside Village (DSV RSV)](https://www.nexusmods.com/stardewvalley/mods/18633)
+- Added [Fixed Luau Bridge](https://www.nexusmods.com/stardewvalley/mods/19264)
+
 ### Updates <!-- omit in toc -->
 
 - Updated [Traveling Dreamer](https://www.nexusmods.com/stardewvalley/mods/15881)
