@@ -43,6 +43,9 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
 - Updated [Immersive Sandy](https://www.nexusmods.com/stardewvalley/mods/13609)
 - Updated [The Ranch Expansion Marnie and Jas](https://www.nexusmods.com/stardewvalley/mods/5070)
+- Updated [LittleNPCs](https://www.nexusmods.com/stardewvalley/mods/15152)
+- Updated [Creative Differences](https://www.nexusmods.com/stardewvalley/mods/13437)
+- Updated [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
 
 ## 0.6.5
 
