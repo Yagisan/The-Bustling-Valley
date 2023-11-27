@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.6.7](#067)
   - [0.6.6](#066)
   - [0.6.5](#065)
   - [0.6.4](#064)
@@ -21,6 +22,23 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.6.7
+
+**Released:** `?? Dec 2023`
+
+### Info <!-- omit in toc -->
+
+Mod Organizer 2 has been updated to version 2.5.0, as a result Windows 10 1809+ or Windows 11 are now required because it will no longer run on older systems.
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+- Updated [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases/tag/v2.5.0)
+- Updated [Root Builder](https://github.com/Kezyma/ModOrganizer-Plugins/releases/tag/rootbuilder)
 
 ## 0.6.6
 
