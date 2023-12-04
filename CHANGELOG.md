@@ -25,11 +25,13 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.6.7
 
-**Released:** `?? Dec 2023`
+**Released:** `4 Dec 2023`
 
 ### Info <!-- omit in toc -->
 
 Mod Organizer 2 has been updated to version 2.5.0, as a result Windows 10 1809+ or Windows 11 are now required because it will no longer run on older systems.
+
+Upstream deleted the version of RootBuilder that was used in The Bustling Valley, making all prior releases of the The Bustling Valley uninstallable. It has now been updated to version 5.0.1 of RootBuilder.
 
 ### Modifications <!-- omit in toc -->
 
