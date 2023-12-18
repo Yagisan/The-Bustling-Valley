@@ -44,6 +44,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)
 - Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
 - Updated [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
+- Updated [LittleNPCs](https://www.nexusmods.com/stardewvalley/mods/15152)
+- Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
+- Updated [Ginger Island NPC Overhaul](https://www.nexusmods.com/stardewvalley/mods/9242)
+- Updated [Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059)
 
 ## 0.6.8
 
