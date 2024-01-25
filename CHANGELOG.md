@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.6.10](#0610)
   - [0.6.9](#069)
   - [0.6.8](#068)
   - [0.6.7](#067)
@@ -24,6 +25,31 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.6.10
+
+**Released:** `25 Jan 2024`
+
+### Info <!-- omit in toc -->
+
+This release focused on fixing up as many MARGO related issues as possible. MARGO was updated to the final 3.1.x release. I reimplemented my own garnet ore node and garnet gem mod (including sprites) to fix the plant spawn bug, and the garnet related rings should be craftable now. Unfortunately JSON shuffles were observed during testing, so you may get one.
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+- Added [Yagisan - Garnet Node for MARGO](https://github.com/Yagisan/Stardew_Valley)
+- Added Yagisan - MARGO Rings for TBV
+
+### Updates <!-- omit in toc -->
+
+- Updated [MARGO](https://github.com/daleao/modular-overhaul)
+- Updated [Traveling Dreamer](https://www.nexusmods.com/stardewvalley/mods/15881)
+- Updated [Lurking in the Dark - NPC Sen (East Scarp)](https://www.nexusmods.com/stardewvalley/mods/10770)
+- Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
+- Updated [Ginger Island NPC Overhaul](https://www.nexusmods.com/stardewvalley/mods/9242)
+- Updated [Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059)
+- Updated [Socializing Skill](https://www.nexusmods.com/stardewvalley/mods/14142)
 
 ## 0.6.9
 
