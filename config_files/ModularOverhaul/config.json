@@ -161,6 +161,7 @@
     "MonsterDamageMultiplier": 1.0,
     "MonsterDefenseMultiplier": 1.0,
     "VariedEncounters": true,
+    "MonsterSpawnChanceMultiplier": 2.0,
     "FaceMouseCursor": true,
     "SlickMoves": true,
     "EnableAutoSelection": true,
@@ -390,7 +391,7 @@
     "MushroomBoxExpReward": 1,
     "TapperExpReward": 2,
     "TrashDoesNotConsumeBait": true,
-    "ExplosionTriggeredBombs": true,
+    "ChainExplosions": true,
     "ImmersiveGlowstoneProgression": true
   },
   "OpenMenuKey": "LeftShift + F12",
