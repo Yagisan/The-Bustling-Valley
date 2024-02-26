@@ -29,9 +29,11 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.6.11
 
-**Released:** `?? Feb 2024`
+**Released:** `27 Feb 2024`
 
 ### Info <!-- omit in toc -->
+
+Final release of the 0.6.x series.
 
 ### Modifications <!-- omit in toc -->
 
@@ -40,6 +42,14 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 ### Updates <!-- omit in toc -->
 
 - Updated [Profiler](https://www.nexusmods.com/stardewvalley/mods/12135)
+- Updated [Elle's Seasonal Buildings for Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/10038)
+- Updated [Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)
+- Updated [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
+- Updated [Morris Redeemed](https://www.nexusmods.com/stardewvalley/mods/12667)
+- Updated [Alecto the Witch (new NPC)](https://www.nexusmods.com/stardewvalley/mods/10671)
+- Updated [Canon-Friendly Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/2544)
+- Updated [Lurking in the Dark - NPC Sen (East Scarp)](https://www.nexusmods.com/stardewvalley/mods/10770)
+- Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
 
 ## 0.6.10
 
