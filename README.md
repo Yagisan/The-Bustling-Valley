@@ -74,9 +74,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
 
 # Preamble
 
-The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. Designed for experienced players, it comes with **2** big expansions (Ridgeside Village, and East Scarp), and several smaller expansions (Lunna - Astray in Stardew Valley, Welcome to Mineral Town, and more) including new NPCS. With an enormous variety of new crops, new artisan goods, and new recipes, you'll find something new to specialise your farm in. **It is expected that players will not add additional mods or otherwise change this modlist.**
-
-**As of 0.4.4 The Bustling Valley will coexist with manual mod installations and/or Nexus Collections.** **This list is self-contained, and includes it's own copy of SMAPI.**
+The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. Designed for experienced players, it comes with **2** big expansions (Ridgeside Village, and East Scarp), and several smaller expansions. **It is expected that players will not add additional mods or otherwise change this modlist.**
 
 Please be aware that this modlist may make perfection very hard or impossible to get.
 
@@ -216,11 +214,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 **[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)** adds a village to the west of Pelican town, and several new NPCs. NPCs from other mods can make their homes here.
 
-**[Lunna - Astray in Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6626)** adds a new village, a special quest, new crops, fish and more.
-
 ## Skills and Professions
-
-**[MARGO -- Modular Gameplay Overhaul](https://www.nexusmods.com/stardewvalley/mods/14470)** a complete professions overhaul.
 
 **[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)** adds a new cooking skill, and a reason to use it.
 
@@ -233,8 +227,6 @@ Updating is like installing. You only have to make sure that you select the same
 **[Eidee Easy Fishing](https://www.nexusmods.com/stardewvalley/mods/4806)** reduces the tediousness of fishing by automatically catching the fish for you. If you get a bite, and hook the fish, Eidee Easy Fishing will catch the fish. It is **not** an instant catch, nor will it automatically hook for you. Better rods, bait and tackle will improve catch speed and rates.
 
 ## Gameplay
-
-**[Free Love](https://www.nexusmods.com/stardewvalley/mods/10021)** allows you to marry multiple people, if you want to.
 
 **[Multiple Mini-Obelisks](https://www.nexusmods.com/stardewvalley/mods/7900)** allows you to place more than 2 mini-obelisks, including outside the farm.
 
