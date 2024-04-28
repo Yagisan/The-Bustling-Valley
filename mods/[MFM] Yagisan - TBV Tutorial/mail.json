@@ -2,17 +2,17 @@
     {
         "Id": "TBVTutorialMail.Info",
         "GroupId": "TBVTutorialMail.Info",
-        "Title": "TBV 0.6.x Intro",
-        "Text": "G'day @^^Welcome to The Bustling Valley 0.6.x.^^TBV 0.6.x requires you to start a new farm. It is not possible to continue a farm started on TBV 0.5.x or older.^^- Yagisan",
+        "Title": "TBV 0.7.x Intro",
+        "Text": "G'day @^^Welcome to The Bustling Valley 0.7.x.^^Is designed for Stardew Valley 1.6.x, and requires you to start a new farm. It is not possible to continue a farm started on TBV 0.6.x or older.^^- Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
     },
     {
-        "Id": "TBVTutorialMail.MARGO01",
+        "Id": "TBVTutorialMail.Skills01",
         "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV MARGO Overview",
-        "Text": "MARGO has been included in this list. The Professions, Rings, Ponds, Taxes, and Tweex modules have been enabled.^^Configuartion is set to approximate the Walk of Life configuration from TBV 0.5.x.^^The Taxes mod is enabled to soft-balance added mods, without editing all included mods. Save some money to pay your taxes!^^Weapons and Slingshots were specfically disabled as they conflict with all of the big NPC mods in this list. Tools was disabled as well due to similar concerns. Combat is also disabled as it was shown to be unstable in testing.^^ - Yagisan",
+        "Title": "TBV Skills Overview",
+        "Text": "The Bustling Valley includes several addtional skills. These are:^^Luck^^Cooking^^Socializing^^Artificer^^Druidics^^Bardics^^^^Not all skills are available at the start of the game, and must be unlocked via gameplay.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -48,7 +48,7 @@
         "Id": "TBVTutorialMail.EventLimiter",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Event Limiter",
-        "Text": "To help spread out all the events added by mods, this list contains an event limiter. It is set by default to a maximum of 5 events per day, and 2 events in a row.^^All cutscenes in the game are events, and so is every letter you recieve.^^I have made attempt to exempt multi-part events (eg Sterling and the Train event), common repeatable events (eg the Ridgeside cable car), and mechanical (eg Friend of a Friend) events, so they should not count towards the 5 a day limit.^^ - Yagisan",
+        "Text": "To help spread out all the events added by mods, this list contains an event limiter. It is set by default to a maximum of 5 events per day, and 2 events in a row.^^All cutscenes in the game are events, and so is every letter you receive.^^I have made attempt to exempt multi-part events, common repeatable events, and mechanical events, so they should not count towards the 5 a day limit.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -81,55 +81,10 @@
         "AutoOpen": false
     },
     {
-        "Id": "TBVTutorialMail.SkillsMARGOFarming",
+        "Id": "TBVTutorialMail.SkillsLuck",
         "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Skills - MARGO Farming",
-        "Text": "MARGO has made the following changes to the farming skill.^^Harvester (Lv5) - 10% chance for extra yield from harvested crops.^^Agriculturist (Lv10) - Crops grow 10% faster. Can grow best-quality crops organically without fertilizer.^^Artisan (Lv10) - Artisan machines work 10% faster. Machine output quality can be as good as input ingredient quality.^^Rancher (Lv5) - Befriend animals 2× quicker.^^Breeder (Lv10) - Incubation 2× faster and natural pregnancy 3× more likely. Increase value of animals at high friendship.^^Producer (Lv10) - Happy animals produce 2× as frequently. Produce worth 5% more for every full barn or coop.^^This skill is affected by the Statue of Prestige.^^ - Yagisan",
-        "Date": "1 spring Y1",
-        "Repeatable": false,
-        "AutoOpen": false
-    },
-    {
-        "Id": "TBVTutorialMail.SkillsMARGOForaging",
-        "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Skills - MARGO Foraging",
-        "Text": "MARGO has made the following changes to the foraging skill.^^Forager (Lv5) - 20% chance for double yield of foraged items.^^Ecologist (Lv10) - Wild berries restore 50% more health and energy. Progressively identify forage of higher quality.^^Scavenger (Lv10) - Location of foragable items revealed. Occasionally detect buried treasure.^^Lumberjack (Lv5) - Felled trees yield 25% more wood.^^ Arborist (Lv10) - All trees grow faster. Normal trees can drop hardwood.^^Tapper (Lv10) - Tappers are cheaper to craft. Tapped trees give syrup 25% faster.^^This skill is affected by the Statue of Prestige.^^ - Yagisan",
-        "Date": "1 spring Y1",
-        "Repeatable": false,
-        "AutoOpen": false
-    },
-    {
-        "Id": "TBVTutorialMail.SkillsMARGOMining",
-        "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Skills - MARGO Mining",
-        "Text": "MARGO has made the following changes to the mining skill.^^Miner (Lv5) - additional 1 ore per vein.^^Spelunker (Lv10) - Chance to find ladders and shafts increases with every mine level. additional 1 speed every 10 levels^^Prospector (Lv10) - Location of ladders and mining nodes revealed. Occasionally detect rocks with valuable minerals.^^ Blaster (Lv5) - Craft twice as many explosives. Exploded rocks yield 2× as much coal.^^Demolitionist (Lv10) - Bomb radius increased by 1. Exploded rocks yield 20% more resources.^^Gemologist (Lv10) - Progressively identify gems and minerals of higher quality. Crystalariums work 25% faster.^^This skill is affected by the Statue of Prestige.^^ - Yagisan",
-        "Date": "1 spring Y1",
-        "Repeatable": false,
-        "AutoOpen": false
-    },
-    {
-        "Id": "TBVTutorialMail.SkillsMARGOFishing",
-        "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Skills - MARGO Fishing",
-        "Text": "MARGO has made the following changes to the fishing skill.^^Fisher (Lv5) - baits are twice as effective^^Angler (Lv10) - Fish worth 0.5% more for every unique fish caught and 2.5% more for every legendary fish caught.^^Aquarist (Lv10) - Fish pond max capacity increased 2. Catching bar increases faster for every unique fish species raised in a fish pond.^^ Trapper (Lv5) - Crab pots are cheaper to craft. Can trap higher-quality haul.^^Luremaster (Lv10) - Baited crab pots produce twice per day.^^Conservationist (Lv10) - Crab pots without bait can trap junk. Clean the Valley's waters to merit tax deductions.^^This skill is affected by the Statue of Prestige.^^ - Yagisan",
-        "Date": "1 spring Y1",
-        "Repeatable": false,
-        "AutoOpen": false
-    },
-    {
-        "Id": "TBVTutorialMail.SkillsMARGOCombat",
-        "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Skills - MARGO Combat",
-        "Text": "MARGO has made the following changes to the combat skill.^^Fighter (Lv5) - Damage addtional 10%. addtional 15 HP.^^Brute / Amazon (Lv10) - Taking damage builds rage, improving combat prowess. addtional 25 HP.^^Bushwhacker (Lv10) - Crit. chance addtional 50%. Crit. strikes can poach items.^^Rascal (Lv5) - Gain one additional ammo slot. 35% chance to recover spent ammo.^^Desperado / Desperada (Lv10) - Firing speed is higher at lower HP. Can overcharge slingshots to increase ammo power and cross section.^^Slimed Piper / Slime Enchantress (Lv10) - Attract ally Slimes when near enemies. Chance to gain a random buff when a Slime is defeated.^^This skill is affected by the Statue of Prestige.^^ - Yagisan",
-        "Date": "1 spring Y1",
-        "Repeatable": false,
-        "AutoOpen": false
-    },
-    {
-        "Id": "TBVTutorialMail.SkillsBinning",
-        "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Skills - Binning",
-        "Text": "A new skill, binning has been added.^^Recycler (Lv5) - Cheaper cost to craft recycling machines.^^Environmentalist (Lv10) - Gain friendship from recycling trash.^^Salvager (Lv10) - Get better output from recycling machines.^^Sneak (Lv5) - Never get caught digging through trash cans.^^Upseller (Lv10) - Villagers never hate gifts, even trash.^^Reclaimer (Lv10) - Extra value when trashing items.^^This skill is affected by the Statue of Prestige.^^ - Yagisan",
+        "Title": "TBV Skills - Luck",
+        "Text": "A new skill, luck has been added.^^Gambler (Lv5) - better daily luck.^^Lucky (Lv10) - 20% chance for max daily luck.^^Fortune Teller (Lv10) - Never have bad luck.^^Assistant (Lv5) - Daily quests occur three times as often.^^Shooting Star (Lv10) - Nightly events occur twice as often.^^Spirit Child (Lv10) - Giving gifts makes Junimos happy; 15% chance for some form of farm advancement.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -144,7 +99,7 @@
         "AutoOpen": false
     },
     {
-        "Id": "TBVTutorialMail.SkillsLoveofCooking",
+        "Id": "TBVTutorialMail.SkillsCooking",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Skills - Cooking",
         "Text": "A new skill, cooking has been added.^^Sous Chef (Lv5) - Cooking oil further improves the quality of recipes.^^Big Eater (Lv10) - Cooked food restores 5% more.^^Head Chef (Lv10) - Cooked foods given as gifts befriend quicker.^^Five Star Cook (Lv5) - Cooked foods worth 29.999996% more.^^Gourmet (Lv10) - Chance to craft an extra portion when cooking.^^Glutton (Lv10) - Buff duration from food and drinks increased when at full energy.^^This skill is NOT affected by the Statue of Prestige.^^ - Yagisan",
@@ -153,46 +108,28 @@
         "AutoOpen": false
     },
     {
-        "Id": "TBVTutorialMail.SkillsMARGOPrestige",
+        "Id": "TBVTutorialMail.SkillsArtificer",
         "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Skills - Statue of Prestige",
-        "Text": "The Statue of Uncertainty has been replaced by the Statue of Prestige.^^Instead of changing your profession choices, the Statue of Prestige will reset your level 10 skills back to level 0, for a price. After resetting a skill, you will have to level up again to choose a different profession, but you get to keep every profession you've ever acquired.^^ For this incredible service, the Statue of Prestige will charge you 10,000g the first time, 50,000g the second, and 100,000g the third and last time.^^After performing three skill resets, you should have acquired all four level 10 professions simultaneously. As you reset and acquire new professions your progress will be reflected on the skills page menu by a new colorful star.^^Once you have acquired four stars,  the level cap for the corresponding skill is raised to 20, allowing you to continue to develop your tool proficiency or max health.^^At levels 15 and 20 you will be able to choose a profession to prestige. A prestiged profession grants improved perks or, in some cases, entirely new ones.^^Only after all possible skills have had their level cap raised will the Statue of Prestige resume it's old behavior, by allowing you to change your prestige choices, for a modest fee of 20,000g.^^ - Yagisan",
+        "Title": "TBV Skills - Artificer",
+        "Text": "A new skill, artificer has been added.^^This skill is unlocked by following a questline from a villager.^^It levels up via combat.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
     },
     {
-        "Id": "TBVTutorialMail.SkillTraining",
+        "Id": "TBVTutorialMail.Druidics",
         "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Skills - Training",
-        "Text": "Skill Training lets you spend gold to train your skills. For a modest fee, certain villagers can help train you.^^Training is available up to level 7.^^Hold down shift and talk to the NPC to bring up the option to train.^^Marnie - Farming^^Clint - Mining^^Willy - Fishing^^Leah - Foraging^^Kent - Combat^^Gus - Cooking^^Haley - Socializing^^Linus - Binning^^ - Yagisan",
+        "Title": "TBV Skills - Druidics",
+        "Text": "A new skill, druidics has been added.^^This skill is unlocked by following a questline from a villager.^^It levels up via farming/foraging.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
     },
     {
-        "Id": "TBVTutorialMail.KitchensLoveofCooking",
+        "Id": "TBVTutorialMail.Bardics",
         "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Kitchens and Cooking",
-        "Text": "Want to cook, but don't have your own kitchen? Make friends with the villagers. Once they know you a bit better, they will let you use their kitchen.^^ - Yagisan",
-        "Date": "1 spring Y1",
-        "Repeatable": false,
-        "AutoOpen": false
-    },
-    {
-        "Id": "TBVTutorialMail.FrypanLoveofCooking",
-        "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Frypans and Cooking",
-        "Text": "Want to cook more complex recipes? Don't forget to upgrade your Frying pan at Clint's.^^ - Yagisan",
-        "Date": "1 spring Y1",
-        "Repeatable": false,
-        "AutoOpen": false
-    },
-    {
-        "Id": "TBVTutorialMail.BHFreeCoffee",
-        "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Free Coffee",
-        "Text": "Love coffee? Want a free cup? Visit Joel at the Boarding House very early in the morning, and check the coffee machine. Better hurry though, it runs out fast!^^ - Yagisan",
+        "Title": "TBV Skills - Bardics",
+        "Text": "A new skill, bardics has been added.^^This skill is unlocked by following a questline from a villager.^^It levels up via socializing.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -210,7 +147,16 @@
         "Id": "TBVTutorialMail.TBVGreenhouses",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Greenhouses",
-        "Text": "Did you know that you can get 4 greenhouses in The Bustling Valley?^^These are:^^The starting greenhouse.^^The Umuwi greenhouse.^^The Community greenhouse^^The Phantom Greenhouse.^^These are all gated behind quests and getting to know the villagers.^^ - Yagisan",
+        "Text": "Did you know that you can get 3 greenhouses in The Bustling Valley?^^These are:^^The starting greenhouse.^^The Community greenhouse^^The Phantom Greenhouse.^^These are all gated behind quests and getting to know the villagers.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.TBVFarmBuildings",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Farm Buildings",
+        "Text": "Did you know that you can build farm buildings on the Ginger Island farm The Bustling Valley?^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -246,25 +192,7 @@
         "Id": "TBVTutorialMail.FreeLove3",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Primary Spouse",
-        "Text": "Because the game was designed to only allow you to marry one spouse, many events will use the first (or only) person you marry. This is the Primary Spouse.^^To change who is considered the Primary Spouse, give that spouse a bouquet.^^ - Yagisan",
-        "Date": "1 spring Y1",
-        "Repeatable": false,
-        "AutoOpen": false
-    },
-    {
-        "Id": "TBVTutorialMail.FarmersChildren1",
-        "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV The Farmers Children",
-        "Text": "Unlike vanilla, in TBV your children will grow up to become actual NPCs.^^You can customise their appearance to resemble many (but not all) spouses, by opening the Game Configuration Menu, and selecting NPC The Farmers Children Art. Changes made to the children will be kept between TBV upgrades. Please be aware that these changes are shared across all of your save files.^^ - Yagisan",
-        "Date": "1 spring Y1",
-        "Repeatable": false,
-        "AutoOpen": false
-    },
-    {
-        "Id": "TBVTutorialMail.FarmersChildren2",
-        "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Naming Children",
-        "Text": "Because in TBV your children will grow up to become actual NPCs, they have some special name requirements. You CAN NOT include a space anywhere in their name. You will break the game if you do.^^ - Yagisan",
+        "Text": "Because the game was designed to only allow you to marry one spouse, many events will use the first (or only) person you marry. This is the Primary Spouse.^^To change who is considered the Primary Spouse, give that spouse an Áine Flower.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -301,15 +229,6 @@
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Spray Can Tool",
         "Text": "In TBV it is possible apply random textures to most objects (excluding buildings and characters). You do this by enabling the spray can tool, right click to open a menu and select some random textures, then left click to start applying a random texture to objects.^^Buy the Spray Can from Robin.^^ - Yagisan",
-        "Date": "1 spring Y1",
-        "Repeatable": false,
-        "AutoOpen": false
-    },
-    {
-        "Id": "TBVTutorialMail.LASV1",
-        "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Unlocking Umuwi",
-        "Text": "In TBV there are two possible route to access Umuwi. At some point, the Wizard will ask you if you intend to pursue Luuna romantically.^^If you choose YES, you must complete the romance to go to Umumi.^^If you choose NO, you get to Umuwi much quicker, but miss out on events with Lunna.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
