@@ -36,6 +36,15 @@
         "AutoOpen": false
     },
     {
+        "Id": "TBVTutorialMail.AnimalsCanDie",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Animals Can Die",
+        "Text": "Death by starvation^^After not feeding an animal (or letting it eat grass outside) for 5 consecutive days, it dies of starvation. One day of feeding is enough to fully reset starvation.^^Death by illness^^Illness is calculated as a score that increases as bad things happen to the animal and slowly decreases again if it is doing better. Bad things include (but are not limited too), not getting fed, getting trapped outside, barn/coop door is open and it's winter, it's winter and there is no heater.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
         "Id": "TBVTutorialMail.EasyFishing",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Easy Fishing",
@@ -156,7 +165,16 @@
         "Id": "TBVTutorialMail.TBVFarmBuildings",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Farm Buildings",
-        "Text": "Did you know that you can build farm buildings on the Ginger Island farm The Bustling Valley?^^ - Yagisan",
+        "Text": "Did you know that you can build farm buildings on the Ginger Island farm in The Bustling Valley?^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.TBVRelocateAnimals",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Relocate Animals",
+        "Text": "Did you know that you can relocate animals to buildings on different farms in The Bustling Valley?^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
