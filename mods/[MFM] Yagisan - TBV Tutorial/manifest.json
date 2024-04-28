@@ -5,7 +5,7 @@
   "Version": "2.0.0",
   "Description": "The Bustling Valley Tutorial Mail",
   "UniqueID": "Yagisan.TBVTutorialMail",
-  "MinimumApiVersion": "3.0.0",
+  "MinimumApiVersion": "4.0.0",
   "UpdateKeys": [],
   "ContentPackFor": {
     "UniqueID": "DIGUS.MailFrameworkMod",
