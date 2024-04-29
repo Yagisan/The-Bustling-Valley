@@ -1,0 +1,13 @@
+{
+  "DateAskPercentChance": "10",
+  "UniqueDateChance": "25",
+  "MinHeartsRequired": "10",
+  "FriendshipBonus": "medium",
+  "FreeLovePatch": "enabled",
+  "GenderedDialogue": "enabled",
+  "SuggestiveEndings": "enabled",
+  "LibraryDateCutscene": "enabled",
+  "DatesOnFestivalDays": "disabled",
+  "AllowRoommateDates": "disabled",
+  "DisabledDates": ""
+}

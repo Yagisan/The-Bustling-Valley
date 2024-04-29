@@ -5,5 +5,6 @@
   "CropsCanDieWithoutWater": true,
   "DaysWithoutWaterForChanceToDie": 3,
   "ChanceToDieWhenLeftForTooLong": 100,
+  "WitheringAlsoChecksGardenPots": true,
   "CantRefillCanWithSaltWater": true
 }

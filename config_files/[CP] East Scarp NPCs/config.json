@@ -2,9 +2,7 @@
   "EnableSpecialOrders": "true",
   "KatarynaDatability": "true",
   "TrentonFamilyDrama": "true",
-  "FriendableAnimals": "EmperorDuck, EmpressDuck, LadyShebaCat",
-  "RivalHearts": "",
-  "GenderNeutral": "false",
-  "AllowNagito": "false",
-  "BeatriceAltPortraits": "true"
+  "FriendableAnimals": "EmperorDuck, EmpressDuck, LadyShebaCat, LittleGruff",
+  "RivalHearts": "RosaJuliet, AideenMateo",
+  "GenderNeutral": "false"
 }

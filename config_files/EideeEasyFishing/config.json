@@ -8,6 +8,10 @@
   "AlwaysCaughtDoubleFish": false,
   "CaughtDoubleFishOnAnyBait": false,
   "AlwaysMaxCastPower": false,
+  "FishMovementSpeedMultiplier": 0.5,
+  "ProgressBarDecreaseMultiplier": 0.5,
+  "ProgressBarIncreaseMultiplier": 1.25,
+  "TreasureCatchSpeedMultiplier": 1.5,
   "Controls": {
     "ReloadConfig": "F5"
   }

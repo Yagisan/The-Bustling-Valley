@@ -1,0 +1,14 @@
+{
+  "_customFoods": [],
+  "_excludedFoods": [],
+  "StaminaThreshold": 8.0,
+  "EnableStamina": true,
+  "HealthThreshold": 32.0,
+  "EnableHealth": true,
+  "DynamicStaminaThreshold": true,
+  "PreferHigherInventory": true,
+  "EnableCoffee": false,
+  "ToggleAutoBuffKey": "Home",
+  "CustomFoods": "",
+  "ExcludedFoods": ""
+}

@@ -2,7 +2,7 @@
   "ShowHoverTooltips": true,
   "EnableShippingBin": true,
   "AddOrganizePlayerInventoryButton": true,
-  "Range": "CurrentWorldArea",
+  "Range": "CurrentLocation",
   "Controls": {
     "Toggle": "B",
     "PrevChest": "Left, LeftShoulder",

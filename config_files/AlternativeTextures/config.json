@@ -1,5 +1,6 @@
 {
   "OutputTextureDataToLog": false,
+  "UseRandomTexturesWhenSpawningArtifactSpots": true,
   "UseRandomTexturesWhenPlacingFlooring": true,
   "UseRandomTexturesWhenPlacingFruitTree": true,
   "UseRandomTexturesWhenPlacingTree": true,

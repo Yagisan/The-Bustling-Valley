@@ -12,11 +12,13 @@
   "JunimoHutBehaviorForGems": "AutoDetect",
   "JunimoHutBehaviorForFertilizer": "AutoDetect",
   "JunimoHutBehaviorForSeeds": "AutoDetect",
+  "CollectTreeMoss": true,
   "WarnForMissingBridgeMod": true,
   "MachineOverrides": {
     "ShippingBin": {
       "Priority": 0,
       "Enabled": false
     }
-  }
+  },
+  "MinMinutesForFairyDust": 20
 }

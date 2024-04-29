@@ -6,5 +6,11 @@
     "G": 25,
     "R": 100,
     "A": 255
-  }
+  },
+  "DisplayMead": false,
+  "DisplayCrop": false,
+  "DisplayPickle": false,
+  "DisplayKeg": false,
+  "DisplayDehydrator": false,
+  "DivideDehydrate": false
 }

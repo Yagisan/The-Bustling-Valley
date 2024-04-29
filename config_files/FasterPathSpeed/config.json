@@ -6,18 +6,18 @@
   "IsEnablePathReplace": true,
   "IsUseCustomPathSpeedBuffValues": false,
   "CustomPathSpeedBuffValues": {
-    "Boardwalk": 1.0,
-    "Wood": 1.0,
-    "PlankFlooring": 1.0,
-    "Ghost": 1.0,
-    "Straw": 1.0,
-    "Gravel": 1.0,
-    "Cobblestone": 1.0,
-    "SteppingStone": 1.0,
-    "Stone": 1.0,
-    "TownFlooring": 1.0,
-    "Brick": 1.25,
-    "ColoredCobblestone": 1.5,
-    "IceTile": 1.5
+    "WoodPath": 1.0,
+    "WoodFloor": 1.0,
+    "RusticPlankFloor": 1.0,
+    "WeatheredFloor": 1.0,
+    "StrawFloor": 1.0,
+    "GravelPath": 1.0,
+    "CobblestonePath": 1.0,
+    "SteppingStonePath": 1.0,
+    "StoneFloor": 1.0,
+    "StoneWalkwayFloor": 1.0,
+    "BrickFloor": 1.25,
+    "CrystalPath": 1.5,
+    "CrystalFloor": 1.5
   }
 }
