@@ -12,7 +12,16 @@
         "Id": "TBVTutorialMail.Skills01",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Skills Overview",
-        "Text": "The Bustling Valley includes several addtional skills. These are:^^Luck^^Cooking^^Socializing^^Artificer^^Druidics^^Bardics^^^^Not all skills are available at the start of the game, and must be unlocked via gameplay.^^ - Yagisan",
+        "Text": "The Bustling Valley includes several addtional skills. These are:^^Luck^Cooking^Socializing^Artificer^Druidics^Bardics^^Not all skills are available at the start of the game, and some must be unlocked via gameplay.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.Economy",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Economy Changes",
+        "Text": "The Bustling Valley includes Ferngil Simple Economy to soft-balance the many different mods in this list. This calculates a supply and demand based value for all items you can sell. This is a fairer system than straight taxation, and also allows the player to play the market and make a profit by supplying items in demand.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
