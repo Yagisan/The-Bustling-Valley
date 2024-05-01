@@ -30,6 +30,9 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 ### Updates <!-- omit in toc -->
 
 - Updated [Non Destructive NPCs](https://www.nexusmods.com/stardewvalley/mods/5176) to the unofficial 1.6.0 port from the [Stardew Forums](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/page-134#post-121034)
+- Updated [HxW Bathroom Furniture](https://www.nexusmods.com/stardewvalley/mods/17665)
+- Updated [HxW Farmer's Market Furniture - Fishmonger and Butcher Set](https://www.nexusmods.com/stardewvalley/mods/9994)
+- Updated [Ilucie's Adopt a Hermy](https://www.nexusmods.com/stardewvalley/mods/21409)
 
 ### Removals <!-- omit in toc -->
 
