@@ -252,8 +252,6 @@ Updating is like installing. You only have to make sure that you select the same
   - **P** Access pet information.
 - [Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)
   - **G** Call your horse.
-- [Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)
-  - **J** Spawn another Junimo.
 - [Stardew Progress](https://www.nexusmods.com/stardewvalley/mods/9786)
   - **F3** Show the progress report.
 - [Event Lookup](https://www.nexusmods.com/stardewvalley/mods/8505)
