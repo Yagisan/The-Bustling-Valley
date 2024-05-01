@@ -45,6 +45,15 @@
         "AutoOpen": false
     },
     {
+        "Id": "TBVTutorialMail.CropsChanges",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Crop Changes",
+        "Text": "Many new crops have been included with The Bustling Valley. In addtion there have been changes to vanilla crops, including seasons, regrowth, and even type. All Bush type crops will now function like tea, and remain all year, only producing when in season. Be sure to read the descriptions carefully before buying seeds and saplings^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
         "Id": "TBVTutorialMail.AnimalsCanDie",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Animals Can Die",
@@ -183,7 +192,7 @@
         "Id": "TBVTutorialMail.TBVRelocateAnimals",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Relocate Animals",
-        "Text": "Did you know that you can relocate animals to buildings on different farms in The Bustling Valley?^^ - Yagisan",
+        "Text": "Did you know that you can relocate animals to buildings on different farms in The Bustling Valley? For example, this means you can send animals from Grandpa's farm to Ginger Island.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -192,7 +201,7 @@
         "Id": "TBVTutorialMail.FreeLove1",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Multiple Marriage",
-        "Text": "Want to marry multiple spouses? In TBV you can. Only want one spouse? That's also fine too. Remember though, unlike other NPCs, spouses and roommates do lose hearts if you don't regularly talk to them, and give them gifts.^^ - Yagisan",
+        "Text": "Want to marry multiple spouses? In The Bustling Vally you can. Only want one spouse? That's also fine too. Remember though, unlike other NPCs, spouses and roommates do lose hearts if you don't regularly talk to them, and give them gifts.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -201,7 +210,7 @@
         "Id": "TBVTutorialMail.FreeLove2",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Changing Bed Size",
-        "Text": "Is your bed too small? Married so many people you can't all fit? Or are you enjoying single life and find the bed too big?^^You can change the size of the bed by opening the Game Configuration Menu, and selecting Bed Tweaks. Changes made to the bed will be kept between TBV upgrades. Please be aware that these changes are shared across all of your save files.^^ - Yagisan",
+        "Text": "Is your bed too small? Married so many people you can't all fit? Or are you enjoying single life and find the bed too big?^^You can change the size of the bed by opening the Game Configuration Menu, and selecting Polyamory Sweet Bed, and changing Bed Width. Changes made to the bed will be kept between TBV upgrades. Please be aware that these changes are shared across all of your save files.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -283,6 +292,51 @@
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Bush Bug fixes",
         "Text": "Stardew Valley handles many mod updates very gracefully, including map updates.^^One thing it doe not handle well, is bushes moving or being destroyed. This often happens when large mods, or NPC mods are updated. This is the infamous bush bug.^^Luckily TBV has a quick and easy fix included.^^After updating TBV, while still in your farmhouse press the 'V' key.^^Next check 'Affect all locations', then check 'Bushes'.^^Now click on the button that says 'Reset'.^^Nothing will appear to happen, but it has just fixed all bushes in the game. Now click on the 'X' in the top corner, and continue playing.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.Sprinklers",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Sprinkler Changes",
+        "Text": "Sprinklers will now try to find clusters of tiles to water and split work between them to water as much as possible, without overlaps. This should allow for custom crop layouts. Each type of sprinkler has a different max range at which it will look at tiles - the better the sprinkler is, the higher the range.^By default, the simple vanilla watering algorithm is used, but if any of the tiles it should water are not able to watered, the cluster algorithm takes over.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.AutoEat",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Automatic Eating",
+        "Text": "Upon running out of Energy or Stamina, the farmer will automatically eat the food with the lowest sale price to recover. If multiple food has the same value, it will eat one from the most inventory.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.GreenhouseGatherers",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Greenhouse Gatherers",
+        "Text": "There is a new craftable item called the Harvest Statue, which is given by mail after unlocking the Junimo Huts from the Wizard. This statue can only be placed indoors and only one can be placed per building.^Once placed inside, the Junimos will appear each morning and immediately harvest all available crops, forage products and fruit trees within the building.^Right clicking the Harvest Statue will open up a chest-like inventory, allowing you to extract the harvested items.^If the chest gest full the Junimos will eat all the excess!^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.StardewProgress",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Perfection Progress",
+        "Text": "Unsure what you need to do to reach perfection? Press F3 to bring up the perfection tracker.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.CombatDrone",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Combat Drone",
+        "Text": "Combat giving you trouble? Monsters won't leave you alone while you try to fish?^Press F7 to toggle your very own personal combat drone on and off. It will attempt to kill any monsters that get too close to you.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
