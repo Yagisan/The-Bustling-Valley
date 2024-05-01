@@ -262,6 +262,8 @@ Updating is like installing. You only have to make sure that you select the same
   - **U** access the adventure bar.
 - [Reset Terrain Features](https://www.nexusmods.com/stardewvalley/mods/4715)
   - **V** access the reset terrain menu.
+- [Personal Combat Drone Redux](https://www.nexusmods.com/stardewvalley/mods/18224)
+  - **F7** to toggle the drone on and off.
 
 
 # Modifying the mod list
