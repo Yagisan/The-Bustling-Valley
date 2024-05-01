@@ -22,7 +22,7 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
-    - [Installing Microsoft .NET 5.0 Runtime](#installing-microsoft-net-50-runtime)
+    - [Installing Microsoft .NET 6.0 or later Runtime](#installing-microsoft-net-60-or-later-runtime)
     - [Steam Config](#steam-config)
       - [Disable the Steam Cloud](#disable-the-steam-cloud)
     - [GoG Galaxy Config](#gog-galaxy-config)
@@ -60,16 +60,9 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [How do I use the WaterBot?](#how-do-i-use-the-waterbot)
   - [How do I remove the Modlist?](#how-do-i-remove-the-modlist)
   - [Should I update SMAPI?](#should-i-update-smapi)
-  - [What is the JSON Shuffle? Can it be fixed?](#what-is-the-json-shuffle-can-it-be-fixed)
-  - [There was a  JSON Shuffle. It broke a Ridgeside Village quest. How do I fix it?](#there-was-a--json-shuffle-it-broke-a-ridgeside-village-quest-how-do-i-fix-it)
-  - [How do I reset the configuration files?](#how-do-i-reset-the-configuration-files)
-  - [Why is the compass npcs pointing to the wrong place ?](#why-is-the-compass-npcs-pointing-to-the-wrong-place-)
-  - [Why do farmhands only see a vanilla map?](#why-do-farmhands-only-see-a-vanilla-map)
   - [Fishing is too Easy. How to to fix this?](#fishing-is-too-easy-how-to-to-fix-this)
   - [How do I exit the better sewers?](#how-do-i-exit-the-better-sewers)
-  - [What will be removed in the 1.6 Stardew Valley update?](#what-will-be-removed-in-the-16-stardew-valley-update)
   - [Known Bugs](#known-bugs)
-    - [SMAPI](#smapi)
   - [Contact and Technical Support](#contact-and-technical-support)
 
 # Preamble
@@ -109,9 +102,9 @@ These steps are only needed if you install this Modlist for the first time. If y
 
 It is unlikely that you are missing this. However it is needed for MO2 and several plugins, so please download it and install it anyway from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". This is a [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
 
-### Installing Microsoft .NET 5.0 Runtime
+### Installing Microsoft .NET 6.0 or later Runtime
 
-As Stardew Valley 1.5.5 and later is now a 64 bit release, you must install the [Microsoft .NET 5.0 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) to play the game. Download the x64 version under "Run desktop apps". This is a [Direct link](https://download.visualstudio.microsoft.com/download/pr/1daf85dc-291b-4bb8-812e-a0df5cdb6701/85455a4a851347de26e2901e043b81e1/windowsdesktop-runtime-5.0.12-win-x64.exe) if you can't find it.
+As Stardew Valley 1.6.0 and later is now a 64 bit release, you must install the [Microsoft .NET 6.0 or Later Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) to play the game. Download the x64 version under "Run desktop apps". This is a [Direct link to the 8.0.4 runtime I used to develop this list,](https://download.visualstudio.microsoft.com/download/pr/c1d08a81-6e65-4065-b606-ed1127a954d3/14fe55b8a73ebba2b05432b162ab3aa8/windowsdesktop-runtime-8.0.4-win-x64.exe) if you can't find it.
 
 ### Steam Config
 
@@ -147,7 +140,7 @@ From the menu that appears, select English, the exit the game via the main menu.
 
 #### Preparations
 
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a _working folder_.  The recommended working folder is `C:\WJ\WabbaJack`. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. Do not install to a _OneDrive_ folder.
+Grab the latest release of Wabbajack from [here](https://www.nexusmods.com/site/mods/403) and place the `Wabbajack.exe` file in a _working folder_.  The recommended working folder is `C:\WJ\WabbaJack`. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. Do not install to a _OneDrive_ folder.
 
 #### Downloading and Installing
 
@@ -216,7 +209,11 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Skills and Professions
 
-**[The Love of Cooking](https://www.nexusmods.com/stardewvalley/mods/6830)** adds a new cooking skill, and a reason to use it.
+**[YACS - Yet Another Cooking Skill](https://www.nexusmods.com/stardewvalley/mods/22681)** adds a new cooking skill.
+
+**[Socializing Skill](https://www.nexusmods.com/stardewvalley/mods/14142)** adds a new socializing skill.
+
+**[Luck Skill](https://github.com/Pet-Slime/StardewValley/releases/tag/Luck_Skill)** adds a new luck skill.
 
 ## Automation
 
@@ -236,14 +233,14 @@ Updating is like installing. You only have to make sure that you select the same
 
 **[Watering Grants Experience And Crops Can Wither](https://www.nexusmods.com/stardewvalley/mods/7768)** does exactly what it says. Manual watering grants some farming experience, and if not watered, your crops will die.
 
-**[Bulk Animal Purchase](https://www.nexusmods.com/stardewvalley/mods/11539)** buy multiple animals in the same transaction.
+**[Animals Die - Old Age - Hunger - Illness](https://www.nexusmods.com/stardewvalley/mods/7769)** animals can die of hunger and neglect.
 
-**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** allows you to repaint almost anything to suit how you want it to look. Building, animals, trees, and crops. **This mod and it's texture packs can cause Stardew Valley to consume over 6GB of RAM. It and they, can be safely disabled at any time.**
+**[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** allows you to repaint almost anything to suit how you want it to look. Building, animals, trees, crops and your children. **This mod and it's texture packs can cause Stardew Valley to consume over 6GB of RAM. It and they, can be safely disabled at any time.**
 
 # Mod Default Hotkeys
 
 - [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
-  - **U** Toggles the automation overlay.
+  - **I** Toggles the automation overlay.
 - [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
   - **B** Access all chests in the current world area.
 - [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
@@ -253,16 +250,19 @@ Updating is like installing. You only have to make sure that you select the same
 - [Horse Overhaul](https://www.nexusmods.com/stardewvalley/mods/7911)
   - **H** Access horse information.
   - **P** Access pet information.
+- [Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/7500)
+  - **G** Call your horse.
+- [Better Junimos](https://www.nexusmods.com/stardewvalley/mods/2221)
+  - **J** Spawn another Junimo.
+- [Stardew Progress](https://www.nexusmods.com/stardewvalley/mods/9786)
+  - **F3** Show the progress report.
 - [Event Lookup](https://www.nexusmods.com/stardewvalley/mods/8505)
   - **N** List all heart events that can be triggered today.
-- [SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)
-  - **F11** Toggle SpriteMaster on and off.
+- [Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369)
+  - **U** access the adventure bar.
 - [Reset Terrain Features](https://www.nexusmods.com/stardewvalley/mods/4715)
   - **V** access the reset terrain menu.
-- [Almanac](https://www.nexusmods.com/stardewvalley/mods/11022)
-  - **F7** access the almanac.
-- [NPC Location Compass](https://www.nexusmods.com/stardewvalley/mods/3045)
-  - **F3** to toggle the compass.
+
 
 # Modifying the mod list
 
@@ -276,7 +276,7 @@ Those mods can be found at the very top of the mod list, directly under the red 
 
 ![Mods_to_Disable_Image](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/Mods_to_Disable.png)
 
-**[SpriteMaster](https://www.nexusmods.com/stardewvalley/mods/4922)** is the mod that smooths out the graphics. It also provides a variety of performance boosts. Disable this mod for the classic Stardew Valley appearance.
+**[Clear Glasses](https://www.nexusmods.com/stardewvalley/mods/21090)** is the mod that smooths out the graphics. Disable this mod for the classic Stardew Valley appearance.
 
 **[Eidee Easy Fishing](https://www.nexusmods.com/stardewvalley/mods/4806)** is the mod that enables easy fish catching. Disable this mod for the classic Stardew Valley fishing experience.
 
@@ -284,17 +284,19 @@ Those mods can be found at the very top of the mod list, directly under the red 
 
 Some mods should be configured to match your preferences in game.
 
-Those mods can be found at the very top of the mod list, directly under the red separator that reads "**Config Options (Edit at your own risk - Read the DOCS)**"
+Those mods can be found at the very top of the mod list, directly under the red separator that reads "**Config Options (Edit at your own risk - Read the DOCS)**". Only these mods will retain the configuration changes between updates of The Bustling Valley.
 
 ![Mods_to_Config_Image](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/Mods_to_Config.png)
 
 They do ship with a default configuration, but you may edit the configuration to suit your playthrough. Please remember in Stardew Valley, **All save games share the same configuration files**.
 
-To edit a configuration file, right click on the name, select "Open in Explorer", open the folder that appears, and then open the `config.json` file in a text editor.
+To edit a configuration file, **at the main Stardew Valley menu, click on the gear icon**, then find the mod in the list. Make your changes then click save and close. **Restart the game**.
 
-![Open_in_Explorer_Image](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/Open_in_Explorer.png)
+**Polyamory Sweet Bed** adjusts the bed size. You want to change the option `"Bed Width" 3,` to adjust for the number of spouses you have. For example `"Bed Width" 2,` is suitable for only 1 spouse. `"Bed Width" 7,` is suitable for 6 spouses.
 
-**[NoDelete] BedTweaks - Options** adjusts the bed size. You want to change the option `"BedWidth": 5,` to adjust for the number of spouses you have. For example `"BedWidth": 2,` is suitable for only 1 spouse. `"BedWidth": 7,` is suitable for 6 spouses.
+**Sword & Sorcery** adjusts the player pronouns used in this mod. It defaults to He/Him. You should change these to suit your farm. **DO NOT Change any other options.**
+
+**NPC Jasper** has marriage anniversary content if you marry him. Adjust the Anniversary Season, and Anniversary Day to match your in-game Anniversary. **DO NOT Change any other options.**
 
 # Other Post Installation FAQ
 
@@ -320,11 +322,11 @@ Many mods start issuing updates at night, such as changing to night maps, spawni
 
 ## I hate the new smooth graphics. How do I stop it?
 
-Press `F11` in game.
+Disable `Clear Glasses` mod.
 
 ## Stardew Valley just automatically updated, is it safe to run this list?
 
-Generally yes. The first time you load SMAPI will detect that the game has updated. It will need to restart. There will be an updated Bustling Valley release shortly after Stardew Valley releases. **The only exception is the Stardew Valley 1.6 release. That is expected to break many mods.**
+Generally yes. The first time you load SMAPI will detect that the game has updated. It will need to restart. There will be an updated Bustling Valley release shortly after Stardew Valley releases.
 
 ## Does it work with a controller?
 
@@ -352,77 +354,6 @@ Simply delete the installation folder (`C:\WJ\TBV` if you have been following th
 
 Not for the Bustling Valley. As of 0.4.4 the Bustling Valley now includes SMAPI, and this will be updated as needed in the Bustling Valley releases.
 
-## What is the JSON Shuffle? Can it be fixed?
-
-**As of The Bustling Valley 0.5.1 this is believed to be fixed.**
-
-The JSON Shuffle (or JSON Scramble, as it is also known) is what happens when you add, remove or update a JSON Assets mod and then continue playing your save. The IDs of your items are likely to get messed up (shuffled). The shuffle is due to the fact that JSON Assets does not hardcode item IDs in but assigns them dynamically when the game is started. **This may also be the cause of items not being identical in multiplayer.**
-
-The resulting item is usually an overlap of both the original and new icon, with a name that may be the new item or another mishmash. The items won't damage your save, but they (usually) won't work properly either.
-
-The most likely items to experience the shuffle are flowers that come in multiple colours or items that are in a machine (e.g., a keg or custom machine) - if you empty out your machines and sell any coloured flowers before adding or removing JSON Assets mods, you'll likely be safe
-
-**To avoid a JSON Shuffle, please wait until all machines have finished processing, and have been emptied, AND you have sold all coloured flowers before updating this mod list**.
-
-It's not fixable. Please don't alter this modlist once you start playing. **If you do get a shuffle, the best thing to do is to put all shuffled items in the shipping bin, or trash it.**
-
-## There was a  JSON Shuffle. It broke a Ridgeside Village quest. How do I fix it?
-
-You'll need to use the SMAPI console (The black window that appears when you start the game) to fix this. You need to remove, and re-add the quest. First go inside a building. Your farmhouse is a great choice.
-
-To remove the broken quest, type `quests_remove quest key@Rafseazz.RSVQF` into the SMAPI console. Press Enter. Then re-add the quest with `quests_accept quest_key@Rafseazz.RSVQF`. Check your quest log in game, then exit the building. The quest should now be fixed.
-
-For example `quests_remove yuuma_ring@Rafseazz.RSVQF`, Enter, `quests_accept yuuma_ring@Rafseazz.RSVQF`, Enter.
-
-The following is a list of all Ridgeside Village quests. You should be able to tell from the name, which one is your broken quest.
-
-- bert_honey
-- trinnie_sunflower
-- keahi_slime
-- yuuma_ring
-- olga_tuna
-- aguar_essence
-- freddie_sword
-- pika_mayonnaise
-- richard_glasses
-- aguar_gem
-- aguar_fairystone
-- bert_orange
-- ezekiel_cavecarrot
-- freddie_shadowbrute
-- freddie_pepperrex
-- keahi_tomato
-- keahi_bomb
-- lenny_eggplant
-- lenny_wine
-- lola_hauntedskull
-- lola_slime
-- olga_coffee
-- pika_cheese
-- pika_starfruit
-- richard_caviar
-- richard_bat
-- trinnie_pinkcake
-- trinnie_poppy
-- yuuma_burger
-- yuuma_iron
-
-## How do I reset the configuration files?
-
-Sometimes configuration files need to be reset. This is sometimes needed after the modlist is updated. Resetting the configuration files is very easy to do. Scroll to the very bottom of the mod list. There is a menu item named Overwrite.
-
-![Rest_Config_Image](assets/images/Reset_Config.png)
-
-**Right click** on it, and select **Clear Overwrite**. That's it. The game will regenerate any needed configuration files when you next start.
-
-## Why is the compass npcs pointing to the wrong place ?
-
-The compass mod does not work correctly unless both zoom and ui scales match. Please set them to the same value. The default is 100%.
-
-## Why do farmhands only see a vanilla map?
-
-See **Known Bugs**.
-
 ## Fishing is too Easy. How to to fix this?
 
 Please see **Modifying the mod list**.
@@ -431,17 +362,9 @@ Please see **Modifying the mod list**.
 
 Run up the ladder, do not click on it. It no longer acts like a door.
 
-## What will be removed in the 1.6 Stardew Valley update?
-
-Any mods that ignore the message to update for SMAPI 4.0 compatibility will need to be removed. As of The Bustling Valley 0.5.4, we are using SMAPI 3.18.0, which is the final release before SMAPI 4.0 - which will coincide with the Stardew Valley 1.6 release.
-
 ## Known Bugs
 
 Several of the mods included in The Bustling Valley have known bugs. These are being investigated and fixed by their respective teams. Be aware that this list may include spoilers about plot, and/or quest related details.
-
-### SMAPI
-
-- There is a limitation in SMAPI's content API which makes it difficult for recolours or expansion mods to correctly update the map for farmhands in multiplayer. As a result farmhands can not see the updated map. There's a planned change in the upcoming SMAPI 4.0.0 to address that.
 
 ## Contact and Technical Support
 
