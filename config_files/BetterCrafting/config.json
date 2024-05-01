@@ -44,7 +44,7 @@
   "EnableCookoutWorkbench": true,
   "EnableCookoutLongevity": false,
   "EnableCookoutExpensive": false,
-  "UseTransfer": true,
+  "UseTransfer": false,
   "AddToBehaviors": {
     "UseTool": {
       "Mode": "All",
