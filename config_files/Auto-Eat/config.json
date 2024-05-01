@@ -5,7 +5,7 @@
   "EnableStamina": true,
   "HealthThreshold": 32.0,
   "EnableHealth": true,
-  "DynamicStaminaThreshold": true,
+  "DynamicStaminaThreshold": false,
   "PreferHigherInventory": true,
   "EnableCoffee": false,
   "ToggleAutoBuffKey": "Home",
