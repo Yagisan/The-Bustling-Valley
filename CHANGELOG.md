@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.7.1](#071)
   - [0.7.0](#070)
 
 ## Semantic Versioning
@@ -15,6 +16,24 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.7.1
+
+**Released:** `DD MMM 2024`
+
+### Info <!-- omit in toc -->
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+- Updated [Non Destructive NPCs](https://www.nexusmods.com/stardewvalley/mods/5176) to the unofficial 1.6.0 port from the [Stardew Forums](https://forums.stardewvalley.net/threads/unofficial-mod-updates.2096/page-134#post-121034)
+
+### Removals <!-- omit in toc -->
+
+- Removed [Fall Colors and gradual seasonal foliage changes](https://www.nexusmods.com/stardewvalley/mods/11769) - multiple reports of graphics corruption when used with [Clear Glasses](https://www.nexusmods.com/stardewvalley/mods/21090)
 
 ## 0.7.0
 
