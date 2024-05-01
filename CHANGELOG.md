@@ -33,6 +33,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [HxW Bathroom Furniture](https://www.nexusmods.com/stardewvalley/mods/17665)
 - Updated [HxW Farmer's Market Furniture - Fishmonger and Butcher Set](https://www.nexusmods.com/stardewvalley/mods/9994)
 - Updated [Ilucie's Adopt a Hermy](https://www.nexusmods.com/stardewvalley/mods/21409)
+- Updated [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
 
 ### Removals <!-- omit in toc -->
 
