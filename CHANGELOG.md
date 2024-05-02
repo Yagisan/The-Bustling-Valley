@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.7.2](#072)
   - [0.7.1](#071)
   - [0.7.0](#070)
 
@@ -16,6 +17,22 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.7.2
+
+**Released:** `DD MMM 2024`
+
+### Info <!-- omit in toc -->
+
+### Modifications <!-- omit in toc -->
+
+- Fixed broken manifest in [Hitme's Spouse Portraits Reworked](https://www.nexusmods.com/stardewvalley/mods/23151)
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+### Removals <!-- omit in toc -->
 
 ## 0.7.1
 
@@ -37,7 +54,7 @@ This is a hotfix release to fix graphics corruption, broken schedules, invalid i
 - Updated [Ilucie's Adopt a Hermy](https://www.nexusmods.com/stardewvalley/mods/21409)
 - Updated [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
 - Updated [Custom Bush](https://www.nexusmods.com/stardewvalley/mods/20619)
-- Updated [Hitme's Spouse Portraits Reworked](https://www.nexusmods.com/stardewvalley/mods/22912)
+- Updated [Hitme's Spouse Portraits Reworked](https://www.nexusmods.com/stardewvalley/mods/23151)
 
 ### Removals <!-- omit in toc -->
 
