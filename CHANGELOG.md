@@ -19,9 +19,11 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.7.1
 
-**Released:** `DD MMM 2024`
+**Released:** `2 May 2024`
 
 ### Info <!-- omit in toc -->
+
+This is a hotfix release to fix graphics corruption, broken schedules, invalid items and SMAPI/SDV 1.6 related changes.
 
 ### Modifications <!-- omit in toc -->
 
@@ -34,6 +36,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [HxW Farmer's Market Furniture - Fishmonger and Butcher Set](https://www.nexusmods.com/stardewvalley/mods/9994)
 - Updated [Ilucie's Adopt a Hermy](https://www.nexusmods.com/stardewvalley/mods/21409)
 - Updated [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
+- Updated [Custom Bush](https://www.nexusmods.com/stardewvalley/mods/20619)
+- Updated [Hitme's Spouse Portraits Reworked](https://www.nexusmods.com/stardewvalley/mods/22912)
 
 ### Removals <!-- omit in toc -->
 
