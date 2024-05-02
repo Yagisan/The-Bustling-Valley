@@ -32,6 +32,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Updates <!-- omit in toc -->
 
+- Updated [YACS - Yet Another Cooking Skill](https://www.nexusmods.com/stardewvalley/mods/22681)
+- Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
+- Updated [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
+
 ### Removals <!-- omit in toc -->
 
 ## 0.7.1
