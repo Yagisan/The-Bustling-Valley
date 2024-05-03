@@ -20,9 +20,11 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.7.2
 
-**Released:** `DD MMM 2024`
+**Released:** `3 May 2024`
 
 ### Info <!-- omit in toc -->
+
+This is a hotfix release to fix item and eating related bugs.
 
 ### Modifications <!-- omit in toc -->
 
