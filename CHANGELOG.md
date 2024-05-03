@@ -36,6 +36,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
 - Updated [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
 - Updated [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295)
+- Updated [Better Ranching](https://www.nexusmods.com/stardewvalley/mods/859)
+- Updated [Canon-Friendly Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/2544)
 
 ### Removals <!-- omit in toc -->
 
