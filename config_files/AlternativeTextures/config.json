@@ -1,16 +1,16 @@
 {
   "OutputTextureDataToLog": false,
   "UseRandomTexturesWhenSpawningArtifactSpots": true,
-  "UseRandomTexturesWhenPlacingFlooring": true,
+  "UseRandomTexturesWhenPlacingFlooring": false,
   "UseRandomTexturesWhenPlacingFruitTree": true,
   "UseRandomTexturesWhenPlacingTree": true,
   "UseRandomTexturesWhenPlacingHoeDirt": true,
   "UseRandomTexturesWhenPlacingGrass": true,
-  "UseRandomTexturesWhenPlacingFurniture": true,
+  "UseRandomTexturesWhenPlacingFurniture": false,
   "UseRandomTexturesWhenPlacingObject": true,
   "UseRandomTexturesWhenPlacingFarmAnimal": true,
   "UseRandomTexturesWhenPlacingMonster": true,
-  "UseRandomTexturesWhenPlacingBuilding": true,
+  "UseRandomTexturesWhenPlacingBuilding": false,
   "DisabledTextures": [
     {
       "TextureId": "Lumisteria.AT.Craftable.Craftable_Chest",
