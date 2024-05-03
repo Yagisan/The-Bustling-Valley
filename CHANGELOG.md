@@ -27,6 +27,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 ### Modifications <!-- omit in toc -->
 
 - Fixed broken manifest in [Hitme's Spouse Portraits Reworked](https://www.nexusmods.com/stardewvalley/mods/23151)
+- Changed default configuration for [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246) closes [#8](https://github.com/Yagisan/The-Bustling-Valley/issues/8)
 
 ### Additions <!-- omit in toc -->
 
