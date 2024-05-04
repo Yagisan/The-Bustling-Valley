@@ -33,6 +33,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 - Updated [Better Honey Mead](https://www.nexusmods.com/stardewvalley/mods/22848)
 - Updated [Horse Overhaul - Thin - Faster - Saddle Bags - Friendship](https://www.nexusmods.com/stardewvalley/mods/7911)
+- Updated [Mapping Extensions and Extra Properties (MEEP)](https://www.nexusmods.com/stardewvalley/mods/14493)
 
 ### Removals <!-- omit in toc -->
 
