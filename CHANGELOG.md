@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.7.3](#073)
   - [0.7.2](#072)
   - [0.7.1](#071)
   - [0.7.0](#070)
@@ -17,6 +18,23 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.7.3
+
+**Released:** `DD MMM 2024`
+
+### Info <!-- omit in toc -->
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+- Updated [Better Honey Mead](https://www.nexusmods.com/stardewvalley/mods/22848)
+- Updated [Horse Overhaul - Thin - Faster - Saddle Bags - Friendship](https://www.nexusmods.com/stardewvalley/mods/7911)
+
+### Removals <!-- omit in toc -->
 
 ## 0.7.2
 
