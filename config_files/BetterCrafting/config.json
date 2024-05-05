@@ -1,5 +1,6 @@
 {
   "Theme": "automatic",
+  "ShowSourceModInTooltip": true,
   "UseFullHeight": false,
   "ReplaceCooking": true,
   "ReplaceCrafting": true,
