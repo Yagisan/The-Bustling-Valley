@@ -36,6 +36,11 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Better Honey Mead](https://www.nexusmods.com/stardewvalley/mods/22848)
 - Updated [Horse Overhaul - Thin - Faster - Saddle Bags - Friendship](https://www.nexusmods.com/stardewvalley/mods/7911)
 - Updated [Mapping Extensions and Extra Properties (MEEP)](https://www.nexusmods.com/stardewvalley/mods/14493)
+- Updated [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
+- Updated [Crop Regrowth and Perennial Crops](https://www.nexusmods.com/stardewvalley/mods/4685)
+- Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
+- Updated [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295)
+- Updated [Ferngill Simple Economy](https://www.nexusmods.com/stardewvalley/mods/21414)
 
 ### Removals <!-- omit in toc -->
 
