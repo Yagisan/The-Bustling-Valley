@@ -29,6 +29,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Additions <!-- omit in toc -->
 
+- Added [HxW Bakery and Cafe Furniture](https://www.nexusmods.com/stardewvalley/mods/9991)
+
 ### Updates <!-- omit in toc -->
 
 - Updated [Better Honey Mead](https://www.nexusmods.com/stardewvalley/mods/22848)
