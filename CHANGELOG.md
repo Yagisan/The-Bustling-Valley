@@ -45,6 +45,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Heart Event Helper](https://www.nexusmods.com/stardewvalley/mods/21924)
 - Updated [Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)
 - Updated [Date Night Redux](https://www.nexusmods.com/stardewvalley/mods/22714)
+- Updated [PolyamorySweet](https://www.nexusmods.com/stardewvalley/mods/20599)
+- Updated [Unique Gift Dialogues Expanded](https://www.nexusmods.com/stardewvalley/mods/21501)
 
 ### Removals <!-- omit in toc -->
 
