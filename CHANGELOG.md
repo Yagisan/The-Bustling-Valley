@@ -30,6 +30,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 ### Additions <!-- omit in toc -->
 
 - Added [HxW Bakery and Cafe Furniture](https://www.nexusmods.com/stardewvalley/mods/9991)
+- Added [PoohCore](https://www.nexusmods.com/stardewvalley/mods/22941)
 
 ### Updates <!-- omit in toc -->
 
@@ -47,6 +48,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Date Night Redux](https://www.nexusmods.com/stardewvalley/mods/22714)
 - Updated [PolyamorySweet](https://www.nexusmods.com/stardewvalley/mods/20599)
 - Updated [Unique Gift Dialogues Expanded](https://www.nexusmods.com/stardewvalley/mods/21501)
+- Updated [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295)
 
 ### Removals <!-- omit in toc -->
 
