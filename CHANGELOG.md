@@ -49,6 +49,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [PolyamorySweet](https://www.nexusmods.com/stardewvalley/mods/20599)
 - Updated [Unique Gift Dialogues Expanded](https://www.nexusmods.com/stardewvalley/mods/21501)
 - Updated [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295)
+- Updated [Nora The Herpetologist](https://www.nexusmods.com/stardewvalley/mods/18176)
 
 ### Removals <!-- omit in toc -->
 
