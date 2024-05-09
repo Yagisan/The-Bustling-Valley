@@ -50,6 +50,9 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Unique Gift Dialogues Expanded](https://www.nexusmods.com/stardewvalley/mods/21501)
 - Updated [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295)
 - Updated [Nora The Herpetologist](https://www.nexusmods.com/stardewvalley/mods/18176)
+- Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
+- Updated [Syanide23's Turkeys for 1.6](https://www.nexusmods.com/stardewvalley/mods/22207)
+- Updated [Hitme's Spouse Portraits Reworked](https://www.nexusmods.com/stardewvalley/mods/23151)
 
 ### Removals <!-- omit in toc -->
 
