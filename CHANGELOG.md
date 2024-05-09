@@ -27,6 +27,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Modifications <!-- omit in toc -->
 
+- Updated [MO2 Python Runner](https://github.com/ModOrganizer2/modorganizer/issues/1928#issuecomment-1837200402) to fix issues with loading system python. Fix will be in MO2 2.5.1
+
 ### Additions <!-- omit in toc -->
 
 - Added [HxW Bakery and Cafe Furniture](https://www.nexusmods.com/stardewvalley/mods/9991)
