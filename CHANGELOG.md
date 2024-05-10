@@ -56,6 +56,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Syanide23's Turkeys for 1.6](https://www.nexusmods.com/stardewvalley/mods/22207)
 - Updated [Hitme's Spouse Portraits Reworked](https://www.nexusmods.com/stardewvalley/mods/23151)
 - Updated [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536)
+- Updated [YACS - Yet Another Cooking Skill](https://www.nexusmods.com/stardewvalley/mods/22681)
+- Updated [Luck Skill](https://github.com/Pet-Slime/StardewValley/releases/tag/v1.1.0)
 
 ### Removals <!-- omit in toc -->
 
