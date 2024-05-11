@@ -44,7 +44,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
 - Updated [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295)
 - Updated [Ferngill Simple Economy](https://www.nexusmods.com/stardewvalley/mods/21414)
-- Updated [Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369) (5 May 2024 Discord Release)
+- Updated [Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369) (10 May 2024 Discord Release)
 - Updated [Heart Event Helper](https://www.nexusmods.com/stardewvalley/mods/21924)
 - Updated [Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)
 - Updated [Date Night Redux](https://www.nexusmods.com/stardewvalley/mods/22714)
@@ -58,6 +58,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536)
 - Updated [YACS - Yet Another Cooking Skill](https://www.nexusmods.com/stardewvalley/mods/22681)
 - Updated [Luck Skill](https://github.com/Pet-Slime/StardewValley/releases/tag/v1.1.0)
+- Updated [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)
 
 ### Removals <!-- omit in toc -->
 
