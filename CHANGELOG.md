@@ -59,6 +59,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [YACS - Yet Another Cooking Skill](https://www.nexusmods.com/stardewvalley/mods/22681)
 - Updated [Luck Skill](https://github.com/Pet-Slime/StardewValley/releases/tag/v1.1.0)
 - Updated [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)
+- Updated [Autonomals](https://www.nexusmods.com/stardewvalley/mods/22879)
+- Updated [Donkeys](https://www.nexusmods.com/stardewvalley/mods/8410)
 
 ### Removals <!-- omit in toc -->
 
