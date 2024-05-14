@@ -33,6 +33,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 - Added [HxW Bakery and Cafe Furniture](https://www.nexusmods.com/stardewvalley/mods/9991)
 - Added [PoohCore](https://www.nexusmods.com/stardewvalley/mods/22941)
+- Added [Diverse Stardew Valley FQC - Ridgeside Village (DSV RSV)](https://www.nexusmods.com/stardewvalley/mods/18633)
 
 ### Updates <!-- omit in toc -->
 
@@ -44,7 +45,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
 - Updated [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295)
 - Updated [Ferngill Simple Economy](https://www.nexusmods.com/stardewvalley/mods/21414)
-- Updated [Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369) (10 May 2024 Discord Release)
+- Updated [Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369) (12 May 2024 Discord Release)
 - Updated [Heart Event Helper](https://www.nexusmods.com/stardewvalley/mods/21924)
 - Updated [Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)
 - Updated [Date Night Redux](https://www.nexusmods.com/stardewvalley/mods/22714)
@@ -61,8 +62,14 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)
 - Updated [Autonomals](https://www.nexusmods.com/stardewvalley/mods/22879)
 - Updated [Donkeys](https://www.nexusmods.com/stardewvalley/mods/8410)
+- Updated [Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059)
+- Updated [Distant Lands - A Small Witch Swamp Expansion](https://www.nexusmods.com/stardewvalley/mods/18109)
+- Updated [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
+- Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
 
 ### Removals <!-- omit in toc -->
+
+- Removed [Visible Fish - see catchable fish in the water](https://www.nexusmods.com/stardewvalley/mods/8897) - massive lag after midnight with Ridgeside Village
 
 ## 0.7.2
 
