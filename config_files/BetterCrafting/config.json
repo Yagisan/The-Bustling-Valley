@@ -1,6 +1,7 @@
 {
   "Theme": "automatic",
   "ShowSourceModInTooltip": true,
+  "ShowMatchingItem": "Disabled",
   "UseFullHeight": false,
   "ReplaceCooking": true,
   "ReplaceCrafting": true,
@@ -31,6 +32,7 @@
   "UseUniformGrid": false,
   "SortBigLast": true,
   "CraftingAlphabetic": false,
+  "DisplayUnknownCrafting": false,
   "UseSeasoning": "InventoryOnly",
   "HideUnknown": true,
   "CookingAlphabetic": false,
