@@ -66,6 +66,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Distant Lands - A Small Witch Swamp Expansion](https://www.nexusmods.com/stardewvalley/mods/18109)
 - Updated [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
 - Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
+- Updated [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)
 
 ### Removals <!-- omit in toc -->
 
