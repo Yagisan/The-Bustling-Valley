@@ -67,6 +67,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
 - Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
 - Updated [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)
+- Updated [(CP) HxW Farmer's Market Furniture - Core](https://www.nexusmods.com/stardewvalley/mods/18814)
 
 ### Removals <!-- omit in toc -->
 
