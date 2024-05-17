@@ -10,5 +10,6 @@
   "EnableBetterBusStop": true,
   "PoleAtBackwoods": true,
   "SeasonalRSVMap": true,
-  "EnableTouristNPCs": true
+  "EnableTouristNPCs": true,
+  "ShowRSVCustomMap": false
 }
