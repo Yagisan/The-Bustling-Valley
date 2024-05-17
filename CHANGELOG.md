@@ -68,6 +68,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
 - Updated [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)
 - Updated [(CP) HxW Farmer's Market Furniture - Core](https://www.nexusmods.com/stardewvalley/mods/18814)
+- Updated [(AT) DustBeauty's Industrial Furniture](https://www.nexusmods.com/stardewvalley/mods/17656)
+- Updated [Custom Cask Mod](https://www.nexusmods.com/stardewvalley/mods/2642)
+- Updated [Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)
+- Updated [Seasonal Wedding Arch](https://www.nexusmods.com/stardewvalley/mods/23020)
 
 ### Removals <!-- omit in toc -->
 
