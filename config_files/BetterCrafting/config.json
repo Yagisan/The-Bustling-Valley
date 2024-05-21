@@ -2,6 +2,7 @@
   "Theme": "automatic",
   "ShowSourceModInTooltip": true,
   "ShowMatchingItem": "Disabled",
+  "AllowRecoverTrash": true,
   "UseFullHeight": false,
   "ReplaceCooking": true,
   "ReplaceCrafting": true,
