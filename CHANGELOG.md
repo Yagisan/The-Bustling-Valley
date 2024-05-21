@@ -73,6 +73,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)
 - Updated [Seasonal Wedding Arch](https://www.nexusmods.com/stardewvalley/mods/23020)
 - Updated [Seed Information - Continued](https://www.nexusmods.com/stardewvalley/mods/22519)
+- Updated [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
 
 ### Removals <!-- omit in toc -->
 
