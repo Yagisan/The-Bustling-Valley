@@ -34,6 +34,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Added [HxW Bakery and Cafe Furniture](https://www.nexusmods.com/stardewvalley/mods/9991)
 - Added [PoohCore](https://www.nexusmods.com/stardewvalley/mods/22941)
 - Added [Diverse Stardew Valley FQC - Ridgeside Village (DSV RSV)](https://www.nexusmods.com/stardewvalley/mods/18633)
+- Added [Anniversary on Calendar](https://www.nexusmods.com/stardewvalley/mods/8351)
 
 ### Updates <!-- omit in toc -->
 
@@ -74,6 +75,13 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Seasonal Wedding Arch](https://www.nexusmods.com/stardewvalley/mods/23020)
 - Updated [Seed Information - Continued](https://www.nexusmods.com/stardewvalley/mods/22519)
 - Updated [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
+- Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
+- Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
+- Updated [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
+- Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+- Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 
 ### Removals <!-- omit in toc -->
 
