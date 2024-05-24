@@ -82,6 +82,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
 - Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
 - Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
+- Updated [cantibleChaos's BFAV Peafowl for 1.6](https://www.nexusmods.com/stardewvalley/mods/22318)
+- Updated [cantibleChaos's BFAV Yaks for 1.6](https://www.nexusmods.com/stardewvalley/mods/22319)
 
 ### Removals <!-- omit in toc -->
 
