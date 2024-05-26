@@ -84,6 +84,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 - Updated [cantibleChaos's BFAV Peafowl for 1.6](https://www.nexusmods.com/stardewvalley/mods/22318)
 - Updated [cantibleChaos's BFAV Yaks for 1.6](https://www.nexusmods.com/stardewvalley/mods/22319)
+- Updated [Canon-Friendly Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/2544)
 
 ### Removals <!-- omit in toc -->
 
