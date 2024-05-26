@@ -17,6 +17,12 @@
     "Disliked": false,
     "Hated": false
   },
+  "CollapseLargeFields": {
+    "Enabled": true,
+    "BuildingRecipes": 25,
+    "ItemRecipes": 25,
+    "NpcGiftTastes": 75
+  },
   "ShowUnownedGifts": true,
   "HideOnKeyUp": false,
   "EnableTargetRedirection": true,
