@@ -91,8 +91,6 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Removals <!-- omit in toc -->
 
-- Removed [Visible Fish - see catchable fish in the water](https://www.nexusmods.com/stardewvalley/mods/8897) - massive lag after midnight with Ridgeside Village
-
 ## 0.7.2
 
 **Released:** `3 May 2024`
