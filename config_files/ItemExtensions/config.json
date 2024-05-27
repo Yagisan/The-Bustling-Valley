@@ -1,0 +1,14 @@
+{
+  "EatingAnimations": true,
+  "FishPond": true,
+  "MenuActions": true,
+  "MixedSeeds": true,
+  "Panning": true,
+  "Resources": true,
+  "ResourcesMtn": true,
+  "ResourcesVolcano": true,
+  "ShopTrades": true,
+  "TrainDrops": true,
+  "TerrainFeatures": true,
+  "QualityChanges": true
+}
