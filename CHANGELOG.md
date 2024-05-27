@@ -21,7 +21,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.7.3
 
-**Released:** `DD MMM 2024`
+**Released:** `28 May 2024`
 
 ### Info <!-- omit in toc -->
 
