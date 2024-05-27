@@ -85,6 +85,9 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [cantibleChaos's BFAV Peafowl for 1.6](https://www.nexusmods.com/stardewvalley/mods/22318)
 - Updated [cantibleChaos's BFAV Yaks for 1.6](https://www.nexusmods.com/stardewvalley/mods/22319)
 - Updated [Canon-Friendly Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/2544)
+- Updated [Creative Differences](https://www.nexusmods.com/stardewvalley/mods/13437)
+- Updated [Item Extensions](https://www.nexusmods.com/stardewvalley/mods/20357)
+- Updated [Unique Gift Dialogues Expanded](https://www.nexusmods.com/stardewvalley/mods/21501)
 
 ### Removals <!-- omit in toc -->
 
