@@ -36,6 +36,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Yagisan's Custom NPCs for NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/8174)
 - Updated [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295)
 - Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
+- Updated [Item Extensions](https://www.nexusmods.com/stardewvalley/mods/20357)
+- Updated [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
+- Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+- Updated [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
 
 ### Removals <!-- omit in toc -->
 
