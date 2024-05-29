@@ -3,6 +3,7 @@
   "FishPond": true,
   "MenuActions": true,
   "MixedSeeds": true,
+  "OnBehavior": true,
   "Panning": true,
   "Resources": true,
   "ResourcesMtn": true,
@@ -10,5 +11,6 @@
   "ShopTrades": true,
   "TrainDrops": true,
   "TerrainFeatures": true,
-  "QualityChanges": true
+  "QualityChanges": true,
+  "Treasure": true
 }

@@ -1,9 +1,10 @@
 {
-  "DefaultPathSpeedBuff": 1.0,
+  "DefaultPathSpeedBuff": 1.2,
   "IsPathSpeedBuffOnlyOnTheFarm": false,
   "IsPathAffectHorseSpeed": true,
   "HorsePathSpeedBuffModifier": 1.0,
   "IsEnablePathReplace": true,
+  "IsTownPathSpeedBuff": true,
   "IsUseCustomPathSpeedBuffValues": false,
   "CustomPathSpeedBuffValues": {
     "WoodPath": 1.0,
