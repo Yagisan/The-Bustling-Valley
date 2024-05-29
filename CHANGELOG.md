@@ -40,6 +40,12 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
 - Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
 - Updated [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
+- Updated [Relocate Buildings And Farm Animals](https://www.nexusmods.com/stardewvalley/mods/20606)
+- Updated [Faster Path Speed](https://www.nexusmods.com/stardewvalley/mods/9344)
+- Updated [Buildable Ginger Island Farm](https://www.nexusmods.com/stardewvalley/mods/20600)
+- Updated [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
+- Updated [Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059)
+- Updated [(AT) DustBeauty's Industrial Furniture](https://www.nexusmods.com/stardewvalley/mods/17656)
 
 ### Removals <!-- omit in toc -->
 
