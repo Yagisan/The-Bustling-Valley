@@ -36,6 +36,9 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [(CP) Blue Eggs and Golden Mayo](https://www.nexusmods.com/stardewvalley/mods/20266)
 - Updated [Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)
 - Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
+- Updated [Canon-Friendly Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/2544)
+- Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
+- Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
 
 ## 0.7.4
 
