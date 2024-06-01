@@ -39,6 +39,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Canon-Friendly Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/2544)
 - Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
 - Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
+- Updated [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
 
 ## 0.7.4
 
