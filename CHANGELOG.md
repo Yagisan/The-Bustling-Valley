@@ -40,6 +40,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
 - Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
 - Updated [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
+- Updated [Ferngill Simple Economy](https://www.nexusmods.com/stardewvalley/mods/21414)
 
 ## 0.7.4
 
