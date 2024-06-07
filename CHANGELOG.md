@@ -27,6 +27,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
+If the altar for the [Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369) Offerings quest has disappeared run the console command `sns_finishorders` to finish that quest. Then just wait until the next season.
+
+Barron's 2nd Heart event in [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295) has been rewritten.  If you have already seen it, run `debug ebi Fellowclown.AND_PesterMarlon` to re-trigger it.
+
 ### Modifications <!-- omit in toc -->
 
 ### Additions <!-- omit in toc -->
@@ -38,9 +42,16 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
 - Updated [Canon-Friendly Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/2544)
 - Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
+- Updated [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295)
 - Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
+- Updated [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)
+- Updated [The Music of Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)
+- Updated [Seasonal Outfits for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/18202)
 - Updated [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
 - Updated [Ferngill Simple Economy](https://www.nexusmods.com/stardewvalley/mods/21414)
+- Updated [Date Night Redux](https://www.nexusmods.com/stardewvalley/mods/22714)
+- Updated [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
+- Updated [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
 
 ## 0.7.4
 
