@@ -7,6 +7,8 @@
   "GenderedDialogue": "enabled",
   "SuggestiveEndings": "enabled",
   "LibraryDateCutscene": "enabled",
+  "ModdedSpouseFoods": "disabled",
+  "DynamicPool": "disabled",
   "DatesOnFestivalDays": "disabled",
   "AllowRoommateDates": "disabled",
   "DisabledDates": ""
