@@ -31,6 +31,10 @@ If the altar for the [Sword & Sorcery](https://www.nexusmods.com/stardewvalley/m
 
 Barron's 2nd Heart event in [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295) has been rewritten.  If you have already seen it, run `debug ebi Fellowclown.AND_PesterMarlon` to re-trigger it.
 
+[Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600) has had an update and some items may be jumbled (It will look like a JSON shuffle). You should sell them in the shipping bin. To replace the initial Dodo egg from a quest, run `player_add name "Fellowclown.PC_FrenchDodoEgg"` in the console to spawn a new one.
+
+[Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770) had a significant update in 0.7.3 - if you are updating from 0.7.2 or older, and have the special flower from Sen, you should trash all of the ones you have, and spawn a new one from the console with the following command. `player_add name "7thAxis.DitR.CP_Items.SensCrocusSeeds"`. This will give you 1 pack of seeds to grow the flower.
+
 ### Modifications <!-- omit in toc -->
 
 ### Additions <!-- omit in toc -->
@@ -52,6 +56,16 @@ Barron's 2nd Heart event in [A New Dream](https://www.nexusmods.com/stardewvalle
 - Updated [Date Night Redux](https://www.nexusmods.com/stardewvalley/mods/22714)
 - Updated [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
 - Updated [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
+- Updated [Beach Minecart (CP)](https://www.nexusmods.com/stardewvalley/mods/13650)
+- Updated [Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369) (10 Jun 2024 Discord Release)
+- Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
+- Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
+- Updated [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
+- Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+- Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
+- Updated [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508)
 
 ## 0.7.4
 
