@@ -67,6 +67,11 @@ Barron's 2nd Heart event in [A New Dream](https://www.nexusmods.com/stardewvalle
 - Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 - Updated [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508)
 - Updated [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)
+- Updated [cantibleChaos's BFAV Yaks for 1.6](https://www.nexusmods.com/stardewvalley/mods/22319)
+- Updated [cantibleChaos's BFAV Camels for 1.6](https://www.nexusmods.com/stardewvalley/mods/22323)
+- Updated [Syanide23's Turkeys for 1.6](https://www.nexusmods.com/stardewvalley/mods/22207)
+- Updated [cantibleChaos's BFAV Oxen for 1.6](https://www.nexusmods.com/stardewvalley/mods/22320)
+- Updated [cantibleChaos's BFAV Peafowl for 1.6](https://www.nexusmods.com/stardewvalley/mods/22318)
 
 ## 0.7.4
 
