@@ -66,6 +66,7 @@ Barron's 2nd Heart event in [A New Dream](https://www.nexusmods.com/stardewvalle
 - Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
 - Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 - Updated [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508)
+- Updated [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)
 
 ## 0.7.4
 
