@@ -57,7 +57,7 @@ Barron's 2nd Heart event in [A New Dream](https://www.nexusmods.com/stardewvalle
 - Updated [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
 - Updated [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
 - Updated [Beach Minecart (CP)](https://www.nexusmods.com/stardewvalley/mods/13650)
-- Updated [Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369) (13 Jun 2024 Discord Release)
+- Updated [Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369) (16 Jun 2024 Discord Release)
 - Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
 - Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
 - Updated [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
