@@ -74,6 +74,7 @@ Barron's 2nd Heart event in [A New Dream](https://www.nexusmods.com/stardewvalle
 - Updated [cantibleChaos's BFAV Peafowl for 1.6](https://www.nexusmods.com/stardewvalley/mods/22318)
 - Updated [Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059)
 - Updated [Mini Obelisk (Alternative Textures version)](https://www.nexusmods.com/stardewvalley/mods/12571)
+- Updated [Alpacas](https://www.nexusmods.com/stardewvalley/mods/8515)
 
 ## 0.7.4
 
