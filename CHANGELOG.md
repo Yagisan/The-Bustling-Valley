@@ -66,6 +66,8 @@ Barron's 2nd Heart event in [A New Dream](https://www.nexusmods.com/stardewvalle
 - Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
 - Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 - Updated [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508)
+- Updated [Cornucopia - More Flowers](https://www.nexusmods.com/stardewvalley/mods/20290)
+- Updated [Growable Forage and Crop Bushes](https://www.nexusmods.com/stardewvalley/mods/20340)
 - Updated [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)
 - Updated [cantibleChaos's BFAV Yaks for 1.6](https://www.nexusmods.com/stardewvalley/mods/22319)
 - Updated [cantibleChaos's BFAV Camels for 1.6](https://www.nexusmods.com/stardewvalley/mods/22323)
