@@ -79,6 +79,7 @@ Barron's 2nd Heart event in [A New Dream](https://www.nexusmods.com/stardewvalle
 - Updated [Alpacas](https://www.nexusmods.com/stardewvalley/mods/8515)
 - Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
 - Updated [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
+- Updated [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)
 
 ## 0.7.4
 
