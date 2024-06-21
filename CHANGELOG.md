@@ -82,6 +82,7 @@ Barron's 2nd Heart event in [A New Dream](https://www.nexusmods.com/stardewvalle
 - Updated [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)
 - Updated [Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)
 - Updated [The Last Smoluanu](https://www.nexusmods.com/stardewvalley/mods/9642)
+- Updated [Mister Ginger](https://www.nexusmods.com/stardewvalley/mods/5295)
 
 ## 0.7.4
 
