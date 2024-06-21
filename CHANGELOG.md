@@ -78,6 +78,7 @@ Barron's 2nd Heart event in [A New Dream](https://www.nexusmods.com/stardewvalle
 - Updated [Mini Obelisk (Alternative Textures version)](https://www.nexusmods.com/stardewvalley/mods/12571)
 - Updated [Alpacas](https://www.nexusmods.com/stardewvalley/mods/8515)
 - Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
+- Updated [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
 
 ## 0.7.4
 
