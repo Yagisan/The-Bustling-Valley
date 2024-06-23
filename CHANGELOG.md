@@ -23,7 +23,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.7.5
 
-**Released:** `DD MMM 2024`
+**Released:** `24 Jun 2024`
 
 ### Info <!-- omit in toc -->
 
@@ -33,7 +33,7 @@ Barron's 2nd Heart event in [A New Dream](https://www.nexusmods.com/stardewvalle
 
 [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600) has had an update and some items may be jumbled (It will look like a JSON shuffle). You should sell them in the shipping bin. To replace the initial Dodo egg from a quest, run `player_add name "Fellowclown.PC_FrenchDodoEgg"` in the console to spawn a new one.
 
-[Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770) had a significant update in 0.7.3 - if you are updating from 0.7.2 or older, and have the special flower from Sen, you should trash all of the ones you have, and spawn a new one from the console with the following command. `player_add name "7thAxis.DitR.CP_Items.SensCrocusSeeds"`. This will give you 1 pack of seeds to grow the flower.
+[Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770) had a significant update - if you are updating from 0.7.2 or older, and have the special flower from Sen, you should trash all of the ones you have, and spawn a new one from the console with the following command. `player_add name "7thAxis.DitR.CP_Items.SensCrocusSeeds"`. This will give you 1 pack of seeds to grow the flower.
 
 ### Modifications <!-- omit in toc -->
 
