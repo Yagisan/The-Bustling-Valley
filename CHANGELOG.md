@@ -34,7 +34,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Updates <!-- omit in toc -->
 
-- Updated [Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369) (23 Jun 2024 Discord Release)
+- Updated [Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369) (30 Jun 2024 Discord Release)
 - Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
 - Updated [cantibleChaos's BFAV Yaks for 1.6](https://www.nexusmods.com/stardewvalley/mods/22319)
 
