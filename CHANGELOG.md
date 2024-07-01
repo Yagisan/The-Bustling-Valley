@@ -44,6 +44,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
 - Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
 - Updated [Distant Lands - A Small Witch Swamp Expansion](https://www.nexusmods.com/stardewvalley/mods/18109)
+- Updated [Snow-Covered Craftables](https://www.nexusmods.com/stardewvalley/mods/3990)
 
 ## 0.7.5
 
