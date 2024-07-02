@@ -28,13 +28,32 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
+[Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369) now has a new planned skill line. **Witchcraft** (not implemented yet). These use a resource called essences. These are Air, Earth, Water, and Fire essences. They will drop from appropriate sources across the world (air: flying monsters, fire: volcano monsters, water: fishing, earth: mining). 
+
+The planned witchcraft professions are:
+
+Witchcraft
+1) Hedge Witch - Double essence drops 
+2) Magus - +25% damage from spells
+
+Alchemist 
+1) Master Alchemist - Philosophers Stone: 1 to 1 Essence Conversion 
+2) Master Alkahestrist - Custom teleportation cost reduced to zero. 
+
+Sorcerer
+1) Abjurant Champion: Immune to damage briefly after casting plus 25% damage buff
+2) Umbral Strider: 100 Max Aether and restore aether on taking damage
+
+Essences will be used to craft potions and as components for rituals in a future update. 
+Alkahestry in the context of SDV will be the practice of setting up custom teleportation circles anywhere in the world.
+
 ### Modifications <!-- omit in toc -->
 
 ### Additions <!-- omit in toc -->
 
 ### Updates <!-- omit in toc -->
 
-- Updated [Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369) (30 Jun 2024 Discord Release)
+- Updated [Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369) (2 Jul 2024 Discord Release)
 - Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
 - Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
 - Updated [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295)
