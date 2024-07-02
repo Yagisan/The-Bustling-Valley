@@ -58,6 +58,7 @@ Alkahestry in the context of SDV will be the practice of setting up custom telep
 - Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
 - Updated [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295)
 - Updated [cantibleChaos's BFAV Yaks for 1.6](https://www.nexusmods.com/stardewvalley/mods/22319)
+- Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 - Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
 - Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
 - Updated [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
