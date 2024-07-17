@@ -47,6 +47,8 @@ Sorcerer
 Essences will be used to craft potions and as components for rituals in a future update. 
 Alkahestry in the context of SDV will be the practice of setting up custom teleportation circles anywhere in the world.
 
+Many animals have had updates making them more than just decorative objects.
+
 ### Modifications <!-- omit in toc -->
 
 ### Additions <!-- omit in toc -->
@@ -57,7 +59,12 @@ Alkahestry in the context of SDV will be the practice of setting up custom telep
 - Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
 - Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
 - Updated [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295)
+- Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
 - Updated [cantibleChaos's BFAV Yaks for 1.6](https://www.nexusmods.com/stardewvalley/mods/22319)
+- Updated [cantibleChaos's BFAV Camels for 1.6](https://www.nexusmods.com/stardewvalley/mods/22323)
+- Updated [Syanide23's Turkeys for 1.6](https://www.nexusmods.com/stardewvalley/mods/22207)
+- Updated [cantibleChaos's BFAV Oxen for 1.6](https://www.nexusmods.com/stardewvalley/mods/22320)
+- Updated [cantibleChaos's BFAV Peafowl for 1.6](https://www.nexusmods.com/stardewvalley/mods/22318)
 - Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 - Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
 - Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
@@ -65,6 +72,12 @@ Alkahestry in the context of SDV will be the practice of setting up custom telep
 - Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
 - Updated [Distant Lands - A Small Witch Swamp Expansion](https://www.nexusmods.com/stardewvalley/mods/18109)
 - Updated [Snow-Covered Craftables](https://www.nexusmods.com/stardewvalley/mods/3990)
+- Updated [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508)
+- Updated [Cornucopia - More Flowers](https://www.nexusmods.com/stardewvalley/mods/20290)
+- Updated [Growable Forage and Crop Bushes](https://www.nexusmods.com/stardewvalley/mods/20340)
+- Updated [Item Extensions](https://www.nexusmods.com/stardewvalley/mods/20357)
+- Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+- Updated [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)
 
 ## 0.7.5
 
