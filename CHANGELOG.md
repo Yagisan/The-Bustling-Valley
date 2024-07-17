@@ -49,6 +49,8 @@ Alkahestry in the context of SDV will be the practice of setting up custom telep
 
 Many animals have had updates making them more than just decorative objects.
 
+[Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600) has had map changes. You will need to reset everything on the Passerby Cemetery maps. Press `v`, select all options except for all maps, then press reset. Unfortunately not all map changes will be fixed by this.
+
 ### Modifications <!-- omit in toc -->
 
 ### Additions <!-- omit in toc -->
