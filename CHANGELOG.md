@@ -53,6 +53,8 @@ Many animals have had updates making them more than just decorative objects.
 
 ### Modifications <!-- omit in toc -->
 
+Ayeisha's config has been changed. She should not ask the pet question because we use modded pets, and she doesn't know about them. This will only take effect in new games.
+
 ### Additions <!-- omit in toc -->
 
 ### Updates <!-- omit in toc -->
