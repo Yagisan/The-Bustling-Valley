@@ -82,6 +82,9 @@ Ayeisha's config has been changed. She should not ask the pet question because w
 - Updated [Item Extensions](https://www.nexusmods.com/stardewvalley/mods/20357)
 - Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
 - Updated [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)
+- Updated [Alecto the Witch](https://www.nexusmods.com/stardewvalley/mods/10671)
+- Updated [Nora The Herpetologist](https://www.nexusmods.com/stardewvalley/mods/18176)
+- Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
 
 ## 0.7.5
 
