@@ -59,7 +59,7 @@ Ayeisha's config has been changed. She should not ask the pet question because w
 
 ### Updates <!-- omit in toc -->
 
-- Updated [Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369) (2 Jul 2024 Discord Release)
+- Updated [Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369) (21 Jul 2024 Discord Release)
 - Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
 - Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
 - Updated [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295)
@@ -85,6 +85,8 @@ Ayeisha's config has been changed. She should not ask the pet question because w
 - Updated [Alecto the Witch](https://www.nexusmods.com/stardewvalley/mods/10671)
 - Updated [Nora The Herpetologist](https://www.nexusmods.com/stardewvalley/mods/18176)
 - Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
+- Updated [Date Night Redux](https://www.nexusmods.com/stardewvalley/mods/22714)
+- Updated [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
 
 ## 0.7.5
 
