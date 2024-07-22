@@ -51,11 +51,15 @@ Many animals have had updates making them more than just decorative objects.
 
 [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600) has had map changes. You will need to reset everything on the Passerby Cemetery maps. Press `v`, select all options except for all maps, then press reset. Unfortunately not all map changes will be fixed by this.
 
+[Destroyable Bushes](https://www.nexusmods.com/stardewvalley/mods/6304) has been added. This is mostly to allow people to remove the bush that sometimes spawns over the Special Orders board. You require a Steel Axe to chop down these bushes. These bushes will **never** regrow once chopped down.
+
 ### Modifications <!-- omit in toc -->
 
 Ayeisha's config has been changed. She should not ask the pet question because we use modded pets, and she doesn't know about them. This will only take effect in new games.
 
 ### Additions <!-- omit in toc -->
+
+- Added [Destroyable Bushes](https://www.nexusmods.com/stardewvalley/mods/6304)
 
 ### Updates <!-- omit in toc -->
 
