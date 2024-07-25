@@ -91,6 +91,7 @@ Ayeisha's config has been changed. She should not ask the pet question because w
 - Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
 - Updated [Date Night Redux](https://www.nexusmods.com/stardewvalley/mods/22714)
 - Updated [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
+- Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
 
 ## 0.7.5
 
