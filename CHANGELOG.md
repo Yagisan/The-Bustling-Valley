@@ -92,6 +92,8 @@ Ayeisha's config has been changed. She should not ask the pet question because w
 - Updated [Date Night Redux](https://www.nexusmods.com/stardewvalley/mods/22714)
 - Updated [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
 - Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
+- Updated [Unique Winter Star](https://www.nexusmods.com/stardewvalley/mods/14709)
+- Updated [PolyamorySweet](https://www.nexusmods.com/stardewvalley/mods/20599)
 
 ## 0.7.5
 
