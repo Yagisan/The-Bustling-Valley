@@ -53,6 +53,8 @@ Many animals have had updates making them more than just decorative objects.
 
 [Destroyable Bushes](https://www.nexusmods.com/stardewvalley/mods/6304) has been added. This is mostly to allow people to remove the bush that sometimes spawns over the Special Orders board. You require a Steel Axe to chop down these bushes. These bushes will **never** regrow once chopped down.
 
+Lantana from [PolyamorySweet](https://www.nexusmods.com/stardewvalley/mods/20599) now has a more vanilla looking sprite thanks to [Lantana character redraw](https://www.nexusmods.com/stardewvalley/mods/23781). She should feel less out of place now.
+
 ### Modifications <!-- omit in toc -->
 
 Ayeisha's config has been changed. She should not ask the pet question because we use modded pets, and she doesn't know about them. This will only take effect in new games.
@@ -60,6 +62,7 @@ Ayeisha's config has been changed. She should not ask the pet question because w
 ### Additions <!-- omit in toc -->
 
 - Added [Destroyable Bushes](https://www.nexusmods.com/stardewvalley/mods/6304)
+- Added [Lantana character redraw](https://www.nexusmods.com/stardewvalley/mods/23781)
 
 ### Updates <!-- omit in toc -->
 
@@ -94,6 +97,7 @@ Ayeisha's config has been changed. She should not ask the pet question because w
 - Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
 - Updated [Unique Winter Star](https://www.nexusmods.com/stardewvalley/mods/14709)
 - Updated [PolyamorySweet](https://www.nexusmods.com/stardewvalley/mods/20599)
+- Updated [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)
 
 ## 0.7.5
 
