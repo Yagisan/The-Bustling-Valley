@@ -29,6 +29,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
+[Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600) has had map changes. You will need to reset everything on the Passerby Cemetery maps. Press `v`, select all options except for all maps, then press reset. Unfortunately not all map changes will be fixed by this.
+
 ### Modifications <!-- omit in toc -->
 
 ### Additions <!-- omit in toc -->
@@ -36,6 +38,11 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 ### Updates <!-- omit in toc -->
 
 - Updated [Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369) (28 Jul 2024 Discord Release)
+- Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
+- Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
+- Updated [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295)
+- Updated [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
+- Updated [Donkeys](https://www.nexusmods.com/stardewvalley/mods/8410)
 
 ## 0.7.6
 
