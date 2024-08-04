@@ -262,6 +262,10 @@ Updating is like installing. You only have to make sure that you select the same
   - **V** access the reset terrain menu.
 - [Personal Combat Drone Redux](https://www.nexusmods.com/stardewvalley/mods/18224)
   - **F7** to toggle the drone on and off.
+- [Noclip Mode](https://www.nexusmods.com/stardewvalley/mods/3900)
+  - **F10** to toggle.
+- [Clear Glasses](https://www.nexusmods.com/stardewvalley/mods/21090)
+  - **F11** to toggle.
 
 
 # Modifying the mod list
