@@ -35,6 +35,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Additions <!-- omit in toc -->
 
+- Added [Unlockable Bundles](https://www.nexusmods.com/stardewvalley/mods/17265)
+
 ### Updates <!-- omit in toc -->
 
 - Updated [Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369) (28 Jul 2024 Discord Release)
@@ -43,6 +45,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295)
 - Updated [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
 - Updated [Donkeys](https://www.nexusmods.com/stardewvalley/mods/8410)
+- Updated [Buildable Ginger Island Farm](https://www.nexusmods.com/stardewvalley/mods/20600)
 
 ## 0.7.6
 
