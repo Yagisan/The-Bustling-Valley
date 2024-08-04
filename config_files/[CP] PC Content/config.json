@@ -1,6 +1,8 @@
 {
-  "ExcludePerfection": "true",
+  "AddToPerfection": "false",
   "AnimalHouse": "Fellowclown.ClownCore_SmallTropicalHutch",
   "ShopDesc": "{{i18n:FC.MissingTropicalHutch}}",
-  "AltFeed": "false"
+  "AltFeed": "false",
+  "MatchingBabies": "true",
+  "Skin Color": "Darker"
 }
