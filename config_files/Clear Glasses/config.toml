@@ -385,7 +385,7 @@ DataStoreOverride = ""
 	# What is the maximum size of the texture file cache?
 	MaxSize = 2147483648
 	# Should all texture files in the Mods directory attempt to be pre-cached?
-	Precache = false
+	Precache = true
 
 	[Config.SuspendedCache]
 	# Should the suspended sprite cache be enabled?
