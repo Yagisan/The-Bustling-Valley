@@ -31,11 +31,14 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600) has had map changes. You will need to reset everything on the Passerby Cemetery maps. Press `v`, select all options except for all maps, then press reset. Unfortunately not all map changes will be fixed by this.
 
+Added [Noclip Mode](https://www.nexusmods.com/stardewvalley/mods/3900) to enable escaping broken maps or to remove items that have spawned inside buildings or the void due to map changes. Press `F10` to toggle.
+
 ### Modifications <!-- omit in toc -->
 
 ### Additions <!-- omit in toc -->
 
 - Added [Unlockable Bundles](https://www.nexusmods.com/stardewvalley/mods/17265)
+- Added [Noclip Mode](https://www.nexusmods.com/stardewvalley/mods/3900)
 
 ### Updates <!-- omit in toc -->
 
@@ -46,6 +49,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
 - Updated [Donkeys](https://www.nexusmods.com/stardewvalley/mods/8410)
 - Updated [Buildable Ginger Island Farm](https://www.nexusmods.com/stardewvalley/mods/20600)
+- Updated [Clear Glasses](https://www.nexusmods.com/stardewvalley/mods/21090)
 
 ## 0.7.6
 
