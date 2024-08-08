@@ -38,6 +38,13 @@ Mod Organizer was updated to 2.5.2
 
 ### Updates <!-- omit in toc -->
 
+- Updated [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases)
+- Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
+- Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
+- Updated [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295)
+- Updated [Destroyable Bushes](https://www.nexusmods.com/stardewvalley/mods/6304)
+- Updated [Unique Children](https://www.nexusmods.com/stardewvalley/mods/6278)
+
 ## 0.7.7
 
 **Released:** `4 Aug 2024`
