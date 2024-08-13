@@ -45,6 +45,9 @@ Mod Organizer was updated to 2.5.2
 - Updated [Destroyable Bushes](https://www.nexusmods.com/stardewvalley/mods/6304)
 - Updated [Unique Children](https://www.nexusmods.com/stardewvalley/mods/6278)
 - Updated [Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369) (11 Aug 2024 Discord Release)
+- Updated [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)
+- Updated [Clear Glasses](https://www.nexusmods.com/stardewvalley/mods/21090)
+- Updated [Donkeys](https://www.nexusmods.com/stardewvalley/mods/8410)
 
 ## 0.7.7
 
