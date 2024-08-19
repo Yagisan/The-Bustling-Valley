@@ -48,6 +48,8 @@ Mod Organizer was updated to 2.5.2
 - Updated [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)
 - Updated [Clear Glasses](https://www.nexusmods.com/stardewvalley/mods/21090)
 - Updated [Donkeys](https://www.nexusmods.com/stardewvalley/mods/8410)
+- Updated [Date Night Redux](https://www.nexusmods.com/stardewvalley/mods/22714)
+- Updated [(CP) HxW Fairy Garden Furniture](https://www.nexusmods.com/stardewvalley/mods/16874)
 
 ## 0.7.7
 
