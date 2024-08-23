@@ -121,22 +121,22 @@ DataStoreOverride = ""
 	Scale = true
 	# What scaling algorithm should be used by default?
 	# Legal Values: [
-	#	xBRZ, EPX/ScaleX, EPXLegacy, xBREPX, None
+	#	xBRZ, Vanilla, EPX/ScaleX, EPXLegacy, xBREPX, None
 	# ]
 	Scaler = "xBRZ"
 	# What scaling algorithm should be used for portraits?
 	# Legal Values: [
-	#	xBRZ, EPX/ScaleX, EPXLegacy, xBREPX, None
+	#	xBRZ, Vanilla, EPX/ScaleX, EPXLegacy, xBREPX, None
 	# ]
 	ScalerPortrait = "xBRZ"
 	# What scaling algorithm should be used for text?
 	# Legal Values: [
-	#	xBRZ, EPX/ScaleX, EPXLegacy, xBREPX, None
+	#	xBRZ, Vanilla, EPX/ScaleX, EPXLegacy, xBREPX, None
 	# ]
 	ScalerText = "xBRZ"
 	# What scaling algorithm should be used for gradient sprites?
 	# Legal Values: [
-	#	xBRZ, EPX/ScaleX, EPXLegacy, xBREPX, None
+	#	xBRZ, Vanilla, EPX/ScaleX, EPXLegacy, xBREPX, None
 	# ]
 	ScalerGradient = "ScaleX"
 	# Should dynamic scaling be used (scaling based upon apparent sprite size)
@@ -225,12 +225,9 @@ DataStoreOverride = ""
 	# What spritesheets will absolutely not be resampled or processed?
 	Blacklist = [
 		"LooseSprites\\Lighting\\", 
-		"@^Maps\\\\.+Mist", 
-		"@^Maps\\\\.+mist", 
-		"@^Maps\\\\.+Shadow", 
-		"@^Maps\\\\.+Shadows", 
-		"@^Maps\\\\.+Fog", 
-		"@^Maps\\\\.+FogBackground"
+		"@^Maps\\\\.+[Mm]ist$", 
+		"@^Maps\\\\.+Shadows?$", 
+		"@^Maps\\\\.+Fog(Background)?$"
 	]
 	# What spritesheets will absolutely not be treated as gradients?
 	GradientBlacklist = [
@@ -425,9 +422,9 @@ DataStoreOverride = ""
 
 		[Config.Extras.OpenGL]
 		# Should low-level OpenGL optimizations be performed?
-		Enabled = true
+		Enabled = false
 		# Should Texture2D.SetData be optimized?
-		OptimizeTexture2DSetData = true
+		OptimizeTexture2DSetData = false
 		# Should Texture2D.GetData be optimized?
 		OptimizeTexture2DGetData = true
 		# Should glCopyTexture be used?
