@@ -50,6 +50,7 @@ Mod Organizer was updated to 2.5.2
 - Updated [Donkeys](https://www.nexusmods.com/stardewvalley/mods/8410)
 - Updated [Date Night Redux](https://www.nexusmods.com/stardewvalley/mods/22714)
 - Updated [(CP) HxW Fairy Garden Furniture](https://www.nexusmods.com/stardewvalley/mods/16874)
+- Updated [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
 
 ## 0.7.7
 
