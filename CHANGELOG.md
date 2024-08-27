@@ -26,11 +26,15 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.7.8
 
-**Released:** `DD MMM 2024`
+**Released:** `27 Aug 2024`
 
 ### Info <!-- omit in toc -->
 
 Mod Organizer was updated to 2.5.2
+
+If the altar for the [Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369) Offerings quest has disappeared run the console command `sns_finishorders` to finish that quest. Then just wait until the next season.
+
+[Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600) has had map changes. You will need to reset everything on the Passerby Cemetery maps. Press `v`, select all options except for all maps, then press reset. 
 
 ### Modifications <!-- omit in toc -->
 
