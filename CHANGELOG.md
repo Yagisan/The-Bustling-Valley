@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.7.9](#079)
   - [0.7.8](#078)
   - [0.7.7](#077)
   - [0.7.6](#076)
@@ -23,6 +24,30 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.7.9
+
+**Released:** `DD MMM 2024`
+
+### Info <!-- omit in toc -->
+
+[Ellie's Ideal Greenhouse](https://www.nexusmods.com/stardewvalley/mods/7497) will remain on version 1.4.2 - 1.5.0 has changed all greenhouse layouts. Please DO NOT manually update it. You will break your greenhouse.
+
+[Canon-Friendly Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/2544) will remain on version 2.3.1 until 3.x is out of beta. Please DO NOT manually update it.
+
+[Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059) will remain on version 5.1.2 until [Canon-Friendly Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/2544) 3.x is out of beta. It removed CFDE support, as that is now in the CFDE beta.
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+- Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
+- Updated [Buildable Ginger Island Farm](https://www.nexusmods.com/stardewvalley/mods/20600)
+- Updated [YACS - Yet Another Cooking Skill](https://www.nexusmods.com/stardewvalley/mods/22681)
+- Updated [Luck Skill](https://github.com/Pet-Slime/StardewValley/releases/tag/v1.2.0)
+- Updated [PolyamorySweet](https://www.nexusmods.com/stardewvalley/mods/20599)
 
 ## 0.7.8
 
