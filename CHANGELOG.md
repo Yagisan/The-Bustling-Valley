@@ -48,6 +48,9 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [YACS - Yet Another Cooking Skill](https://www.nexusmods.com/stardewvalley/mods/22681)
 - Updated [Luck Skill](https://github.com/Pet-Slime/StardewValley/releases/tag/v1.2.0)
 - Updated [PolyamorySweet](https://www.nexusmods.com/stardewvalley/mods/20599)
+- Updated [Animals Die - Old Age - Hunger - Illness](https://www.nexusmods.com/stardewvalley/mods/7769)
+- Updated [Relocate Buildings And Farm Animals](https://www.nexusmods.com/stardewvalley/mods/20606)
+- Updated [Unlockable Bundles](https://www.nexusmods.com/stardewvalley/mods/17265)
 
 ## 0.7.8
 
