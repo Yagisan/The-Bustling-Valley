@@ -100,7 +100,7 @@ These steps are only needed if you install this Modlist for the first time. If y
 
 ### Installing Microsoft Visual C++ Redistributable Package
 
-It is unlikely that you are missing this. However it is needed for MO2 and several plugins, so please download it and install it anyway from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". This is a [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+It is unlikely that you are missing this. However it is needed for MO2 and several plugins, so please download it and install it anyway from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". This is a [Direct link]( https://aka.ms/vs/17/release/vc_redist.x64.exe) if you can't find it.
 
 ### Installing Microsoft .NET 6.0 or later Runtime
 
