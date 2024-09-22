@@ -51,6 +51,9 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Animals Die - Old Age - Hunger - Illness](https://www.nexusmods.com/stardewvalley/mods/7769)
 - Updated [Relocate Buildings And Farm Animals](https://www.nexusmods.com/stardewvalley/mods/20606)
 - Updated [Unlockable Bundles](https://www.nexusmods.com/stardewvalley/mods/17265)
+- Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
+- Updated [Ferngill Simple Economy](https://www.nexusmods.com/stardewvalley/mods/21414)
+- Updated [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)
 
 ## 0.7.8
 
