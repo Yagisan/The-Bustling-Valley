@@ -1,7 +1,9 @@
 {
-  "AddToPerfection": "false",
   "AnimalHouse": "Fellowclown.ClownCore_SmallTropicalHutch",
-  "ShopDesc": "{{i18n:FC.MissingTropicalHutch}}",
+  "IntroQuest": "Exclude",
+  "PerfectionScoreNpc": "Exclude",
+  "PerfectionScoreFish": "Exclude",
+  "PerfectionScoreObjects": "Exclude",
   "MatchingBabies": "true",
-  "Skin Color": "Darker"
+  "SkinColor": "Darker"
 }
