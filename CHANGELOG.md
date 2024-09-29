@@ -27,7 +27,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.7.9
 
-**Released:** `DD MMM 2024`
+**Released:** `29 Sep 2024`
 
 ### Info <!-- omit in toc -->
 
@@ -36,6 +36,27 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 [Canon-Friendly Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/2544) will remain on version 2.3.1 until 3.x is out of beta. Please DO NOT manually update it.
 
 [Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059) will remain on version 5.1.2 until [Canon-Friendly Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/2544) 3.x is out of beta. It removed CFDE support, as that is now in the CFDE beta.
+
+[HxW Farmer's Market Furniture - Core](https://www.nexusmods.com/stardewvalley/mods/18814). All crafting machines and objects from this mod will need to be trashed or sold before this mod is updated. Untrashable objects can be trashed by dropping them into water.
+
+[Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600) merged with [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295). All animals, furniture and objects from [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295) will need to be trashed or sold before this mod is updated. Untrashable objects can be trashed by dropping them into water. All maps from this mod, and the main East Scarpe map will need to be reset after updating this mod. Friendship will carry over, but all A New Dream events will replay.
+
+To reset a map. Go to the map that needs to be reset. Press the **V** key. You will get a popup. Select the following options:
+
+* Bush
+* Tree
+* Weeds
+* Grass
+* Twig
+* Rock
+* Forage
+* Stump
+* Log
+* Boulder
+
+Then click on reset. Then click on the red X to quit. The maps will have been fixed.
+
+There will be some logs that did not reset, and they may be out of bounds. Press the **F10** key to enable noclip mode, and walk over to them and chop them down.
 
 ### Modifications <!-- omit in toc -->
 
@@ -54,6 +75,19 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
 - Updated [Ferngill Simple Economy](https://www.nexusmods.com/stardewvalley/mods/21414)
 - Updated [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)
+- Updated [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
+- Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
+- Updated [HxW Outdoor Furniture](https://www.nexusmods.com/stardewvalley/mods/16693)
+- Updated [HxW Fairy Garden Furniture](https://www.nexusmods.com/stardewvalley/mods/16874)
+- Updated [HxW Greenhouse Furniture](https://www.nexusmods.com/stardewvalley/mods/16717)
+- Updated [HxW Farmer's Market Furniture - Core](https://www.nexusmods.com/stardewvalley/mods/18814)
+- Updated [HxW Farmer's Market Furniture - Fishmonger and Butcher Set](https://www.nexusmods.com/stardewvalley/mods/9994)
+- Updated [HxW Farmer's Market Furniture - Bakery Set](https://www.nexusmods.com/stardewvalley/mods/9992)
+- Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
+
+### Removals <!-- omit in toc -->
+
+- Removed [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295)
 
 ## 0.7.8
 
