@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.7.10](#0710)
   - [0.7.9](#079)
   - [0.7.8](#078)
   - [0.7.7](#077)
@@ -24,6 +25,60 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.7.10
+
+**Released:** `DD MMM 2024`
+
+### Info <!-- omit in toc -->
+
+[Ellie's Ideal Greenhouse](https://www.nexusmods.com/stardewvalley/mods/7497) will remain on version 1.4.2 - 1.5.0 has changed all greenhouse layouts. Please DO NOT manually update it. You will break your greenhouse.
+
+[Canon-Friendly Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/2544) will remain on version 2.3.1 until 3.x is out of beta. Please DO NOT manually update it.
+
+[Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059) will remain on version 5.1.2 until [Canon-Friendly Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/2544) 3.x is out of beta. It removed CFDE support, as that is now in the CFDE beta.
+
+Users updating from 0.7.8 or older,please be aware.
+
+[HxW Farmer's Market Furniture - Core](https://www.nexusmods.com/stardewvalley/mods/18814). All crafting machines and objects from this mod will need to be trashed or sold before this mod is updated. Untrashable objects can be trashed by dropping them into water.
+
+[Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600) merged with [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295). All animals, furniture and objects from [A New Dream](https://www.nexusmods.com/stardewvalley/mods/20295) will need to be trashed or sold before this mod is updated. Untrashable objects can be trashed by dropping them into water. All maps from this mod, and the main East Scarpe map will need to be reset after updating this mod. Friendship will carry over, but all A New Dream events will replay.
+
+To reset a map. Go to the map that needs to be reset. Press the **V** key. You will get a popup. Select the following options:
+
+* Bush
+* Tree
+* Weeds
+* Grass
+* Twig
+* Rock
+* Forage
+* Stump
+* Log
+* Boulder
+
+Then click on reset. Then click on the red X to quit. The maps will have been fixed.
+
+There will be some logs that did not reset, and they may be out of bounds. Press the **F10** key to enable noclip mode, and walk over to them and chop them down.
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+- Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
+- Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
+- Updated [Distant Lands - A Small Witch Swamp Expansion](https://www.nexusmods.com/stardewvalley/mods/18109)
+- Updated [cantibleChaos's BFAV Yaks for 1.6](https://www.nexusmods.com/stardewvalley/mods/22319)
+- Updated [Syanide23's Turkeys for 1.6](https://www.nexusmods.com/stardewvalley/mods/22207)
+- Updated [cantibleChaos's BFAV Oxen for 1.6](https://www.nexusmods.com/stardewvalley/mods/22320)
+- Updated [cantibleChaos's BFAV Peafowl for 1.6](https://www.nexusmods.com/stardewvalley/mods/22318)
+- Updated [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508)
+- Updated [Growable Forage and Crop Bushes](https://www.nexusmods.com/stardewvalley/mods/20340)
+- Updated [Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)
+
+### Removals <!-- omit in toc -->
 
 ## 0.7.9
 
