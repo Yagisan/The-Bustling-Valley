@@ -65,6 +65,11 @@ There will be some logs that did not reset, and they may be out of bounds. Press
 
 ### Additions <!-- omit in toc -->
 
+- Added [HxW Fairy Garden Furniture Indoors](https://www.nexusmods.com/stardewvalley/mods/9989)
+- Added [HxW Plant Lovers Furniture](https://www.nexusmods.com/stardewvalley/mods/27124)
+- Added [HxW Fairy Fountain Furniture](https://www.nexusmods.com/stardewvalley/mods/16718)
+- Added [HxW Decorative Plants Furniture Set](https://www.nexusmods.com/stardewvalley/mods/27174)
+
 ### Updates <!-- omit in toc -->
 
 - Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
@@ -77,6 +82,8 @@ There will be some logs that did not reset, and they may be out of bounds. Press
 - Updated [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508)
 - Updated [Growable Forage and Crop Bushes](https://www.nexusmods.com/stardewvalley/mods/20340)
 - Updated [Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398)
+- Updated [HxW Outdoor Furniture](https://www.nexusmods.com/stardewvalley/mods/16693)
+- Updated [HxW Greenhouse Furniture](https://www.nexusmods.com/stardewvalley/mods/16717)
 
 ### Removals <!-- omit in toc -->
 
