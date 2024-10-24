@@ -88,6 +88,7 @@ There will be some logs that did not reset, and they may be out of bounds. Press
 - Updated [PolyamorySweet](https://www.nexusmods.com/stardewvalley/mods/20599)
 - Updated [Destroyable Bushes](https://www.nexusmods.com/stardewvalley/mods/6304)
 - Updated [Reset Terrain Features](https://github.com/Lake1059/ResetTerrainFeatures_NET6/releases)
+- Updated [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
 
 ### Removals <!-- omit in toc -->
 
