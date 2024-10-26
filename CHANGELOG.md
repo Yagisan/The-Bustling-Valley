@@ -28,9 +28,15 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.7.10
 
-**Released:** `DD MMM 2024`
+**Released:** `26 Oct 2024`
 
 ### Info <!-- omit in toc -->
+
+All Alternative Texture options for the Slime Hutch should now be disabled as they were for the old Stardew Valley 1.5 size, and not the new Stardew Valley 1.6 size.
+
+Passerby Cemetery dodo eggs should now hatch in the Tropical Hutch again.
+
+The minecart network has been expanded, however I have specifically separated the Ginger Island network. Take the boat to the Island! The Junimos/Joja Mart are not going to build you a tunnel under the sea!
 
 [Ellie's Ideal Greenhouse](https://www.nexusmods.com/stardewvalley/mods/7497) will remain on version 1.4.2 - 1.5.0 has changed all greenhouse layouts. Please DO NOT manually update it. You will break your greenhouse.
 
