@@ -246,6 +246,74 @@
       "DisabledVariations": [
         0
       ]
+    },
+    {
+      "TextureId": "Elle.Elle.SeasonalBuildings.AT.Building_Slime Hutch_Fall",
+      "DisabledVariations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "TextureId": "Elle.Elle.SeasonalBuildings.AT.Building_Slime Hutch_Spring",
+      "DisabledVariations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "TextureId": "Elle.Elle.SeasonalBuildings.AT.Building_Slime Hutch_Summer",
+      "DisabledVariations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "TextureId": "Elle.Elle.SeasonalBuildings.AT.Building_Slime Hutch_Winter",
+      "DisabledVariations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
     }
   ]
 }
