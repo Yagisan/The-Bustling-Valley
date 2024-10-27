@@ -2,7 +2,7 @@
   "Numbering": "false",
   "PriceToRide": "0",
   "DestinationsPerPage": "5",
-  "SeparateGingerIslandCarts": "true",
+  "SeparateGingerIslandCarts": "false",
   "1.": "jibb.Farm",
   "2.": "Bus",
   "3.": "jibb.CommunityCenter",
