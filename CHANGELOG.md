@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.8.0](#080)
   - [0.7.10](#0710)
   - [0.7.9](#079)
   - [0.7.8](#078)
@@ -25,6 +26,115 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.8.0
+
+**Released:** `DD MMM 2024`
+
+### Info <!-- omit in toc -->
+
+1.6.9 broke the list. Multiple mods were broken, and some were removed that make it hard to continue playing with.
+
+As a result, this is a rebuild of the list, and a new game is required.
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+- Added [Flower Dancing - A Flower Dance Mod](https://www.nexusmods.com/stardewvalley/mods/8107)
+- Added [HxW Fairy Fountain Furniture](https://www.nexusmods.com/stardewvalley/mods/16718)
+- Added [PCs Rattan Furniture](https://www.nexusmods.com/stardewvalley/mods/27047)
+- Added [Fresh Farm Produce](https://www.nexusmods.com/stardewvalley/mods/29299)
+- Added [Cornucopia - Artisan Machines](https://www.nexusmods.com/stardewvalley/mods/24842)
+- Added [Extra Machine Configs](https://www.nexusmods.com/stardewvalley/mods/22256)
+- Added [StardewUI](https://www.nexusmods.com/stardewvalley/mods/28870)
+
+### Updates <!-- omit in toc -->
+
+- Updated [SMAPI](https://smapi.io/)
+- Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
+- Updated [Clear Glasses](https://www.nexusmods.com/stardewvalley/mods/21090)
+- Updated [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
+- Updated [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)
+- Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
+- Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
+- Updated [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+- Updated [Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
+- Updated [Noclip Mode](https://www.nexusmods.com/stardewvalley/mods/3900)
+- Updated [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)
+- Updated [Buildable Ginger Island Farm](https://www.nexusmods.com/stardewvalley/mods/20600)
+- Updated [Destroyable Bushes](https://www.nexusmods.com/stardewvalley/mods/6304)
+- Updated [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)
+- Updated [Mapping Extensions and Extra Properties (MEEP)](https://www.nexusmods.com/stardewvalley/mods/14493)
+- Updated [Multiple Mini-Obelisks](https://www.nexusmods.com/stardewvalley/mods/7900)
+- Updated [Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)
+- Updated [Item Extensions](https://www.nexusmods.com/stardewvalley/mods/20357)
+- Updated [Unlockable Bundles](https://www.nexusmods.com/stardewvalley/mods/17265)
+- Updated [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
+- Updated [Spouse patio for Krobus - seasonal](https://www.nexusmods.com/stardewvalley/mods/10225)
+- Updated [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286)
+- Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
+- Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
+- Updated [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
+- Updated [Sword and Sorcery - A Fantasy Expansion for East Scarp](https://www.nexusmods.com/stardewvalley/mods/12369)
+- Updated [Distant Lands - A Small Witch Swamp Expansion](https://www.nexusmods.com/stardewvalley/mods/18109)
+- Updated [Mister Ginger](https://www.nexusmods.com/stardewvalley/mods/5295)
+- Updated [HxW Bakery and Cafe Furniture](https://www.nexusmods.com/stardewvalley/mods/9991)
+- Updated [HxW Bathroom Furniture](https://www.nexusmods.com/stardewvalley/mods/17665)
+- Updated [HxW Decorative Plants Furniture Set](https://www.nexusmods.com/stardewvalley/mods/27174)
+- Updated [HxW Fairy Garden Furniture](https://www.nexusmods.com/stardewvalley/mods/16874)
+- Updated [HxW Fairy Garden Furniture Indoors](https://www.nexusmods.com/stardewvalley/mods/9989)
+- Updated [HxW Farmer's Market Furniture - Core](https://www.nexusmods.com/stardewvalley/mods/18814)
+- Updated [HxW Farmer's Market Furniture - Fishmonger and Butcher Set](https://www.nexusmods.com/stardewvalley/mods/9994)
+- Updated [HxW Farmer's Market Furniture - Bakery Set](https://www.nexusmods.com/stardewvalley/mods/9992)
+- Updated [HxW Greenhouse Furniture](https://www.nexusmods.com/stardewvalley/mods/16717)
+- Updated [HxW Outdoor Furniture](https://www.nexusmods.com/stardewvalley/mods/16693)
+- Updated [HxW Plant Lovers Furniture](https://www.nexusmods.com/stardewvalley/mods/27124)
+- Updated [HxW Romantic Furniture](https://www.nexusmods.com/stardewvalley/mods/17577)
+- Updated [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
+- Updated [Relocate Buildings And Farm Animals](https://www.nexusmods.com/stardewvalley/mods/20606)
+- Updated [Custom Bush](https://www.nexusmods.com/stardewvalley/mods/20619)
+- Updated [FauxCore](https://www.nexusmods.com/stardewvalley/mods/20618)
+- Updated [Expanded Storage](https://www.nexusmods.com/stardewvalley/mods/7431)
+- Updated [Refill Silos](https://www.nexusmods.com/stardewvalley/mods/20779)
+- Updated [Skull Cavern Elevator](https://www.nexusmods.com/stardewvalley/mods/963)
+- Updated [Cornucopia - More Flowers](https://www.nexusmods.com/stardewvalley/mods/20290)
+- Updated [Seed Information - Continued](https://www.nexusmods.com/stardewvalley/mods/22519)
+- Updated [Birb Core](https://www.nexusmods.com/stardewvalley/mods/19140)
+- Updated [Spacecore Luck Skill](https://www.nexusmods.com/stardewvalley/mods/28103)
+- Updated [YACS - Yet Another Cooking Skill](https://www.nexusmods.com/stardewvalley/mods/22681)
+- Updated [Socializing Skill](https://www.nexusmods.com/stardewvalley/mods/14142)
+- Updated [Heart Event Helper](https://www.nexusmods.com/stardewvalley/mods/21924)
+- Updated [MissCoriel's NPC Unique Courtship Response 5 - Gifting Friends](https://www.nexusmods.com/stardewvalley/mods/3312)
+- Updated [Better Friendship](https://www.nexusmods.com/stardewvalley/mods/10287)
+- Updated [(AT) New Crop Variety - Alternative 1.6 Crops Textures](https://www.nexusmods.com/stardewvalley/mods/22342)
+- Updated [Ferngill Simple Economy](https://www.nexusmods.com/stardewvalley/mods/21414)
+- Updated [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)
+- Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
+
+### Removals <!-- omit in toc -->
+
+- Removed [The Music of Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) - now part of the main mod
+- Removed [PolyamorySweet](https://www.nexusmods.com/stardewvalley/mods/20599) - breaks NPC mods
+- Removed [Lantana character redraw](https://www.nexusmods.com/stardewvalley/mods/23781)
+- Removed [Ellie's Ideal Greenhouse](https://www.nexusmods.com/stardewvalley/mods/7497)
+- Removed [Island Cellar Update](https://www.nexusmods.com/stardewvalley/mods/21177)
+- Removed [Lavril - East Scarp NPC (King's Raid)](https://www.nexusmods.com/stardewvalley/mods/10016)
+- Removed [Copper Still](https://www.nexusmods.com/stardewvalley/mods/15333)
+- Removed [cantibleChaos's BFAV Peafowl for 1.6](https://www.nexusmods.com/stardewvalley/mods/22318)
+- Removed [cantibleChaos's BFAV Camels for 1.6](https://www.nexusmods.com/stardewvalley/mods/22323)
+- Removed [Tortoises as Farm Animals](https://www.nexusmods.com/stardewvalley/mods/21790)
+- Removed [Donkeys](https://www.nexusmods.com/stardewvalley/mods/8410)
+- Removed [Alpacas](https://www.nexusmods.com/stardewvalley/mods/8515)
+- Removed [cantibleChaos's BFAV Yaks for 1.6](https://www.nexusmods.com/stardewvalley/mods/22319)
+- Removed [cantibleChaos's BFAV Oxen for 1.6](https://www.nexusmods.com/stardewvalley/mods/22320)
+- Removed [Syanide23's Turkeys for 1.6](https://www.nexusmods.com/stardewvalley/mods/22207)
+- Removed [Animals Die - Old Age - Hunger - Illness](https://www.nexusmods.com/stardewvalley/mods/7769)
+- Removed [Crab Pot Loot Has Quality And Bait Effects](https://www.nexusmods.com/stardewvalley/mods/7767)
+- Removed [Reptile Hut as Farm Building](https://www.nexusmods.com/stardewvalley/mods/22172)
+- Removed [Ilucie's Adopt a Hermy](https://www.nexusmods.com/stardewvalley/mods/21409)
 
 ## 0.7.10
 
