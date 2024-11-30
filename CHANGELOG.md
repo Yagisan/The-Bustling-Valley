@@ -113,6 +113,9 @@ As a result, this is a rebuild of the list, and a new game is required.
 - Updated [Ferngill Simple Economy](https://www.nexusmods.com/stardewvalley/mods/21414)
 - Updated [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)
 - Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
+- Updated [Stardew Progress](https://www.nexusmods.com/stardewvalley/mods/9786)
+- Updated [Canon-Friendly Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/2544)
+- Updated [Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059)
 
 ### Removals <!-- omit in toc -->
 
