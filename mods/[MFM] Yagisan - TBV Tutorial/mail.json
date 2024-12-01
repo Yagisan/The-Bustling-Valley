@@ -3,7 +3,7 @@
         "Id": "TBVTutorialMail.Info",
         "GroupId": "TBVTutorialMail.Info",
         "Title": "TBV 0.7.x Intro",
-        "Text": "G'day @^^Welcome to The Bustling Valley 0.7.x.^^Is designed for Stardew Valley 1.6.x, and requires you to start a new farm. It is not possible to continue a farm started on TBV 0.6.x or older.^^- Yagisan",
+        "Text": "G'day @^^Welcome to The Bustling Valley 0.8.x.^^Is designed for Stardew Valley 1.6.x, and requires you to start a new farm. It is not possible to continue a farm started on TBV 0.7.x or older.^^- Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -12,7 +12,7 @@
         "Id": "TBVTutorialMail.Skills01",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Skills Overview",
-        "Text": "The Bustling Valley includes several addtional skills. These are:^^Luck^Cooking^Socializing^Artificer^Druidics^Bardics^^Not all skills are available at the start of the game, and some must be unlocked via gameplay.^^ - Yagisan",
+        "Text": "The Bustling Valley includes several addtional skills. These are:^^Luck^Cooking^Socializing^Artificer^Druid^Bard^Sorcerer^Paladin^^Not all skills are available at the start of the game, and some must be unlocked via gameplay.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -20,8 +20,17 @@
     {
         "Id": "TBVTutorialMail.Economy",
         "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Economy Changes",
+        "Title": "TBV Economy Changes - Supply and Demand",
         "Text": "The Bustling Valley includes Ferngil Simple Economy to soft-balance the many different mods in this list. This calculates a supply and demand based value for all items you can sell. This is a fairer system than straight taxation, and also allows the player to play the market and make a profit by supplying items in demand.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.Economy",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Economy Changes - Freshness",
+        "Text": "The Bustling Valley includes Fresh Farm Produce to reward players for selling fresh produce, instead of artisian good always being the optimal choice. Fresh items sell for at least 25% more than regular items, and can easily go for much more! Be warned however - if you don't immediately sell fresh items the day of harvest, they will go stale and return to their base prices.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -49,15 +58,6 @@
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Crop Changes",
         "Text": "Many new crops have been included with The Bustling Valley. In addtion there have been changes to vanilla crops, including seasons, regrowth, and even type. All Bush type crops will now function like tea, and remain all year, only producing when in season. Be sure to read the descriptions carefully before buying seeds and saplings^^ - Yagisan",
-        "Date": "1 spring Y1",
-        "Repeatable": false,
-        "AutoOpen": false
-    },
-    {
-        "Id": "TBVTutorialMail.AnimalsCanDie",
-        "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Animals Can Die",
-        "Text": "Death by starvation^^After not feeding an animal (or letting it eat grass outside) for 5 consecutive days, it dies of starvation. One day of feeding is enough to fully reset starvation.^^Death by illness^^Illness is calculated as a score that increases as bad things happen to the animal and slowly decreases again if it is doing better. Bad things include (but are not limited too), not getting fed, getting trapped outside, barn/coop door is open and it's winter, it's winter and there is no heater.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -198,37 +198,10 @@
         "AutoOpen": false
     },
     {
-        "Id": "TBVTutorialMail.FreeLove1",
-        "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Multiple Marriage",
-        "Text": "Want to marry multiple spouses? In The Bustling Vally you can. Only want one spouse? That's also fine too. Remember though, unlike other NPCs, spouses and roommates do lose hearts if you don't regularly talk to them, and give them gifts.^^ - Yagisan",
-        "Date": "1 spring Y1",
-        "Repeatable": false,
-        "AutoOpen": false
-    },
-    {
-        "Id": "TBVTutorialMail.FreeLove2",
-        "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Changing Bed Size",
-        "Text": "Is your bed too small? Married so many people you can't all fit? Or are you enjoying single life and find the bed too big?^^You can change the size of the bed by opening the Game Configuration Menu, and selecting Polyamory Sweet Bed, and changing Bed Width. Changes made to the bed will be kept between TBV upgrades. Please be aware that these changes are shared across all of your save files.^^ - Yagisan",
-        "Date": "1 spring Y1",
-        "Repeatable": false,
-        "AutoOpen": false
-    },
-    {
         "Id": "TBVTutorialMail.SpecialMarriageCandidates",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Special Marriage Candidates",
         "Text": "Did you know there are some special marriage candidates in TBV?^^Some NPCs only become dateable after specfic events. For example Juliet only becomes datable after the Community Centre is built.^^ - Yagisan",
-        "Date": "1 spring Y1",
-        "Repeatable": false,
-        "AutoOpen": false
-    },
-    {
-        "Id": "TBVTutorialMail.FreeLove3",
-        "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Primary Spouse",
-        "Text": "Because the game was designed to only allow you to marry one spouse, many events will use the first (or only) person you marry. This is the Primary Spouse.^^To change who is considered the Primary Spouse, give that spouse an Áine Flower.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
