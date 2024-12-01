@@ -8,8 +8,8 @@
   "SuggestiveEndings": "enabled",
   "LibraryDateCutscene": "enabled",
   "DateReminders": "enabled",
-  "ModdedSpouseFoods": "disabled",
-  "DynamicPool": "disabled",
+  "ModdedSpouseFoods": "enabled",
+  "DynamicPool": "enabled",
   "DatesOnFestivalDays": "disabled",
   "AllowRoommateDates": "disabled",
   "DisabledDates": ""
