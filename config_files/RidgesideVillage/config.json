@@ -11,5 +11,8 @@
   "PoleAtBackwoods": true,
   "SeasonalRSVMap": true,
   "EnableTouristNPCs": true,
-  "ShowRSVCustomMap": false
+  "ShowRSVCustomMap": false,
+  "OddJobsWateringPrice": 5,
+  "OddJobsFencePrice": 10,
+  "OddJobsPetPrice": 10
 }
