@@ -412,14 +412,6 @@ DataStoreOverride = ""
 	# Should dirt drawing optimizations be enabled?
 	EnableDirtDrawOptimizations = false
 
-		[Config.Extras.Pathfinding]
-		# Should NPC Warp Points code be optimized?
-		OptimizeWarpPoints = true
-		# Should cross-thread optimizations be enabled?
-		EnableCrossThreadOptimizations = true
-		# Should gender-locked locations be honored?
-		HonorGenderLocking = true
-
 		[Config.Extras.OpenGL]
 		# Should low-level OpenGL optimizations be performed?
 		Enabled = false
