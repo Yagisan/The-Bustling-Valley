@@ -1,6 +1,14 @@
 {
+  "Red": 0,
+  "Green": 255,
+  "Blue": 255,
+  "TextRed": 0,
+  "TextGreen": 0,
+  "TextBlue": 0,
   "ConfigureAdventureBar": "U",
   "ToggleAdventureBar": "LeftControl + U",
+  "LltkToggleRightClick": false,
+  "LltkToggleKeybind": "None",
   "AbilityBar1Slot1": "LeftControl + D1",
   "AbilityBar1Slot2": "LeftControl + D2",
   "AbilityBar1Slot3": "LeftControl + D3",
@@ -17,5 +25,5 @@
   "AbilityBar2Slot6": "LeftShift + D6",
   "AbilityBar2Slot7": "LeftShift + D7",
   "AbilityBar2Slot8": "LeftShift + D8",
-  "ThrowShieldKey": "R"
+  "MonsterHealthBuff": 1.75
 }
