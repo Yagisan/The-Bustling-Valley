@@ -4,6 +4,13 @@
   "EnableShippingBin": true,
   "AddOrganizePlayerInventoryButton": true,
   "Range": "CurrentLocation",
+  "DisabledInLocations": [
+    "Mine",
+    "SkullCave",
+    "UndergroundMine"
+  ],
+  "ReopenLastChest": true,
+  "DefaultCategory": null,
   "Controls": {
     "Toggle": "B",
     "PrevChest": "Left, LeftShoulder",
@@ -14,10 +21,5 @@
     "SortItems": "None",
     "HoldToMouseWheelScrollChests": "LeftControl",
     "HoldToMouseWheelScrollCategories": "LeftAlt"
-  },
-  "DisabledInLocations": [
-    "Mine",
-    "SkullCave",
-    "UndergroundMine"
-  ]
+  }
 }
