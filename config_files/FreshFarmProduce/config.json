@@ -1,0 +1,7 @@
+{
+  "DisableFlash": true,
+  "DisableStaleness": false,
+  "FreshDisplayName": true,
+  "ShowCategoriesInDescription": true,
+  "DisableFreshPriceIncrease": false
+}
