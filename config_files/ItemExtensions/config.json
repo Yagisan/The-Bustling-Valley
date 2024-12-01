@@ -12,5 +12,7 @@
   "TrainDrops": true,
   "TerrainFeatures": true,
   "QualityChanges": true,
-  "Treasure": true
+  "Treasure": true,
+  "MaxClumpsInQuarry": 10,
+  "MaxClumpsInQiCave": 6
 }
