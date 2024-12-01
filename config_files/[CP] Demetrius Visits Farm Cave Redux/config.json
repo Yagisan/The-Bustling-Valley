@@ -1,6 +1,6 @@
 {
   "DemetriusVisitDay": "Tue",
-  "OnlyIfRainingOrWinter": "false",
+  "OnlyIfRainingOrWinter": "true",
   "OverrideUnlock": "false",
   "EnableDialogue": "true",
   "XPosition": "3",
