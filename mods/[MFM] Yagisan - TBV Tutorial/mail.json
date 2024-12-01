@@ -12,7 +12,7 @@
         "Id": "TBVTutorialMail.Skills01",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Skills Overview",
-        "Text": "The Bustling Valley includes several addtional skills. These are:^^Luck^Cooking^Socializing^Artificer^Druid^Bard^Sorcerer^Paladin^^Not all skills are available at the start of the game, and some must be unlocked via gameplay.^^ - Yagisan",
+        "Text": "The Bustling Valley includes several addtional skills. These are:^^Luck^Cooking^Socializing^Artificer^Druidics^Bardics^Sorcerer^Paladin^^Not all skills are available at the start of the game, and some must be unlocked via gameplay.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -138,7 +138,7 @@
         "Id": "TBVTutorialMail.SkillsArtificer",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Skills - Artificer",
-        "Text": "A new skill, artificer has been added.^^This skill is unlocked by following a questline from a villager.^^It levels up via combat.^^ - Yagisan",
+        "Text": "A new skill, artificer has been added.^^This skill is unlocked by following a questline from a villager.^^Perfect your sharpshooting skills with a craftable bow and arrows, or master the forge and expand on your smithing know-how.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -147,7 +147,7 @@
         "Id": "TBVTutorialMail.Druidics",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Skills - Druidics",
-        "Text": "A new skill, druidics has been added.^^This skill is unlocked by following a questline from a villager.^^It levels up via farming/foraging.^^ - Yagisan",
+        "Text": "A new skill, druidics has been added.^^This skill is unlocked by following a questline from a villager.^^Master wildshape and take on the form of a stag, doe or wolf. Or, foster ancient plants long since lost to time.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -156,7 +156,25 @@
         "Id": "TBVTutorialMail.Bardics",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Skills - Bardics",
-        "Text": "A new skill, bardics has been added.^^This skill is unlocked by following a questline from a villager.^^It levels up via socializing.^^ - Yagisan",
+        "Text": "A new skill, bardics has been added.^^This skill is unlocked by following a questline from a villager.^^Take on a defensive or offensive focus while using a slew of new musically-themed utility spells.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.Sorcery",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Skills - Sorcery",
+        "Text": "A new skill, sorcery has been added.^^This skill is unlocked by following a questline from a villager.^^Pour your efforts into research and collecting elemental essences and learn mysterious new rituals and potion recipes.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.Paladin",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Skills - Paladin",
+        "Text": "A new skill, paladin has been added.^^This skill is unlocked by following a questline from a villager.^^Use your new Offhand Weapon slot to bolster your armor by using a shield and flinging it at your enemies when they get too close.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
