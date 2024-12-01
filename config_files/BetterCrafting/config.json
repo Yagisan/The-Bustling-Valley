@@ -46,6 +46,7 @@
   "MaxWorkbenchGap": 0,
   "NearbyRadius": 0,
   "UseDiagonalConnections": true,
+  "DisallowFishSources": true,
   "InvalidStorages": [],
   "ValidConnectors": [],
   "EnableCookoutWorkbench": true,
