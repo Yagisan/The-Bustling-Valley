@@ -1,0 +1,11 @@
+{
+  "Performance": {
+    "EnableParallelDescriptors": false,
+    "EnableReflectionWarmup": true
+  },
+  "Tracing": {
+    "EnableHudNotifications": true,
+    "OutputDirectory": "Traces",
+    "ToggleHotkeys": "LeftControl + LeftShift + F6"
+  }
+}
