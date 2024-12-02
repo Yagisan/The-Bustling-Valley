@@ -29,15 +29,13 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.8.0
 
-**Released:** `DD MMM 2024`
+**Released:** `2 Dec 2024`
 
 ### Info <!-- omit in toc -->
 
 1.6.9 broke the list. Multiple mods were broken, and some were removed that make it hard to continue playing with.
 
 As a result, this is a rebuild of the list, and a new game is required.
-
-### Modifications <!-- omit in toc -->
 
 ### Additions <!-- omit in toc -->
 
