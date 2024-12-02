@@ -3,5 +3,17 @@
   "DisableStaleness": false,
   "FreshDisplayName": true,
   "ShowCategoriesInDescription": true,
-  "DisableFreshPriceIncrease": false
+  "DisableFreshPriceIncrease": false,
+  "EnableCompetition": true,
+  "EnableFamePriceIncrease": true,
+  "EnableFameDifficultyIncrease": true,
+  "EnableDifficultyRandomization": true,
+  "EarlyFreshModifierRegular": 1.05,
+  "EarlyFreshModifierSilver": 1.1,
+  "EarlyFreshModifierGold": 1.15,
+  "EarlyFreshModifierIridium": 1.2,
+  "LateFreshModifierRegular": 1.25,
+  "LateFreshModifierSilver": 1.4,
+  "LateFreshModifierGold": 1.6666,
+  "LateFreshModifierIridium": 2.0
 }
