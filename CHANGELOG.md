@@ -43,11 +43,19 @@ As a result, this is a rebuild of the list, and a new game is required.
 
 - Added [Flower Dancing - A Flower Dance Mod](https://www.nexusmods.com/stardewvalley/mods/8107)
 - Added [HxW Fairy Fountain Furniture](https://www.nexusmods.com/stardewvalley/mods/16718)
+- Added [HxW Buildable Tea Shop](https://www.nexusmods.com/stardewvalley/mods/28730)
+- Added [HxW Tea Conservatory](https://www.nexusmods.com/stardewvalley/mods/28723)
+- Added [HxW Tilesheets](https://www.nexusmods.com/stardewvalley/mods/20139)
 - Added [PCs Rattan Furniture](https://www.nexusmods.com/stardewvalley/mods/27047)
 - Added [Fresh Farm Produce](https://www.nexusmods.com/stardewvalley/mods/29299)
 - Added [Cornucopia - Artisan Machines](https://www.nexusmods.com/stardewvalley/mods/24842)
 - Added [Extra Machine Configs](https://www.nexusmods.com/stardewvalley/mods/22256)
 - Added [StardewUI](https://www.nexusmods.com/stardewvalley/mods/28870)
+- Added [Esca's Modding Plugins (EMP)](https://www.nexusmods.com/stardewvalley/mods/9296)
+- Added [Eli and Dylan - Custom NPCs for East Scarp](https://www.nexusmods.com/stardewvalley/mods/13883)
+- Added [Coal Point Farm](https://www.nexusmods.com/stardewvalley/mods/24852)
+- Added [A Pelican Town](https://www.nexusmods.com/stardewvalley/mods/14585)
+- Added [Lumisteria Visit Mount Vapius](https://www.nexusmods.com/stardewvalley/mods/9600)
 
 ### Updates <!-- omit in toc -->
 
