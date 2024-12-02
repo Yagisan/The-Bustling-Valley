@@ -30,7 +30,7 @@
         "Id": "TBVTutorialMail.Economy",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Economy Changes - Freshness",
-        "Text": "The Bustling Valley includes Fresh Farm Produce to reward players for selling fresh produce, instead of artisian good always being the optimal choice. Fresh items sell for at least 25% more than regular items, and can easily go for much more! Be warned however - if you don't immediately sell fresh items the day of harvest, they will go stale and return to their base prices.^^ - Yagisan",
+        "Text": "The Bustling Valley includes Fresh Farm Produce to reward players for selling fresh produce, instead of artisian good always being the optimal choice. Fresh items sell for at least 5% more than regular items, and can easily go for much more! Be warned however - if you don't immediately sell fresh items the day of harvest, they will go stale and return to their base prices.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
