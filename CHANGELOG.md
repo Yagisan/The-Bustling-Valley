@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.8.1](#081)
   - [0.8.0](#080)
   - [0.7.10](#0710)
   - [0.7.9](#079)
@@ -26,6 +27,30 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.8.1
+
+**Released:** `DD MMM 2024`
+
+### Info <!-- omit in toc -->
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+- Updated [Buildable Ginger Island Farm](https://www.nexusmods.com/stardewvalley/mods/20600)
+- Updated [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
+- Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
+- Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
+- Updated [Custom Bush](https://www.nexusmods.com/stardewvalley/mods/20619)
+- Updated [FauxCore](https://www.nexusmods.com/stardewvalley/mods/20618)
+- Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
+- Updated [Fresh Farm Produce](https://www.nexusmods.com/stardewvalley/mods/29299)
+- Updated [Eli and Dylan - Custom NPCs for East Scarp](https://www.nexusmods.com/stardewvalley/mods/13883)
+
+### Removals <!-- omit in toc -->
 
 ## 0.8.0
 
