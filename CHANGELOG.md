@@ -49,6 +49,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
 - Updated [Fresh Farm Produce](https://www.nexusmods.com/stardewvalley/mods/29299)
 - Updated [Eli and Dylan - Custom NPCs for East Scarp](https://www.nexusmods.com/stardewvalley/mods/13883)
+- Updated [Unique Gift Dialogues Expanded](https://www.nexusmods.com/stardewvalley/mods/21501)
 
 ### Removals <!-- omit in toc -->
 
