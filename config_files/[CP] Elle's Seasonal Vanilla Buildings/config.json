@@ -34,7 +34,7 @@
   "Shed": "true",
   "Big Shed": "true",
   "Silo": "true",
-  "Slime Hutch": "true",
+  "Slime Hutch": "false",
   "Stable": "true",
   "Well": "true"
 }
