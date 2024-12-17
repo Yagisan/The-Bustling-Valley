@@ -331,5 +331,14 @@
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.EventLookup",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV Event Lookup",
+        "Text": "Events not triggering for you?^Press N to list all events that may occur today in-game. Remember that unique events are rate limited, so you will not be able to trigger all of them each day.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
     }
 ]
