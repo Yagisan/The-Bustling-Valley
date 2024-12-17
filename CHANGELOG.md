@@ -30,16 +30,22 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.8.1
 
-**Released:** `DD MMM 2024`
+**Released:** `18 Dec 2024`
 
 ### Info <!-- omit in toc -->
 
 ### Modifications <!-- omit in toc -->
 
+- Updated the in-game tutorial.
+
 ### Additions <!-- omit in toc -->
+
+- Added [Remapping](https://www.nexusmods.com/stardewvalley/mods/29049)
+- Added [Cross-Mod Compatibility Tokens (CMCT)](https://www.nexusmods.com/stardewvalley/mods/28284)
 
 ### Updates <!-- omit in toc -->
 
+- Updated [SMAPI](https://smapi.io/)
 - Updated [Buildable Ginger Island Farm](https://www.nexusmods.com/stardewvalley/mods/20600)
 - Updated [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
 - Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
@@ -50,6 +56,20 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Fresh Farm Produce](https://www.nexusmods.com/stardewvalley/mods/29299)
 - Updated [Eli and Dylan - Custom NPCs for East Scarp](https://www.nexusmods.com/stardewvalley/mods/13883)
 - Updated [Unique Gift Dialogues Expanded](https://www.nexusmods.com/stardewvalley/mods/21501)
+- Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
+- Updated [Seasonal Wedding Arch](https://www.nexusmods.com/stardewvalley/mods/23020)
+- Updated [StardewUI](https://www.nexusmods.com/stardewvalley/mods/28870)
+- Updated [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
+- Updated [Cornucopia - Artisan Machines](https://www.nexusmods.com/stardewvalley/mods/24842)
+- Updated [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508)
+- Updated [Growable Forage and Crop Bushes](https://www.nexusmods.com/stardewvalley/mods/20340)
+- Updated [Unlockable Bundles](https://www.nexusmods.com/stardewvalley/mods/17265)
+- Updated [Unique Children](https://www.nexusmods.com/stardewvalley/mods/6278)
+- Updated [Dwarf Portrait Replacement](https://www.nexusmods.com/stardewvalley/mods/14916)
+- Updated [Mapping Extensions and Extra Properties (MEEP)](https://www.nexusmods.com/stardewvalley/mods/14493)
+- Updated [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
+- Updated [Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059)
+- Updated [Expanded Storage](https://www.nexusmods.com/stardewvalley/mods/7431)
 
 ### Removals <!-- omit in toc -->
 
