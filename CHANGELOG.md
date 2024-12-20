@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.8.2](#082)
   - [0.8.1](#081)
   - [0.8.0](#080)
   - [0.7.10](#0710)
@@ -27,6 +28,31 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.8.2
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+- Updated [SMAPI](https://smapi.io/)
+- Updated [Custom Bush](https://www.nexusmods.com/stardewvalley/mods/20619)
+- Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
+- Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
+- Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
+- Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
+- Updated [A Pelican Town](https://www.nexusmods.com/stardewvalley/mods/14585)
+- Updated [Coal Point Farm](https://www.nexusmods.com/stardewvalley/mods/24852)
+
+### Removals <!-- omit in toc -->
+
+- Removed [FauxCore](https://www.nexusmods.com/stardewvalley/mods/20618)
 
 ## 0.8.1
 
