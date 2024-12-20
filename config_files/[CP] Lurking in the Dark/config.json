@@ -6,7 +6,10 @@
   "Schedule Type": "Dynamic",
   "Romantic Nickname": "Starshine",
   "Portrait Style": "7thAxis",
-  "Have Shadow Kids": "true",
   "Reshade Existing Shadows": "false",
-  "Spouse Room": "true"
+  "Spouse Room": "true",
+  "Have Shadow Kids": "true",
+  "Female Toddler Design": "Freya",
+  "Male Toddler Design": "Loki",
+  "UCT Portrait Compatibility": "true"
 }
