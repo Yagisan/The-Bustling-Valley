@@ -165,7 +165,7 @@
   "MaruHospitalScrubs": "False",
   "MaruCharacterGlasses": "False",
   "MaruBlackHair": "False",
-  "SebGlasses": "Off",
+  "SebGlasses": "NoGlasses",
   "SebPiercings": "False",
   "ShaneVariant": "Vanilla",
   "ShaneLightweightConfig": "Full",
