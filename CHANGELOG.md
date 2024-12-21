@@ -31,9 +31,11 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.8.2
 
-**Released:** `DD MMM YYYY`
+**Released:** `22 Dec 2024`
 
 ### Info <!-- omit in toc -->
+
+Requires Stardew Valley 1.6.15
 
 ### Modifications <!-- omit in toc -->
 
@@ -49,6 +51,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
 - Updated [A Pelican Town](https://www.nexusmods.com/stardewvalley/mods/14585)
 - Updated [Coal Point Farm](https://www.nexusmods.com/stardewvalley/mods/24852)
+- Updated [Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059)
 
 ### Removals <!-- omit in toc -->
 
