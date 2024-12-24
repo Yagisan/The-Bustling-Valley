@@ -46,6 +46,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Eli and Dylan - Custom NPCs for East Scarp](https://www.nexusmods.com/stardewvalley/mods/13883)
 - Updated [Esca's Modding Plugins (EMP)](https://www.nexusmods.com/stardewvalley/mods/9296)
 - Updated [Stardew Progress](https://www.nexusmods.com/stardewvalley/mods/9786)
+- Updated [StardewUI](https://www.nexusmods.com/stardewvalley/mods/28870)
 
 ### Removals <!-- omit in toc -->
 
