@@ -42,6 +42,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Additions <!-- omit in toc -->
 
+- Added [Unique Winter Star - Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/30294)
+
 ### Updates <!-- omit in toc -->
 
 - Updated [Custom Bush](https://www.nexusmods.com/stardewvalley/mods/20619)
