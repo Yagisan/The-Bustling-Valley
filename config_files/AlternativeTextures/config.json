@@ -314,6 +314,15 @@
         10,
         11
       ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Beet Seeds",
+      "DisabledVariations": [
+        0,
+        1,
+        2,
+        3
+      ]
     }
   ]
 }
