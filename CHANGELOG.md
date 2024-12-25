@@ -38,6 +38,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Modifications <!-- omit in toc -->
 
+- Updated Alternative Textures configuration. Beets, Cauliflower are no longer changed. Fixes invisible regrowing crops.
+
 ### Additions <!-- omit in toc -->
 
 ### Updates <!-- omit in toc -->
