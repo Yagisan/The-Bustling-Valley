@@ -24,7 +24,9 @@
       "DisabledVariations": [
         2,
         3,
-        4
+        4,
+        0,
+        1
       ]
     },
     {
@@ -322,6 +324,14 @@
         1,
         2,
         3
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Bok Choy Seeds",
+      "DisabledVariations": [
+        0,
+        1,
+        2
       ]
     }
   ]
