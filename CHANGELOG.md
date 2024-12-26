@@ -51,6 +51,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Esca's Modding Plugins (EMP)](https://www.nexusmods.com/stardewvalley/mods/9296)
 - Updated [Stardew Progress](https://www.nexusmods.com/stardewvalley/mods/9786)
 - Updated [StardewUI](https://www.nexusmods.com/stardewvalley/mods/28870)
+- Updated [Expanded Storage](https://www.nexusmods.com/stardewvalley/mods/7431)
+- Updated [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
 
 ### Removals <!-- omit in toc -->
 
