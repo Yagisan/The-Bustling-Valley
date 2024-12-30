@@ -53,6 +53,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [StardewUI](https://www.nexusmods.com/stardewvalley/mods/28870)
 - Updated [Expanded Storage](https://www.nexusmods.com/stardewvalley/mods/7431)
 - Updated [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
+- Updated [Fresh Farm Produce](https://www.nexusmods.com/stardewvalley/mods/29299)
 
 ### Removals <!-- omit in toc -->
 
