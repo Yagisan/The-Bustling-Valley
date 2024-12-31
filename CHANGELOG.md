@@ -43,6 +43,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 ### Additions <!-- omit in toc -->
 
 - Added [Unique Winter Star - Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/30294)
+- Added [Abilities - Experience Bars 1.6](https://www.nexusmods.com/stardewvalley/mods/22751)
 
 ### Updates <!-- omit in toc -->
 
@@ -54,6 +55,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Expanded Storage](https://www.nexusmods.com/stardewvalley/mods/7431)
 - Updated [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
 - Updated [Fresh Farm Produce](https://www.nexusmods.com/stardewvalley/mods/29299)
+- Updated [Destroyable Bushes](https://www.nexusmods.com/stardewvalley/mods/6304)
+- Updated [Mapping Extensions and Extra Properties (MEEP)](https://www.nexusmods.com/stardewvalley/mods/14493)
+- Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
+- Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
 
 ### Removals <!-- omit in toc -->
 
