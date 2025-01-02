@@ -59,6 +59,9 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Mapping Extensions and Extra Properties (MEEP)](https://www.nexusmods.com/stardewvalley/mods/14493)
 - Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
 - Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
+- Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
+- Updated [Destroyable Bushes](https://www.nexusmods.com/stardewvalley/mods/6304)
+- Updated [Mister Ginger](https://www.nexusmods.com/stardewvalley/mods/5295)
 
 ### Removals <!-- omit in toc -->
 
