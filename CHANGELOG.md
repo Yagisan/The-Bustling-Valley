@@ -36,6 +36,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
+- Passerby Cliffs needs a terrain reset in this release. The map changed.
+
 ### Modifications <!-- omit in toc -->
 
 - Updated Alternative Textures configuration. Beets, Cauliflower are no longer changed. Fixes invisible regrowing crops.
