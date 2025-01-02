@@ -2,11 +2,13 @@
 
 ![TBV_Title_Card](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/TBV_Title.webp)
 
-![Latest Version](https://img.shields.io/badge/dynamic/json?label=Latest%20version&query=%24%5B%3F%28%40.links.machineURL%3D%3D%22tbv%22%29%5D.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fwabbajack-tools%2Fmod-lists%2Fmaster%2Fmodlists.json&style=for-the-badge)![GitHub all releases](https://img.shields.io/github/downloads/Yagisan/The-Bustling-Valley/total?logo=GitHub&style=for-the-badge)![GitHub issues](https://img.shields.io/github/issues/Yagisan/The-Bustling-Valley?logo=GitHub&style=for-the-badge)![Discord](https://img.shields.io/discord/958710541017317397?label=Yagisan%27s%20Discord&logo=discord&style=for-the-badge)
+![GitHub Release](https://img.shields.io/github/v/release/Yagisan/The-Bustling-Valley?sort=semver&style=for-the-badge&label=Latest%20Version)![GitHub all releases](https://img.shields.io/github/downloads/Yagisan/The-Bustling-Valley/total?logo=GitHub&style=for-the-badge)![GitHub issues](https://img.shields.io/github/issues/Yagisan/The-Bustling-Valley?logo=GitHub&style=for-the-badge)![Discord](https://img.shields.io/discord/958710541017317397?label=Yagisan%27s%20Discord&logo=discord&style=for-the-badge)
 
 The Bustling Valley is a curated modlist designed for a bigger Stardew Valley experience. It includes new villages, new NPCs, and of course a farming expansion. **It is expected that players will not add additional mods or otherwise change this modlist.**
 
-**As of 0.4.4 The Bustling Valley will coexist with manual mod installations and/or Nexus Collections.** **This list is self-contained, and includes it's own copy of SMAPI.**
+**This list is self-contained, and includes it's own copy of SMAPI.**
+
+**It will work with both the GoG and Steam releases of Stardew Valley.**
 
 **The Bustling Valley will not start if you have special characters such as `(){}[],;=&|><` - you will need to install to a new location without those characters**
 
@@ -56,13 +58,13 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
   - [Stardew Valley just automatically updated, is it safe to run this list?](#stardew-valley-just-automatically-updated-is-it-safe-to-run-this-list)
   - [Does it work with a controller?](#does-it-work-with-a-controller)
   - [Does this work in multiplayer?](#does-this-work-in-multiplayer)
-  - [Where is the Dwarf?](#where-is-the-dwarf)
   - [How do I use the WaterBot?](#how-do-i-use-the-waterbot)
   - [How do I remove the Modlist?](#how-do-i-remove-the-modlist)
   - [Should I update SMAPI?](#should-i-update-smapi)
   - [Fishing is too Easy. How to to fix this?](#fishing-is-too-easy-how-to-to-fix-this)
   - [How do I exit the better sewers?](#how-do-i-exit-the-better-sewers)
-  - [Known Bugs](#known-bugs)
+- [Known Bugs](#known-bugs)
+  - [The Pathfinding bug.](#the-pathfinding-bug)
   - [Contact and Technical Support](#contact-and-technical-support)
 
 # Preamble
@@ -233,8 +235,6 @@ Updating is like installing. You only have to make sure that you select the same
 
 **[Watering Grants Experience And Crops Can Wither](https://www.nexusmods.com/stardewvalley/mods/7768)** does exactly what it says. Manual watering grants some farming experience, and if not watered, your crops will die.
 
-**[Animals Die - Old Age - Hunger - Illness](https://www.nexusmods.com/stardewvalley/mods/7769)** animals can die of hunger and neglect.
-
 **[Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)** allows you to repaint almost anything to suit how you want it to look. Building, animals, trees, crops and your children. **This mod and it's texture packs can cause Stardew Valley to consume over 6GB of RAM. It and they, can be safely disabled at any time.**
 
 # Mod Default Hotkeys
@@ -296,8 +296,6 @@ They do ship with a default configuration, but you may edit the configuration to
 
 To edit a configuration file, **at the main Stardew Valley menu, click on the gear icon**, then find the mod in the list. Make your changes then click save and close. **Restart the game**.
 
-**Polyamory Sweet Bed** adjusts the bed size. You want to change the option `"Bed Width" 3,` to adjust for the number of spouses you have. For example `"Bed Width" 2,` is suitable for only 1 spouse. `"Bed Width" 7,` is suitable for 6 spouses.
-
 **Sword & Sorcery** adjusts the player pronouns used in this mod. It defaults to He/Him. You should change these to suit your farm. **DO NOT Change any other options.**
 
 **NPC Jasper** has marriage anniversary content if you marry him. Adjust the Anniversary Season, and Anniversary Day to match your in-game Anniversary. **DO NOT Change any other options.**
@@ -340,10 +338,6 @@ Several mods seem to behave erratically or not at all with a controller, so the 
 
 **The official position is NO, it does not. There are too many dll based mods in this list, and neither myself, not the mod authors can test multi-player.**
 
-## Where is the Dwarf?
-
-Please follow Professor Jaspers questline until the 6 heart stage.
-
 ## How do I use the WaterBot?
 
 To use the WaterBot, select the watering can, then **right click** on a crop. Your farmer will automatically travel to, and water every crop they can reach. The will refill the watering can as needed, from the closest water source, and will stop when either all crops are watered, or the farmer is out of energy.
@@ -356,7 +350,7 @@ Simply delete the installation folder (`C:\WJ\TBV` if you have been following th
 
 ## Should I update SMAPI?
 
-Not for the Bustling Valley. As of 0.4.4 the Bustling Valley now includes SMAPI, and this will be updated as needed in the Bustling Valley releases.
+Not for the Bustling Valley. The Bustling Valley now includes SMAPI, and this will be updated as needed in the Bustling Valley releases.
 
 ## Fishing is too Easy. How to to fix this?
 
@@ -366,9 +360,20 @@ Please see **Modifying the mod list**.
 
 Run up the ladder, do not click on it. It no longer acts like a door.
 
-## Known Bugs
+# Known Bugs
 
-Several of the mods included in The Bustling Valley have known bugs. These are being investigated and fixed by their respective teams. Be aware that this list may include spoilers about plot, and/or quest related details.
+There are several base (unmodded Stardew Valley) bugs. These bugs can become more obvious in a modded game.
+
+## The Pathfinding bug.
+
+This bug has three separate, but related symptoms. It affects all characters, both base game and modded.
+
+- Sometimes characters will walk on water and into the void.
+- Sometimes characters will freeze in place and not move right in front of map entrances. Which usually blocks other characters from entering maps.
+- Sometimes characters will walk through buildings, objects and other things that aren't meant to be walked through.
+
+**The Workaround.**
+The easiest way to fix these bugs, is to just go to sleep. A day reload, will reset all the characters and usually they go back to normal. This also applies if a mod update the character schedules. The game will update them all after you go to sleep.
 
 ## Contact and Technical Support
 
