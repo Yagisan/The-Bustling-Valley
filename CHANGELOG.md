@@ -37,6 +37,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 ### Info <!-- omit in toc -->
 
 - Passerby Cliffs needs a terrain reset in this release. The map changed.
+- Sword and Sorcery had a major update. The Paladin skill should now unlock early. This includes existing farmers.
 
 ### Modifications <!-- omit in toc -->
 
@@ -46,6 +47,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 - Added [Unique Winter Star - Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/30294)
 - Added [Abilities - Experience Bars 1.6](https://www.nexusmods.com/stardewvalley/mods/22751)
+- Added [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
 
 ### Updates <!-- omit in toc -->
 
@@ -64,6 +66,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Farmhouse Fixes](https://www.nexusmods.com/stardewvalley/mods/16507)
 - Updated [Destroyable Bushes](https://www.nexusmods.com/stardewvalley/mods/6304)
 - Updated [Mister Ginger](https://www.nexusmods.com/stardewvalley/mods/5295)
+- Updated [Sword and Sorcery - A Fantasy Expansion for East Scarp](https://www.nexusmods.com/stardewvalley/mods/12369)
 
 ### Removals <!-- omit in toc -->
 
