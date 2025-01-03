@@ -9,11 +9,24 @@
     "LargeBushes": true,
     "WalnutBushes": true
   },
+  "BushTypeDurability": {
+    "SmallBushes": 0.75,
+    "MediumBushes": 1.0,
+    "LargeBushes": 1.25,
+    "WalnutBushes": 1.0
+  },
   "AmountOfWoodDropped": {
     "SmallBushes": 2,
     "MediumBushes": 4,
     "LargeBushes": 8,
     "WalnutBushes": 4,
+    "GreenTeaBushes": 0
+  },
+  "AmountOfExperienceGained": {
+    "SmallBushes": 6,
+    "MediumBushes": 9,
+    "LargeBushes": 12,
+    "WalnutBushes": 9,
     "GreenTeaBushes": 0
   }
 }
