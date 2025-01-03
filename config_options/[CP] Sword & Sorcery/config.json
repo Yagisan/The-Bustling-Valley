@@ -17,6 +17,7 @@
   "HectorSpousePatioConfig": "true",
   "CirrusSpouseRoomConfig": "true",
   "CirrusSpousePatioConfig": "true",
+  "EquipmentMenuConfig": "false",
   "TimegateConfig": "ThreeDays",
   "MateoThemeConfig": "New",
   "HectorThemeConfig": "New",
@@ -24,7 +25,7 @@
   "LionsManeExtraDoorWarp": "false",
   "DatingLength": "14",
   "AncientSweetTeaDifficulty": "7",
-  "ChocoboValleyMaterials": "true",
+  "ChocoboValleyMaterials": "false",
   "RSVMaterials": "true",
   "Eli&DylanExtras": "true",
   "Juliet&JessieExtras": "true",
@@ -32,8 +33,10 @@
   "ExcludeFromPerfection": "true",
   "CasterType": "Spellbinder",
   "BookTextures": "Lumina",
+  "PlayersHandbookColorScheme": "Black/Red",
   "HectorHeterochromatic": "true",
   "MateoTrollHeritage": "true",
   "CirrusRainbowHair": "RealisticRandom",
+  "CirrusRainbowEyes": "Purple",
   "CirrusSmokeyEye": "false"
 }
