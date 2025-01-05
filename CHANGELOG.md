@@ -42,12 +42,16 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 ### Modifications <!-- omit in toc -->
 
 - Updated Alternative Textures configuration. Beets, Cauliflower are no longer changed. Fixes invisible regrowing crops.
+- Updated RSV Performance Patch
+- Updated TBV Event Limited Glue to Content Patcher 2.4.0
+- Updated Snow Covered Craftables Patch to Content Patcher 2.4.0
 
 ### Additions <!-- omit in toc -->
 
 - Added [Unique Winter Star - Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/30294)
 - Added [Abilities - Experience Bars 1.6](https://www.nexusmods.com/stardewvalley/mods/22751)
 - Added [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
+- Added Yagisan's TBV Festival Megapatch
 
 ### Updates <!-- omit in toc -->
 
