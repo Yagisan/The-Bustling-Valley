@@ -1,0 +1,48 @@
+{
+  "$schema": "https://smapi.io/schemas/manifest.json",
+  "Name": "[CP] Yagisan - TBV Festival Megapatch",
+  "Author": "Yagisan",
+  "Version": "1.0.0",
+  "Description": "Moves Custom NPCs around to avoid festival conflicts",
+  "UniqueID": "Yagisan.TBVFestivalMegapatch",
+  "MinimumApiVersion": "4.0.0",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "2.4.0"
+  },
+  "Dependencies": [
+    {
+      "UniqueID": "Rafseazz.RSVCP",
+      "IsRequired": false,
+      "MinimumVersion": "2.0"
+    },
+    {
+      "UniqueID": "malic.cp.jadeNPC",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "LemurKat.Mr.Ginger.NPC",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "Lemurkat.JacobEloise.CP",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "LemurKat.EastScarpe.CP",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "Lemurkat.NPCJasper",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "TheLimeyDragon.Ayeisha",
+      "IsRequired": false
+    },
+    {
+      "UniqueID": "Fellowclown.PC",
+      "IsRequired": false
+    }
+  ]
+}
