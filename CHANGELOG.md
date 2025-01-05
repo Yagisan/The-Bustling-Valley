@@ -67,6 +67,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Destroyable Bushes](https://www.nexusmods.com/stardewvalley/mods/6304)
 - Updated [Mister Ginger](https://www.nexusmods.com/stardewvalley/mods/5295)
 - Updated [Sword and Sorcery - A Fantasy Expansion for East Scarp](https://www.nexusmods.com/stardewvalley/mods/12369)
+- Updated [Morris Redeemed (NPC Expansion)](https://www.nexusmods.com/stardewvalley/mods/12667)
 
 ### Removals <!-- omit in toc -->
 
