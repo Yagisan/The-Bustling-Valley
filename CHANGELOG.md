@@ -72,6 +72,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Mister Ginger](https://www.nexusmods.com/stardewvalley/mods/5295)
 - Updated [Sword and Sorcery - A Fantasy Expansion for East Scarp](https://www.nexusmods.com/stardewvalley/mods/12369)
 - Updated [Morris Redeemed (NPC Expansion)](https://www.nexusmods.com/stardewvalley/mods/12667)
+- Updated [Remapping](https://www.nexusmods.com/stardewvalley/mods/29049)
 
 ### Removals <!-- omit in toc -->
 
