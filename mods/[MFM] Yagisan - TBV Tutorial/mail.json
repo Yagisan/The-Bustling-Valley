@@ -21,7 +21,7 @@
         "Id": "TBVTutorialMail.Economy",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Economy Changes - Supply and Demand",
-        "Text": "The Bustling Valley includes Ferngil Simple Economy to soft-balance the many different mods in this list. This calculates a supply and demand based value for all items you can sell. This is a fairer system than straight taxation, and also allows the player to play the market and make a profit by supplying items in demand.^^ - Yagisan",
+        "Text": "The Bustling Valley includes Ferngil Simple Economy to soft-balance the many different mods in this list. This calculates a supply and demand based value for all items you can sell. This is a fairer system than straight taxation, and also allows the player to play the market and make a profit by supplying items in demand.^^When supply is low, and the bar is green, those items are worth more. These prices update each day, and when you sell items.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -30,7 +30,7 @@
         "Id": "TBVTutorialMail.Economy",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Economy Changes - Freshness",
-        "Text": "The Bustling Valley includes Fresh Farm Produce to reward players for selling fresh produce, instead of artisian good always being the optimal choice. Fresh items sell for at least 5% more than regular items, and can easily go for much more! Be warned however - if you don't immediately sell fresh items the day of harvest, they will go stale and return to their base prices.^^ - Yagisan",
+        "Text": "The Bustling Valley includes Fresh Farm Produce to reward players for selling fresh produce, instead of artisian good always being the optimal choice. Fresh items sell for at least 5% more than regular items, with a minimum price increase of 1 gold, and can easily go for much more! Be warned however - if you don't immediately sell fresh items the day of harvest, they will go stale and return to their base prices.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
