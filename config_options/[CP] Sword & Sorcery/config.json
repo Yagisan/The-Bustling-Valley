@@ -33,7 +33,7 @@
   "ExcludeFromPerfection": "true",
   "CasterType": "Spellbinder",
   "BookTextures": "Lumina",
-  "PlayersHandbookColorScheme": "Black/Red",
+  "HandbookColorScheme": "Oak",
   "HectorHeterochromatic": "true",
   "MateoTrollHeritage": "true",
   "CirrusRainbowHair": "RealisticRandom",
