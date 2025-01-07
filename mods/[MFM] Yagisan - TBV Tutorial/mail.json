@@ -2,7 +2,7 @@
     {
         "Id": "TBVTutorialMail.Info",
         "GroupId": "TBVTutorialMail.Info",
-        "Title": "TBV 0.7.x Intro",
+        "Title": "TBV 0.8.x Intro",
         "Text": "G'day @^^Welcome to The Bustling Valley 0.8.x.^^Is designed for Stardew Valley 1.6.x, and requires you to start a new farm. It is not possible to continue a farm started on TBV 0.7.x or older.^^- Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
@@ -20,17 +20,17 @@
     {
         "Id": "TBVTutorialMail.Economy",
         "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Economy Changes - Supply and Demand",
-        "Text": "The Bustling Valley includes Ferngil Simple Economy to soft-balance the many different mods in this list. This calculates a supply and demand based value for all items you can sell. This is a fairer system than straight taxation, and also allows the player to play the market and make a profit by supplying items in demand.^^When supply is low, and the bar is green, those items are worth more. These prices update each day, and when you sell items.^^ - Yagisan",
+        "Title": "TBV Economy Changes - Freshness",
+        "Text": "The Bustling Valley includes Fresh Farm Produce to reward players for selling fresh produce, instead of artisian good always being the optimal choice. Fresh items sell for at least 5% more than regular items, with a minimum price increase of 1 gold, and can easily go for much more! Be warned however - if you don't immediately sell fresh items the day of harvest, they will go stale and return to their base prices.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
     },
     {
-        "Id": "TBVTutorialMail.Economy",
+        "Id": "TBVTutorialMail.Economy2",
         "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Economy Changes - Freshness",
-        "Text": "The Bustling Valley includes Fresh Farm Produce to reward players for selling fresh produce, instead of artisian good always being the optimal choice. Fresh items sell for at least 5% more than regular items, with a minimum price increase of 1 gold, and can easily go for much more! Be warned however - if you don't immediately sell fresh items the day of harvest, they will go stale and return to their base prices.^^ - Yagisan",
+        "Title": "TBV Economy Changes - Supply and Demand",
+        "Text": "The Bustling Valley includes Ferngil Simple Economy to soft-balance the many different mods in this list. This calculates a supply and demand based value for all items you can sell. This is a fairer system than straight taxation, and also allows the player to play the market and make a profit by supplying items in demand.^^When supply is low, and the bar is green, those items are worth more. These prices update each day, and when you sell items.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
