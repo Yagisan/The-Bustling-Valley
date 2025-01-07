@@ -38,6 +38,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 - Passerby Cliffs needs a terrain reset in this release. The map changed.
 - Sword and Sorcery had a major update. The Paladin skill should now unlock early. This includes existing farmers.
+- Has Elii or Dylan duplicated? In the SMAPI console type **debug killnpc Nova.Eli** or **debug killnpc Nova.Dylan** - they will be fixed the next day.
 
 ### Modifications <!-- omit in toc -->
 
@@ -73,6 +74,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Sword and Sorcery - A Fantasy Expansion for East Scarp](https://www.nexusmods.com/stardewvalley/mods/12369)
 - Updated [Morris Redeemed (NPC Expansion)](https://www.nexusmods.com/stardewvalley/mods/12667)
 - Updated [Remapping](https://www.nexusmods.com/stardewvalley/mods/29049)
+- Updated [Autonomals](https://www.nexusmods.com/stardewvalley/mods/22879)
 
 ### Removals <!-- omit in toc -->
 
