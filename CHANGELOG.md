@@ -38,7 +38,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 - Passerby Cliffs needs a terrain reset in this release. The map changed.
 - Sword and Sorcery had a major update. The Paladin skill should now unlock early. This includes existing farmers.
-- Has Elii or Dylan duplicated? In the SMAPI console type **debug killnpc Nova.Eli** or **debug killnpc Nova.Dylan** - they will be fixed the next day.
+- Has Eli or Dylan duplicated? In the SMAPI console type **debug killnpc Nova.Eli** or **debug killnpc Nova.Dylan** - they will be fixed the next day.
+- Economy changes have been clarified in the tutorial emails. Please view them from the collections tab to see the updated information.
 
 ### Modifications <!-- omit in toc -->
 
