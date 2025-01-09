@@ -76,6 +76,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Morris Redeemed (NPC Expansion)](https://www.nexusmods.com/stardewvalley/mods/12667)
 - Updated [Remapping](https://www.nexusmods.com/stardewvalley/mods/29049)
 - Updated [Autonomals](https://www.nexusmods.com/stardewvalley/mods/22879)
+- Updated [Better Honey Mead](https://www.nexusmods.com/stardewvalley/mods/22848)
 
 ### Removals <!-- omit in toc -->
 
