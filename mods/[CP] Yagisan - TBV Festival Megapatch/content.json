@@ -4,6 +4,7 @@
 	"Changes": [
 		// Spring
 		////////////////////////////////////////////////////////////////////////////////
+		/*
 		{
 			"Action": "Include",
 			"FromFile": "data/egg_festival.json",
@@ -16,8 +17,10 @@
 			"Action": "Include",
 			"FromFile": "data/flower_dance.json",
 		},
+		*/
 		// Summer
 		////////////////////////////////////////////////////////////////////////////////
+		/*
 		{
 			"Action": "Include",
 			"FromFile": "data/luau.json",
@@ -26,12 +29,14 @@
 			"Action": "Include",
 			"FromFile": "data/trout_derby.json",
 		},
+		*/
 		{
 			"Action": "Include",
 			"FromFile": "data/moonlight_jellies.json",
-		},
+		}
 		// Autumn
 		////////////////////////////////////////////////////////////////////////////////
+		/*
 		{
 			"Action": "Include",
 			"FromFile": "data/stardew_valley_fair.json",
@@ -40,8 +45,10 @@
 			"Action": "Include",
 			"FromFile": "data/spirits_eve.json",
 		},
+		*/
 		// Winter
 		////////////////////////////////////////////////////////////////////////////////
+		/*
 		{
 			"Action": "Include",
 			"FromFile": "data/festival_of_ice.json",
@@ -58,5 +65,6 @@
 			"Action": "Include",
 			"FromFile": "data/winter_star.json",
 		}
+		*/
 	]
 }

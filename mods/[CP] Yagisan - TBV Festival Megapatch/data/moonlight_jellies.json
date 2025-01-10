@@ -1,0 +1,34 @@
+{
+	"Changes": [
+		// Fievel and Jessie overlap in year 1
+		// Move Fievel 1 spot left
+		{
+			"Action": "EditData",
+			"Target": "Data/Festivals/summer28",
+			"TextOperations": [
+				{
+					"Operation": "Append",
+					"Target": [
+						"Entries",
+						"Set-Up_additionalCharacters"
+					],
+					"Value": "Fievel 53 7 down",
+					"Delimiter": "/"
+				},
+				{
+					"Operation": "Append",
+					"Target": [
+						"Entries",
+						"MainEvent_additionalCharacters"
+					],
+					"Value": "Fievel 53 7 down",
+					"Delimiter": "/"
+				}
+			],
+			"When": {
+				"HasMod |contains=LemurKat.JulietHouse.NPC": true,
+				"HasMod |contains=EastScarp.FGES": true
+			}
+		}
+	]
+}

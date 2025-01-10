@@ -12,36 +12,19 @@
   },
   "Dependencies": [
     {
-      "UniqueID": "Rafseazz.RSVCP",
-      "IsRequired": false,
-      "MinimumVersion": "2.0"
-    },
-    {
-      "UniqueID": "malic.cp.jadeNPC",
-      "IsRequired": false
-    },
-    {
-      "UniqueID": "LemurKat.Mr.Ginger.NPC",
-      "IsRequired": false
-    },
-    {
-      "UniqueID": "Lemurkat.JacobEloise.CP",
-      "IsRequired": false
+      "UniqueID": "Yagisan.TBVTutorialMail",
+      "IsRequired": true
     },
     {
       "UniqueID": "LemurKat.EastScarpe.CP",
-      "IsRequired": false
+      "IsRequired": true
     },
     {
-      "UniqueID": "Lemurkat.NPCJasper",
-      "IsRequired": false
+      "UniqueID": "EastScarp.FGES",
+      "IsRequired": true
     },
     {
-      "UniqueID": "TheLimeyDragon.Ayeisha",
-      "IsRequired": false
-    },
-    {
-      "UniqueID": "Fellowclown.PC",
+      "UniqueID": "LemurKat.JulietHouse.NPC",
       "IsRequired": false
     }
   ]
