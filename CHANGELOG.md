@@ -58,6 +58,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Updates <!-- omit in toc -->
 
+- Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 - Updated [Custom Bush](https://www.nexusmods.com/stardewvalley/mods/20619)
 - Updated [Eli and Dylan - Custom NPCs for East Scarp](https://www.nexusmods.com/stardewvalley/mods/13883)
 - Updated [Esca's Modding Plugins (EMP)](https://www.nexusmods.com/stardewvalley/mods/9296)
@@ -78,6 +79,12 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Remapping](https://www.nexusmods.com/stardewvalley/mods/29049)
 - Updated [Autonomals](https://www.nexusmods.com/stardewvalley/mods/22879)
 - Updated [Better Honey Mead](https://www.nexusmods.com/stardewvalley/mods/22848)
+- Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
+- Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
+- Updated [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+- Updated [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)
+- Updated [Unlockable Bundles](https://www.nexusmods.com/stardewvalley/mods/17265)
 
 ### Removals <!-- omit in toc -->
 
