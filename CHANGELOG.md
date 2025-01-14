@@ -86,6 +86,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)
 - Updated [Unlockable Bundles](https://www.nexusmods.com/stardewvalley/mods/17265)
 - Updated [DaisyNiko's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/4736)
+- Updated [Unique Gift Dialogues Expanded](https://www.nexusmods.com/stardewvalley/mods/21501)
 
 ### Removals <!-- omit in toc -->
 
