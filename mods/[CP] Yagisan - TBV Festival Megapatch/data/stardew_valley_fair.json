@@ -1,0 +1,28 @@
+{
+	"Changes": [
+		// Mora, Jacob, and Dylan overlap in year 1
+        // Marcus and Eloise overlap in year 1
+		// Move Mora and Marcus to their year 2 default locations
+        // Move Dylan to their default year 2 location
+		{
+			"Action": "EditData",
+			"Target": "Data/Festivals/fall16",
+			"TextOperations": [
+				{
+					"Operation": "Append",
+					"Target": [
+						"Entries",
+						"Set-Up_additionalCharacters"
+					],
+					"Value": "APTMora 43 94 down/APTMarcus 44 94 down/Nova.Dylan 48 89 down",
+					"Delimiter": "/"
+				},
+			],
+			"When": {
+                "HasMod |contains=Lemurkat.EastScarpNPCs.CP": true,
+				"HasMod |contains=AndrewJC.CoalPointFarm": true,
+				"HasMod |contains=TenebrousNova.EliDylan.CP": true
+			}
+		}
+	]
+}

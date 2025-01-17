@@ -33,14 +33,14 @@
 		{
 			"Action": "Include",
 			"FromFile": "data/moonlight_jellies.json",
-		}
+		},
 		// Autumn
 		////////////////////////////////////////////////////////////////////////////////
-		/*
-		{
+				{
 			"Action": "Include",
 			"FromFile": "data/stardew_valley_fair.json",
-		},
+		}
+		/*
 		{
 			"Action": "Include",
 			"FromFile": "data/spirits_eve.json",
