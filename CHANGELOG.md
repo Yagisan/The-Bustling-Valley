@@ -88,6 +88,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [DaisyNiko's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/4736)
 - Updated [Unique Gift Dialogues Expanded](https://www.nexusmods.com/stardewvalley/mods/21501)
 - Updated [Dwarf Portrait Replacement](https://www.nexusmods.com/stardewvalley/mods/14916)
+- Updated [Yagisan's Willy Shop Expanded](https://www.nexusmods.com/stardewvalley/mods/23395)
+- Updated [Demetrius Visits Farm Cave Redux](https://www.nexusmods.com/stardewvalley/mods/17575)
 
 ### Removals <!-- omit in toc -->
 
