@@ -90,6 +90,9 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Dwarf Portrait Replacement](https://www.nexusmods.com/stardewvalley/mods/14916)
 - Updated [Yagisan's Willy Shop Expanded](https://www.nexusmods.com/stardewvalley/mods/23395)
 - Updated [Demetrius Visits Farm Cave Redux](https://www.nexusmods.com/stardewvalley/mods/17575)
+- Updated [Community Center Reimagined](https://www.nexusmods.com/stardewvalley/mods/6966)
+- Updated [Mister Ginger (cat NPC)](https://www.nexusmods.com/stardewvalley/mods/6966)
+- Updated [The Last Smoluanu - A Dwarf Expansion.](https://www.nexusmods.com/stardewvalley/mods/9642)
 
 ### Removals <!-- omit in toc -->
 
