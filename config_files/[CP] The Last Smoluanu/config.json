@@ -1,4 +1,6 @@
 {
-  "14HWithoutPerfection": "false",
-  "ActivateAltSpiritsEvent": "true"
+  "14HWithoutPerfection": "true",
+  "ActivateAltSpiritsEvent": "true",
+  "FarmCaveChange": "true",
+  "DwarfMineCaveChange": "true"
 }
