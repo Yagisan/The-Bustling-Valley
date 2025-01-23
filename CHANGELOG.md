@@ -41,6 +41,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Sword and Sorcery had a major update. The Paladin skill should now unlock early. This includes existing farmers.
 - Has Eli or Dylan duplicated? In the SMAPI console type **debug killnpc Nova.Eli** or **debug killnpc Nova.Dylan** - they will be fixed the next day.
 - Economy changes have been clarified in the tutorial emails. Please view them from the collections tab to see the updated information.
+- Hay bales now work anywhere, not just the main farm. Go on, stock up on all that hay.
+- Cabin upgrades are now always instant, but still apply the upgrade costs.
+- You can now move beds in any empty cabin.
+- You can now change the appearance of any empty cabin through Robin's menu.
 
 ### Modifications <!-- omit in toc -->
 
@@ -92,7 +96,13 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Demetrius Visits Farm Cave Redux](https://www.nexusmods.com/stardewvalley/mods/17575)
 - Updated [Community Center Reimagined](https://www.nexusmods.com/stardewvalley/mods/6966)
 - Updated [Mister Ginger (cat NPC)](https://www.nexusmods.com/stardewvalley/mods/6966)
-- Updated [The Last Smoluanu - A Dwarf Expansion.](https://www.nexusmods.com/stardewvalley/mods/9642)
+- Updated [The Last Smoluanu - A Dwarf Expansion](https://www.nexusmods.com/stardewvalley/mods/9642)
+- Updated [Coal Point Farm](https://www.nexusmods.com/stardewvalley/mods/24852)
+- Updated [Custom Bush](https://www.nexusmods.com/stardewvalley/mods/20619)
+- Updated [Expanded Preconditions Utility](https://www.nexusmods.com/stardewvalley/mods/6529)
+- Updated [Hay Bales as Silos](https://www.nexusmods.com/stardewvalley/mods/5151)
+- Updated [Item Extensions](https://www.nexusmods.com/stardewvalley/mods/20357)
+- Updated [Upgrade Empty Cabins](https://www.nexusmods.com/stardewvalley/mods/5253)
 
 ### Removals <!-- omit in toc -->
 
