@@ -32,7 +32,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.8.3
 
-**Released:** `DD MMM YYYY`
+**Released:** `23 Jan 2025`
 
 ### Info <!-- omit in toc -->
 
