@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.8.4](#084)
   - [0.8.3](#083)
   - [0.8.2](#082)
   - [0.8.1](#081)
@@ -29,6 +30,41 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.8.4
+
+**Released:** `DD MMM 2025`
+
+### Info <!-- omit in toc -->
+
+- Passerby Cemetary needs a terrain reset in this release. The map changed.
+- New map. Passerby Road to the left of where the Bookworm Mobile was. Some events moved here.
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+- Updated [Upgrade Empty Cabins](https://www.nexusmods.com/stardewvalley/mods/5253)
+- Updated [StardewUI](https://www.nexusmods.com/stardewvalley/mods/28870)
+- Updated [Secret Note Framework](https://www.nexusmods.com/stardewvalley/mods/25055)
+- Updated [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
+- Updated [Ferngill Simple Economy](https://www.nexusmods.com/stardewvalley/mods/21414)
+- Updated [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
+- Updated [Distant Lands - A Small Witch Swamp Expansion](https://www.nexusmods.com/stardewvalley/mods/18109)
+- Updated [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
+- Updated [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)
+- Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
+- Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
+- Updated [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
+- Updated [Remapping](https://www.nexusmods.com/stardewvalley/mods/29049)
+- Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
+- Updated [Cornucopia - Artisan Machines](https://www.nexusmods.com/stardewvalley/mods/24842)
+- Updated [Cornucopia - More Flowers](https://www.nexusmods.com/stardewvalley/mods/20290)
+- Updated [Abilities - Experience Bars 1.6](https://www.nexusmods.com/stardewvalley/mods/22751)
+
+### Removals <!-- omit in toc -->
 
 ## 0.8.3
 
