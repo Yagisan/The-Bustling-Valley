@@ -1,0 +1,15 @@
+{
+  "$schema": "https://smapi.io/schemas/manifest.json",
+  "Name": "[CP] Yagisan - Lore Friendly Joja Mart",
+  "Author": "Yagisan",
+  "Version": "1.0.0",
+  "Description": "Lore Friendly Joja Mart - so there is a reason to visit.",
+  "UniqueID": "Yagisan.LoreFriendlyJojaMart",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "2.5.0"
+  },
+  "Dependencies": []
+}

@@ -1,0 +1,49 @@
+{
+     "$schema": "https://smapi.io/schemas/content-patcher.json",
+     "Format": "2.5.0",
+     "Changes": [
+          {
+               "Action": "EditData",
+               "Target": "Data/Shops",
+               "TargetField": [
+                    "Joja"
+               ],
+               "Entries": {
+                    "PriceModifiers": [
+                         {
+                              "LogName": "[Yagi] Joja Mart - Non-Member Discount Pricing",
+                              "Id": "Non-Member_Discount_Pricing",
+                              "Modification": "Multiply",
+                              // 10% Non-Member Discount
+                              "Amount": 0.90,
+                              "Condition": "! PLAYER_HAS_MAIL Current JojaMember, ! DAY_OF_WEEK Wednesday",
+                         },
+                         {
+                              "LogName": "[Yagi] Joja Mart - Member Discount Pricing",
+                              "Id": "Member_Discount_Pricing",
+                              "Modification": "Multiply",
+                              // 25% Member Discount
+                              "Amount": 0.75,
+                              "Condition": "PLAYER_HAS_MAIL Current JojaMember, ! DAY_OF_WEEK Wednesday",
+                         },
+                         {
+                              "LogName": "[Yagi] Joja Mart - Non-Member Profiteering Pricing",
+                              "Id": "Non-Member_Profiteering_Pricing",
+                              "Modification": "Multiply",
+                              // 25% Non-Member Markup
+                              "Amount": 1.25,
+                              "Condition": "! PLAYER_HAS_MAIL Current JojaMember, DAY_OF_WEEK Wednesday",
+                         },
+                         {
+                              "LogName": "[Yagi] Joja Mart - Member Profiteering Pricing",
+                              "Id": "Member_Profiteering_Pricing",
+                              "Modification": "Multiply",
+                              // 5% Member Markup
+                              "Amount": 1.05,
+                              "Condition": "PLAYER_HAS_MAIL Current JojaMember, DAY_OF_WEEK Wednesday",
+                         },
+                    ],
+               },
+          },
+     ]
+}
