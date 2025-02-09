@@ -1,4 +1,6 @@
 {
+  "Overwrite Forbidden Maze map warps": "true",
+  "Add Path to Forbidden Maze map": "true",
   "Recolor": "default",
   "Water Overlay": "true",
   "Better BetterWater Compatibility": "true",
