@@ -37,7 +37,6 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
-
 - Mount Vapius Cliffs needs a terrain reset in this release. The map changed.
 - Polished Gemstones are no longer in the category gems. This is a bugfix change for collections.
 - Rollback Passerby Cemetery to 2.36.0 - need to recheck after 2.40.1 or later
@@ -47,6 +46,11 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 ### Modifications <!-- omit in toc -->
 
 ### Additions <!-- omit in toc -->
+
+- Added [Movie Theater Furniture for Content Patcher](https://www.nexusmods.com/stardewvalley/mods/26479)
+- Added [Community Park Decorations for Content Patcher](https://www.nexusmods.com/stardewvalley/mods/31367)
+- Added [Pirate Furniture and Decorations for Content Patcher](https://www.nexusmods.com/stardewvalley/mods/25536)
+- Added [Bathroom Furniture for Content Patcher](https://www.nexusmods.com/stardewvalley/mods/25536)
 
 ### Updates <!-- omit in toc -->
 
@@ -77,6 +81,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Buildable Ginger Island Farm](https://www.nexusmods.com/stardewvalley/mods/20600)
 - Updated [Unique Winter Star](https://www.nexusmods.com/stardewvalley/mods/14709)
 - Updated [Lumisteria Visit Mount Vapius](https://www.nexusmods.com/stardewvalley/mods/9600)
+- Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
+- Updated [Item Extensions](https://www.nexusmods.com/stardewvalley/mods/20357)
 
 ### Removals <!-- omit in toc -->
 
