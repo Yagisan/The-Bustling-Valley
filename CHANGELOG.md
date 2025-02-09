@@ -37,10 +37,12 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
-- Passerby Cemetary needs a terrain reset in this release. The map changed.
+
 - Mount Vapius Cliffs needs a terrain reset in this release. The map changed.
 - Polished Gemstones are no longer in the category gems. This is a bugfix change for collections.
-- New map. Passerby Road to the left of where the Bookworm Mobile was. Some events moved here.
+- Rollback Passerby Cemetery to 2.36.0 - need to recheck after 2.40.1 or later
+- [2.40.0] Passerby Cemetary needs a terrain reset in this release. The map changed.
+- [2.40.0] New map. Passerby Road to the left of where the Bookworm Mobile was. Some events moved here.
 
 ### Modifications <!-- omit in toc -->
 
@@ -57,7 +59,6 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Distant Lands - A Small Witch Swamp Expansion](https://www.nexusmods.com/stardewvalley/mods/18109)
 - Updated [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
 - Updated [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599)
-- Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
 - Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
 - Updated [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
 - Updated [Remapping](https://www.nexusmods.com/stardewvalley/mods/29049)
