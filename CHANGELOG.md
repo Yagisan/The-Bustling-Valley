@@ -38,6 +38,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 ### Info <!-- omit in toc -->
 
 - Passerby Cemetary needs a terrain reset in this release. The map changed.
+- Mount Vapius Cliffs needs a terrain reset in this release. The map changed.
+- Polished Gemstones are no longer in the category gems. This is a bugfix change for collections.
 - New map. Passerby Road to the left of where the Bookworm Mobile was. Some events moved here.
 
 ### Modifications <!-- omit in toc -->
@@ -63,6 +65,17 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Cornucopia - Artisan Machines](https://www.nexusmods.com/stardewvalley/mods/24842)
 - Updated [Cornucopia - More Flowers](https://www.nexusmods.com/stardewvalley/mods/20290)
 - Updated [Abilities - Experience Bars 1.6](https://www.nexusmods.com/stardewvalley/mods/22751)
+- Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
+- Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
+- Updated [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+- Updated [Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
+- Updated [Noclip Mode](https://www.nexusmods.com/stardewvalley/mods/3900)
+- Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
+- Updated [Buildable Ginger Island Farm](https://www.nexusmods.com/stardewvalley/mods/20600)
+- Updated [Unique Winter Star](https://www.nexusmods.com/stardewvalley/mods/14709)
+- Updated [Lumisteria Visit Mount Vapius](https://www.nexusmods.com/stardewvalley/mods/9600)
 
 ### Removals <!-- omit in toc -->
 
