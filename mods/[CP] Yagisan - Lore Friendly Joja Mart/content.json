@@ -17,7 +17,7 @@
                               "Modification": "Multiply",
                               // 10% Non-Member Discount
                               "Amount": 0.90,
-                              "Condition": "!DAY_OF_WEEK Wednesday",
+                              "Condition": "!PLAYER_HAS_MAIL Current JojaMember, !DAY_OF_WEEK Wednesday",
                          },
                          {
                               "LogName": "[Yagi] Joja Mart - Non-Member Discount Pricing - Part 2",
@@ -25,7 +25,7 @@
                               "Modification": "Subtract",
                               // 1g Minimum Discount
                               "Amount": 1,
-                              "Condition": "!DAY_OF_WEEK Wednesday",
+                              "Condition": "!PLAYER_HAS_MAIL Current JojaMember, !DAY_OF_WEEK Wednesday",
                          },
                          {
                               "LogName": "[Yagi] Joja Mart - Non-Member Profiteering Pricing - Part 1",
@@ -33,7 +33,7 @@
                               "Modification": "Multiply",
                               // 25% Non-Member Markup
                               "Amount": 1.25,
-                              "Condition": "DAY_OF_WEEK Wednesday",
+                              "Condition": "!PLAYER_HAS_MAIL Current JojaMember, DAY_OF_WEEK Wednesday",
                          },
                          {
                               "LogName": "[Yagi] Joja Mart - Non-Member Profiteering Pricing - Part 2",
@@ -41,7 +41,7 @@
                               "Modification": "Add",
                               // 1g Minimum Markup
                               "Amount": 1,
-                              "Condition": "DAY_OF_WEEK Wednesday",
+                              "Condition": "!PLAYER_HAS_MAIL Current JojaMember, DAY_OF_WEEK Wednesday",
                          },
                     ],
                },
@@ -64,7 +64,7 @@
                               "Modification": "Multiply",
                               // 25% Member Discount
                               "Amount": 0.75,
-                              "Condition": "!DAY_OF_WEEK Wednesday",
+                              "Condition": "!PLAYER_HAS_MAIL Current JojaMember, !DAY_OF_WEEK Wednesday",
                          },
                          {
                               "LogName": "[Yagi] Joja Mart - Member Discount Pricing - Part 2",
@@ -72,7 +72,7 @@
                               "Modification": "Subtract",
                               // 1g Minimum Discount
                               "Amount": 1,
-                              "Condition": "!DAY_OF_WEEK Wednesday",
+                              "Condition": "!PLAYER_HAS_MAIL Current JojaMember, !DAY_OF_WEEK Wednesday",
                          },
                          {
                               "LogName": "[Yagi] Joja Mart - Member Profiteering Pricing - Part 1",
@@ -80,7 +80,7 @@
                               "Modification": "Multiply",
                               // 5% Member Markup
                               "Amount": 1.05,
-                              "Condition": "DAY_OF_WEEK Wednesday",
+                              "Condition": "PLAYER_HAS_MAIL Current JojaMember, DAY_OF_WEEK Wednesday",
                          },
                          {
                               "LogName": "[Yagi] Joja Mart - Member Profiteering Pricing - Part 2",
@@ -88,12 +88,12 @@
                               "Modification": "Add",
                               // 1g Minimum Markup
                               "Amount": 1,
-                              "Condition": "DAY_OF_WEEK Wednesday",
+                              "Condition": "PLAYER_HAS_MAIL Current JojaMember, DAY_OF_WEEK Wednesday",
                          },
                     ],
                },
                "When": {
-                    "HasFlag|contains=jojaMember": true // Bought Joja Membership
+                    "HasFlag|contains=jojaMember": true // Has bought Joja Membership
                }
           },
      ]
