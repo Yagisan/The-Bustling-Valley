@@ -6,94 +6,42 @@
                "Action": "EditData",
                "Target": "Data/Shops",
                "TargetField": [
-                    "Joja"
+                    "Joja",
+                    "PriceModifiers"
                ],
                "Entries": {
-                    "PriceModifierMode": "Minimum",
-                    "PriceModifiers": [
-                         {
-                              "LogName": "[Yagi] Joja Mart - Non-Member Discount Pricing - Part 1",
-                              "Id": "Non-Member_Discount_Pricing_1",
-                              "Modification": "Multiply",
-                              // 10% Non-Member Discount
-                              "Amount": 0.90,
-                              "Condition": "!PLAYER_HAS_MAIL Current JojaMember, !DAY_OF_WEEK Wednesday",
-                         },
-                         {
-                              "LogName": "[Yagi] Joja Mart - Non-Member Discount Pricing - Part 2",
-                              "Id": "Non-Member_Discount_Pricing_2",
-                              "Modification": "Subtract",
-                              // 1g Minimum Discount
-                              "Amount": 1,
-                              "Condition": "!PLAYER_HAS_MAIL Current JojaMember, !DAY_OF_WEEK Wednesday",
-                         },
-                         {
-                              "LogName": "[Yagi] Joja Mart - Non-Member Profiteering Pricing - Part 1",
-                              "Id": "Non-Member_Profiteering_Pricing_1",
-                              "Modification": "Multiply",
-                              // 25% Non-Member Markup
-                              "Amount": 1.25,
-                              "Condition": "!PLAYER_HAS_MAIL Current JojaMember, DAY_OF_WEEK Wednesday",
-                         },
-                         {
-                              "LogName": "[Yagi] Joja Mart - Non-Member Profiteering Pricing - Part 2",
-                              "Id": "Non-Member_Profiteering_Pricing_2",
-                              "Modification": "Add",
-                              // 1g Minimum Markup
-                              "Amount": 1,
-                              "Condition": "!PLAYER_HAS_MAIL Current JojaMember, DAY_OF_WEEK Wednesday",
-                         },
-                    ],
-               },
-               "When": {
-                    "HasFlag|contains=jojaMember": false // Has not bought Joja Membership
-               }
-          },
-          {
-               "Action": "EditData",
-               "Target": "Data/Shops",
-               "TargetField": [
-                    "Joja"
-               ],
-               "Entries": {
-                    "PriceModifierMode": "Minimum",
-                    "PriceModifiers": [
-                         {
-                              "LogName": "[Yagi] Joja Mart - Member Discount Pricing - Part 1",
-                              "Id": "Member_Discount_Pricing_1",
-                              "Modification": "Multiply",
-                              // 25% Member Discount
-                              "Amount": 0.75,
-                              "Condition": "!PLAYER_HAS_MAIL Current JojaMember, !DAY_OF_WEEK Wednesday",
-                         },
-                         {
-                              "LogName": "[Yagi] Joja Mart - Member Discount Pricing - Part 2",
-                              "Id": "Member_Discount_Pricing_2",
-                              "Modification": "Subtract",
-                              // 1g Minimum Discount
-                              "Amount": 1,
-                              "Condition": "!PLAYER_HAS_MAIL Current JojaMember, !DAY_OF_WEEK Wednesday",
-                         },
-                         {
-                              "LogName": "[Yagi] Joja Mart - Member Profiteering Pricing - Part 1",
-                              "Id": "Member_Profiteering_Pricing_1",
-                              "Modification": "Multiply",
-                              // 5% Member Markup
-                              "Amount": 1.05,
-                              "Condition": "PLAYER_HAS_MAIL Current JojaMember, DAY_OF_WEEK Wednesday",
-                         },
-                         {
-                              "LogName": "[Yagi] Joja Mart - Member Profiteering Pricing - Part 2",
-                              "Id": "Member_Profiteering_Pricing_2",
-                              "Modification": "Add",
-                              // 1g Minimum Markup
-                              "Amount": 1,
-                              "Condition": "PLAYER_HAS_MAIL Current JojaMember, DAY_OF_WEEK Wednesday",
-                         },
-                    ],
-               },
-               "When": {
-                    "HasFlag|contains=jojaMember": true // Has bought Joja Membership
+                    "Yagisan.Non-Member_Discount_Pricing": {
+                         "LogName": "[Yagi] Joja Mart - Non-Member Discount Pricing",
+                         "Id": "Yagisan.Non-Member_Discount_Pricing",
+                         "Modification": "Multiply",
+                         // 10% Non-Member Discount
+                         "Amount": 0.90,
+                         "Condition": "!PLAYER_HAS_MAIL Current JojaMember, !DAY_OF_WEEK Wednesday",
+                    },
+                    "Yagisan.Member_Discount_Pricing": {
+                         "LogName": "[Yagi] Joja Mart - Member Discount Pricing",
+                         "Id": "Yagisan.Member_Discount_Pricing",
+                         "Modification": "Multiply",
+                         // 25% Member Discount
+                         "Amount": 0.75,
+                         "Condition": "PLAYER_HAS_MAIL Current JojaMember, !DAY_OF_WEEK Wednesday",
+                    },
+                    "Yagisan.Non-Member_Profiteering_Pricing": {
+                         "LogName": "[Yagi] Joja Mart - Joja Mart - Non-Member Profiteering Pricing",
+                         "Id": "Yagisan.Non-Member_Profiteering_Pricing",
+                         "Modification": "Multiply",
+                         // 25% Non-Member Markup
+                         "Amount": 1.25,
+                         "Condition": "!PLAYER_HAS_MAIL Current JojaMember, DAY_OF_WEEK Wednesday",
+                    },
+                    "Yagisan.Member_Profiteering_Pricing": {
+                         "LogName": "[Yagi] Joja Mart - Joja Mart - Member Profiteering Pricing",
+                         "Id": "Yagisan.Member_Profiteering_Pricing",
+                         "Modification": "Multiply",
+                         // 5% Member Markup
+                         "Amount": 1.05,
+                         "Condition": "PLAYER_HAS_MAIL Current JojaMember, DAY_OF_WEEK Wednesday",
+                    }
                }
           },
      ]
