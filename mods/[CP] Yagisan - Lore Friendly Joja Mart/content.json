@@ -26,9 +26,9 @@
                          "Amount": 0.75,
                          "Condition": "PLAYER_HAS_MAIL Current JojaMember, !DAY_OF_WEEK Wednesday",
                     },
-                    "Yagisan.Non-Member_Profiteering_Pricing": {
+                    "NonMemberMarkup": {
                          "LogName": "[Yagi] Joja Mart - Joja Mart - Non-Member Profiteering Pricing",
-                         "Id": "NonMemberMarkup",
+                         "Id": "Yagisan.Non-Member_Profiteering_Pricing",
                          "Modification": "Multiply",
                          // 25% Non-Member Markup
                          "Amount": 1.25,
