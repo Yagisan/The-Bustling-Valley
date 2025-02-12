@@ -28,7 +28,7 @@
                     },
                     "Yagisan.Non-Member_Profiteering_Pricing": {
                          "LogName": "[Yagi] Joja Mart - Joja Mart - Non-Member Profiteering Pricing",
-                         "Id": "Yagisan.Non-Member_Profiteering_Pricing",
+                         "Id": "NonMemberMarkup",
                          "Modification": "Multiply",
                          // 25% Non-Member Markup
                          "Amount": 1.25,
