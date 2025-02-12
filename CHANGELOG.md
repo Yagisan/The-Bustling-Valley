@@ -42,11 +42,13 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Rollback Passerby Cemetery to 2.36.0 - need to recheck after 2.40.1 or later
 - [2.40.0] Passerby Cemetary needs a terrain reset in this release. The map changed.
 - [2.40.0] New map. Passerby Road to the left of where the Bookworm Mobile was. Some events moved here.
+- Community Park Decorations for Content Patcher allows you to build Market Stalls. They have a small selection of items for sale.
 
 ### Modifications <!-- omit in toc -->
 
 ### Additions <!-- omit in toc -->
 
+- Added Yagisan's - Lore Friendly Joja Mart
 - Added [Movie Theater Furniture for Content Patcher](https://www.nexusmods.com/stardewvalley/mods/26479)
 - Added [Community Park Decorations for Content Patcher](https://www.nexusmods.com/stardewvalley/mods/31367)
 - Added [Pirate Furniture and Decorations for Content Patcher](https://www.nexusmods.com/stardewvalley/mods/25536)
@@ -83,6 +85,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Lumisteria Visit Mount Vapius](https://www.nexusmods.com/stardewvalley/mods/9600)
 - Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
 - Updated [Item Extensions](https://www.nexusmods.com/stardewvalley/mods/20357)
+- Updated [Water Bot](https://www.nexusmods.com/stardewvalley/mods/8167)
+- Updated [Mapping Extensions and Extra Properties (MEEP)](https://www.nexusmods.com/stardewvalley/mods/14493)
 
 ### Removals <!-- omit in toc -->
 
