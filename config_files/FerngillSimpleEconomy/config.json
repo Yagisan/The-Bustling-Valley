@@ -2,6 +2,7 @@
   "MaxCalculatedSupply": 1000,
   "MinDelta": -30,
   "MaxDelta": 30,
+  "DeltaArrow": 10,
   "StdDevSupply": 150,
   "StdDevDelta": 5,
   "StdDevDeltaInSeason": 12,
