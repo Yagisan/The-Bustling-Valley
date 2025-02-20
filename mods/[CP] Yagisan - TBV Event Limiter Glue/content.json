@@ -1,6 +1,6 @@
 {
      "$schema": "https://smapi.io/schemas/content-patcher.json",
-     "Format": "2.4.0",
+     "Format": "2.5.0",
      "Changes": [
           {
                // This is a dummy action to make Content Patcher happy.
@@ -17,13 +17,88 @@
           }
      ],
      "EventLimiterExceptions": [
-          // Ridgeside Village
+          // Ridgeside Village Repeat Events (Hotel, Cable Car etc)
           "75160060",
           "75160175",
           "75160176",
           "75160193",
           "75160245",
           "75160247",
-          "75160248"
+          "75160248",
+          "75160383", // Ridgeside Village Grandma Event
+          // Ridgeside Village Spirit Realm Events
+          "75160377",
+          "75160187",
+          "75160254",
+          "75160255",
+          "75160256",
+          "75160257",
+          "75160258",
+          "75160259",
+          "75160263",
+          "75160264",
+          "75160265",
+          // Ridgeside Village Greenhouse Events
+          "75160266",
+          "75160267",
+          "75160268",
+          "75160269",
+          // Ridgeside Village Special Order Events
+          "75160376",
+          "75160380",
+          "75160382",
+          "75160381",
+          // Ridgeside Village Heart Events
+          "75160118",
+          "75160140",
+          "75160208",
+          "75160120",
+          "75160156",
+          "75160132",
+          "75160138",
+          "94621001",
+          // Time Limited Vanilla Events
+          "2", //   Abigail 4H (playing flute)      t 1200 1900
+          "3", //   Abigail 8H (spirit board)       t 2000 2200
+          "4", //   Abigail 6H (graveyard)          t 2100 2400
+          "8", //   Maru 6H (telescope)             t 2100 2340
+          "10", //  Maru 10H (MarILDA)              t 900 1600
+          "13", //  Haley 6H (Lost Bracelet)        t 1000 1600
+          "14", //  Haley 8H (cow photos)           t 1000 1600
+          "26", //  Linus 4H (visit tent, get wild bait) t 2000 2400
+          "29", //  Sebastian 8H (on dock in rain, shares umbrella) t 1200 2300
+          "34", //  Penny 2H (George mailbox)       t 900 1400
+          "38", //  Penny 10H (Spa pool)            t 1900 2400
+          "40", //  Elliott 4H (saloon)             t 1500 2200
+          "43", //  Elliott 10H (boat ride)         t 700 1300
+          "45", //  Sam 6H (skateboard trick)       t 1200 1600
+          "47", //  Sam pre8H (invite to band performance) t 600 800
+          "53", //  Leah 8H (art show)              t 1500 1700
+          "54", //  Leah 10H (picnic)               t 1100 1600
+          "58", //  Harvey 6H (aerobics)            t 1100 1500
+          "63", //  Kent back in town               t 600 1800
+          "65", //  Demetrius cave choices          t 600 1200
+          "66", //  Gunther gives key               t 600 700
+          "91", //  Marnie pre3H (asks for cave carrot) t 600 930
+          "92", //  Marnie 3H (cave carrot delivery) t 900 1700
+          "93", //  Jodi pre4H (invites to dinner)  t 600 930
+          "94", //  Jodi 4H (dinner; without Kent)  t 1800 1950
+          "95", //  Jodi 4H (dinner; with Kent)     t 1800 1950
+          "97", //  Clint 3H (advice)               t 1900 2300
+          "101", // Clint 6H (ask Emily to carnival) t 900 1830
+          "233104", // Sam 10H (sneak into room)    t 2000 2400
+          "2481135", // Alex 4H (Dusty the dog)     t 900 1600
+          "318560", // Jas & Vincent at the sewer entrance t 900 1600
+          "384882", // Sebastian 10H (bike ride)    t 2000 2400
+          "384883", // Sebastian 4H (working on bike) t 1100 1700
+          "502969", // Linus digging through George's trash t 2000 2400
+          "718111", // TrashBear Cleanup            t 600 1800
+          "980558", // Gus 5H (mini jukebox)        t 600 1130
+          "992559", // Emily Tailoring Intro (not married) t 600 1130
+          "992553", // Clint furnace blueprint      t 600 1130
+          "718926", // Caroline 2H (Tea)            t 900 1700
+          "800139", // Wizard Dark Talisman         t 600 1710
+          "818172", // Return magic ink to wizard   t 600 700
+          "9581348" // Shane 10H (gridball)        t 1600 1800
      ]
 }
