@@ -114,6 +114,19 @@
           "SnS.Ch4.Victory.Gunnar",
           "SnS.Ch4.Victory.Sen",
           "SnS.Ch4.Victory.SoloFarmer",
-          "SnS.Ch4.Victory.FarmerGuildmaster"
+          "SnS.Ch4.Victory.FarmerGuildmaster",
+          // Passerby Cemetery Story Events
+          "Fellowclown.PC_UnlockLyellsAnimals",
+          "Fellowclown.PC_UnlockLyellsAnimals",
+          "Fellowclown.PC_AltarOffering",
+          "Fellowclown.PC_ArahOffering",
+          "Fellowclown.PC_UnlockTropaTree",
+          "Fellowclown.PC_TheCreature",
+          "Fellowclown.PC_TheExhibit",
+          "Fellowclown.PC_UnlockPetArcaDog",
+          "Fellowclown.PC_TurnAboutSaloon",
+          "Fellowclown.PC_CottonsFreedom",
+          "Fellowclown.PC_CaveBlockUnlock",
+          "Fellowclown.PC_CottonsBundle"
      ]
 }
