@@ -46,6 +46,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
   - All Ridgeside Village Heart related multipart events.
   - All Time limited vanilla events.
   - All Sword & Sorcery - Duskspire Final Encounter events
+  - All Passerby Cemetery Story events
 
 ### Modifications <!-- omit in toc -->
 
