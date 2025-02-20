@@ -99,6 +99,21 @@
           "718926", // Caroline 2H (Tea)            t 900 1700
           "800139", // Wizard Dark Talisman         t 600 1710
           "818172", // Return magic ink to wizard   t 600 700
-          "9581348" // Shane 10H (gridball)        t 1600 1800
+          "9581348", // Shane 10H (gridball)        t 1600 1800
+          // Sword & Sorcery - Duskspire Final Encounter Event
+          "SnS.Ch4.Finale",
+          "SnS.Ch4.Intermission.Mateo",
+          "SnS.Ch4.Intermission.Hector",
+          "SnS.Ch4.Intermission.Cirrus",
+          "SnS.Ch4.Intermission.Gunnar",
+          "SnS.Ch4.Intermission.Sen",
+          "SnS.Ch4.Intermission.SoloFarmer",
+          "SnS.Ch4.Victory.Mateo",
+          "SnS.Ch4.Victory.Hector",
+          "SnS.Ch4.Victory.Cirrus",
+          "SnS.Ch4.Victory.Gunnar",
+          "SnS.Ch4.Victory.Sen",
+          "SnS.Ch4.Victory.SoloFarmer",
+          "SnS.Ch4.Victory.FarmerGuildmaster"
      ]
 }
