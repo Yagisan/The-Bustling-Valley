@@ -52,7 +52,17 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Additions <!-- omit in toc -->
 
+- Added [Haystack Silo (AT Version)](https://www.nexusmods.com/stardewvalley/mods/30005)
+- Added [Seasonal Doghouses and Pet Bowls for Vanilla](https://www.nexusmods.com/stardewvalley/mods/31792)
+
 ### Updates <!-- omit in toc -->
+
+- Updated [Unique Winter Star - Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/30294)
+- Updated [Community Park Decorations for Content Patcher](https://www.nexusmods.com/stardewvalley/mods/31367)
+- Updated [Bathroom Furniture for Content Patcher](https://www.nexusmods.com/stardewvalley/mods/25536)
+- Updated [Extra Machine Configs](https://www.nexusmods.com/stardewvalley/mods/22256)
+- Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
+- Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
 
 ### Removals <!-- omit in toc -->
 
