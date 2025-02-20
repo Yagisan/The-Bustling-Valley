@@ -1,22 +1,27 @@
 {
-				//Plants
-				"MtVapiusWhiteGrape_Translated": "Vapius White Grape",
-				"MtVapiusWhiteGrape_Description_Translated": "Even sweeter than the usual variety. Can be matured on shelves to produce Sun Grape. Drying them is possible but less efficient.",
-				"MtVapiusBasil_Translated": "Vapius Basil",
-				"MtVapiusBasil_Description_Translated": "An herb full of flavour, with an amazing smell.",
-				"MtVapiusOlive_Translated": "Vapius Olive",
-				"MtVapiusOlive_Description_Translated": "Inedible fruit that can be pickled or processed in olive oil.",
-
-				//Seeds
-				"MtVapiusOliveSapling_Translated": "Vapius Olive Sapling",
-				"MtVapiusOliveSapling_Description_Translated": "Takes 28 days to produce a mature Olive tree. Bears olives in the fall and winter, but not every day. Rumored to produce rare olives on right conditions. Only grows if the 8 surrounding \"tiles\" are empty.",
-				"MtVapiusGrapeSapling_Translated": "Vapius Treillis Grape Sapling",
-				"MtVapiusGrapeSapling_Description_Translated": "Takes 28 days to produce a mature trellis Grape tree. Bears grapes in the summer and fall, but not every day. Rumored to produce rare grapes on right conditions. Only grows if the 8 surrounding \"tiles\" are empty.",
-				"MtVapiusBasilSeeds_Translated": "Vapius Basil Seeds",
-				"MtVapiusBasilSeeds_Description_Translated": "Plant these in the summer. Takes 10 days to mature, but keeps producing after that.",
-
-				//Artisan Goods
-				"MtVapiusOliveOil_Translated": "Vapius Olive Oil",
-				"MtVapiusOliveOil_Description_Translated": "A flavorfull oil used in cooking.",
-
+	//Plants
+	"MtVapiusWhiteGrape_Translated": "Vapius White Grape",
+	"MtVapiusWhiteGrape_Description_Translated": "Even sweeter than the usual variety. Can be matured on shelves to produce Sun Grape. Drying them is possible but less efficient.",
+	"MtVapiusBasil_Translated": "Vapius Basil",
+	"MtVapiusBasil_Description_Translated": "An herb full of flavour, with an amazing smell.",
+	"MtVapiusOlive_Translated": "Vapius Olive",
+	"MtVapiusOlive_Description_Translated": "Inedible fruit that can be pickled or processed in olive oil.",
+	//Seeds
+	"MtVapiusOliveSapling_Translated": "Vapius Olive Sapling",
+	"MtVapiusOliveSapling_Description_Translated": "Takes 28 days to produce a mature Olive tree. Bears olives in the fall and winter, but not every day. Rumored to produce rare olives on right conditions. Only grows if the 8 surrounding \"tiles\" are empty.",
+	"MtVapiusGrapeSapling_Translated": "Vapius Treillis Grape Sapling",
+	"MtVapiusGrapeSapling_Description_Translated": "Takes 28 days to produce a mature trellis Grape tree. Bears grapes in the summer and fall, but not every day. Rumored to produce rare grapes on right conditions. Only grows if the 8 surrounding \"tiles\" are empty.",
+	"MtVapiusBasilSeeds_Translated": "Vapius Basil Seeds",
+	"MtVapiusBasilSeeds_Description_Translated": "Plant these in the summer. Takes 10 days to mature, but keeps producing after that.",
+	//Artisan Goods
+	"MtVapiusOliveOil_Translated": "Vapius Olive Oil",
+	"MtVapiusOliveOil_Description_Translated": "A flavorfull oil used in cooking.",
+	//Animal Products
+	"MtVapiusButter_Translated": "Vapius Butter",
+	"MtVapiusButter_Description_Translated": "The richer the color, the better the taste.",
+	//Quests
+	"MtVapiusQuestButterForJodiTitle": "Vapius Butter for Jodi",
+	"MtVapiusQuestButterForJodiText": "Jodi wants butter made with the Mount Vapius method.",
+	"MtVapiusQuestButterForJodiObjective": "Bring Jodi 1 Vapius Butter.",
+	"MtVapiusQuestButterForJodiDialogue": "Thanks, @. Oh, no, I don't have any bread, I should send Sam get some quickly.",
 }

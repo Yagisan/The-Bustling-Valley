@@ -123,7 +123,24 @@
 						"olive_oil_item",
 						"color_yellow",
 					],
-				}
+				},
+				"Lumisteria.MtVapius_Butter": {
+					"Name": "Vapius Butter",
+					"DisplayName": "{{i18n: MtVapiusButter_Translated}}",
+					"Description": "{{i18n: MtVapiusButter_Description_Translated}}",
+					"Edibility": "28",
+					"Type": "Basic",
+					"Category": -26,
+					"Price": 180,
+					"Texture": "Mods\\Lumisteria.MtVapius\\AnimalProducts",
+					"SpriteIndex": 8,
+					"ContextTags": [
+						"mt_vapius",
+						"ingredient_butter",
+						"butter_item",
+						"color_yellow",
+					],
+				},
 			}
 		}
 	]
