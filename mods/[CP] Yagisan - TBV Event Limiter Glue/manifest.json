@@ -2,14 +2,14 @@
   "$schema": "https://smapi.io/schemas/manifest.json",
   "Name": "[CP] Yagisan - TBV Event Limiter Glue",
   "Author": "Yagisan",
-  "Version": "2.0.1",
+  "Version": "2.1.0",
   "Description": "Glue mod to make Event Limiter and mods in The Bustling Valley mod list play nicely",
   "UniqueID": "Yagisan.TBVEventLimiterGlue",
   "MinimumApiVersion": "4.0.0",
   "UpdateKeys": [],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher",
-    "MinimumVersion": "2.4.0"
+    "MinimumVersion": "2.5.0"
   },
   "Dependencies": [
     {
@@ -20,6 +20,10 @@
     {
       "UniqueID": "Rafseazz.RSVCP",
       "IsRequired": false
-    }
+    },
+    {
+      "UniqueID": "DN.SnS",
+      "IsRequired": false
+    },
   ]
 }
