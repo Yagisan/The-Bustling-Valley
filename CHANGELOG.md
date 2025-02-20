@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.8.5](#085)
   - [0.8.4](#084)
   - [0.8.3](#083)
   - [0.8.2](#082)
@@ -30,6 +31,29 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.8.5
+
+**Released:** `DD MMM 2025`
+
+### Info <!-- omit in toc -->
+
+- Yagisan's Event Limiter glue has had a massive update, whitelisting to the best of my ability:
+  - All Ridgeside Village repeatable events.
+  - All Ridgeside Village Spirit Realm events.
+  - All Ridgeside Village Greenhouse events.
+  - All Ridgeside Village Special Order events.
+  - All Ridgeside Village Heart related multipart events.
+  - All Time limited vanilla events.
+  - All Sword & Sorcery - Duskspire Final Encounter events
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+### Removals <!-- omit in toc -->
 
 ## 0.8.4
 
