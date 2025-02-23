@@ -34,7 +34,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.8.5
 
-**Released:** `DD MMM 2025`
+**Released:** `23 Feb 2025`
 
 ### Info <!-- omit in toc -->
 
@@ -45,8 +45,9 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
   - All Ridgeside Village Special Order events.
   - All Ridgeside Village Heart related multipart events.
   - All Time limited vanilla events.
-  - All Sword & Sorcery - Duskspire Final Encounter events
+  - All Sword & Sorcery - Final Encounter events
   - All Passerby Cemetery Story events
+- Yagisan's - TBV Consistency Patch has renamed more duplicate name items.
 
 ### Modifications <!-- omit in toc -->
 
@@ -63,6 +64,12 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Extra Machine Configs](https://www.nexusmods.com/stardewvalley/mods/22256)
 - Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
 - Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
+- Updated [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
+- Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
+- Updated [Item Extensions](https://www.nexusmods.com/stardewvalley/mods/20357)
+- Updated [HxW Tilesheets](https://www.nexusmods.com/stardewvalley/mods/20139)
+- Updated [HxW Farmer's Market Furniture - Core](https://www.nexusmods.com/stardewvalley/mods/18814)
+- Updated [Distant Lands - A Small Witch Swamp Expansion](https://www.nexusmods.com/stardewvalley/mods/18109)
 
 ### Removals <!-- omit in toc -->
 
