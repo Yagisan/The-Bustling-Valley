@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.8.6](#086)
   - [0.8.5](#085)
   - [0.8.4](#084)
   - [0.8.3](#083)
@@ -31,6 +32,28 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.8.6
+
+**Released:** `DD MMM 2025`
+
+### Info <!-- omit in toc -->
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+- Updated [Lumisteria Visit Mount Vapius](https://www.nexusmods.com/stardewvalley/mods/9600)
+- Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
+- Updated [Secret Note Framework](https://www.nexusmods.com/stardewvalley/mods/25055)
+- Updated [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536)
+- Updated [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+- Updated [Ferngill Simple Economy](https://www.nexusmods.com/stardewvalley/mods/21414)
+- Updated [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
+- Updated [Unlockable Bundles](https://www.nexusmods.com/stardewvalley/mods/17265)
 
 ## 0.8.5
 
