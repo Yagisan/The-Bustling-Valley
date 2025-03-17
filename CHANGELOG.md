@@ -62,6 +62,10 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Item Extensions](https://www.nexusmods.com/stardewvalley/mods/20357)
 - Updated [HxW Tilesheets](https://www.nexusmods.com/stardewvalley/mods/20139)
 - Updated [Remapping](https://www.nexusmods.com/stardewvalley/mods/29049)
+- Updated [Canon-Friendly Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/2544)
+- Updated [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
+- Updated [The Last Smoluanu - A Dwarf Expansion](https://www.nexusmods.com/stardewvalley/mods/9642)
+- Updated [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
 
 ## 0.8.5
 
