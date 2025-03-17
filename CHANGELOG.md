@@ -39,6 +39,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
+- Visit Mount Vapius polished gems and earrings now count towards jewellers category in Fresh Farm Produce.
+
 ### Modifications <!-- omit in toc -->
 
 ### Additions <!-- omit in toc -->
@@ -54,6 +56,12 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Ferngill Simple Economy](https://www.nexusmods.com/stardewvalley/mods/21414)
 - Updated [Better Crafting](https://www.nexusmods.com/stardewvalley/mods/11115)
 - Updated [Unlockable Bundles](https://www.nexusmods.com/stardewvalley/mods/17265)
+- Updated [Extra Machine Configs](https://www.nexusmods.com/stardewvalley/mods/22256)
+- Updated [Fresh Farm Produce](https://www.nexusmods.com/stardewvalley/mods/29299)
+- Updated [Unique Children](https://www.nexusmods.com/stardewvalley/mods/6278)
+- Updated [Item Extensions](https://www.nexusmods.com/stardewvalley/mods/20357)
+- Updated [HxW Tilesheets](https://www.nexusmods.com/stardewvalley/mods/20139)
+- Updated [Remapping](https://www.nexusmods.com/stardewvalley/mods/29049)
 
 ## 0.8.5
 
