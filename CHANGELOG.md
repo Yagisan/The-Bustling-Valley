@@ -40,6 +40,13 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 ### Info <!-- omit in toc -->
 
 - Visit Mount Vapius polished gems and earrings now count towards jewellers category in Fresh Farm Produce.
+- Passerby Cemetery has had significant updates.
+  - You need to reset all Passerby Cemetery maps. Visit each map, press `v`, select `Terrain` and `Bush` options. Then select reset.
+  - Dodo's were renamed. Sell all the errored animals.
+  - Dodo eggs were renamed. Sell all the errored eggs.
+  - Replacement eggs can be bought from Crank in Passerby Cliffs.
+  - Goud now need to be in a Tropical Coup.
+  - Stardrop Saloon events are now in Turnabout Saloon.
 
 ### Modifications <!-- omit in toc -->
 
@@ -66,6 +73,12 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
 - Updated [The Last Smoluanu - A Dwarf Expansion](https://www.nexusmods.com/stardewvalley/mods/9642)
 - Updated [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
+- Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
+- Updated [Distant Lands - A Small Witch Swamp Expansion](https://www.nexusmods.com/stardewvalley/mods/18109)
+
+### Removals <!-- omit in toc -->
+
+- Removed [ClownCore](https://www.nexusmods.com/stardewvalley/mods/19200)
 
 ## 0.8.5
 
