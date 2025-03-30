@@ -47,6 +47,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
   - Replacement eggs can be bought from Crank in Passerby Cliffs.
   - Goud now need to be in a Tropical Coup.
   - Stardrop Saloon events are now in Turnabout Saloon.
+- HxW Bakery and Cafe Furniture added left and right versions of countertops. This will cause some item errors. Please trash these error items and place new ones.
 
 ### Modifications <!-- omit in toc -->
 
@@ -75,6 +76,11 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
 - Updated [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
 - Updated [Distant Lands - A Small Witch Swamp Expansion](https://www.nexusmods.com/stardewvalley/mods/18109)
+- Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
+- Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
+- Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
+- Updated [Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [HxW Bakery and Cafe Furniture](https://www.nexusmods.com/stardewvalley/mods/9991)
 
 ### Removals <!-- omit in toc -->
 
