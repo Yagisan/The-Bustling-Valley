@@ -9,6 +9,7 @@
     "ToggleDebug": "None"
   },
   "ShowUnknownGiftTastes": true,
+  "ShowUncaughtFishSpawnRules": true,
   "ShowUnknownRecipes": true,
   "ShowPuzzleSolutions": true,
   "HighlightUnrevealedGiftTastes": false,

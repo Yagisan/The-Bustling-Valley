@@ -13,6 +13,7 @@
   "EnableMenuTab": true,
   "EnableShopDisplay": true,
   "EnableTooltip": true,
+  "DisableArtisanMapping": false,
   "ShowMenuHotkey": "H",
   "ValidCategories": [
     -2,
