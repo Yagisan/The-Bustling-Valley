@@ -40,7 +40,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 ### Info <!-- omit in toc -->
 
 - Visit Mount Vapius polished gems and earrings now count towards jewellers category in Fresh Farm Produce.
-- Passerby Cemetery has had significant updates.
+- Passerby Cemetery has had significant updates. It is intentionally kept at 2.5.3 for this release.
   - You need to reset all Passerby Cemetery maps. Visit each map, press `v`, select `Terrain` and `Bush` options. Then select reset.
   - Dodo's were renamed. Sell all the errored animals.
   - Dodo eggs were renamed. Sell all the errored eggs.
@@ -55,6 +55,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Updates <!-- omit in toc -->
 
+- Updated [SMAPI](https://smapi.io/)
 - Updated [Lumisteria Visit Mount Vapius](https://www.nexusmods.com/stardewvalley/mods/9600)
 - Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
 - Updated [Secret Note Framework](https://www.nexusmods.com/stardewvalley/mods/25055)
