@@ -42,6 +42,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 The major change in this release is the removal of [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600). This mod is under such rapid development and changes, I can't do it, or The Bustling Valley justice, by shipping a release that I know will be replaced almost immediately.
 
+To remove extra tools from this mod, build a chest. Go to the secret woods. Chop down a hardwood stump. Place the chest in the **exact** spot the hardwood stump was. Now put the tools in the chest. Overnight the stump will respawn destroying the chest and the tools.
+
 I am open to including it again, once it becomes much more stable.
 
 [Fresh Farm Produce](https://www.nexusmods.com/stardewvalley/mods/29299) now includes a Partial Freshness feature. Items will not instantly become stale overnight. Fridges/Mini-Fridges can now also slow the freshness decay rate.
@@ -70,6 +72,8 @@ Please don't forget that competing in the Farm Fresh Produce competitions is ent
 ### Removals <!-- omit in toc -->
 
 - Removed [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
+- Removed [PoohCore](https://www.nexusmods.com/stardewvalley/mods/22941)
+- Removed [Secret Note Framework](https://www.nexusmods.com/stardewvalley/mods/25055)
 
 ## 0.8.6
 
