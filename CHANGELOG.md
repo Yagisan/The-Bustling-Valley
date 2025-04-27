@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.8.7](#087)
   - [0.8.6](#086)
   - [0.8.5](#085)
   - [0.8.4](#084)
@@ -32,6 +33,43 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.8.7
+
+**Released:** `DD Apr 2025`
+
+### Info <!-- omit in toc -->
+
+The major change in this release is the removal of [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600). This mod is under such rapid development and changes, I can't do it, or The Bustling Valley justice, by shipping a release that I know will be replaced almost immediately.
+
+I am open to including it again, once it becomes much more stable.
+
+[Fresh Farm Produce](https://www.nexusmods.com/stardewvalley/mods/29299) now includes a Partial Freshness feature. Items will not instantly become stale overnight. Fridges/Mini-Fridges can now also slow the freshness decay rate.
+
+Random Competition.
+
+Please don't forget that competing in the Farm Fresh Produce competitions is entirely optional and there is no penalty for ignoring them, if it's one you don't like. 
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+- Updated [YACS - Yet Another Cooking Skill](https://www.nexusmods.com/stardewvalley/mods/22681)
+- Updated [Ferngill Simple Economy](https://www.nexusmods.com/stardewvalley/mods/21414)
+- Updated [Extra Machine Configs](https://www.nexusmods.com/stardewvalley/mods/22256)
+- Updated [Fresh Farm Produce](https://www.nexusmods.com/stardewvalley/mods/29299)
+- Updated [Remapping](https://www.nexusmods.com/stardewvalley/mods/29049)
+- Updated [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508)
+- Updated [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
+- Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
+- Updated [Sword and Sorcery - A Fantasy Expansion for East Scarp](https://www.nexusmods.com/stardewvalley/mods/12369)
+- Updated [Ayeisha - The Postal Worker](https://www.nexusmods.com/stardewvalley/mods/6427)
+
+### Removals <!-- omit in toc -->
+
+- Removed [Passerby Cemetery](https://www.nexusmods.com/stardewvalley/mods/22600)
 
 ## 0.8.6
 
