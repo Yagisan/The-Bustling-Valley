@@ -1,13 +1,17 @@
 {
-  "DisableFlash": true,
   "DisableStaleness": false,
   "FreshDisplayName": true,
   "ShowCategoriesInDescription": true,
   "DisableFreshPriceIncrease": false,
+  "FreshDays": 1,
+  "FridgeFreshDays": 3,
   "EnableCompetition": true,
   "EnableFamePriceIncrease": true,
   "EnableFameDifficultyIncrease": true,
   "EnableDifficultyRandomization": true,
+  "EnableRandomPresets": true,
+  "DisabledPresets": [],
+  "ForcedPreset": "",
   "EarlyFreshModifierRegular": 1.05,
   "EarlyFreshModifierSilver": 1.1,
   "EarlyFreshModifierGold": 1.15,
@@ -15,5 +19,7 @@
   "LateFreshModifierRegular": 1.25,
   "LateFreshModifierSilver": 1.4,
   "LateFreshModifierGold": 1.6666,
-  "LateFreshModifierIridium": 2.0
+  "LateFreshModifierIridium": 2.0,
+  "DisableFlash": true,
+  "SwagBagItemCount": 4
 }
