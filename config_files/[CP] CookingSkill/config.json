@@ -1,4 +1,5 @@
 {
   "Enable_Vanilla_Food_Changes": "true",
-  "Enable_Cookout_Kit_Changes": "true"
+  "Enable_Cookout_Kit_Changes": "true",
+  "Use_LoC_Levels": "false"
 }
