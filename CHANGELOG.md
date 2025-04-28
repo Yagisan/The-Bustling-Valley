@@ -48,7 +48,7 @@ I am open to including it again, once it becomes much more stable.
 
 [Fresh Farm Produce](https://www.nexusmods.com/stardewvalley/mods/29299) now includes a Partial Freshness feature. Items will not instantly become stale overnight. Fridges/Mini-Fridges can now also slow the freshness decay rate.
 
-Random Competition.
+The specific Farm Fresh competition you now get each month is now randomised.
 
 Please don't forget that competing in the Farm Fresh Produce competitions is entirely optional and there is no penalty for ignoring them, if it's one you don't like. 
 
