@@ -8,6 +8,8 @@
   "ConfigureAdventureBar": "U",
   "ToggleAdventureBar": "LeftControl + U",
   "EarlyPaladinUnlock": true,
+  "ShieldThrowMethod": "both",
+  "ShieldThrowKeybind": "None",
   "LltkToggleRightClick": false,
   "LltkToggleKeybind": "None",
   "LltkDifficulty": "Medium",
