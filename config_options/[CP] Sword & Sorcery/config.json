@@ -1,4 +1,7 @@
 {
+  "Portrait Style": "Default",
+  "Nyapu Critters": "false",
+  "Nyapu Shadowfolk": "false",
   "Player Pronouns 1": "They",
   "Player Pronouns 2": "Them",
   "Player Pronouns 3": "Theirs",
@@ -13,6 +16,8 @@
   "MermaidPendantChoker": "true",
   "MateoSpouseRoomConfig": "true",
   "MateoSpousePatioConfig": "true",
+  "EmeritusSpawnPointX": "51",
+  "EmeritusSpawnPointY": "25",
   "HectorSpouseRoomConfig": "true",
   "HectorSpousePatioConfig": "true",
   "CirrusSpouseRoomConfig": "true",
