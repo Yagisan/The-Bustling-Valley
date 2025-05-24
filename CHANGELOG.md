@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.8.8](#088)
   - [0.8.7](#087)
   - [0.8.6](#086)
   - [0.8.5](#085)
@@ -33,6 +34,42 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.8.8
+
+**Released:** `24 May 2025`
+
+### Info <!-- omit in toc -->
+
+[East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787) has had some map updates.
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+- Added [Ranger Taro (VMV Version)](https://www.nexusmods.com/stardewvalley/mods/30445)
+- Added [FIASA - a mini expansion (Platonic Version)](https://www.nexusmods.com/stardewvalley/mods/33880)
+- Added [Metalcore Goes Cottagecore](https://www.nexusmods.com/stardewvalley/mods/29995)
+- Added [Bear Family Custom NPCs](https://www.nexusmods.com/stardewvalley/mods/16197)
+
+### Updates <!-- omit in toc -->
+
+- Updated [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
+- Updated [Lumisteria Visit Mount Vapius](https://www.nexusmods.com/stardewvalley/mods/9600)
+- Updated [Morris Redeemed](https://www.nexusmods.com/stardewvalley/mods/12667)
+- Updated [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
+- Updated [Romanced NPCs in CC Ceremony](https://www.nexusmods.com/stardewvalley/mods/9561)
+- Updated [Romanced NPCs in CC Ceremony RSV](https://www.nexusmods.com/stardewvalley/mods/10261)
+- Updated [Destroyable Bushes](https://www.nexusmods.com/stardewvalley/mods/6304)
+- Updated [Nora The Herpetologist](https://www.nexusmods.com/stardewvalley/mods/18176)
+- Updated [Item Extensions](https://www.nexusmods.com/stardewvalley/mods/20357)
+- Updated [Cornucopia - Artisan Machines](https://www.nexusmods.com/stardewvalley/mods/24842)
+- Updated [Unlockable Bundles](https://www.nexusmods.com/stardewvalley/mods/17265)
+- Updated [Extra Machine Configs](https://www.nexusmods.com/stardewvalley/mods/22256)
+- Updated [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508)
+- Updated [Cornucopia - More Flowers](https://www.nexusmods.com/stardewvalley/mods/20290)
+
+### Removals <!-- omit in toc -->
 
 ## 0.8.7
 
