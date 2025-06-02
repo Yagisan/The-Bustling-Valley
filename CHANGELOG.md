@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.8.9](#089)
   - [0.8.8](#088)
   - [0.8.7](#087)
   - [0.8.6](#086)
@@ -34,6 +35,39 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.8.9
+
+**Released:** `2 Jun 2025`
+
+### Info <!-- omit in toc -->
+
+Downgraded [Item Extensions](https://www.nexusmods.com/stardewvalley/mods/20357) to fix non-functional ore mining.
+
+[Coal Point Farm](https://www.nexusmods.com/stardewvalley/mods/24852) NPC schedules have been updated.
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+- Downgraded [Item Extensions](https://www.nexusmods.com/stardewvalley/mods/20357)
+- Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
+- Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
+- Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
+- Updated [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+- Updated [Noclip Mode](https://www.nexusmods.com/stardewvalley/mods/3900)
+- Updated [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
+- Updated [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348)
+- Updated [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)
+- Updated [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)
+- Updated [Buildable Ginger Island Farm](https://www.nexusmods.com/stardewvalley/mods/20600)
+- Updated [Coal Point Farm](https://www.nexusmods.com/stardewvalley/mods/24852)
+
+### Removals <!-- omit in toc -->
 
 ## 0.8.8
 
