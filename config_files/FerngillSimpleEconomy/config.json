@@ -15,6 +15,10 @@
   "EnableTooltip": true,
   "DisableArtisanMapping": false,
   "ShowMenuHotkey": "H",
+  "SupplyUpdateFrequency": "Yearly",
+  "DeltaUpdateFrequency": "Seasonally",
+  "CustomSupplyUpdateFrequency": 112,
+  "CustomDeltaUpdateFrequency": 28,
   "ValidCategories": [
     -2,
     -4,
