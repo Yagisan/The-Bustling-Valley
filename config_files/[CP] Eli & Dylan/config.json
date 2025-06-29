@@ -1,3 +1,11 @@
 {
-  "Exclude From Perfection": "true"
+  "Portrait Style": "NinTheCactus",
+  "PlayerJobTitle": "Farmer",
+  "ProfanityFilter": "false",
+  "Exclude From Perfection": "true",
+  "Player Pronouns 1": "They",
+  "Player Pronouns 2": "Them",
+  "Player Pronouns 3": "Their",
+  "Player Pronouns 4": "Themselves",
+  "Player Pronoun Identifier": "are"
 }
