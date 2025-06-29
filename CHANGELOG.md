@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.8.10](#0810)
   - [0.8.9](#089)
   - [0.8.8](#088)
   - [0.8.7](#087)
@@ -35,6 +36,41 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.8.10
+
+**Released:** `DD Jun 2025`
+
+### Info <!-- omit in toc -->
+
+[Sword and Sorcery - A Fantasy Expansion for East Scarp](https://www.nexusmods.com/stardewvalley/mods/12369) - This is a pretty major bugfixing update. There is no content, but there is one notable gameplay loop change: Aether will now regenerate. Once you receive the grimoire from Solomon (it used to unlock the research menu, which is now depreciated) it will instead trigger passive Aether restoration that will improve as your spellcasting skills do.
+
+[Eli and Dylan - Custom NPCs for East Scarp](https://www.nexusmods.com/stardewvalley/mods/13883) - Special order duration has been fixed - they shouldn't expire and lock people out of Eli and Dylan's later events now. A coin sign has been added to Mouse's shop, which should hopefully be more intuitive (you won't need to click on a blank wall to access the shop anymore). Crop IDs have changed. You'll need to harvest and sell broken crops, and buy replacement seeds at Mouse's shop.
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+- Updated [Sword and Sorcery - A Fantasy Expansion for East Scarp](https://www.nexusmods.com/stardewvalley/mods/12369)
+- Updated [Eli and Dylan - Custom NPCs for East Scarp](https://www.nexusmods.com/stardewvalley/mods/13883)
+- Updated [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
+- Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
+- Updated [Creative Differences](https://www.nexusmods.com/stardewvalley/mods/13437)
+- Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
+- Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+- Updated [Extra Machine Configs](https://www.nexusmods.com/stardewvalley/mods/22256)
+- Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
+- Updated [Alecto the Witch](https://www.nexusmods.com/stardewvalley/mods/10671)
+- Updated [Bear Family Custom NPCs](https://www.nexusmods.com/stardewvalley/mods/16197)
+- Updated [Dwarf Portrait Replacement](https://www.nexusmods.com/stardewvalley/mods/14916)
+- Updated [Remapping](https://www.nexusmods.com/stardewvalley/mods/29049)
+- Updated [Fresh Farm Produce](https://www.nexusmods.com/stardewvalley/mods/29299)
+- Updated [Ferngill Simple Economy](https://www.nexusmods.com/stardewvalley/mods/21414)
+- Updated [Unlockable Bundles](https://www.nexusmods.com/stardewvalley/mods/17265)
+
+### Removals <!-- omit in toc -->
 
 ## 0.8.9
 
