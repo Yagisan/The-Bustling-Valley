@@ -44,6 +44,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
+[Cornucopia - Artisan Machines](https://www.nexusmods.com/stardewvalley/mods/24842) has changed Sea Salt. It is no longer a mineral, this should fixing donation issues with the museum. You can still use it in the crystalarium.
+
 ### Modifications <!-- omit in toc -->
 
 ### Additions <!-- omit in toc -->
@@ -53,6 +55,16 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
 - Updated [Unlockable Bundles](https://www.nexusmods.com/stardewvalley/mods/17265)
 - Updated [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
+- Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
+- Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
+- Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+- Updated [Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
+- Updated [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
+- Updated [Cornucopia - Artisan Machines](https://www.nexusmods.com/stardewvalley/mods/24842)
+- Updated [Yagisan's Willy Shop Expanded](https://www.nexusmods.com/stardewvalley/mods/23395)
+- Updated [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)
+- Updated [HxW Tilesheets](https://www.nexusmods.com/stardewvalley/mods/20139)
 
 ### Removals <!-- omit in toc -->
 
