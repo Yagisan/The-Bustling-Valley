@@ -14,6 +14,8 @@
   "JunimoHutBehaviorForSeeds": "AutoDetect",
   "CollectTreeMoss": true,
   "WarnForMissingBridgeMod": true,
+  "ChestsEnabledByDefault": true,
+  "ChestOverrides": {},
   "MachineOverrides": {
     "ShippingBin": {
       "Priority": 0,
