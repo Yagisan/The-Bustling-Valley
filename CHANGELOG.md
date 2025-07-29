@@ -40,11 +40,13 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.8.11
 
-**Released:** `DD MMM 2025`
+**Released:** `30 Jul 2025`
 
 ### Info <!-- omit in toc -->
 
-[Cornucopia - Artisan Machines](https://www.nexusmods.com/stardewvalley/mods/24842) has changed Sea Salt. It is no longer a mineral, this should fixing donation issues with the museum. You can still use it in the crystalarium.
+[SMAPI](https://smapi.io/) has updated to 4.3.2 - this now includes a malicious mods blacklist. This is helpful if you have chosen to customise the list. (I can't offer support for customised versions of this list.) IT also has performance improvements.
+
+[Cornucopia - Artisan Machines](https://www.nexusmods.com/stardewvalley/mods/24842) has changed Sea Salt. It is no longer a mineral, this should fix donation issues with the museum. You can still use it in the crystalarium.
 
 ### Modifications <!-- omit in toc -->
 
@@ -52,6 +54,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Updates <!-- omit in toc -->
 
+- Updated [SMAPI](https://smapi.io/)
 - Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
 - Updated [Unlockable Bundles](https://www.nexusmods.com/stardewvalley/mods/17265)
 - Updated [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
@@ -65,6 +68,9 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Yagisan's Willy Shop Expanded](https://www.nexusmods.com/stardewvalley/mods/23395)
 - Updated [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)
 - Updated [HxW Tilesheets](https://www.nexusmods.com/stardewvalley/mods/20139)
+- Updated [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Remapping](https://www.nexusmods.com/stardewvalley/mods/29049)
+- Updated [DaisyNiko's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/4736)
 
 ### Removals <!-- omit in toc -->
 
