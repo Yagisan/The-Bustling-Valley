@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.8.14](#0814)
   - [0.8.13](#0813)
   - [0.8.12](#0812)
   - [0.8.11](#0811)
@@ -39,6 +40,27 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.8.14
+
+**Released:** `DD MMM 2025`
+
+### Info <!-- omit in toc -->
+
+The [HxW Buildable Tea Shop](https://www.nexusmods.com/stardewvalley/mods/28730) and [HxW Tea Conservatory](https://www.nexusmods.com/stardewvalley/mods/28723) have been removed.
+
+**BEFORE UPDATING** empty these buildings **completely**. Store the contents somewhere else. Then visit Robin and destroy the buildings. Finish the day, save the game, and only then update. If you do not, you will break your save.
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+### Removals <!-- omit in toc -->
+
+- Removed [HxW Buildable Tea Shop](https://www.nexusmods.com/stardewvalley/mods/28730)
+- Removed [HxW Tea Conservatory](https://www.nexusmods.com/stardewvalley/mods/28723)
 
 ## 0.8.13
 
