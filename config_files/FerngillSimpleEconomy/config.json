@@ -19,6 +19,7 @@
   "DeltaUpdateFrequency": "Seasonally",
   "CustomSupplyUpdateFrequency": 112,
   "CustomDeltaUpdateFrequency": 28,
+  "PricingMode": "Batch",
   "ValidCategories": [
     -2,
     -4,
