@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.8.13](#0813)
   - [0.8.12](#0812)
   - [0.8.11](#0811)
   - [0.8.10](#0810)
@@ -38,6 +39,61 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.8.13
+
+**Released:** `7 Sep 2025`
+
+### Info <!-- omit in toc -->
+
+[Complimentary Clinic Coffee](https://www.nexusmods.com/stardewvalley/mods/36898) gives you a reason to drop into the clinic! Pick up a free cup of coffee while you are there.
+
+Items sold directly to vendors now count towards the [Fresh Farm Produce](https://www.nexusmods.com/stardewvalley/mods/29299) competition. But remember, Pierre still takes credit for your good produce, and blames you when he sells expired stuff - so maybe consider only selling to Willy or other stores.
+
+Using [Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615) the conditions for perfection have been readjusted.
+
+ - Produce & Forage Shipped - 154 (Same as vanilla)
+ - Obelisks on Farm	- True (Same as vanilla)
+ - Golden Clock on Farm	- True (Same as vanilla)
+ - Monster Slayer Hero - True (Same as vanilla)
+ - Great Friends - 90 **(Almost three times as vanilla)**
+ - Found All Stardrops - True (Same as vanilla)
+ - Cooking Recipes Made	- 81 (Same as vanilla)
+ - Crafting Recipes Made - 149 (Same as vanilla)
+ - Fish Caught - 72 (Same as vanilla)
+ - Golden Walnuts Found	- 130 (Same as vanilla)
+
+There are more than 100 friendable NPCs in this list, so you don't have to be friends with everyone. But this should encourage players to discover all the different NPC stories and events.
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+- Added [Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615)
+- Added [NPC Tokens for Content Patcher](https://www.nexusmods.com/stardewvalley/mods/23637)
+- Added [Button's Extra Trigger Action Stuff (BETAS)](https://www.nexusmods.com/stardewvalley/mods/27100)
+- Added [Complimentary Clinic Coffee](https://www.nexusmods.com/stardewvalley/mods/36898)
+
+### Updates <!-- omit in toc -->
+
+- Updated [Date Night Redux](https://www.nexusmods.com/stardewvalley/mods/22714)
+- Updated [Unique Winter Star](https://www.nexusmods.com/stardewvalley/mods/14709)
+- Updated [Sword and Sorcery - A Fantasy Expansion for East Scarp](https://www.nexusmods.com/stardewvalley/mods/12369)
+- Updated [YACS - Yet Another Cooking Skill](https://www.nexusmods.com/stardewvalley/mods/22681)
+- Updated [Spacecore Luck Skill](https://www.nexusmods.com/stardewvalley/mods/28103)
+- Updated [Esca's Modding Plugins (EMP)](https://www.nexusmods.com/stardewvalley/mods/9296)
+- Updated [Extra Machine Configs](https://www.nexusmods.com/stardewvalley/mods/22256)
+- Updated [Ferngill Simple Economy](https://www.nexusmods.com/stardewvalley/mods/21414)
+- Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
+- Updated [Personal Combat Drone Redux](https://www.nexusmods.com/stardewvalley/mods/18224)
+- Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
+- Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
+- Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
+- Updated [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+- Updated [Mapping Extensions and Extra Properties (MEEP)](https://www.nexusmods.com/stardewvalley/mods/14493)
+
+### Removals <!-- omit in toc -->
 
 ## 0.8.12
 
