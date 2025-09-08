@@ -51,11 +51,18 @@ The [HxW Buildable Tea Shop](https://www.nexusmods.com/stardewvalley/mods/28730)
 
 **BEFORE UPDATING** empty these buildings **completely**. Store the contents somewhere else. Then visit Robin and destroy the buildings. Finish the day, save the game, and only then update. If you do not, you will break your save.
 
+[Upgrade Empty Cabins](https://www.nexusmods.com/stardewvalley/mods/5253) has updated. You can now open the starter gift box in any cabin, and you can now upgrade cabins placed outside the farm too.
+
 ### Modifications <!-- omit in toc -->
 
 ### Additions <!-- omit in toc -->
 
 ### Updates <!-- omit in toc -->
+
+- Updated [Expanded Preconditions Utility](https://www.nexusmods.com/stardewvalley/mods/6529)
+- Updated [Hay Bales as Silos](https://www.nexusmods.com/stardewvalley/mods/5151)
+- Updated [Upgrade Empty Cabins](https://www.nexusmods.com/stardewvalley/mods/5253)
+- Updated [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)
 
 ### Removals <!-- omit in toc -->
 
