@@ -1,0 +1,25 @@
+{
+    "Changes": [
+        // Morris and Kenzie overlap in year 1
+        // Move Morris on odd years.
+        {
+            "Action": "EditData",
+            "Target": "Data/Festivals/summer11",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": [
+                        "Entries",
+                        "Set-Up_additionalCharacters"
+                    ],
+                    "Value": "Si_MR_Morris 31 16 down",
+                    "Delimiter": "/"
+                },
+            ],
+            "When": {
+                "HasMod |contains=AndrewJC.APelicanTown": true,
+                "HasMod |contains=SiTheGreat.MorrisRedeemed": true
+            }
+        }
+    ]
+}
