@@ -63,6 +63,9 @@ The [HxW Buildable Tea Shop](https://www.nexusmods.com/stardewvalley/mods/28730)
 - Updated [Hay Bales as Silos](https://www.nexusmods.com/stardewvalley/mods/5151)
 - Updated [Upgrade Empty Cabins](https://www.nexusmods.com/stardewvalley/mods/5253)
 - Updated [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)
+- Updated [Esca's Modding Plugins (EMP)](https://www.nexusmods.com/stardewvalley/mods/9296)
+- Updated [Buildable Ginger Island Farm](https://www.nexusmods.com/stardewvalley/mods/20600)
+- Updated [Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059)
 
 ### Removals <!-- omit in toc -->
 
