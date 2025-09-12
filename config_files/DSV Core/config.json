@@ -124,7 +124,7 @@
   "WizardFamiliarsSpirit": "False",
   "MarlonVariant": "Vanilla",
   "GuntherVariant": "Vanilla",
-  "MorrisVariant": "False",
+  "MorrisVariant": "Off",
   "PennyVariant": "Vanilla",
   "PennyLightweightConfig": "Full",
   "PamVariant": "Vanilla",
@@ -196,5 +196,8 @@
   "AddonHarveyGlasses": "False",
   "AddonJodiHair": "Brunette",
   "ChinesePiper": "True",
-  "AddonWizardVariant": "Vanilla"
+  "SpiritsEvePositionEdits": "True",
+  "SpiritsEveDialogueEdits": "Random",
+  "SandyFestivals": "AfterBus",
+  "PennyGlasses": "NoGlasses"
 }
