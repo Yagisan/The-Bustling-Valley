@@ -55,6 +55,8 @@ The [HxW Buildable Tea Shop](https://www.nexusmods.com/stardewvalley/mods/28730)
 
 ### Modifications <!-- omit in toc -->
 
+- Fixed Morris and Kenzie stand in the same place in the Luau on odd years
+
 ### Additions <!-- omit in toc -->
 
 ### Updates <!-- omit in toc -->
