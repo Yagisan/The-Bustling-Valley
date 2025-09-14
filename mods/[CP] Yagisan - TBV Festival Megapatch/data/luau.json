@@ -1,7 +1,7 @@
 {
     "Changes": [
         // Morris and Kenzie overlap in year 1
-        // Move Morris on odd years.
+        // Move Morris on odd years. Only do this if he exists.
         {
             "Action": "EditData",
             "Target": "Data/Festivals/summer11",
@@ -18,7 +18,8 @@
             ],
             "When": {
                 "HasMod |contains=AndrewJC.APelicanTown": true,
-                "HasMod |contains=SiTheGreat.MorrisRedeemed": true
+                "HasMod |contains=SiTheGreat.MorrisRedeemed": true,
+                "HasSeenEvent:hostPlayer |contains=26220106": true
             }
         }
     ]
