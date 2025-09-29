@@ -43,7 +43,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.8.14
 
-**Released:** `DD MMM 2025`
+**Released:** `30 Sep 2025`
 
 ### Info <!-- omit in toc -->
 
@@ -53,11 +53,17 @@ The [HxW Buildable Tea Shop](https://www.nexusmods.com/stardewvalley/mods/28730)
 
 [Upgrade Empty Cabins](https://www.nexusmods.com/stardewvalley/mods/5253) has updated. You can now open the starter gift box in any cabin, and you can now upgrade cabins placed outside the farm too.
 
+[Show Birthdays](https://www.nexusmods.com/stardewvalley/mods/7495) is using the [Unofficial Patch](https://github.com/NovitoFR/Traktori7-StardewValleyMods/releases/tag/ShowBirthdays-1.3.1-unofficial.2-asuleath) to cycle through multiple birthdays on the calendar. Lookup Anything will not show their details. Find what they like via the social tab instead.
+
+[Water Bot](https://www.nexusmods.com/stardewvalley/mods/8167) will now refill the watering can when done, and recalculate optimal paths if the watering can is refilled.
+
 ### Modifications <!-- omit in toc -->
 
-- Fixed Morris and Kenzie stand in the same place in the Luau on odd years
+- Fixed Morris and Kenzie stand in the same place in the Luau on odd years. Patch should only apply after Morris is unlocked, and on odd years only. This is untested, as Morris is not unlocked in my test game yet. 
 
 ### Additions <!-- omit in toc -->
+
+- Added [Show Birthdays](https://www.nexusmods.com/stardewvalley/mods/7495)
 
 ### Updates <!-- omit in toc -->
 
@@ -68,6 +74,11 @@ The [HxW Buildable Tea Shop](https://www.nexusmods.com/stardewvalley/mods/28730)
 - Updated [Esca's Modding Plugins (EMP)](https://www.nexusmods.com/stardewvalley/mods/9296)
 - Updated [Buildable Ginger Island Farm](https://www.nexusmods.com/stardewvalley/mods/20600)
 - Updated [Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059)
+- Updated [Complimentary Clinic Coffee](https://www.nexusmods.com/stardewvalley/mods/36898)
+- Updated [Unlockable Bundles](https://www.nexusmods.com/stardewvalley/mods/17265)
+- Updated [Water Bot](https://www.nexusmods.com/stardewvalley/mods/8167)
+- Updated [Extra Machine Configs](https://www.nexusmods.com/stardewvalley/mods/22256)
+- Updated [Date Night Redux](https://www.nexusmods.com/stardewvalley/mods/22714)
 
 ### Removals <!-- omit in toc -->
 
