@@ -1,0 +1,6 @@
+{
+  "UseSmallGrouping": true,
+  "RefillOnFinish": true,
+  "RefillIfLower": 95,
+  "RedoPathOnRefill": true
+}
