@@ -44,7 +44,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.8.15
 
-**Released:** `DD MMM 2025`
+**Released:** `27 Oct 2025`
 
 ### Info <!-- omit in toc -->
 
@@ -64,6 +64,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 - Updated [Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059)
 - Updated [Morris Redeemed](https://www.nexusmods.com/stardewvalley/mods/12667)
 - Updated [Canon-Friendly Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/2544)
+- Updated [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)
+- Updated [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)
 
 ### Removals <!-- omit in toc -->
 
