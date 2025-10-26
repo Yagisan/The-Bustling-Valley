@@ -34,5 +34,6 @@
   "CFE_Vincent": "true",
   "CFE_Willy": "true",
   "CFE_Wizard": "true",
-  "CFE_Festivals": "true"
+  "CFE_Festivals_Add": "true",
+  "CFE_Festivals_Replace": "false"
 }
