@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.8.16](#0816)
   - [0.8.15](#0815)
   - [0.8.14](#0814)
   - [0.8.13](#0813)
@@ -41,6 +42,36 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.8.16
+
+**Released:** `DD MMM 2025`
+
+### Info <!-- omit in toc -->
+
+The Bustling Valley 0.8.x is transitioning to maintenance mode. Updates from now on are limited to non-npc mods, and bugfixes only.
+
+### Updates <!-- omit in toc -->
+
+- Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
+- Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
+- Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
+- Updated [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Horse Flute Anywhere](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+- Updated [Noclip Mode](https://www.nexusmods.com/stardewvalley/mods/3900)
+- Updated [Skip Intro](https://www.nexusmods.com/stardewvalley/mods/533)
+- Updated [Button's Extra Trigger Action Stuff (BETAS)](https://www.nexusmods.com/stardewvalley/mods/27100)
+- Updated [Esca's Modding Plugins (EMP)](https://www.nexusmods.com/stardewvalley/mods/9296)
+- Updated [Extra Machine Configs](https://www.nexusmods.com/stardewvalley/mods/22256)
+- Updated [Farm Type Manager (FTM)](https://www.nexusmods.com/stardewvalley/mods/3231)
+- Updated [Unlockable Bundles](https://www.nexusmods.com/stardewvalley/mods/17265)
+- Updated [Spacecore Luck Skill](https://www.nexusmods.com/stardewvalley/mods/28103)
+- Updated [YACS - Yet Another Cooking Skill](https://www.nexusmods.com/stardewvalley/mods/22681)
+- Updated [Cornucopia - Artisan Machines](https://www.nexusmods.com/stardewvalley/mods/24842)
+- Updated [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508)
+- Updated [Cornucopia - More Flowers](https://www.nexusmods.com/stardewvalley/mods/20290)
+- Updated [Fresh Farm Produce](https://www.nexusmods.com/stardewvalley/mods/29299)
 
 ## 0.8.15
 
