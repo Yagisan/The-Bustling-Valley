@@ -1,4 +1,6 @@
 {
+  "ThemeId": "Parchment",
+  "ForceFullScreen": false,
   "Controls": {
     "ToggleLookup": "F1",
     "ToggleSearch": "LeftShift + F1",
@@ -30,7 +32,6 @@
   "HideOnKeyUp": false,
   "EnableTargetRedirection": true,
   "EnableTileLookups": false,
-  "ForceFullScreen": false,
   "ScrollAmount": 160,
   "ShowDataMiningFields": false,
   "ShowInvalidRecipes": false
