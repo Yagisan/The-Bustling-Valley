@@ -45,7 +45,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.8.16
 
-**Released:** `DD MMM 2025`
+**Released:** `30 Nov 2025`
 
 ### Info <!-- omit in toc -->
 
@@ -72,6 +72,9 @@ The Bustling Valley 0.8.x is transitioning to maintenance mode. Updates from now
 - Updated [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508)
 - Updated [Cornucopia - More Flowers](https://www.nexusmods.com/stardewvalley/mods/20290)
 - Updated [Fresh Farm Produce](https://www.nexusmods.com/stardewvalley/mods/29299)
+- Updated [Ferngill Simple Economy](https://www.nexusmods.com/stardewvalley/mods/21414)
+- Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
+- Updated [Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059)
 
 ## 0.8.15
 
