@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.9.0](#090)
   - [0.8.16](#0816)
   - [0.8.15](#0815)
   - [0.8.14](#0814)
@@ -42,6 +43,35 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.9.0
+
+**Released:** `DD MMM YYYY`
+
+### Info <!-- omit in toc -->
+
+Major update. New Game required.
+
+This now uses [East Scarp Remastered](https://www.nexusmods.com/stardewvalley/mods/5787). NPCs have been updated, new NPCs added, and there are updated maps. Please don't rush through the East Scarp content. Now includes new maps, new crops, new forage, new farm animals, new quests, custom weddings and much, much more.
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+- Updated [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
+- Updated [Bear Family Custom NPCs](https://www.nexusmods.com/stardewvalley/mods/16197)
+- Updated [Eli and Dylan - Custom NPCs for East Scarp](https://www.nexusmods.com/stardewvalley/mods/13883)
+- Updated [Metalcore Goes Cottagecore](https://www.nexusmods.com/stardewvalley/mods/29995)
+- Updated [Nora The Herpetologist](https://www.nexusmods.com/stardewvalley/mods/18176)
+- Updated [Distant Lands - A Small Witch Swamp Expansion](https://www.nexusmods.com/stardewvalley/mods/18109)
+
+### Removals <!-- omit in toc -->
+
+- Removed [Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398) in East Scarp Remastered now
+- Removed [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599) in East Scarp Remastered now
+- Removed [Jade](https://www.nexusmods.com/stardewvalley/mods/5559) in East Scarp Remastered now
 
 ## 0.8.16
 
