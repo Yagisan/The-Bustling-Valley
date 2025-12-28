@@ -3,6 +3,7 @@
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
   - [0.9.0](#090)
+  - [0.8.17](#0817)
   - [0.8.16](#0816)
   - [0.8.15](#0815)
   - [0.8.14](#0814)
@@ -66,12 +67,32 @@ This now uses [East Scarp Remastered](https://www.nexusmods.com/stardewvalley/mo
 - Updated [Metalcore Goes Cottagecore](https://www.nexusmods.com/stardewvalley/mods/29995)
 - Updated [Nora The Herpetologist](https://www.nexusmods.com/stardewvalley/mods/18176)
 - Updated [Distant Lands - A Small Witch Swamp Expansion](https://www.nexusmods.com/stardewvalley/mods/18109)
+- Updated [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
+- Updated [Button's Extra Trigger Action Stuff (BETAS)](https://www.nexusmods.com/stardewvalley/mods/27100)
+- Updated [Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)
+- Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
 
 ### Removals <!-- omit in toc -->
 
 - Removed [Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398) in East Scarp Remastered now
 - Removed [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599) in East Scarp Remastered now
 - Removed [Jade](https://www.nexusmods.com/stardewvalley/mods/5559) in East Scarp Remastered now
+
+## 0.8.17
+
+**Released:** `DD MMM 2025`
+
+### Info <!-- omit in toc -->
+
+The Bustling Valley 0.8.x is transitioning to maintenance mode. Updates from now on are limited to non-npc mods, and bugfixes only.
+
+### Updates <!-- omit in toc -->
+
+- Updated [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
+- Updated [Button's Extra Trigger Action Stuff (BETAS)](https://www.nexusmods.com/stardewvalley/mods/27100)
+- Updated [Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)
+- Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
+
 
 ## 0.8.16
 
