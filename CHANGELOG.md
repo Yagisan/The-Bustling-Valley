@@ -92,6 +92,7 @@ The Bustling Valley 0.8.x is transitioning to maintenance mode. Updates from now
 - Updated [Button's Extra Trigger Action Stuff (BETAS)](https://www.nexusmods.com/stardewvalley/mods/27100)
 - Updated [Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)
 - Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
+- Updated [Sit N' Relax Rest Your Butt](https://www.nexusmods.com/stardewvalley/mods/7336)
 
 
 ## 0.8.16
