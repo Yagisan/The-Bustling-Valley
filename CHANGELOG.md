@@ -2,7 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
-  - [0.9.0](#090)
+  - [0.9.0 UNRELEASED](#090-unreleased)
   - [0.8.17](#0817)
   - [0.8.16](#0816)
   - [0.8.15](#0815)
@@ -45,7 +45,7 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
 
-## 0.9.0
+## 0.9.0 UNRELEASED
 
 **Released:** `DD MMM YYYY`
 
@@ -71,6 +71,7 @@ This now uses [East Scarp Remastered](https://www.nexusmods.com/stardewvalley/mo
 - Updated [Button's Extra Trigger Action Stuff (BETAS)](https://www.nexusmods.com/stardewvalley/mods/27100)
 - Updated [Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)
 - Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
+- Updated [Sit N' Relax Rest Your Butt](https://www.nexusmods.com/stardewvalley/mods/7336)
 
 ### Removals <!-- omit in toc -->
 
@@ -80,7 +81,7 @@ This now uses [East Scarp Remastered](https://www.nexusmods.com/stardewvalley/mo
 
 ## 0.8.17
 
-**Released:** `DD MMM 2025`
+**Released:** `2 Jan 2026`
 
 ### Info <!-- omit in toc -->
 
