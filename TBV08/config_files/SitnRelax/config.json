@@ -7,5 +7,7 @@
   "restMessageC": "yawns and closes their eyes!",
   "restMessageD": "sighs and groans, feeling the weight off their feet!",
   "extendedRestTime": 21,
-  "refreshedBuffRegen": 3
+  "refreshedBuffRegen": 3,
+  "ToggleMessages": "LeftControl + N",
+  "Notifications": true
 }
