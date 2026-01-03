@@ -59,6 +59,17 @@ This now uses [East Scarp Remastered](https://www.nexusmods.com/stardewvalley/mo
 
 ### Additions <!-- omit in toc -->
 
+- Added [PC's Tilesheets](https://www.nexusmods.com/stardewvalley/mods/38116)
+- Added [Lenient Stashing - Add to Existing Stacks Change](https://www.nexusmods.com/stardewvalley/mods/34816)
+- Added [Total Level Affected by Spacecore Skill](https://www.nexusmods.com/stardewvalley/mods/37753)
+- Added [Stardew Location Preload - Faster Map Loading](https://www.nexusmods.com/stardewvalley/mods/40517)
+- Added [Fruit Tree Accumulation](https://www.nexusmods.com/stardewvalley/mods/40575)
+- Added [No More Floor Fish - Jodi Event Edit](https://www.nexusmods.com/stardewvalley/mods/31246)
+- Added [Kent Gets Therapy - 3 Heart Event Edit](https://www.nexusmods.com/stardewvalley/mods/14535)
+- Added [Rekindle - A Kent and Jodi Event Expansion](https://www.nexusmods.com/stardewvalley/mods/39795)
+- Added [Shopkeeper Leela - Pierre's Competition (CP)](https://www.nexusmods.com/stardewvalley/mods/39490)
+- Added [Downhill Project - Expanded Map for Custom NPCs](https://www.nexusmods.com/stardewvalley/mods/32872)
+
 ### Updates <!-- omit in toc -->
 
 - Updated [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
@@ -72,6 +83,9 @@ This now uses [East Scarp Remastered](https://www.nexusmods.com/stardewvalley/mo
 - Updated [Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)
 - Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
 - Updated [Sit N' Relax Rest Your Butt](https://www.nexusmods.com/stardewvalley/mods/7336)
+- Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
+- Updated [The Last Smoluanu - A Dwarf Expansion](https://www.nexusmods.com/stardewvalley/mods/9642)
+- Updated [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
 
 ### Removals <!-- omit in toc -->
 
