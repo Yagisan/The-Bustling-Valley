@@ -55,6 +55,16 @@ Major update. New Game required.
 
 This now uses [East Scarp Remastered](https://www.nexusmods.com/stardewvalley/mods/5787). NPCs have been updated, new NPCs added, and there are updated maps. Please don't rush through the East Scarp content. Now includes new maps, new crops, new forage, new farm animals, new quests, custom weddings and much, much more.
 
+Where possible, Animal NPCs no longer count as friends.
+
+Trees can hold up to 28 fruit, so now you don't need to check them every 3 days.
+
+Maps preload in the background as you travel around. This smooths out transitions when changing maps.
+
+Kent and Jodi have a lot more content to flesh them out.
+
+Many (but not all!) recipes are now more flexible with the ingredients they accept. For example, if a recipe requires cheese, but all you have is goat cheese, in most cases, you can now use goat cheese instead.
+
 ### Modifications <!-- omit in toc -->
 
 ### Additions <!-- omit in toc -->
@@ -69,6 +79,7 @@ This now uses [East Scarp Remastered](https://www.nexusmods.com/stardewvalley/mo
 - Added [Rekindle - A Kent and Jodi Event Expansion](https://www.nexusmods.com/stardewvalley/mods/39795)
 - Added [Shopkeeper Leela - Pierre's Competition (CP)](https://www.nexusmods.com/stardewvalley/mods/39490)
 - Added [Downhill Project - Expanded Map for Custom NPCs](https://www.nexusmods.com/stardewvalley/mods/32872)
+- Added [Flexible Cooking](https://www.nexusmods.com/stardewvalley/mods/38862)
 
 ### Updates <!-- omit in toc -->
 
@@ -86,12 +97,21 @@ This now uses [East Scarp Remastered](https://www.nexusmods.com/stardewvalley/mo
 - Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
 - Updated [The Last Smoluanu - A Dwarf Expansion](https://www.nexusmods.com/stardewvalley/mods/9642)
 - Updated [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
+- Updated [Cornucopia - Artisan Machines](https://www.nexusmods.com/stardewvalley/mods/24842)
+- Updated [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508)
+- Updated [Cornucopia - More Flowers](https://www.nexusmods.com/stardewvalley/mods/20290)
+- Updated [Growable Forage and Crop Bushes](https://www.nexusmods.com/stardewvalley/mods/20340)
 
 ### Removals <!-- omit in toc -->
 
 - Removed [Juliet and Jessie the Joja Clerks](https://www.nexusmods.com/stardewvalley/mods/6398) in East Scarp Remastered now
 - Removed [Professor Jasper Thomas](https://www.nexusmods.com/stardewvalley/mods/5599) in East Scarp Remastered now
 - Removed [Jade](https://www.nexusmods.com/stardewvalley/mods/5559) in East Scarp Remastered now
+- Removed [Fievel Goes East Scarp - Hat Mouse NPC](https://www.nexusmods.com/stardewvalley/mods/17315)
+- Removed [Mister Ginger (cat NPC)](https://www.nexusmods.com/stardewvalley/mods/5295)
+- Removed [Ranger Taro - Custom NPC](https://www.nexusmods.com/stardewvalley/mods/30445)
+- Removed [FIASA - a mini expansion](https://www.nexusmods.com/stardewvalley/mods/33880)
+- Removed [Sword and Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369)
 
 ## 0.8.17
 
