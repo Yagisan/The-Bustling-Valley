@@ -3,6 +3,7 @@
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
   - [0.9.0 UNRELEASED](#090-unreleased)
+  - [0.8.18](#0818)
   - [0.8.17](#0817)
   - [0.8.16](#0816)
   - [0.8.15](#0815)
@@ -89,18 +90,29 @@ Many (but not all!) recipes are now more flexible with the ingredients they acce
 - Updated [Metalcore Goes Cottagecore](https://www.nexusmods.com/stardewvalley/mods/29995)
 - Updated [Nora The Herpetologist](https://www.nexusmods.com/stardewvalley/mods/18176)
 - Updated [Distant Lands - A Small Witch Swamp Expansion](https://www.nexusmods.com/stardewvalley/mods/18109)
-- Updated [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
-- Updated [Button's Extra Trigger Action Stuff (BETAS)](https://www.nexusmods.com/stardewvalley/mods/27100)
-- Updated [Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)
-- Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
-- Updated [Sit N' Relax Rest Your Butt](https://www.nexusmods.com/stardewvalley/mods/7336)
 - Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
 - Updated [The Last Smoluanu - A Dwarf Expansion](https://www.nexusmods.com/stardewvalley/mods/9642)
+- Updated [A Pelican Town](https://www.nexusmods.com/stardewvalley/mods/14585)
+- Updated [Creative Differences](https://www.nexusmods.com/stardewvalley/mods/13437)
+- Updated [Community Center Reimagined](https://www.nexusmods.com/stardewvalley/mods/6966)
 - Updated [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
 - Updated [Cornucopia - Artisan Machines](https://www.nexusmods.com/stardewvalley/mods/24842)
 - Updated [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508)
 - Updated [Cornucopia - More Flowers](https://www.nexusmods.com/stardewvalley/mods/20290)
 - Updated [Growable Forage and Crop Bushes](https://www.nexusmods.com/stardewvalley/mods/20340)
+
+- Updated [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
+- Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
+- Updated [Button's Extra Trigger Action Stuff (BETAS)](https://www.nexusmods.com/stardewvalley/mods/27100)
+- Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
+- Updated [Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)
+- Updated [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+- Updated [Mapping Extensions and Extra Properties (MEEP)](https://www.nexusmods.com/stardewvalley/mods/14493)
+- Updated [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)
+- Updated [Sit N' Relax Rest Your Butt](https://www.nexusmods.com/stardewvalley/mods/7336)
+- Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
+- Updated [Unique Children](https://www.nexusmods.com/stardewvalley/mods/6278)
 
 ### Removals <!-- omit in toc -->
 
@@ -112,6 +124,27 @@ Many (but not all!) recipes are now more flexible with the ingredients they acce
 - Removed [Ranger Taro - Custom NPC](https://www.nexusmods.com/stardewvalley/mods/30445)
 - Removed [FIASA - a mini expansion](https://www.nexusmods.com/stardewvalley/mods/33880)
 - Removed [Sword and Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369)
+
+## 0.8.18
+
+**Released:** `DD MMM 2026`
+
+### Info <!-- omit in toc -->
+
+The Bustling Valley 0.8.x is transitioning to maintenance mode. Updates from now on are limited to non-npc mods, and bugfixes only.
+
+### Updates <!-- omit in toc -->
+
+- Updated [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
+- Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
+- Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
+- Updated [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
+- Updated [Mapping Extensions and Extra Properties (MEEP)](https://www.nexusmods.com/stardewvalley/mods/14493)
+- Updated [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)
+- Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
+- Updated [Unique Children](https://www.nexusmods.com/stardewvalley/mods/6278)
+
 
 ## 0.8.17
 
