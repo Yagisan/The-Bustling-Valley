@@ -113,6 +113,7 @@ Many (but not all!) recipes are now more flexible with the ingredients they acce
 - Updated [Sit N' Relax Rest Your Butt](https://www.nexusmods.com/stardewvalley/mods/7336)
 - Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
 - Updated [Unique Children](https://www.nexusmods.com/stardewvalley/mods/6278)
+- Updated [Unlockable Bundles](https://www.nexusmods.com/stardewvalley/mods/17265)
 
 ### Removals <!-- omit in toc -->
 
@@ -137,6 +138,7 @@ The Bustling Valley 0.8.x is transitioning to maintenance mode. Updates from now
 
 - Updated [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
 - Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
+- Updated [Button's Extra Trigger Action Stuff (BETAS)](https://www.nexusmods.com/stardewvalley/mods/27100)
 - Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
 - Updated [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
 - Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
@@ -144,6 +146,7 @@ The Bustling Valley 0.8.x is transitioning to maintenance mode. Updates from now
 - Updated [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)
 - Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
 - Updated [Unique Children](https://www.nexusmods.com/stardewvalley/mods/6278)
+- Updated [Unlockable Bundles](https://www.nexusmods.com/stardewvalley/mods/17265)
 
 
 ## 0.8.17
