@@ -54,6 +54,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 Major update. New Game required.
 
+[SMAPI](https://smapi.io/) has updated to 4.5.1 - this now includes an **online** malicious mods check. This is helpful if you have chosen to customise the list. (I can't offer support for customised versions of this list.).
+
 This now uses [East Scarp Remastered](https://www.nexusmods.com/stardewvalley/mods/5787). NPCs have been updated, new NPCs added, and there are updated maps. Please don't rush through the East Scarp content. Now includes new maps, new crops, new forage, new farm animals, new quests, custom weddings and much, much more.
 
 Where possible, Animal NPCs no longer count as friends.
@@ -84,6 +86,8 @@ Many (but not all!) recipes are now more flexible with the ingredients they acce
 
 ### Updates <!-- omit in toc -->
 
+- Updated [SMAPI](https://smapi.io/)
+- Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 - Updated [East Scarp](https://www.nexusmods.com/stardewvalley/mods/5787)
 - Updated [Bear Family Custom NPCs](https://www.nexusmods.com/stardewvalley/mods/16197)
 - Updated [Eli and Dylan - Custom NPCs for East Scarp](https://www.nexusmods.com/stardewvalley/mods/13883)
@@ -100,8 +104,8 @@ Many (but not all!) recipes are now more flexible with the ingredients they acce
 - Updated [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508)
 - Updated [Cornucopia - More Flowers](https://www.nexusmods.com/stardewvalley/mods/20290)
 - Updated [Growable Forage and Crop Bushes](https://www.nexusmods.com/stardewvalley/mods/20340)
-
 - Updated [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
+- Updated [Mini Obelisk (Alternative Textures version)](https://www.nexusmods.com/stardewvalley/mods/12571)
 - Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
 - Updated [Button's Extra Trigger Action Stuff (BETAS)](https://www.nexusmods.com/stardewvalley/mods/27100)
 - Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
@@ -136,6 +140,8 @@ The Bustling Valley 0.8.x is transitioning to maintenance mode. Updates from now
 
 ### Updates <!-- omit in toc -->
 
+- Updated [SMAPI](https://smapi.io/)
+- Updated [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
 - Updated [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
 - Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
 - Updated [Button's Extra Trigger Action Stuff (BETAS)](https://www.nexusmods.com/stardewvalley/mods/27100)
@@ -147,6 +153,9 @@ The Bustling Valley 0.8.x is transitioning to maintenance mode. Updates from now
 - Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
 - Updated [Unique Children](https://www.nexusmods.com/stardewvalley/mods/6278)
 - Updated [Unlockable Bundles](https://www.nexusmods.com/stardewvalley/mods/17265)
+- Updated [Cornucopia - Artisan Machines](https://www.nexusmods.com/stardewvalley/mods/24842)
+- Updated [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508)
+- Updated [Cornucopia - More Flowers](https://www.nexusmods.com/stardewvalley/mods/20290)
 
 
 ## 0.8.17
