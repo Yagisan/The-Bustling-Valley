@@ -132,7 +132,7 @@ Many (but not all!) recipes are now more flexible with the ingredients they acce
 
 ## 0.8.18
 
-**Released:** `DD MMM 2026`
+**Released:** `25 Feb 2026`
 
 ### Info <!-- omit in toc -->
 
