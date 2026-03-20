@@ -83,6 +83,7 @@ Many (but not all!) recipes are now more flexible with the ingredients they acce
 - Added [Shopkeeper Leela - Pierre's Competition (CP)](https://www.nexusmods.com/stardewvalley/mods/39490)
 - Added [Downhill Project - Expanded Map for Custom NPCs](https://www.nexusmods.com/stardewvalley/mods/32872)
 - Added [Flexible Cooking](https://www.nexusmods.com/stardewvalley/mods/38862)
+- Added [Custom Museum Framework (CMF)](https://www.nexusmods.com/stardewvalley/mods/34530)
 
 ### Updates <!-- omit in toc -->
 
@@ -97,8 +98,12 @@ Many (but not all!) recipes are now more flexible with the ingredients they acce
 - Updated [Lurking in the Dark](https://www.nexusmods.com/stardewvalley/mods/10770)
 - Updated [The Last Smoluanu - A Dwarf Expansion](https://www.nexusmods.com/stardewvalley/mods/9642)
 - Updated [A Pelican Town](https://www.nexusmods.com/stardewvalley/mods/14585)
+- Updated [Coal Point Farm](https://www.nexusmods.com/stardewvalley/mods/24852)
 - Updated [Creative Differences](https://www.nexusmods.com/stardewvalley/mods/13437)
+- Updated [Lumisteria Visit Mount Vapius](https://www.nexusmods.com/stardewvalley/mods/9600)
 - Updated [Community Center Reimagined](https://www.nexusmods.com/stardewvalley/mods/6966)
+- Updated [Buildable Ginger Island Farm](https://www.nexusmods.com/stardewvalley/mods/20600)
+- Updated [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
 - Updated [Integrated Minecarts](https://www.nexusmods.com/stardewvalley/mods/11881)
 - Updated [Cornucopia - Artisan Machines](https://www.nexusmods.com/stardewvalley/mods/24842)
 - Updated [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508)
@@ -106,11 +111,16 @@ Many (but not all!) recipes are now more flexible with the ingredients they acce
 - Updated [Growable Forage and Crop Bushes](https://www.nexusmods.com/stardewvalley/mods/20340)
 - Updated [Alternative Textures](https://www.nexusmods.com/stardewvalley/mods/9246)
 - Updated [Mini Obelisk (Alternative Textures version)](https://www.nexusmods.com/stardewvalley/mods/12571)
+- Updated [Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059)
 - Updated [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
 - Updated [Button's Extra Trigger Action Stuff (BETAS)](https://www.nexusmods.com/stardewvalley/mods/27100)
 - Updated [Chests Anywhere](https://www.nexusmods.com/stardewvalley/mods/518)
 - Updated [Custom Companions](https://www.nexusmods.com/stardewvalley/mods/8626)
 - Updated [Data Layers](https://www.nexusmods.com/stardewvalley/mods/1691)
+- Updated [Extra Machine Configs](https://www.nexusmods.com/stardewvalley/mods/22256)
+- Updated [Expanded Preconditions Utility](https://www.nexusmods.com/stardewvalley/mods/6529)
+- Updated [Ferngill Simple Economy](https://www.nexusmods.com/stardewvalley/mods/21414)
+- Updated [Hay Bales as Silos](https://www.nexusmods.com/stardewvalley/mods/5151)
 - Updated [Lookup Anything](https://www.nexusmods.com/stardewvalley/mods/541)
 - Updated [Mapping Extensions and Extra Properties (MEEP)](https://www.nexusmods.com/stardewvalley/mods/14493)
 - Updated [NPC Map Locations](https://www.nexusmods.com/stardewvalley/mods/239)
@@ -118,6 +128,7 @@ Many (but not all!) recipes are now more flexible with the ingredients they acce
 - Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
 - Updated [Unique Children](https://www.nexusmods.com/stardewvalley/mods/6278)
 - Updated [Unlockable Bundles](https://www.nexusmods.com/stardewvalley/mods/17265)
+- Updated [Upgrade Empty Cabins](https://www.nexusmods.com/stardewvalley/mods/5253)
 
 ### Removals <!-- omit in toc -->
 
