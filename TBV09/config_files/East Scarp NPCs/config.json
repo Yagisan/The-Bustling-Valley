@@ -1,0 +1,14 @@
+{
+  "EnableSpecialOrders": "true",
+  "TrentonFamilyDrama": "true",
+  "FriendableAnimals": "",
+  "FriendableZuzuNPCs": "false",
+  "RivalHearts": "RosaJuliet",
+  "GenderNeutral": "false",
+  "KeepNonDatable": "false",
+  "EnableTristan": "false",
+  "CustomFarmSpousePatioExit": "none",
+  "Nyapuportraits": "false",
+  "FestivalOutfits": "true",
+  "NoSirMemeDuck": "true"
+}

@@ -1,0 +1,8 @@
+{
+  "HideAllCompanionsDuringEvents": false,
+  "DoInteractKey": "LeftAlt + MouseRight, LeftStick + ControllerA",
+  "OpenTinkerInventoryKey": "RightAlt + OemPeriod, LeftStick + ControllerX",
+  "TinkerInventoryNextKey": "PageUp, RightShoulder",
+  "TinkerInventoryPrevKey": "PageDown, LeftShoulder",
+  "DrawDebugMode": false
+}

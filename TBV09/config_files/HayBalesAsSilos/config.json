@@ -1,0 +1,5 @@
+{
+  "RequiresConstructedSilo": true,
+  "HayPerBale": 240,
+  "HayBalePrice": 5000
+}

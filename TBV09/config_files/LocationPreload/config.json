@@ -1,0 +1,14 @@
+{
+  "Enabled": true,
+  "Mode": "Both",
+  "HubPreloadWarpTargetsFromCurrentLocation": true,
+  "CustomLocationPreloadList": [],
+  "ClearQueueOnWarp": true,
+  "MaxMapsPerTick": 1,
+  "MaxMillisecondsPerTick": 3,
+  "NearestCheckIntervalTicks": 6,
+  "NearestWarpCount": 1,
+  "NearestMaxDistance": 8,
+  "PreferFacingWarp": true,
+  "VerboseLogging": true
+}

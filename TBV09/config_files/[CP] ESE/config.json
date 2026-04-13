@@ -1,0 +1,13 @@
+{
+  "Portraits": "Vanilla",
+  "Merchant": "Lotti",
+  "Sun": "false",
+  "Clouds when sunny": "false",
+  "Moon": "true",
+  "Mountains Position": "1600",
+  "Horizon Position": "850",
+  "Percent Offset": "-0.02",
+  "Mountains Offset rate": "-0.6",
+  "Horizon Offset rate": "-0.55",
+  "Celestial objects offset rate": "-0.3"
+}

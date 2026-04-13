@@ -1,0 +1,338 @@
+{
+  "OutputTextureDataToLog": false,
+  "UseRandomTexturesWhenSpawningArtifactSpots": true,
+  "UseRandomTexturesWhenPlacingFlooring": false,
+  "UseRandomTexturesWhenPlacingFruitTree": true,
+  "UseRandomTexturesWhenPlacingTree": true,
+  "UseRandomTexturesWhenPlacingHoeDirt": true,
+  "UseRandomTexturesWhenPlacingGrass": true,
+  "UseRandomTexturesWhenPlacingFurniture": false,
+  "UseRandomTexturesWhenPlacingObject": true,
+  "UseRandomTexturesWhenPlacingFarmAnimal": true,
+  "UseRandomTexturesWhenPlacingMonster": true,
+  "UseRandomTexturesWhenPlacingBuilding": false,
+  "DisabledTextures": [
+    {
+      "TextureId": "Lumisteria.AT.Craftable.Craftable_Chest",
+      "DisabledVariations": [
+        0,
+        1
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Cauliflower Seeds",
+      "DisabledVariations": [
+        2,
+        3,
+        4,
+        0,
+        1
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Coffee Bean",
+      "DisabledVariations": [
+        0,
+        2
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Fairy Seeds",
+      "DisabledVariations": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Melon Seeds",
+      "DisabledVariations": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Parsnip Seeds",
+      "DisabledVariations": [
+        1,
+        4
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Poppy Seeds",
+      "DisabledVariations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Pumpkin Seeds",
+      "DisabledVariations": [
+        3,
+        4
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Red Cabbage Seeds",
+      "DisabledVariations": [
+        0
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Starfruit Seeds",
+      "DisabledVariations": [
+        2
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Tulip Bulb",
+      "DisabledVariations": [
+        4
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Yam Seeds",
+      "DisabledVariations": [
+        0
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Sunflower Seeds",
+      "DisabledVariations": [
+        0,
+        4
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Amaranth Seeds",
+      "DisabledVariations": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Artichoke Seeds",
+      "DisabledVariations": []
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Kale Seeds",
+      "DisabledVariations": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Rhubarb Seeds",
+      "DisabledVariations": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Rice Shoot",
+      "DisabledVariations": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Wheat Seeds",
+      "DisabledVariations": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "TextureId": "Lumisteria.AT.Crops.Crop_Rhubarb Seeds",
+      "DisabledVariations": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "TextureId": "Lumisteria.AT.Crops.Crop_Rice Shoot",
+      "DisabledVariations": [
+        0,
+        1
+      ]
+    },
+    {
+      "TextureId": "Gweniaczek.AT_Medieval_Buildings.Building_Slime Hutch_Fall",
+      "DisabledVariations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "TextureId": "Gweniaczek.AT_Medieval_Buildings.Building_Slime Hutch_Spring",
+      "DisabledVariations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "TextureId": "Gweniaczek.AT_Medieval_Buildings.Building_Slime Hutch_Summer",
+      "DisabledVariations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "TextureId": "Gweniaczek.AT_Medieval_Buildings.Building_Slime Hutch_Winter",
+      "DisabledVariations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "TextureId": "Kazan22.AT.SeasonalJapaneseBuildings.Building_Slime Hutch_Fall",
+      "DisabledVariations": [
+        0
+      ]
+    },
+    {
+      "TextureId": "Kazan22.AT.SeasonalJapaneseBuildings.Building_Slime Hutch_Spring",
+      "DisabledVariations": [
+        0
+      ]
+    },
+    {
+      "TextureId": "Kazan22.AT.SeasonalJapaneseBuildings.Building_Slime Hutch_Summer",
+      "DisabledVariations": [
+        0
+      ]
+    },
+    {
+      "TextureId": "Kazan22.AT.SeasonalJapaneseBuildings.Building_Slime Hutch_Winter",
+      "DisabledVariations": [
+        0
+      ]
+    },
+    {
+      "TextureId": "Elle.Elle.SeasonalBuildings.AT.Building_Slime Hutch_Fall",
+      "DisabledVariations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "TextureId": "Elle.Elle.SeasonalBuildings.AT.Building_Slime Hutch_Spring",
+      "DisabledVariations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "TextureId": "Elle.Elle.SeasonalBuildings.AT.Building_Slime Hutch_Summer",
+      "DisabledVariations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "TextureId": "Elle.Elle.SeasonalBuildings.AT.Building_Slime Hutch_Winter",
+      "DisabledVariations": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Beet Seeds",
+      "DisabledVariations": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "TextureId": "ASPE.CropVariety.AT.Crop_Bok Choy Seeds",
+      "DisabledVariations": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

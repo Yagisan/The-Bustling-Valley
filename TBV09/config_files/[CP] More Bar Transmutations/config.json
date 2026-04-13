@@ -1,0 +1,6 @@
+{
+  "EnableIridiumTransmutations": "true",
+  "EnableRadioactiveTransmutations": "true",
+  "GoldBarRequiredForIridium": "4",
+  "IridiumBarRequiredForRadioactive": "3"
+}

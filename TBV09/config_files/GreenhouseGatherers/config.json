@@ -1,0 +1,12 @@
+{
+  "DoJunimosEatExcessCrops": true,
+  "DoJunimosHarvestFromPots": true,
+  "DoJunimosAppearAfterHarvest": true,
+  "DoJunimosHarvestFromFruitTrees": true,
+  "DoJunimosHarvestFromFlowers": true,
+  "DoJunimosSowSeedsAfterHarvest": true,
+  "ForceRecipeUnlock": false,
+  "EnableHarvestMessage": true,
+  "MaxAmountOfJunimosToAppearAfterHarvest": -1,
+  "MinimumFruitOnTreeBeforeHarvest": 3
+}

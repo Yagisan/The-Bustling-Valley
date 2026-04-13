@@ -1,0 +1,27 @@
+{
+  "EnableSprinklerAttachments": false,
+  "ShowHoverTooltips": true,
+  "EnableShippingBin": true,
+  "AddOrganizePlayerInventoryButton": true,
+  "Range": "CurrentLocation",
+  "DisabledInLocations": [
+    "Mine",
+    "SkullCave",
+    "UndergroundMine"
+  ],
+  "ReopenLastChest": true,
+  "DefaultCategory": null,
+  "Controls": {
+    "Toggle": "B",
+    "PrevChest": "Left, LeftShoulder",
+    "NextChest": "Right, RightShoulder",
+    "PrevCategory": "Up, LeftTrigger",
+    "NextCategory": "Down, RightTrigger",
+    "EditChest": "None",
+    "SortItems": "None",
+    "HoldToMouseWheelScrollChests": "LeftControl",
+    "HoldToMouseWheelScrollCategories": "LeftAlt",
+    "OpenSearchMenu": "LeftControl + F, LeftStick",
+    "SearchMenuPreviewChest": "Tab, LeftTrigger"
+  }
+}

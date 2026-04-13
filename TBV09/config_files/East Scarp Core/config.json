@@ -1,0 +1,14 @@
+{
+  "GoatSkin": "revised",
+  "EnableMeadowFarm": "true",
+  "WalkTidePools": "false",
+  "ObeliskOptions": "vanilla",
+  "farmcave_trapdoorx": "2",
+  "farmcave_trapdoory": "5",
+  "farmcave_exitx": "2",
+  "farmcave_exity": "6",
+  "PlayCustomMusic": "true",
+  "TownMap": "vanilla",
+  "ExcludeObjects": "false",
+  "EnableAdditionalCrops": "true"
+}

@@ -1,0 +1,18 @@
+{
+  "ShowVillagersOnMap": true,
+  "ProgressiveStory": true,
+  "RepeatCableCarCutscene": true,
+  "EnableOtherNPCsInCableCar": true,
+  "EnableRidgesideMusic": true,
+  "RSVNPCSAttendFestivals": true,
+  "ExpandedFestivalMaps": true,
+  "EasyIntroduction": true,
+  "EnableBetterBusStop": true,
+  "PoleAtBackwoods": true,
+  "SeasonalRSVMap": true,
+  "EnableTouristNPCs": true,
+  "ShowRSVCustomMap": false,
+  "OddJobsWateringPrice": 5,
+  "OddJobsFencePrice": 10,
+  "OddJobsPetPrice": 10
+}

@@ -1,0 +1,190 @@
+{
+  "AreWaterReflectionsEnabled": true,
+  "AreMirrorReflectionsEnabled": true,
+  "ArePuddleReflectionsEnabled": true,
+  "AreNPCReflectionsEnabled": true,
+  "AreCompanionReflectionsEnabled": true,
+  "AreGrassReflectionsEnabled": true,
+  "AreTerrainReflectionsEnabled": true,
+  "ArePlayerBuildingReflectionsEnabled": true,
+  "AreFurnitureReflectionsEnabled": true,
+  "AreMapReflectionsEnabled": true,
+  "ShouldUsePresetMapReflections": true,
+  "AreSkyReflectionsEnabled": true,
+  "WaterReflectionSettings": {
+    "AreReflectionsEnabled": true,
+    "ReflectionDirection": "South",
+    "ReflectionOverlay": {
+      "B": 255,
+      "G": 255,
+      "R": 255,
+      "A": 255
+    },
+    "PlayerReflectionOffset": "0, 0.8",
+    "NPCReflectionOffset": "0, 1.25",
+    "CompanionReflectionOffset": "0, 0.3",
+    "IsReflectionWavy": true,
+    "WaveSpeed": 2.0,
+    "WaveAmplitude": 0.001,
+    "WaveFrequency": 200.0,
+    "OverrideDefaultSettings": false
+  },
+  "PuddleReflectionSettings": {
+    "AreReflectionsEnabled": true,
+    "ShouldGeneratePuddles": true,
+    "ShouldPlaySplashSound": true,
+    "ShouldRainSplashPuddles": true,
+    "ReflectionOffset": "0, 0",
+    "NPCReflectionOffset": "0, 0.3",
+    "CompanionReflectionOffset": "0, 0.3",
+    "PuddlePercentageWhileRaining": 20,
+    "PuddlePercentageAfterRaining": 10,
+    "BigPuddleChance": 25,
+    "MillisecondsBetweenRaindropSplashes": 500,
+    "ReflectionOverlay": {
+      "B": 255,
+      "G": 255,
+      "R": 255,
+      "A": 155
+    },
+    "PuddleColor": {
+      "B": 91,
+      "G": 91,
+      "R": 91,
+      "A": 91
+    },
+    "RippleColor": {
+      "B": 255,
+      "G": 255,
+      "R": 255,
+      "A": 155
+    },
+    "OverrideDefaultSettings": false
+  },
+  "SkyReflectionSettings": {
+    "AreReflectionsEnabled": true,
+    "StarDensityPercentage": 55,
+    "AreShootingStarsEnabled": true,
+    "MillisecondsBetweenShootingStarAttempt": 5000,
+    "MaxShootingStarAttemptsPerInterval": 5,
+    "CometChance": 10,
+    "CometSegmentMin": 5,
+    "CometSegmentMax": 20,
+    "ShootingStarMinSpeed": 0.01,
+    "ShootingStarMaxSpeed": 1.0,
+    "CometMinSpeed": 0.04,
+    "CometMaxSpeed": 0.5,
+    "MillisecondsBetweenShootingStarAttemptDuringMeteorShower": 250,
+    "GettingDarkWaterAlpha": 0.35,
+    "HalfwayDarkWaterAlpha": 0.075,
+    "FinishedDarkWaterAlpha": 0.005,
+    "OverrideDefaultSettings": false
+  },
+  "PerformanceSettings": {
+    "EnableSafeCaching": true,
+    "EnableNpcThrottling": false,
+    "NpcUpdateIntervalTicks": 2,
+    "MaxNpcReflections": 100,
+    "EnableMirrorThrottling": false,
+    "MirrorUpdateIntervalTicks": 2,
+    "EnableCompanionThrottling": false,
+    "CompanionUpdateIntervalTicks": 2,
+    "MaxCompanionReflections": 100
+  },
+  "MeteorShowerNightChance": 10,
+  "LocalWaterReflectionSettings": {
+    "Default": {
+      "AreReflectionsEnabled": true,
+      "ReflectionDirection": "South",
+      "ReflectionOverlay": {
+        "B": 255,
+        "G": 255,
+        "R": 255,
+        "A": 255
+      },
+      "PlayerReflectionOffset": "0, 0.8",
+      "NPCReflectionOffset": "0, 1.25",
+      "CompanionReflectionOffset": "0, 0.3",
+      "IsReflectionWavy": true,
+      "WaveSpeed": 2.0,
+      "WaveAmplitude": 0.001,
+      "WaveFrequency": 200.0,
+      "OverrideDefaultSettings": false
+    },
+    "Beach": {
+      "AreReflectionsEnabled": true,
+      "ReflectionDirection": "South",
+      "ReflectionOverlay": {
+        "B": 255,
+        "G": 255,
+        "R": 255,
+        "A": 255
+      },
+      "PlayerReflectionOffset": "0, 0.5",
+      "NPCReflectionOffset": "0, 0.8",
+      "CompanionReflectionOffset": "0, 0.3",
+      "IsReflectionWavy": true,
+      "WaveSpeed": 2.0,
+      "WaveAmplitude": 0.001,
+      "WaveFrequency": 200.0,
+      "OverrideDefaultSettings": true
+    }
+  },
+  "LocalPuddleReflectionSettings": {
+    "Default": {
+      "AreReflectionsEnabled": true,
+      "ShouldGeneratePuddles": true,
+      "ShouldPlaySplashSound": true,
+      "ShouldRainSplashPuddles": true,
+      "ReflectionOffset": "0, 0",
+      "NPCReflectionOffset": "0, 0.3",
+      "CompanionReflectionOffset": "0, 0.3",
+      "PuddlePercentageWhileRaining": 20,
+      "PuddlePercentageAfterRaining": 10,
+      "BigPuddleChance": 25,
+      "MillisecondsBetweenRaindropSplashes": 500,
+      "ReflectionOverlay": {
+        "B": 255,
+        "G": 255,
+        "R": 255,
+        "A": 155
+      },
+      "PuddleColor": {
+        "B": 91,
+        "G": 91,
+        "R": 91,
+        "A": 91
+      },
+      "RippleColor": {
+        "B": 255,
+        "G": 255,
+        "R": 255,
+        "A": 155
+      },
+      "OverrideDefaultSettings": false
+    }
+  },
+  "LocalSkyReflectionSettings": {
+    "Default": {
+      "AreReflectionsEnabled": true,
+      "StarDensityPercentage": 55,
+      "AreShootingStarsEnabled": true,
+      "MillisecondsBetweenShootingStarAttempt": 5000,
+      "MaxShootingStarAttemptsPerInterval": 5,
+      "CometChance": 10,
+      "CometSegmentMin": 5,
+      "CometSegmentMax": 20,
+      "ShootingStarMinSpeed": 0.01,
+      "ShootingStarMaxSpeed": 1.0,
+      "CometMinSpeed": 0.04,
+      "CometMaxSpeed": 0.5,
+      "MillisecondsBetweenShootingStarAttemptDuringMeteorShower": 250,
+      "GettingDarkWaterAlpha": 0.35,
+      "HalfwayDarkWaterAlpha": 0.075,
+      "FinishedDarkWaterAlpha": 0.005,
+      "OverrideDefaultSettings": false
+    }
+  },
+  "QuickMenuKey": "None",
+  "LastInstalledVersion": "4.0.1"
+}
