@@ -84,6 +84,17 @@ Many (but not all!) recipes are now more flexible with the ingredients they acce
 - Added [Downhill Project - Expanded Map for Custom NPCs](https://www.nexusmods.com/stardewvalley/mods/32872)
 - Added [Flexible Cooking](https://www.nexusmods.com/stardewvalley/mods/38862)
 - Added [Custom Museum Framework (CMF)](https://www.nexusmods.com/stardewvalley/mods/34530)
+- Added [Ecosystem Superpack Expansion](https://www.nexusmods.com/stardewvalley/mods/40376)
+- Added [Sharogg's Panoramas (MMAP)](https://www.nexusmods.com/stardewvalley/mods/36778)
+- Added [Misc Map Actions Properties - MMAP](https://www.nexusmods.com/stardewvalley/mods/28423)
+- Added [Do You Do Poisson](https://www.nexusmods.com/stardewvalley/mods/41203)
+- Added [Dynamic Reflections](https://www.nexusmods.com/stardewvalley/mods/12831)
+- Added [NPC Relationship Tags](https://www.nexusmods.com/stardewvalley/mods/40276)
+- Added [Automatic In-Law Relationship Tags](https://www.nexusmods.com/stardewvalley/mods/40276)
+- Added [Automatic Friend Relationship Tags](https://www.nexusmods.com/stardewvalley/mods/40276)
+- Added [Event Indicators](https://www.nexusmods.com/stardewvalley/mods/41183)
+- Added [Festival Nudge](https://www.nexusmods.com/stardewvalley/mods/44141)
+- Added [Duplicate Saves](https://www.nexusmods.com/stardewvalley/mods/41638)
 
 ### Updates <!-- omit in toc -->
 
@@ -129,6 +140,8 @@ Many (but not all!) recipes are now more flexible with the ingredients they acce
 - Updated [Unique Children](https://www.nexusmods.com/stardewvalley/mods/6278)
 - Updated [Unlockable Bundles](https://www.nexusmods.com/stardewvalley/mods/17265)
 - Updated [Upgrade Empty Cabins](https://www.nexusmods.com/stardewvalley/mods/5253)
+- Updated [Automatic Gates](https://www.nexusmods.com/stardewvalley/mods/3109)
+- Updated [Remapping](https://www.nexusmods.com/stardewvalley/mods/29049)
 
 ### Removals <!-- omit in toc -->
 
