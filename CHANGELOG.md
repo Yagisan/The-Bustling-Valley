@@ -99,7 +99,7 @@ Many (but not all!) recipes are now more flexible with the ingredients they acce
 - Added [Star Crossed - A Rival Hearts and Marriage Mod](https://www.nexusmods.com/stardewvalley/mods/34252)
 - Added [Ridgeside Rival Hearts - Jeric and Alex](https://www.nexusmods.com/stardewvalley/mods/9558)
 - Added [Ridgeside Rival Hearts - Sam and Alissa](https://www.nexusmods.com/stardewvalley/mods/9022)
-- 
+- Updated [Ayeisha - The Postal Worker](https://www.nexusmods.com/stardewvalley/mods/6427)
 
 ### Updates <!-- omit in toc -->
 
