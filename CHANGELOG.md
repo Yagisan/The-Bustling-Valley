@@ -95,6 +95,11 @@ Many (but not all!) recipes are now more flexible with the ingredients they acce
 - Added [Event Indicators](https://www.nexusmods.com/stardewvalley/mods/41183)
 - Added [Festival Nudge](https://www.nexusmods.com/stardewvalley/mods/44141)
 - Added [Duplicate Saves](https://www.nexusmods.com/stardewvalley/mods/41638)
+- Added [Spouses Move House](https://www.nexusmods.com/stardewvalley/mods/44103)
+- Added [Star Crossed - A Rival Hearts and Marriage Mod](https://www.nexusmods.com/stardewvalley/mods/34252)
+- Added [Ridgeside Rival Hearts - Jeric and Alex](https://www.nexusmods.com/stardewvalley/mods/9558)
+- Added [Ridgeside Rival Hearts - Sam and Alissa](https://www.nexusmods.com/stardewvalley/mods/9022)
+- 
 
 ### Updates <!-- omit in toc -->
 
