@@ -99,7 +99,6 @@ Many (but not all!) recipes are now more flexible with the ingredients they acce
 - Added [Star Crossed - A Rival Hearts and Marriage Mod](https://www.nexusmods.com/stardewvalley/mods/34252)
 - Added [Ridgeside Rival Hearts - Jeric and Alex](https://www.nexusmods.com/stardewvalley/mods/9558)
 - Added [Ridgeside Rival Hearts - Sam and Alissa](https://www.nexusmods.com/stardewvalley/mods/9022)
-- Updated [Ayeisha - The Postal Worker](https://www.nexusmods.com/stardewvalley/mods/6427)
 
 ### Updates <!-- omit in toc -->
 
@@ -117,6 +116,7 @@ Many (but not all!) recipes are now more flexible with the ingredients they acce
 - Updated [Coal Point Farm](https://www.nexusmods.com/stardewvalley/mods/24852)
 - Updated [Creative Differences](https://www.nexusmods.com/stardewvalley/mods/13437)
 - Updated [Lumisteria Visit Mount Vapius](https://www.nexusmods.com/stardewvalley/mods/9600)
+- Updated [Ayeisha - The Postal Worker](https://www.nexusmods.com/stardewvalley/mods/6427)
 - Updated [Community Center Reimagined](https://www.nexusmods.com/stardewvalley/mods/6966)
 - Updated [Buildable Ginger Island Farm](https://www.nexusmods.com/stardewvalley/mods/20600)
 - Updated [Part of a Saloon Breakfast](https://www.nexusmods.com/stardewvalley/mods/17775)
@@ -147,6 +147,10 @@ Many (but not all!) recipes are now more flexible with the ingredients they acce
 - Updated [Upgrade Empty Cabins](https://www.nexusmods.com/stardewvalley/mods/5253)
 - Updated [Automatic Gates](https://www.nexusmods.com/stardewvalley/mods/3109)
 - Updated [Remapping](https://www.nexusmods.com/stardewvalley/mods/29049)
+- Updated [Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)
+- Updated [Object Product Display](https://www.nexusmods.com/stardewvalley/mods/18365)
+- Updated [YACS - Yet Another Cooking Skill](https://www.nexusmods.com/stardewvalley/mods/22681)
+- Updated [Eidee Easy Fishing](https://www.nexusmods.com/stardewvalley/mods/4806)
 
 ### Removals <!-- omit in toc -->
 
