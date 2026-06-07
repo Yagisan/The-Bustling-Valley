@@ -2,8 +2,8 @@
     {
         "Id": "TBVTutorialMail.Info",
         "GroupId": "TBVTutorialMail.Info",
-        "Title": "TBV 0.8.x Intro",
-        "Text": "G'day @^^Welcome to The Bustling Valley 0.8.x.^^Is designed for Stardew Valley 1.6.x, and requires you to start a new farm. It is not possible to continue a farm started on TBV 0.7.x or older.^^- Yagisan",
+        "Title": "TBV 0.9.x Intro",
+        "Text": "G'day @^^Welcome to The Bustling Valley 0.9.x.^^Is designed for Stardew Valley 1.6.x, and requires you to start a new farm. It is not possible to continue a farm started on TBV 0.8.x or older.^^- Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -12,7 +12,7 @@
         "Id": "TBVTutorialMail.Skills01",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Skills Overview",
-        "Text": "The Bustling Valley includes several addtional skills. These are:^^Luck^Cooking^Socializing^Artificer^Druidics^Bardics^Sorcerer^Paladin^^Not all skills are available at the start of the game, and some must be unlocked via gameplay.^^ - Yagisan",
+        "Text": "The Bustling Valley includes several addtional skills. These are:^^Luck^Cooking^Socializing^^These unlock new ways to play the game, and make some choices more viable as alternate playstyles. All skills count towards perfection, so don't neglect any.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -135,55 +135,10 @@
         "AutoOpen": false
     },
     {
-        "Id": "TBVTutorialMail.SkillsArtificer",
-        "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Skills - Artificer",
-        "Text": "A new skill, artificer has been added.^^This skill is unlocked by following a questline from a villager.^^Perfect your sharpshooting skills with a craftable bow and arrows, or master the forge and expand on your smithing know-how.^^ - Yagisan",
-        "Date": "1 spring Y1",
-        "Repeatable": false,
-        "AutoOpen": false
-    },
-    {
-        "Id": "TBVTutorialMail.Druidics",
-        "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Skills - Druidics",
-        "Text": "A new skill, druidics has been added.^^This skill is unlocked by following a questline from a villager.^^Master wildshape and take on the form of a stag, doe or wolf. Or, foster ancient plants long since lost to time.^^ - Yagisan",
-        "Date": "1 spring Y1",
-        "Repeatable": false,
-        "AutoOpen": false
-    },
-    {
-        "Id": "TBVTutorialMail.Bardics",
-        "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Skills - Bardics",
-        "Text": "A new skill, bardics has been added.^^This skill is unlocked by following a questline from a villager.^^Take on a defensive or offensive focus while using a slew of new musically-themed utility spells.^^ - Yagisan",
-        "Date": "1 spring Y1",
-        "Repeatable": false,
-        "AutoOpen": false
-    },
-    {
-        "Id": "TBVTutorialMail.Sorcery",
-        "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Skills - Sorcery",
-        "Text": "A new skill, sorcery has been added.^^This skill is unlocked by following a questline from a villager.^^Pour your efforts into research and collecting elemental essences and learn mysterious new rituals and potion recipes.^^ - Yagisan",
-        "Date": "1 spring Y1",
-        "Repeatable": false,
-        "AutoOpen": false
-    },
-    {
-        "Id": "TBVTutorialMail.Paladin",
-        "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Skills - Paladin",
-        "Text": "A new skill, paladin has been added.^^This skill is unlocked by following a questline from a villager.^^Use your new Offhand Weapon slot to bolster your armor by using a shield and flinging it at your enemies when they get too close.^^ - Yagisan",
-        "Date": "1 spring Y1",
-        "Repeatable": false,
-        "AutoOpen": false
-    },
-    {
         "Id": "TBVTutorialMail.TBVFarmsandCrows",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Farms",
-        "Text": "Did you know that you can get 4 farms in The Bustling Valley?^^These are:^^The starting farm.^^Ginger Island farm.^^Meadow farm.^^Summit farm.^^Beware, unlike vanilla, scarecrows are needed on all farms to keep the crows away!^^ - Yagisan",
+        "Text": "Did you know that you can get 5 farms in The Bustling Valley?^^These are:^^The starting farm.^^Ginger Island farm.^^Meadow farm.^^Summit farm.^^Sunberry farm.^^Beware, unlike vanilla, scarecrows are needed on all farms to keep the crows away!^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -220,6 +175,15 @@
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Special Marriage Candidates",
         "Text": "Did you know there are some special marriage candidates in TBV?^^Some NPCs only become dateable after specfic events. For example Juliet only becomes datable after the Community Centre is built.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+        {
+        "Id": "TBVTutorialMail.RivalHearts",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "TBV NPC Marriages",
+        "Text": "Did you know that multiple marriage candidates can, and will, start dating each other in TBV?^^If you aren't dating a NPC, they will begin dating other NPCs. Once those events start you are now locked out from dating that NPC.^^If you have your eye on a specfic NPC, you might want to make a move on them sooner, rather than later!^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
