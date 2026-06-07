@@ -1,0 +1,14 @@
+{
+  "GunnarFairness": "Default",
+  "YearOneFairness": "Default",
+  "CachePriceModifier": "Default",
+  "DeluxePotionPriceModifier": "Default",
+  "FersekenPeachSaplingModifier": "Default",
+  "WeakRingPriceModifier": "Default",
+  "OriginalColaSellValue": "25",
+  "CustomColaSellValue": "35",
+  "BasementColaPriceMultiplier": "3.0",
+  "StoneBrambleBerryEdibility": "16",
+  "LuckierRemedyAll": "false",
+  "OverrideRemedyAllPrice": "false"
+}
