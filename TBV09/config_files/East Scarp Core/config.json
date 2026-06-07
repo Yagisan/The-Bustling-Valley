@@ -10,5 +10,6 @@
   "PlayCustomMusic": "true",
   "TownMap": "vanilla",
   "ExcludeObjects": "false",
-  "EnableAdditionalCrops": "true"
+  "EnableAdditionalCrops": "true",
+  "AllowGiantChocoFruit": "false"
 }
