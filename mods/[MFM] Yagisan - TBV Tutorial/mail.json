@@ -12,7 +12,7 @@
         "Id": "TBVTutorialMail.Skills01",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Skills Overview",
-        "Text": "The Bustling Valley includes several addtional skills. These are:^^Luck^Cooking^Socializing^^These unlock new ways to play the game, and make some choices more viable as alternate playstyles. All skills count towards perfection, so don't neglect any.^^ - Yagisan",
+        "Text": "The Bustling Valley includes several addtional skills. These are:^^Cooking^Socializing^^These unlock new ways to play the game, and make some choices more viable as alternate playstyles. All skills count towards perfection, so don't neglect any.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -108,19 +108,10 @@
         "AutoOpen": false
     },
     {
-        "Id": "TBVTutorialMail.SkillsLuck",
-        "GroupId": "TBVTutorialMail.Gameplay",
-        "Title": "TBV Skills - Luck",
-        "Text": "A new skill, luck has been added.^^Gambler (Lv5) - better daily luck.^^Lucky (Lv10) - 20% chance for max daily luck.^^Fortune Teller (Lv10) - Never have bad luck.^^Assistant (Lv5) - Daily quests occur three times as often.^^Shooting Star (Lv10) - Nightly events occur twice as often.^^Spirit Child (Lv10) - Giving gifts makes Junimos happy; 15% chance for some form of farm advancement.^^ - Yagisan",
-        "Date": "1 spring Y1",
-        "Repeatable": false,
-        "AutoOpen": false
-    },
-    {
         "Id": "TBVTutorialMail.SkillsSocializing",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Skills - Socializing",
-        "Text": "A new skill, socializing has been added.^^Friendly (Lv5) - Gain additional friendship from talking to villagers.^^Smooth Talker (Lv10) - Gain more friendship (or lose less) during heart events.^^Gifter (Lv10) - Gain additional friendship from giving gifts.^^Helpful (Lv5) - Gain extra quest rewards.^^Haggler (Lv10) - Get a discount at shops when you are friends with the owner.^^Beloved (Lv10) - Sometimes get gifts from your friends.^^This skill is affected by the Statue of Prestige.^^ - Yagisan",
+        "Text": "A new skill, socializing has been added.^^Friendly (Lv5) - Gain additional friendship from talking to villagers.^^Smooth Talker (Lv10) - Gain more friendship (or lose less) during heart events.^^Gifter (Lv10) - Gain additional friendship from giving gifts.^^Helpful (Lv5) - Gain extra quest rewards.^^Haggler (Lv10) - Get a discount at shops when you are friends with the owner.^^Beloved (Lv10) - Sometimes get gifts from your friends.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -129,7 +120,7 @@
         "Id": "TBVTutorialMail.SkillsCooking",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Skills - Cooking",
-        "Text": "A new skill, cooking has been added.^^Sous Chef (Lv5) - Cooking oil further improves the quality of recipes.^^Big Eater (Lv10) - Cooked food restores 5% more.^^Head Chef (Lv10) - Cooked foods given as gifts befriend quicker.^^Five Star Cook (Lv5) - Cooked foods worth 29.999996% more.^^Gourmet (Lv10) - Chance to craft an extra portion when cooking.^^Glutton (Lv10) - Buff duration from food and drinks increased when at full energy.^^This skill is NOT affected by the Statue of Prestige.^^ - Yagisan",
+        "Text": "A new skill, cooking has been added.^^Cook (Lv5) - Cooked meals have a chance to have a higher quality.^^Caterer (Lv10) - When cooking, chance to receive double the recipe based on twice your cooking bonus.^^Foodmonger (Lv10) - Home Cooked Foods have an increased selling value based on your cooking level.^^Foodie (Lv5) - Buff durations from foods last longer (duration based on cooking level).^^Eqicure (Lv10) - Food buffs are one level stronger (+16 for energy or magnetism).^^Gastronomist (Lv10) - Eating or Drinking gives a Third Food/Drink buff that has a random effect.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -309,7 +300,7 @@
         "Id": "TBVTutorialMail.TBVNewFarms01",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "New Farm - Ginger Island Farm",
-        "Text": "Follow Willy's quests to repair his boat to get access to this farm. You can repair a farmhouse here to safely stay the night.^^You can grow crops from any season here.^^ - Yagisan",
+        "Text": "Follow Willy's quests to repair his boat to get access to this farm. You can repair a farmhouse here to safely stay the night.^You can grow crops from any season here.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -318,7 +309,7 @@
         "Id": "TBVTutorialMail.TBVNewFarms02",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "New Farm - Meadow Farm",
-        "Text": "Freely available from the start, exit East Scarp to the North East, near the Bear family home. You can not stay here overnight, so make your way to the East Scarp inn, or travel back to another farmhouse to sleep.^^This farm has a lot of respawning hardwood that is easy to access.^^ - Yagisan",
+        "Text": "Freely available from the start, exit East Scarp to the North East, near the Bear family home. You can not stay here overnight, so make your way to the East Scarp inn, or travel back to another farmhouse to sleep.^This farm has a lot of respawning hardwood that is easy to access.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -327,7 +318,7 @@
         "Id": "TBVTutorialMail.TBVNewFarms03",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "New Farm - Summit Farm",
-        "Text": "This is the reward farm for completeing the Ridgeside Village spirit storyline. The farmhouse is ready for use immediatly after you aquire this farm.^^You can purchase upgrades for this farm to allow any season planting, like the Ginger Island Farm, and automatic watering of all crops.^^ - Yagisan",
+        "Text": "This is the reward farm for completeing the Ridgeside Village spirit storyline. The farmhouse is ready for use immediatly after you aquire this farm.^You can purchase upgrades for this farm to allow any season planting, like the Ginger Island Farm, and automatic watering of all crops.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -354,7 +345,7 @@
         "Id": "TBVTutorialMail.TBVNewGreenhouse02",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "New Greenhouse - Phantom Greenhouse",
-        "Text": "You need to complete the initial Ninja House quests to start the quest to access this greenhouse. Beware, this greenhouse is only available after midnight.^^ - Yagisan",
+        "Text": "You need to complete the initial Ninja House quests to start the quest to access this greenhouse.^Beware, this greenhouse is only available after midnight.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -363,7 +354,7 @@
         "Id": "TBVTutorialMail.TBVNewGreenhouse03",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "The Shedhouse",
-        "Text": "Need even more greenhouses? You can build your own. You need the following.^^Unlock the greenhouse on your farm. You need to learn to make garden pots from Evelyn.^^You need Robin to build you a shed.^^You need one Deluxe Retaining soil for each garden pot. Either get the recipe from the Island Trader and craft it yourself, or get a Compost Bin from Mount Vapius, and keep processing Basic Retaining Soil into Deluxe.^^Place the Garden Pots in the shed, place the Deluxe Retaining soil into the pots, place your seeds, water each pot with the watering can, and that it, you have make a new greenhouse.^^This is best used on regrowing crops so you don't have to reapply the retaining soil.^^ - Yagisan",
+        "Text": "Need even more greenhouses? You can build your own. You need the following.^^Unlock the greenhouse on your farm. You need to learn to make garden pots from Evelyn.^You need Robin to build you a shed.^^You need one Deluxe Retaining soil for each garden pot. Either get the recipe from the Island Trader and craft it yourself, or get a Compost Bin from Mount Vapius, and keep processing Basic Retaining Soil into Deluxe.^Place the Garden Pots in the shed, place the Deluxe Retaining soil into the pots, place your seeds, water each pot with the watering can, and that it, you have make a new greenhouse.^^This is best used on regrowing crops so you don't have to reapply the retaining soil.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
