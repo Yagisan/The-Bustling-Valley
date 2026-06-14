@@ -68,6 +68,10 @@ Kent and Jodi have a lot more content to flesh them out.
 
 Many (but not all!) recipes are now more flexible with the ingredients they accept. For example, if a recipe requires cheese, but all you have is goat cheese, in most cases, you can now use goat cheese instead.
 
+Most events are have an indicator before you trigger them.
+
+The community centre becomes useable once completed, with a working kitchen, spinning wheel, dye pots, anvil and more.
+
 ### Modifications <!-- omit in toc -->
 
 ### Additions <!-- omit in toc -->
@@ -99,6 +103,7 @@ Many (but not all!) recipes are now more flexible with the ingredients they acce
 - Added [Star Crossed - A Rival Hearts and Marriage Mod](https://www.nexusmods.com/stardewvalley/mods/34252)
 - Added [Ridgeside Rival Hearts - Jeric and Alex](https://www.nexusmods.com/stardewvalley/mods/9558)
 - Added [Ridgeside Rival Hearts - Sam and Alissa](https://www.nexusmods.com/stardewvalley/mods/9022)
+- Added [Useable Community Center](https://www.nexusmods.com/stardewvalley/mods/25125)
 
 ### Updates <!-- omit in toc -->
 
@@ -162,6 +167,7 @@ Many (but not all!) recipes are now more flexible with the ingredients they acce
 - Removed [Ranger Taro - Custom NPC](https://www.nexusmods.com/stardewvalley/mods/30445)
 - Removed [FIASA - a mini expansion](https://www.nexusmods.com/stardewvalley/mods/33880)
 - Removed [Sword and Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369)
+- Removed [Spacecore Luck Skill](https://www.nexusmods.com/stardewvalley/mods/28103)
 
 ## 0.8.18
 
