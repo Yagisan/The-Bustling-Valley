@@ -1,0 +1,14 @@
+{
+  "$schema": "https://smapi.io/schemas/manifest.json",
+  "Name": "[CP] Yagisan - The Bustling Valley",
+  "Author": "Yagisan",
+  "Version": "0.9.0",
+  "Description": "The Bustling Valley Wabbajack List",
+  "UniqueID": "Yagisan.TheBustlingValley",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "2.5.0"
+  },
+}
