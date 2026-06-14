@@ -138,7 +138,7 @@
         "Id": "TBVTutorialMail.TBVFarmsandCrows",
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Farms",
-        "Text": "Did you know that you can get 5 farms in The Bustling Valley?^^These are:^^The starting farm.^^Ginger Island farm.^^Meadow farm.^^Summit farm.^^Sunberry farm.^^Beware, unlike vanilla, scarecrows are needed on all farms to keep the crows away!^^ - Yagisan",
+        "Text": "Did you know that you can get 6 farms in The Bustling Valley?^^These are:^^The starting farm.^^Ginger Island farm.^^Meadow farm.^^Summit farm.^^Sunberry farm.^^The Orchard.^^Beware, unlike vanilla, scarecrows are needed on all farms to keep the crows away!^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
@@ -301,6 +301,69 @@
         "GroupId": "TBVTutorialMail.Gameplay",
         "Title": "TBV Event Lookup",
         "Text": "Events not triggering for you?^Press N to list all events that may occur today in-game. Remember that unique events are rate limited, so you will not be able to trigger all of them each day.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.TBVNewFarms01",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "New Farm - Ginger Island Farm",
+        "Text": "Follow Willy's quests to repair his boat to get access to this farm. You can repair a farmhouse here to safely stay the night.^^You can grow crops from any season here.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.TBVNewFarms02",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "New Farm - Meadow Farm",
+        "Text": "Freely available from the start, exit East Scarp to the North East, near the Bear family home. You can not stay here overnight, so make your way to the East Scarp inn, or travel back to another farmhouse to sleep.^^This farm has a lot of respawning hardwood that is easy to access.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.TBVNewFarms03",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "New Farm - Summit Farm",
+        "Text": "This is the reward farm for completeing the Ridgeside Village spirit storyline. The farmhouse is ready for use immediatly after you aquire this farm.^^You can purchase upgrades for this farm to allow any season planting, like the Ginger Island Farm, and automatic watering of all crops.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.TBVNewFarms04",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "New Farm - Sunberry Farm",
+        "Text": "Available for purchase from the Serenity Inn, in Sunberry Village. The farmhouse is ready for use immediatly after you aquire this farm.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.TBVNewGreenhouse01",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "New Greenhouse - Community Greenhouse",
+        "Text": "Become friends with Lenny in Ridgeside village to receive the quest to restore this greenhouse.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.TBVNewGreenhouse02",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "New Greenhouse - Phantom Greenhouse",
+        "Text": "You need to complete the initial Ninja House quests to start the quest to access this greenhouse. Beware, this greenhouse is only available after midnight.^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.TBVNewGreenhouse03",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "The Shedhouse",
+        "Text": "Need even more greenhouses? You can build your own. You need the following.^^Unlock the greenhouse on your farm. You need to learn to make garden pots from Evelyn.^^You need Robin to build you a shed.^^You need one Deluxe Retaining soil for each garden pot. Either get the recipe from the Island Trader and craft it yourself, or get a Compost Bin from Mount Vapius, and keep processing Basic Retaining Soil into Deluxe.^^Place the Garden Pots in the shed, place the Deluxe Retaining soil into the pots, place your seeds, water each pot with the watering can, and that it, you have make a new greenhouse.^^This is best used on regrowing crops so you don't have to reapply the retaining soil.^^ - Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
