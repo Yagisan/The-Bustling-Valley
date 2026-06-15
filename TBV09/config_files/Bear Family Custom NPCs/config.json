@@ -1,11 +1,11 @@
 {
   "IncludeinIntroductionQuest": "true",
-  "ExcludeFromPerfection": "true",
+  "ExcludeFromPerfection": "false",
   "ExcludeFishFromPerfection": "true",
   "FarmerJobTitle": "Farmer",
   "KrakensWords": "Wise",
   "ProfanityFilter": "false",
-  "BearsGiveGifts": "false",
+  "BearsGiveGifts": "true",
   "BearFamStarterGift": "true",
   "EnableBonusEvents": "true",
   "NoIntroEvents": "false",
