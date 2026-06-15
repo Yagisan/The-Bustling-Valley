@@ -385,5 +385,14 @@
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.TBVAnimals04",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "New Animals - Mizu's",
+        "Text": "The following are the new animals you can unlock:^^Reindeer - Barn - Special Order Quest^Buffalo - Barn - Special Order Quest^Yak - Barn - Special Order Quest^Deer - Barn - Special Order Quest^Goose - Coop - Unlock Big Coop^Golden Goose - Coop - Mr Qi's Walnut Room after Perfection^Turkey - Coop - Special Order Quest^Peafowl - Coop - Special Order Quest^Phoenix - Coop - Find an egg^Dodo - Coop - Find an egg^Capybara - Barn - Special Order Quest^Alpaca - Barn - Special Order Quest^Llama - Barn - Special Order Quest^Emu - Barn - Special Order Quest^Quial - Coop - Unlocked from start^^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
     }
 ]
