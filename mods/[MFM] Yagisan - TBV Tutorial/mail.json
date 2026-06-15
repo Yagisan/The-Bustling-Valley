@@ -358,5 +358,32 @@
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.TBVAnimals01",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "Animals",
+        "Text": "There are a variety of animals you can get for your farm in The Bustling Valley. Most animals can be purchased from Marnie as you unlock them with buildings and quests.^Some animals however, you need to find. For example, the first dinosaur egg you find, should be placed in an incubator in a coop.^ ^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.TBVAnimals02",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "New Animals - Mt Vapius",
+        "Text": "The following are the new animals you can unlock:^^Speckled Fowl - Coop - Mt Vapius Quests^Void Speckled Fowl - Coop - Find an egg^Gem Pigeon - Coop - Find an egg^Ewe - Barn - Mt Vapius Quests^Goose - Barn - Mt Vapius Quests^Stellar Goose - Barn - Find an egg^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
+    },
+    {
+        "Id": "TBVTutorialMail.TBVAnimals03",
+        "GroupId": "TBVTutorialMail.Gameplay",
+        "Title": "New Animals - East Scarp",
+        "Text": "The following are the new animals you can unlock:^^Void Goat - Barn - East Scarp Quests^Golden Pheasant - Barn - Find an egg^^ - Yagisan",
+        "Date": "1 spring Y1",
+        "Repeatable": false,
+        "AutoOpen": false
     }
 ]
