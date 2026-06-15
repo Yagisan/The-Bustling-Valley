@@ -6,7 +6,7 @@
   "EnableRidgesideMusic": true,
   "RSVNPCSAttendFestivals": true,
   "ExpandedFestivalMaps": true,
-  "EasyIntroduction": true,
+  "EasyIntroduction": false,
   "EnableBetterBusStop": true,
   "PoleAtBackwoods": true,
   "SeasonalRSVMap": true,
