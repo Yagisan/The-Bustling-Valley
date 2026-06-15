@@ -1,5 +1,5 @@
 {
-  "PreventFailedHarvesting": true,
+  "PreventFailedHarvesting": false,
   "DisplayHearts": true,
   "DisplayProduce": true,
   "DisplayFarmAnimalHearts": true,
