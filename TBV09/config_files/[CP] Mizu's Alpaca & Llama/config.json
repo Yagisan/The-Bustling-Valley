@@ -1,0 +1,12 @@
+{
+  "Enable Alpaca": "true",
+  "Enable Llama": "true",
+  "Enable Pushmi-pullyu": "false",
+  "Enable Blonde Alpaca": "true",
+  "Enable Brown Alpaca": "true",
+  "Enable Pink Alpaca": "false",
+  "Enable Blonde Llama": "true",
+  "Enable White Llama": "true",
+  "Enable Blue Llama": "false",
+  "Disable Meat Recipes": "true"
+}
