@@ -1,0 +1,7 @@
+{
+  "OnlyProcessWhenIdle": true,
+  "IdleTicksThreshold": 60,
+  "PauseTimerDuringCutscenes": false,
+  "PauseTimerOnInput": true,
+  "DebugMode": false
+}
