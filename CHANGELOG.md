@@ -104,6 +104,9 @@ The community centre becomes useable once completed, with a working kitchen, spi
 - Added [Ridgeside Rival Hearts - Jeric and Alex](https://www.nexusmods.com/stardewvalley/mods/9558)
 - Added [Ridgeside Rival Hearts - Sam and Alissa](https://www.nexusmods.com/stardewvalley/mods/9022)
 - Added [Useable Community Center](https://www.nexusmods.com/stardewvalley/mods/25125)
+- Added [Minecart Travel Menu](https://www.nexusmods.com/stardewvalley/mods/47476)
+- Added [Pelican Town Expanded](https://www.nexusmods.com/stardewvalley/mods/46883)
+- Added [Luau Soup Customizer](https://www.nexusmods.com/stardewvalley/mods/40494)
 
 ### Updates <!-- omit in toc -->
 
