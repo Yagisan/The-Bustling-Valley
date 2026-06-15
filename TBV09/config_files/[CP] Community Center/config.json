@@ -1,7 +1,7 @@
 {
   "RainyDaySchedule": "true",
-  "SchoolSchedule": "true",
+  "SchoolSchedule": "false",
   "FarmersChildren": "false",
-  "CookingClass": "true",
+  "CookingClass": "false",
   "OverRideSVE": "false"
 }
