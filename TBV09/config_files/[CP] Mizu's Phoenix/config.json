@@ -1,0 +1,8 @@
+{
+  "Enable Sunrise Phoenix": "true",
+  "Enable Sunset Phoenix": "true",
+  "Enable Midday Phoenix": "true",
+  "Enable Midnight Phoenix": "true",
+  "Enable Blue Phoenix": "false",
+  "Enable Balut": "false"
+}
