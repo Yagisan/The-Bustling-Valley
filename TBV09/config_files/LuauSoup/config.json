@@ -1,0 +1,92 @@
+{
+  "EnableMod": true,
+  "WarnMessage": true,
+  "ShowItemInfo": true,
+  "EveryoneMustContribute": true,
+  "FriendshipLoved": 120,
+  "FriendshipLiked": 60,
+  "FriendshipDisliked": -50,
+  "FriendshipHated": -100,
+  "ReqsLoved": [
+    {
+      "minQuality": 2,
+      "maxQuality": null,
+      "minPrice": 160,
+      "maxPrice": null,
+      "minEdibility": null,
+      "maxEdibility": null
+    },
+    {
+      "minQuality": 1,
+      "maxQuality": 1,
+      "minPrice": 300,
+      "maxPrice": null,
+      "minEdibility": 11,
+      "maxEdibility": null
+    }
+  ],
+  "ReqsLiked": [
+    {
+      "minQuality": null,
+      "maxQuality": null,
+      "minPrice": null,
+      "maxPrice": null,
+      "minEdibility": 20,
+      "maxEdibility": null
+    },
+    {
+      "minQuality": null,
+      "maxQuality": null,
+      "minPrice": 160,
+      "maxPrice": null,
+      "minEdibility": null,
+      "maxEdibility": null
+    },
+    {
+      "minQuality": 1,
+      "maxQuality": null,
+      "minPrice": 70,
+      "maxPrice": null,
+      "minEdibility": null,
+      "maxEdibility": null
+    }
+  ],
+  "ReqsNeutral": [
+    {
+      "minQuality": null,
+      "maxQuality": null,
+      "minPrice": 21,
+      "maxPrice": null,
+      "minEdibility": 10,
+      "maxEdibility": null
+    },
+    {
+      "minQuality": null,
+      "maxQuality": null,
+      "minPrice": 40,
+      "maxPrice": null,
+      "minEdibility": 5,
+      "maxEdibility": null
+    }
+  ],
+  "ReqsDisliked": [
+    {
+      "minQuality": null,
+      "maxQuality": null,
+      "minPrice": null,
+      "maxPrice": null,
+      "minEdibility": 0,
+      "maxEdibility": null
+    }
+  ],
+  "ReqsHated": [
+    {
+      "minQuality": null,
+      "maxQuality": null,
+      "minPrice": null,
+      "maxPrice": null,
+      "minEdibility": -299,
+      "maxEdibility": -1
+    }
+  ]
+}
