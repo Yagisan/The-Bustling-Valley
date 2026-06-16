@@ -136,6 +136,8 @@ The community centre becomes useable once completed, with a working kitchen, spi
 - Added [Livestock Bazaar - Custom Animal Shops Framework](https://www.nexusmods.com/stardewvalley/mods/29997)
 - Added [Schedule Viewer](https://www.nexusmods.com/stardewvalley/mods/19305)
 - Added [Rose and the Alchemist](https://www.nexusmods.com/stardewvalley/mods/32385)
+- Added [Marigold - The Romanceable Crop Fairy](https://www.nexusmods.com/stardewvalley/mods/42996)
+- Added [Susan of Emerald Farm - SVE Standalone NPC](https://www.nexusmods.com/stardewvalley/mods/45990)
 
 ### Updates <!-- omit in toc -->
 
