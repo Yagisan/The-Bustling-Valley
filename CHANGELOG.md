@@ -182,6 +182,7 @@ The community centre becomes useable once completed, with a working kitchen, spi
 - Updated [Object Product Display](https://www.nexusmods.com/stardewvalley/mods/18365)
 - Updated [YACS - Yet Another Cooking Skill](https://www.nexusmods.com/stardewvalley/mods/22681)
 - Updated [Eidee Easy Fishing](https://www.nexusmods.com/stardewvalley/mods/4806)
+- Updated [Egg Festival Winner Randomized](https://www.nexusmods.com/stardewvalley/mods/8574)
 
 ### Removals <!-- omit in toc -->
 
