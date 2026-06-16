@@ -130,6 +130,12 @@ The community centre becomes useable once completed, with a working kitchen, spi
 - Added [Automate - No More Lag](https://www.nexusmods.com/stardewvalley/mods/41945)
 - Added [Xiddav's Tilesheet](https://www.nexusmods.com/stardewvalley/mods/10881)
 - Added [Little Red School House](https://www.nexusmods.com/stardewvalley/mods/9695)
+- Added [Woodsman Hurst](https://www.nexusmods.com/stardewvalley/mods/45324)
+- Added [Wood-fired Fish Smoker](https://www.nexusmods.com/stardewvalley/mods/47187)
+- Added [Quest Helper](https://www.nexusmods.com/stardewvalley/mods/41150)
+- Added [Livestock Bazaar - Custom Animal Shops Framework](https://www.nexusmods.com/stardewvalley/mods/29997)
+- Added [Schedule Viewer](https://www.nexusmods.com/stardewvalley/mods/19305)
+- Added [Rose and the Alchemist](https://www.nexusmods.com/stardewvalley/mods/32385)
 
 ### Updates <!-- omit in toc -->
 
