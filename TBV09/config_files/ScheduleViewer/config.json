@@ -1,0 +1,10 @@
+{
+  "ShowSchedulesKey": "P",
+  "UseAddress": false,
+  "DisableHover": false,
+  "UseLargerFontForScheduleDetails": false,
+  "NPCSortOrder": "AlphabeticalAscending",
+  "OnlyShowMetNPCs": true,
+  "OnlyShowSocializableNPCs": true,
+  "IgnoredNPCs": []
+}
