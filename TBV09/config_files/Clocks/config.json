@@ -1,0 +1,25 @@
+{
+  "ModEnabled": true,
+  "FixClocks": true,
+  "SmoothMovement": true,
+  "Alpha": 0.75,
+  "HourHandColor": {
+    "B": 33,
+    "G": 61,
+    "R": 142,
+    "A": 255
+  },
+  "MinuteHandColor": {
+    "B": 33,
+    "G": 61,
+    "R": 142,
+    "A": 255
+  },
+  "NubColor": {
+    "B": 33,
+    "G": 61,
+    "R": 142,
+    "A": 255
+  },
+  "Debug": false
+}
