@@ -1,0 +1,7 @@
+{
+  "EnableQuestCompletion": true,
+  "EnableQuestRescheduling": true,
+  "EnableSupplyPurchase": true,
+  "AllowPelicanTownSpecialOrders": true,
+  "AllowQiSpecialOrders": true
+}
