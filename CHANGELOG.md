@@ -209,6 +209,7 @@ The community centre becomes useable once completed, with a working kitchen, spi
 - Removed [FIASA - a mini expansion](https://www.nexusmods.com/stardewvalley/mods/33880)
 - Removed [Sword and Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369)
 - Removed [Spacecore Luck Skill](https://www.nexusmods.com/stardewvalley/mods/28103)
+- Removed [Anniversary on Calendar](https://www.nexusmods.com/stardewvalley/mods/8351)
 
 ## 0.8.18
 
