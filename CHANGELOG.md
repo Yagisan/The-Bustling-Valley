@@ -138,6 +138,12 @@ The community centre becomes useable once completed, with a working kitchen, spi
 - Added [Rose and the Alchemist](https://www.nexusmods.com/stardewvalley/mods/32385)
 - Added [Marigold - The Romanceable Crop Fairy](https://www.nexusmods.com/stardewvalley/mods/42996)
 - Added [Susan of Emerald Farm - SVE Standalone NPC](https://www.nexusmods.com/stardewvalley/mods/45990)
+- Added [Marriage Overhaul](https://www.nexusmods.com/stardewvalley/mods/47395)
+- Added [Visible Pond Fish](https://www.nexusmods.com/stardewvalley/mods/47433)
+- Added [Clocks](https://www.nexusmods.com/stardewvalley/mods/47733)
+- Added [Standardized Seed Sprites](https://www.nexusmods.com/stardewvalley/mods/21305)
+- Added [Quest Services](https://www.nexusmods.com/stardewvalley/mods/47585)
+- Added [Cornucopia - Cooking Recipes](https://www.nexusmods.com/stardewvalley/mods/39057)
 
 ### Updates <!-- omit in toc -->
 
