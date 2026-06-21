@@ -48,7 +48,6 @@ The Bustling Valley is a curated modlist designed for a bigger Stardew Valley ex
 - [Mod Default Hotkeys](#mod-default-hotkeys)
 - [Modifying the mod list](#modifying-the-mod-list)
   - [Disabling selected mods](#disabling-selected-mods)
-  - [Configuring selected mods](#configuring-selected-mods)
 - [Other Post Installation FAQ](#other-post-installation-faq)
   - [Why does it crash on load? Why do I get a white screen on load?](#why-does-it-crash-on-load-why-do-i-get-a-white-screen-on-load)
   - [Why is it slow to start?](#why-is-it-slow-to-start)
@@ -215,8 +214,6 @@ Updating is like installing. You only have to make sure that you select the same
 
 **[Socializing Skill](https://www.nexusmods.com/stardewvalley/mods/14142)** adds a new socializing skill.
 
-**[Luck Skill](https://github.com/Pet-Slime/StardewValley/releases/tag/Luck_Skill)** adds a new luck skill.
-
 ## Automation
 
 **[Automate](https://www.nexusmods.com/stardewvalley/mods/1063)** by placing a chest next to a machine (like a furnace or crystalarium), the machine will automatically pull raw items from the chest and push processed items into it. Connect multiple machines with a chest to link them.
@@ -256,8 +253,6 @@ Updating is like installing. You only have to make sure that you select the same
   - **F3** Show the progress report.
 - [Event Lookup](https://www.nexusmods.com/stardewvalley/mods/8505)
   - **N** List all heart events that can be triggered today.
-- [Sword & Sorcery](https://www.nexusmods.com/stardewvalley/mods/12369)
-  - **U** access the adventure bar.
 - [Reset Terrain Features](https://www.nexusmods.com/stardewvalley/mods/4715)
   - **V** access the reset terrain menu.
 - [Personal Combat Drone Redux](https://www.nexusmods.com/stardewvalley/mods/18224)
@@ -266,7 +261,8 @@ Updating is like installing. You only have to make sure that you select the same
   - **F10** to toggle.
 - [Clear Glasses](https://www.nexusmods.com/stardewvalley/mods/21090)
   - **F11** to toggle.
-
+- [Schedule Viewer](https://www.nexusmods.com/stardewvalley/mods/19305)
+  - **O** to toggle.
 
 # Modifying the mod list
 
@@ -283,22 +279,6 @@ Those mods can be found at the very top of the mod list, directly under the red 
 **[Clear Glasses](https://www.nexusmods.com/stardewvalley/mods/21090)** is the mod that smooths out the graphics. Disable this mod for the classic Stardew Valley appearance.
 
 **[Eidee Easy Fishing](https://www.nexusmods.com/stardewvalley/mods/4806)** is the mod that enables easy fish catching. Disable this mod for the classic Stardew Valley fishing experience.
-
-## Configuring selected mods
-
-Some mods should be configured to match your preferences in game.
-
-Those mods can be found at the very top of the mod list, directly under the red separator that reads "**Config Options (Edit at your own risk - Read the DOCS)**". Only these mods will retain the configuration changes between updates of The Bustling Valley.
-
-![Mods_to_Config_Image](https://raw.githubusercontent.com/Yagisan/The-Bustling-Valley/main/assets/images/Mods_to_Config.png)
-
-They do ship with a default configuration, but you may edit the configuration to suit your playthrough. Please remember in Stardew Valley, **All save games share the same configuration files**.
-
-To edit a configuration file, **at the main Stardew Valley menu, click on the gear icon**, then find the mod in the list. Make your changes then click save and close. **Restart the game**.
-
-**Sword & Sorcery** adjusts the player pronouns used in this mod. It defaults to He/Him. You should change these to suit your farm. **DO NOT Change any other options.**
-
-**NPC Jasper** has marriage anniversary content if you marry him. Adjust the Anniversary Season, and Anniversary Day to match your in-game Anniversary. **DO NOT Change any other options.**
 
 # Other Post Installation FAQ
 
