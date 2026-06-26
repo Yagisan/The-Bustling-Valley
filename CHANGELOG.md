@@ -64,6 +64,7 @@ Created a new local patch for [Flexible Cooking](https://www.nexusmods.com/stard
 ### Updates <!-- omit in toc -->
 
 - Updated [Livestock Bazaar](https://www.nexusmods.com/stardewvalley/mods/29997)
+- Updated [Little Red School House - Students and Teachers](https://www.nexusmods.com/stardewvalley/mods/9695)
 
 ### Removals <!-- omit in toc -->
 
