@@ -63,6 +63,8 @@ Created a new local patch for [Flexible Cooking](https://www.nexusmods.com/stard
 
 ### Updates <!-- omit in toc -->
 
+- Updated [Livestock Bazaar](https://www.nexusmods.com/stardewvalley/mods/29997)
+
 ### Removals <!-- omit in toc -->
 
 ## 0.9.0
