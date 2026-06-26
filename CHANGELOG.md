@@ -2,6 +2,7 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
+  - [0.9.1](#091)
   - [0.9.0](#090)
   - [0.8.18](#0818)
   - [0.8.17](#0817)
@@ -45,6 +46,24 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.9.1
+
+**Released:** `DD MMM 2026`
+
+### Info <!-- omit in toc -->
+
+Created a new local patch for [Flexible Cooking](https://www.nexusmods.com/stardewvalley/mods/38862) to revert sashimi changes. You can once again make sashimi from crab pot "fish". This isn't realistic, but these fish are so low value, it's actually more profitable to use them for quests. This is still balanced by [YACS - Yet Another Cooking Skill](https://www.nexusmods.com/stardewvalley/mods/22681) capping full cooking experience to the first 10 made.
+
+### Modifications <!-- omit in toc -->
+
+- Local Patch [Flexible Cooking](https://www.nexusmods.com/stardewvalley/mods/38862)
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+### Removals <!-- omit in toc -->
 
 ## 0.9.0
 
