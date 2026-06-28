@@ -77,6 +77,8 @@ There is a new NPC in this update. For the first day after adding a new NPC they
 
 - Updated [Livestock Bazaar](https://www.nexusmods.com/stardewvalley/mods/29997)
 - Updated [Little Red School House - Students and Teachers](https://www.nexusmods.com/stardewvalley/mods/9695)
+- Updated [Visible Pond Fish](https://www.nexusmods.com/stardewvalley/mods/47433)
+- Updated [Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)
 
 ### Removals <!-- omit in toc -->
 
