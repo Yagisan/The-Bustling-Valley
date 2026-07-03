@@ -58,6 +58,8 @@ Created a new local patch for [Flexible Cooking](https://www.nexusmods.com/stard
 
 There is a new NPC in this update. For the first day after adding a new NPC they have no schedule. This will automatically correct on the second day. This is NOT a bug.
 
+Fix Livestock menu issues by updating Livestock Bazaar and switching to Stardew UI Continued.
+
 ### Known Issues
 
 [Standardized Seed Sprites](https://www.nexusmods.com/stardewvalley/mods/21305) does not support all crop mods. Known affected mods mods include:
@@ -72,6 +74,7 @@ There is a new NPC in this update. For the first day after adding a new NPC they
 ### Additions <!-- omit in toc -->
 
 - Added [Claire the Part-Timer - SVE Standalone NPC](https://www.nexusmods.com/stardewvalley/mods/47842)
+- Added [StardewUI Continued](https://www.nexusmods.com/stardewvalley/mods/43861)
 
 ### Updates <!-- omit in toc -->
 
@@ -79,6 +82,11 @@ There is a new NPC in this update. For the first day after adding a new NPC they
 - Updated [Little Red School House - Students and Teachers](https://www.nexusmods.com/stardewvalley/mods/9695)
 - Updated [Visible Pond Fish](https://www.nexusmods.com/stardewvalley/mods/47433)
 - Updated [Miss Coriel's Unique Courtship Response CORE](https://www.nexusmods.com/stardewvalley/mods/8284)
+- Updated [Pelican Town Expanded](https://www.nexusmods.com/stardewvalley/mods/46883)
+- Updated [Remapping](https://www.nexusmods.com/stardewvalley/mods/29049)
+- Updated [Festival Nudge](https://www.nexusmods.com/stardewvalley/mods/44141)
+- Updated [Marriage Overhaul](https://www.nexusmods.com/stardewvalley/mods/47395)
+- Updated [Quest Services](https://www.nexusmods.com/stardewvalley/mods/47585)
 
 ### Removals <!-- omit in toc -->
 
