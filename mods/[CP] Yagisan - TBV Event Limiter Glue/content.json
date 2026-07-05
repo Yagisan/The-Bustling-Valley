@@ -126,6 +126,20 @@
           "Fellowclown.PC_TurnAboutSaloon",
           "Fellowclown.PC_CottonsFreedom",
           "Fellowclown.PC_CaveBlockUnlock",
-          "Fellowclown.PC_CottonsBundle"
+          "Fellowclown.PC_CottonsBundle",
+          // Sunberry Multipart Events
+          "skellady.SBVCP_20031488",
+          "skellady.SBVCP_20031411",
+          "skellady.SBVCP_20031415",
+          "skellady.SBVCP_20031484",
+          "skellady.SBVCP_20031487",
+          "skellady.SBVCP_20031439",
+          "skellady.SBVCP_20031442",
+          "skellady.SBVCP_20031478",
+          "skellady.SBVCP_20031479",
+          "skellady.SBVCP_PurchasedFarm",
+          "skellady.SBVCP_20031481",
+          "skellady.SBVCP_20031468",
+          "skellady.SBVCP_20031471"
      ]
 }
