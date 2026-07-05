@@ -4,7 +4,7 @@
 	"Changes": [
 		{
 			// Targeted overwrite of hardcoded item names ...
-			"LogName": "[Yagi] TBV Consistency Patch",
+			"LogName": "[Yagi] TBV Consistency Patch - Objects",
 			"Action": "EditData",
 			"Target": "Data/Objects",
 			"Entries": {
@@ -142,6 +142,16 @@
 					],
 				},
 			}
-		}
+		},
+    {
+      "LogName": "[Yagi] TBV Consistency Patch - Plants",
+      "Action": "EditData",
+      "Target": "Data/ObjectInformation",
+      "Entries": {
+        "Lumisteria.MtVapius_WhiteGrape": "Vapius White Grape/400/20/Fruit -79/{{i18n: MtVapiusWhiteGrape_Translated}}/{{i18n: MtVapiusWhiteGrape_Description_Translated}}////12/Mods\\Lumisteria.MtVapius\\Plants",
+        "Lumisteria.MtVapius_Basil": "Vapius Basil/30/5/Vegetable -75/{{i18n: MtVapiusBasil_Translated}}/{{i18n: MtVapiusBasil_Description_Translated}}////14/Mods\\Lumisteria.MtVapius\\Plants",
+        "Lumisteria.MtVapius_Olive": "Vapius Olive/90/-300/Vegetable -75/{{i18n: MtVapiusOlive_Translated}}/{{i18n: MtVapiusOlive_Description_Translated}}////15/Mods\\Lumisteria.MtVapius\\Plants",
+      }
+    }
 	]
 }
