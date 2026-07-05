@@ -6,6 +6,8 @@
 	"MtVapiusBasil_Description_Translated": "An herb full of flavour, with an amazing smell.",
 	"MtVapiusOlive_Translated": "Vapius Olive",
 	"MtVapiusOlive_Description_Translated": "Inedible fruit that can be pickled or processed in olive oil.",
+	"SBV.Hyacinth.Name": "Sunberry Hyacinth",
+	"SBV.Hyacinth.Description": "A fragrant, multi-colored flower. It would look good in a bouquet.",
 	//Seeds
 	"MtVapiusOliveSapling_Translated": "Vapius Olive Sapling",
 	"MtVapiusOliveSapling_Description_Translated": "Takes 28 days to produce a mature Olive tree. Bears olives in the fall and winter, but not every day. Rumored to produce rare olives on right conditions. Only grows if the 8 surrounding \"tiles\" are empty.",
@@ -13,6 +15,8 @@
 	"MtVapiusGrapeSapling_Description_Translated": "Takes 28 days to produce a mature trellis Grape tree. Bears grapes in the summer and fall, but not every day. Rumored to produce rare grapes on right conditions. Only grows if the 8 surrounding \"tiles\" are empty.",
 	"MtVapiusBasilSeeds_Translated": "Vapius Basil Seeds",
 	"MtVapiusBasilSeeds_Description_Translated": "Plant these in the summer. Takes 10 days to mature, but keeps producing after that.",
+	"SBV.HyacinthSeeds.Name": "Sunberry Hyacinth Seeds",
+	"SBV.HyacinthSeeds.Description": "Plant in spring. Takes 9 days to produce a multi-colored bulbous flower.",
 	//Artisan Goods
 	"MtVapiusOliveOil_Translated": "Vapius Olive Oil",
 	"MtVapiusOliveOil_Description_Translated": "A flavorfull oil used in cooking.",
