@@ -2,7 +2,7 @@
   "$schema": "https://smapi.io/schemas/manifest.json",
   "Name": "[CP] Yagisan - TBV Consistency Patch",
   "Author": "Yagisan",
-  "Version": "1.0.0",
+  "Version": "1.1.0",
   "Description": "Renames objects as needs to avoid confusion when multiple mods provide the same objects",
   "UniqueID": "Yagisan.TBVConsistencyPatch",
   "MinimumApiVersion": "4.0.0",
@@ -21,6 +21,10 @@
     },
     {
       "UniqueID": "Cornucopia.MoreCrops",
+      "IsRequired": true
+    },
+    {
+      "UniqueID": "skellady.SBVCP",
       "IsRequired": true
     }
   ]
