@@ -56,6 +56,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 Created a new local patch for [Flexible Cooking](https://www.nexusmods.com/stardewvalley/mods/38862) to revert sashimi changes. You can once again make sashimi from crab pot "fish". This isn't realistic, but these fish are so low value, it's actually more profitable to use them for quests. This is still balanced by [YACS - Yet Another Cooking Skill](https://www.nexusmods.com/stardewvalley/mods/22681) capping full cooking experience to the first 10 made.
 
+Updated the Bustling Valley consistency patch for duplicate names in Sunberry crops.
+
 There is a new NPC in this update. For the first day after adding a new NPC they have no schedule. This will automatically correct on the second day. This is NOT a bug.
 
 Fix Livestock menu issues by updating Livestock Bazaar and switching to Stardew UI Continued.
