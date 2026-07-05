@@ -50,7 +50,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.9.1
 
-**Released:** `DD MMM 2026`
+**Released:** `5 Jul 2026`
 
 ### Info <!-- omit in toc -->
 
