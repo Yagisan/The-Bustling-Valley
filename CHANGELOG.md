@@ -58,6 +58,8 @@ Created a new local patch for [Flexible Cooking](https://www.nexusmods.com/stard
 
 Updated the Bustling Valley consistency patch for duplicate names in Sunberry crops.
 
+Updated the Bustling Valley event limiter glue mod for multi-part events in Sunberry.
+
 There is a new NPC in this update. For the first day after adding a new NPC they have no schedule. This will automatically correct on the second day. This is NOT a bug.
 
 Fix Livestock menu issues by updating Livestock Bazaar and switching to Stardew UI Continued.
