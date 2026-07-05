@@ -152,6 +152,22 @@
         "Lumisteria.MtVapius_Basil": "Vapius Basil/30/5/Vegetable -75/{{i18n: MtVapiusBasil_Translated}}/{{i18n: MtVapiusBasil_Description_Translated}}////14/Mods\\Lumisteria.MtVapius\\Plants",
         "Lumisteria.MtVapius_Olive": "Vapius Olive/90/-300/Vegetable -75/{{i18n: MtVapiusOlive_Translated}}/{{i18n: MtVapiusOlive_Description_Translated}}////15/Mods\\Lumisteria.MtVapius\\Plants",
       }
+    },
+    {
+      "LogName": "[Yagi] TBV Consistency Patch - Saplings",
+      "Action": "EditData",
+      "Target": "Data/ObjectInformation",
+      "Entries": {
+        "Lumisteria.MtVapius_OliveSapling": "Vapius Olive Sapling/5200/-300/Basic -74/{{i18n: MtVapiusOliveSapling_Translated}}/{{i18n: MtVapiusOliveSapling_Description_Translated}}////14/Mods\\Lumisteria.MtVapius\\Seeds",
+      }
+    },
+    {
+      "LogName": "Seeds",
+      "Action": "EditData",
+      "Target": "Data/ObjectInformation",
+      "Entries": {
+        "Lumisteria.MtVapius_BasilSeeds": "Vapius Basil Seeds/68/-300/Seeds -74/{{i18n: MtVapiusBasilSeeds_Translated}}/{{i18n: MtVapiusBasilSeeds_Description_Translated}}////13/Mods\\Lumisteria.MtVapius\\Seeds",
+      }
     }
 	]
 }
