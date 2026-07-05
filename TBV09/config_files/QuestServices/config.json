@@ -2,6 +2,7 @@
   "EnableQuestCompletion": true,
   "EnableQuestRescheduling": true,
   "EnableSupplyPurchase": true,
+  "EnableOrderService": true,
   "AllowPelicanTownSpecialOrders": true,
   "AllowQiSpecialOrders": true
 }
