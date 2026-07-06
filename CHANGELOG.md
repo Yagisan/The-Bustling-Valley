@@ -2,8 +2,10 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
-  - [0.9.1](#091)
+  - [0.9.2](#092)
     - [Known Issues](#known-issues)
+  - [0.9.1](#091)
+    - [Known Issues](#known-issues-1)
   - [0.9.0](#090)
   - [0.8.18](#0818)
   - [0.8.17](#0817)
@@ -47,6 +49,33 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.9.2
+
+**Released:** `DD MMM 2026`
+
+### Info <!-- omit in toc -->
+
+Creative Differences has been updated. If you had the broken 6 heart event you can retrigger it by typing `debug ebi 134371003` into the SMAPI console.
+
+### Known Issues
+
+[Standardized Seed Sprites](https://www.nexusmods.com/stardewvalley/mods/21305) does not support all crop mods. Known affected mods mods include:
+- [Bear Family Custom NPCs](https://www.nexusmods.com/stardewvalley/mods/16197) For example Stone Bramble.
+- [East Scarp Remastered](https://www.nexusmods.com/stardewvalley/mods/5787) Missing support for Biteback Melon.
+- [Crop Regrowth and Perennial Crops](https://www.nexusmods.com/stardewvalley/mods/4685) No support for any of the season changes.
+
+### Modifications <!-- omit in toc -->
+
+- Edited [A Pelican Town](https://www.nexusmods.com/stardewvalley/mods/14585). Event 14585652 has a broken string. It wants 14585652.031 but that does not exist. 14585652.31 looks like the closest match. Rename 14585652.31 to 14585652.031 to fix the event.
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+- Updated [Creative Differences](https://www.nexusmods.com/stardewvalley/mods/13437)
+
+### Removals <!-- omit in toc -->
 
 ## 0.9.1
 
