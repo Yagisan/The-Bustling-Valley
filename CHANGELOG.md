@@ -67,7 +67,8 @@ Creative Differences has been updated. If you had the broken 6 heart event you c
 
 ### Modifications <!-- omit in toc -->
 
-- Edited [A Pelican Town](https://www.nexusmods.com/stardewvalley/mods/14585). Event 14585652 has a broken string. It wants 14585652.031 but that does not exist. 14585652.31 looks like the closest match. Rename 14585652.31 to 14585652.031 to fix the event.
+- Edited [A Pelican Town](https://www.nexusmods.com/stardewvalley/mods/14585). Event `14585652` has a broken string. It wants `14585652.031` but that does not exist. `14585652.31` looks like the closest match. Rename `14585652.31` to `14585652.031` to fix the event.
+- Edited [Coal Point Farm](https://www.nexusmods.com/stardewvalley/mods/24852). Jellyfish event year 2 has a broken string. It wants `2summer28s.APTAshida` but that does not exist. `2summer28.APTAshida` looks like the closest match. Edit event to point to `2summer28.APTAshida`.
 
 ### Additions <!-- omit in toc -->
 
