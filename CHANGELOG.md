@@ -65,6 +65,8 @@ Creative Differences has been updated. If you had the broken 6 heart event you c
 - [East Scarp Remastered](https://www.nexusmods.com/stardewvalley/mods/5787) Missing support for Biteback Melon.
 - [Crop Regrowth and Perennial Crops](https://www.nexusmods.com/stardewvalley/mods/4685) No support for any of the season changes.
 
+[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) has Kiwi do random farm visits. Some of this dialogue assumes the farmer is married, even if the farmer is not.
+
 ### Modifications <!-- omit in toc -->
 
 - Edited [A Pelican Town](https://www.nexusmods.com/stardewvalley/mods/14585). Event `14585652` has a broken string. It wants `14585652.031` but that does not exist. `14585652.31` looks like the closest match. Rename `14585652.31` to `14585652.031` to fix the event.
