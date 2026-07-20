@@ -40,6 +40,10 @@
     {
       "UniqueID": "Lemurkat.EastScarp",
       "IsRequired": false
+    },
+    {
+      "UniqueID": "Mizu.Dodo",
+      "IsRequired": false
     }
   ]
 }
