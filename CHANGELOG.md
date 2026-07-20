@@ -58,6 +58,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 Creative Differences has been updated. If you had the broken 6 heart event you can retrigger it by typing `debug ebi 134371003` into the SMAPI console.
 
+Event Limiter has a new hotkey `L` - pressing this temporarily disabled the event limiter. This may be helpful with multi-event mods that are yet to be whitelisted.
+
 ### Known Issues
 
 [Standardized Seed Sprites](https://www.nexusmods.com/stardewvalley/mods/21305) does not support all crop mods. Known affected mods mods include:
@@ -65,18 +67,25 @@ Creative Differences has been updated. If you had the broken 6 heart event you c
 - [East Scarp Remastered](https://www.nexusmods.com/stardewvalley/mods/5787) Missing support for Biteback Melon.
 - [Crop Regrowth and Perennial Crops](https://www.nexusmods.com/stardewvalley/mods/4685) No support for any of the season changes.
 
-[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) has Kiwi do random farm visits. Some of this dialogue assumes the farmer is married, even if the farmer is not.
+[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) has Kiwi do random farm visits. Some of this dialogue assumes the farmer is married, even if the farmer is not. Reported upstream https://discord.com/channels/783148418029715487/964558691930091610/1528652735639982203
 
 ### Modifications <!-- omit in toc -->
 
-- Edited [A Pelican Town](https://www.nexusmods.com/stardewvalley/mods/14585). Event `14585652` has a broken string. It wants `14585652.031` but that does not exist. `14585652.31` looks like the closest match. Rename `14585652.31` to `14585652.031` to fix the event.
-- Edited [Coal Point Farm](https://www.nexusmods.com/stardewvalley/mods/24852). Jellyfish event year 2 has a broken string. It wants `2summer28s.APTAshida` but that does not exist. `2summer28.APTAshida` looks like the closest match. Edit event to point to `2summer28.APTAshida`.
+- Edited [A Pelican Town](https://www.nexusmods.com/stardewvalley/mods/14585). Event `14585652` has a broken string. It wants `14585652.031` but that does not exist. `14585652.31` looks like the closest match. Rename `14585652.31` to `14585652.031` to fix the event. Reported upstream https://www.nexusmods.com/stardewvalley/mods/14585?tab=bugs
+- Edited [Coal Point Farm](https://www.nexusmods.com/stardewvalley/mods/24852). Jellyfish event year 2 has a broken string. It wants `2summer28s.APTAshida` but that does not exist. `2summer28.APTAshida` looks like the closest match. Edit event to point to `2summer28.APTAshida`. Reported upstream https://www.nexusmods.com/stardewvalley/mods/24852?tab=bugs
+- Edited [Seasonal Outfits for Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/18202). Corine's Spirit's Eve Year 2 event has a broken string. It wants `piritEve.Corine_spouse.2-8heart` but that does not exist. `SpiritEve.Corine.2-8heart` looks like the closest match. Edit event to point to `SpiritEve.Corine.2-8heart`. Reported upstream https://discord.com/channels/783148418029715487/964558691930091610/1528656329403666542
 
 ### Additions <!-- omit in toc -->
 
 ### Updates <!-- omit in toc -->
 
 - Updated [Creative Differences](https://www.nexusmods.com/stardewvalley/mods/13437)
+- Updated [Claire the Part-Timer - SVE Standalone NPC](https://www.nexusmods.com/stardewvalley/mods/47842)
+- Updated [Marigold - The Romanceable Crop Fairy](https://www.nexusmods.com/stardewvalley/mods/42996)
+- Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
+- Updated [Misc Map Actions Properties - MMAP](https://www.nexusmods.com/stardewvalley/mods/28423)
+- Updated [Xiddav's Tilesheet](https://www.nexusmods.com/stardewvalley/mods/10881)
+- Updated [Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)
 
 ### Removals <!-- omit in toc -->
 
