@@ -69,6 +69,8 @@ Event Limiter has a new hotkey `L` - pressing this temporarily disabled the even
 
 [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) has Kiwi do random farm visits. Some of this dialogue assumes the farmer is married, even if the farmer is not. Reported upstream https://discord.com/channels/783148418029715487/964558691930091610/1528652735639982203
 
+[Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508) and [Claire the Part-Timer - SVE Standalone NPC](https://www.nexusmods.com/stardewvalley/mods/47842) both provide a Nectarine tree. As per existing patches in [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508), and upstream's statements, I need to write my own patch to replace the Cornucopia Nectarine with Claire's Nectarine.
+
 ### Modifications <!-- omit in toc -->
 
 - Edited [A Pelican Town](https://www.nexusmods.com/stardewvalley/mods/14585). Event `14585652` has a broken string. It wants `14585652.031` but that does not exist. `14585652.31` looks like the closest match. Rename `14585652.31` to `14585652.031` to fix the event. Reported upstream https://www.nexusmods.com/stardewvalley/mods/14585?tab=bugs
@@ -86,6 +88,7 @@ Event Limiter has a new hotkey `L` - pressing this temporarily disabled the even
 - Updated [Misc Map Actions Properties - MMAP](https://www.nexusmods.com/stardewvalley/mods/28423)
 - Updated [Xiddav's Tilesheet](https://www.nexusmods.com/stardewvalley/mods/10881)
 - Updated [Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)
+- Updated [Buildable Ginger Island Farm](https://www.nexusmods.com/stardewvalley/mods/20600)
 
 ### Removals <!-- omit in toc -->
 
