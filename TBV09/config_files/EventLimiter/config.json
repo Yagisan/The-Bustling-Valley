@@ -2,5 +2,6 @@
   "EventsPerDay": 5,
   "EventsInARow": 2,
   "ExemptEventsCountTowardsLimit": false,
+  "PauseEventLimiting": "L",
   "Exceptions": []
 }
