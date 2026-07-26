@@ -56,9 +56,11 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
-Creative Differences has been updated. If you had the broken 6 heart event you can retrigger it by typing `debug ebi 134371003` into the SMAPI console.
+[Creative Differences](https://www.nexusmods.com/stardewvalley/mods/13437) has been updated. If you had the broken 6 heart event you can retrigger it by typing `debug ebi 134371003` into the SMAPI console.
 
-Event Limiter has a new hotkey `L` - pressing this temporarily disabled the event limiter. This may be helpful with multi-event mods that are yet to be whitelisted.
+[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735) has a new hotkey `L` - pressing this temporarily disabled the event limiter. This may be helpful with multi-event mods that are yet to be whitelisted.
+
+[Pelican Town Expanded](https://www.nexusmods.com/stardewvalley/mods/46883) now includes a lot of content for Linus.
 
 ### Known Issues
 
@@ -89,6 +91,9 @@ Event Limiter has a new hotkey `L` - pressing this temporarily disabled the even
 - Updated [Xiddav's Tilesheet](https://www.nexusmods.com/stardewvalley/mods/10881)
 - Updated [Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)
 - Updated [Buildable Ginger Island Farm](https://www.nexusmods.com/stardewvalley/mods/20600)
+- Updated [Extra Animal Configs](https://www.nexusmods.com/stardewvalley/mods/25328)
+- Updated [Susan of Emerald Farm - SVE Standalone NPC](https://www.nexusmods.com/stardewvalley/mods/45990)
+- Updated [Pelican Town Expanded](https://www.nexusmods.com/stardewvalley/mods/46883)
 
 ### Removals <!-- omit in toc -->
 
