@@ -263,6 +263,8 @@ Updating is like installing. You only have to make sure that you select the same
   - **F11** to toggle.
 - [Schedule Viewer](https://www.nexusmods.com/stardewvalley/mods/19305)
   - **O** to toggle.
+[Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)
+  - **L** to toggle the Limiter on and off.
 
 # Modifying the mod list
 
