@@ -52,7 +52,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.9.2
 
-**Released:** `DD MMM 2026`
+**Released:** `28 Jul 2026`
 
 ### Info <!-- omit in toc -->
 
@@ -72,6 +72,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 [Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) has Kiwi do random farm visits. Some of this dialogue assumes the farmer is married, even if the farmer is not. Reported upstream https://discord.com/channels/783148418029715487/964558691930091610/1528652735639982203
 
 [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508) and [Claire the Part-Timer - SVE Standalone NPC](https://www.nexusmods.com/stardewvalley/mods/47842) both provide a Nectarine tree. As per existing patches in [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508), and upstream's statements, I need to write my own patch to replace the Cornucopia Nectarine with Claire's Nectarine.
+
+[Ecosystem Superpack Expansion](https://www.nexusmods.com/stardewvalley/mods/40376) has been removed from Nexus. It is no longer possible to fix bugs in this mod. There is a replacement mod, but **it is not** compatible. Removing this mod, is a new farm event. Replacing it is a new farm event. Keeping it is unsupported.
 
 ### Modifications <!-- omit in toc -->
 
