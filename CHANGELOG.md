@@ -2,10 +2,12 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
-  - [0.9.2](#092)
+  - [0.10.0](#0100)
     - [Known Issues](#known-issues)
-  - [0.9.1](#091)
+  - [0.9.2](#092)
     - [Known Issues](#known-issues-1)
+  - [0.9.1](#091)
+    - [Known Issues](#known-issues-2)
   - [0.9.0](#090)
   - [0.8.18](#0818)
   - [0.8.17](#0817)
@@ -49,6 +51,59 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.10.0
+
+**Released:** `DD MMM 2026`
+
+### Info <!-- omit in toc -->
+
+Major update. New Game required.
+
+### Known Issues
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+### Updates <!-- omit in toc -->
+
+- Updated [Buildable Ginger Island Farm](https://www.nexusmods.com/stardewvalley/mods/20600)
+- Updated [Button's Extra Trigger Action Stuff (BETAS)](https://www.nexusmods.com/stardewvalley/mods/27100)
+- Updated [Trinket Tinker](https://www.nexusmods.com/stardewvalley/mods/29073)
+- Updated [Misc Map Actions Properties - MMAP](https://www.nexusmods.com/stardewvalley/mods/28423)
+- Updated [StardewUI Continued](https://www.nexusmods.com/stardewvalley/mods/43861)
+- Updated [Livestock Bazaar](https://www.nexusmods.com/stardewvalley/mods/29997)
+- Updated [Extra Machine Configs](https://www.nexusmods.com/stardewvalley/mods/22256)
+- Updated [Extra Animal Configs](https://www.nexusmods.com/stardewvalley/mods/25328)
+- Updated [Festival Nudge](https://www.nexusmods.com/stardewvalley/mods/44141)
+- Updated [Event Indicators](https://www.nexusmods.com/stardewvalley/mods/41183)
+- Updated [Eidee Easy Fishing](https://www.nexusmods.com/stardewvalley/mods/4806)
+- Updated [Standardized Seed Sprites](https://www.nexusmods.com/stardewvalley/mods/21305)
+- Updated [Spouses Move House](https://www.nexusmods.com/stardewvalley/mods/44103)
+- Updated [Little Red School House](https://www.nexusmods.com/stardewvalley/mods/9695)
+- Updated [Little Red School House - Students and Teachers](https://www.nexusmods.com/stardewvalley/mods/9695)
+- Updated [Claire the Part-Timer - SVE Standalone NPC](https://www.nexusmods.com/stardewvalley/mods/47842)
+- Updated [Date Night Redux](https://www.nexusmods.com/stardewvalley/mods/22714)
+- Updated [Dwarf Portrait Replacement](https://www.nexusmods.com/stardewvalley/mods/14916)
+- Updated [Lani - Custom NPC for Sunberry Village](https://www.nexusmods.com/stardewvalley/mods/32689)
+- Updated [Pelican Town Expanded](https://www.nexusmods.com/stardewvalley/mods/46883)
+
+- Added [Mizu's Alpaca and Llama](https://www.nexusmods.com/stardewvalley/mods/47417)
+- Added [Mizu's Buffalo](https://www.nexusmods.com/stardewvalley/mods/45940)
+- Added [Mizu's Capybara](https://www.nexusmods.com/stardewvalley/mods/46817)
+- Added [Mizu's Deer](https://www.nexusmods.com/stardewvalley/mods/45939)
+- Added [Mizu's Dodo](https://www.nexusmods.com/stardewvalley/mods/45533)
+- Added [Mizu's Emu](https://www.nexusmods.com/stardewvalley/mods/46819)
+- Added [Mizu's Peafowl](https://www.nexusmods.com/stardewvalley/mods/45161)
+- Added [Mizu's Phoenix](https://www.nexusmods.com/stardewvalley/mods/46295)
+- Added [Mizu's Quail](https://www.nexusmods.com/stardewvalley/mods/25028)
+- Added [Mizu's Reindeer](https://www.nexusmods.com/stardewvalley/mods/45763)
+
+
+### Removals <!-- omit in toc -->
+
+- Removed [Mizu's Goose](https://www.nexusmods.com/stardewvalley/mods/45160)
 
 ## 0.9.2
 
