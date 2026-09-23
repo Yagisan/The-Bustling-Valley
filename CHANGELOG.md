@@ -60,11 +60,17 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 Major update. New Game required.
 
+As per the overwhelming poll response on discord, the [Ecosystem Superpack Expansion](https://www.nexusmods.com/stardewvalley/mods/40376) was removed, and replaced with [Trolley - An Ecosystem Expansion](https://www.nexusmods.com/stardewvalley/mods/48918). This is the primary reason for a new farm event.
+
+Removed [Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615) as it simply no longer works as intended. Perfection changes will be disabled in other mods where possible, but as not all mods support this, it will now be much harder to get perfection, and claim your golden chicken reward.
+
 ### Known Issues
 
 ### Modifications <!-- omit in toc -->
 
 ### Additions <!-- omit in toc -->
+
+- Added [Trolley - An Ecosystem Expansion](https://www.nexusmods.com/stardewvalley/mods/48918)
 
 ### Updates <!-- omit in toc -->
 
@@ -88,22 +94,24 @@ Major update. New Game required.
 - Updated [Dwarf Portrait Replacement](https://www.nexusmods.com/stardewvalley/mods/14916)
 - Updated [Lani - Custom NPC for Sunberry Village](https://www.nexusmods.com/stardewvalley/mods/32689)
 - Updated [Pelican Town Expanded](https://www.nexusmods.com/stardewvalley/mods/46883)
-
-- Added [Mizu's Alpaca and Llama](https://www.nexusmods.com/stardewvalley/mods/47417)
-- Added [Mizu's Buffalo](https://www.nexusmods.com/stardewvalley/mods/45940)
-- Added [Mizu's Capybara](https://www.nexusmods.com/stardewvalley/mods/46817)
-- Added [Mizu's Deer](https://www.nexusmods.com/stardewvalley/mods/45939)
-- Added [Mizu's Dodo](https://www.nexusmods.com/stardewvalley/mods/45533)
-- Added [Mizu's Emu](https://www.nexusmods.com/stardewvalley/mods/46819)
-- Added [Mizu's Peafowl](https://www.nexusmods.com/stardewvalley/mods/45161)
-- Added [Mizu's Phoenix](https://www.nexusmods.com/stardewvalley/mods/46295)
-- Added [Mizu's Quail](https://www.nexusmods.com/stardewvalley/mods/25028)
-- Added [Mizu's Reindeer](https://www.nexusmods.com/stardewvalley/mods/45763)
-
+- Updated [Mizu's Alpaca and Llama](https://www.nexusmods.com/stardewvalley/mods/47417)
+- Updated [Mizu's Buffalo](https://www.nexusmods.com/stardewvalley/mods/45940)
+- Updated [Mizu's Capybara](https://www.nexusmods.com/stardewvalley/mods/46817)
+- Updated [Mizu's Deer](https://www.nexusmods.com/stardewvalley/mods/45939)
+- Updated [Mizu's Dodo](https://www.nexusmods.com/stardewvalley/mods/45533)
+- Updated [Mizu's Emu](https://www.nexusmods.com/stardewvalley/mods/46819)
+- Updated [Mizu's Peafowl](https://www.nexusmods.com/stardewvalley/mods/45161)
+- Updated [Mizu's Phoenix](https://www.nexusmods.com/stardewvalley/mods/46295)
+- Updated [Mizu's Quail](https://www.nexusmods.com/stardewvalley/mods/25028)
+- Updated [Mizu's Reindeer](https://www.nexusmods.com/stardewvalley/mods/45763)
+- Updated [Mizu's Turkey](https://www.nexusmods.com/stardewvalley/mods/25071)
+- Updated [Mizu's Yak](https://www.nexusmods.com/stardewvalley/mods/46466)
 
 ### Removals <!-- omit in toc -->
 
 - Removed [Mizu's Goose](https://www.nexusmods.com/stardewvalley/mods/45160)
+- Removed [Ecosystem Superpack Expansion](https://www.nexusmods.com/stardewvalley/mods/40376)
+- Removed [Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615)
 
 ## 0.9.2
 
