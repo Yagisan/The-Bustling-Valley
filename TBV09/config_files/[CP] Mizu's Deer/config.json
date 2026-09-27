@@ -1,5 +1,6 @@
 {
   "Enable Russet Deer": "true",
   "Enable Mule Deer": "true",
+  "Disable Special Order": "false",
   "Disable Meat Recipes": "true"
 }
