@@ -106,6 +106,9 @@ Removed [Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615) 
 - Updated [Mizu's Reindeer](https://www.nexusmods.com/stardewvalley/mods/45763)
 - Updated [Mizu's Turkey](https://www.nexusmods.com/stardewvalley/mods/25071)
 - Updated [Mizu's Yak](https://www.nexusmods.com/stardewvalley/mods/46466)
+- Updated [Canon-Friendly Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/2544)
+- Updated [Distant Lands - A Small Witch Swamp Expansion](https://www.nexusmods.com/stardewvalley/mods/18109)
+- Updated [Susan of Emerald Farm - SVE Standalone NPC](https://www.nexusmods.com/stardewvalley/mods/45990)
 
 ### Removals <!-- omit in toc -->
 
