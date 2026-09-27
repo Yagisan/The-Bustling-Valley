@@ -2,8 +2,8 @@
     {
         "Id": "TBVTutorialMail.Info",
         "GroupId": "TBVTutorialMail.Info",
-        "Title": "TBV 0.9.x Intro",
-        "Text": "G'day @^^Welcome to The Bustling Valley 0.9.x.^^Is designed for Stardew Valley 1.6.x, and requires you to start a new farm. It is not possible to continue a farm started on TBV 0.8.x or older.^^- Yagisan",
+        "Title": "TBV 0.10.x Intro",
+        "Text": "G'day @^^Welcome to The Bustling Valley 0.10.x.^^Is designed for Stardew Valley 1.6.x, and requires you to start a new farm. It is not possible to continue a farm started on TBV 0.9.x or older.^^- Yagisan",
         "Date": "1 spring Y1",
         "Repeatable": false,
         "AutoOpen": false
