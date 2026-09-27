@@ -109,6 +109,7 @@ Removed [Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615) 
 - Updated [Canon-Friendly Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/2544)
 - Updated [Distant Lands - A Small Witch Swamp Expansion](https://www.nexusmods.com/stardewvalley/mods/18109)
 - Updated [Susan of Emerald Farm - SVE Standalone NPC](https://www.nexusmods.com/stardewvalley/mods/45990)
+- Updated [Woodsman Hurst](https://www.nexusmods.com/stardewvalley/mods/45324)
 
 ### Removals <!-- omit in toc -->
 
