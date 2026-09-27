@@ -9,7 +9,7 @@
   "farmcave_exity": "6",
   "PlayCustomMusic": "true",
   "TownMap": "vanilla",
-  "ExcludeObjects": "false",
+  "ExcludeObjects": "true",
   "EnableAdditionalCrops": "true",
   "AllowGiantChocoFruit": "false"
 }
