@@ -8,5 +8,6 @@
   "Enable Blonde Llama": "true",
   "Enable White Llama": "true",
   "Enable Blue Llama": "false",
+  "Disable Special Order": "false",
   "Disable Meat Recipes": "true"
 }
