@@ -10,17 +10,24 @@
   "AlwaysCaughtDoubleFish": false,
   "CaughtDoubleFishOnAnyBait": false,
   "AlwaysMaxCastPower": false,
+  "CastAtFishingBubbles": false,
+  "WidenBubbleCastAssist": false,
+  "ShowFishingBubbleMarker": false,
   "AlwaysSonarBobber": false,
   "AlwaysMaxFishQuality": false,
   "AlwaysMaxFishSize": false,
   "AlwaysMagicBait": false,
   "AlwaysCuriosityLure": false,
+  "AutoRecast": false,
+  "StopAutoRecastAtTime": 0,
+  "AutoCollectFishingTreasure": false,
   "FishMovementSpeedMultiplier": 0.5,
   "ProgressBarDecreaseMultiplier": 0.5,
   "ProgressBarIncreaseMultiplier": 1.25,
   "TreasureCatchSpeedMultiplier": 1.5,
   "Controls": {
     "ReloadConfig": "F5",
-    "ToggleMod": "F6"
+    "ToggleMod": "F6",
+    "StopAutoRecast": "None"
   }
 }
