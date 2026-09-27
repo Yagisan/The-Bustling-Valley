@@ -1,3 +1,5 @@
 {
+  "AllowGrassSpread": true,
+  "AllowSlimeSpawn": true,
   "AllowBuildingInSlimeArea": false
 }
