@@ -4,5 +4,6 @@
   "Enable Midday Phoenix": "true",
   "Enable Midnight Phoenix": "true",
   "Enable Blue Phoenix": "false",
-  "Enable Balut": "false"
+  "Enable Balut": "false",
+  "Enable Purchasable Phoenix": "false"
 }
