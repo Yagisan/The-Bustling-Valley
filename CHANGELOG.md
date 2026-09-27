@@ -71,6 +71,9 @@ Removed [Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615) 
 ### Additions <!-- omit in toc -->
 
 - Added [Trolley - An Ecosystem Expansion](https://www.nexusmods.com/stardewvalley/mods/48918)
+- Added [Aba's Universal Loves Begone](https://www.nexusmods.com/stardewvalley/mods/50533)
+- Added [Birthday Knowledge Friendship](https://www.nexusmods.com/stardewvalley/mods/17974)
+- Added [Spouse's Pet Comes Along](https://www.nexusmods.com/stardewvalley/mods/50129)
 
 ### Updates <!-- omit in toc -->
 
