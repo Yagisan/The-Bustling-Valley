@@ -64,6 +64,10 @@ As per the overwhelming poll response on discord, the [Ecosystem Superpack Expan
 
 Removed [Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615) as it simply no longer works as intended. Perfection changes will be disabled in other mods where possible, but as not all mods support this, it will now be much harder to get perfection, and claim your golden chicken reward.
 
+Using  [Aba's Universal Loves Begone](https://www.nexusmods.com/stardewvalley/mods/50533) all *Universal* Loves and Likes have been removed from all NPCs. You now need to give the NPC specfic items they like or love. No more spamming the same items for everyone. You'll need to actually pick out gifts they like.
+
+With [Birthday Knowledge Friendship](https://www.nexusmods.com/stardewvalley/mods/17974) you'll now need 4 hearts with a NPC before their birthday appears on the calender.
+
 ### Known Issues
 
 ### Modifications <!-- omit in toc -->
