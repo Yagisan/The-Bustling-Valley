@@ -1,6 +1,6 @@
 {
   "FestivalPatches": "true",
   "BoardUnlock": "Vanilla",
-  "IncludeNPCsInPerfection": "true",
+  "IncludeNPCsInPerfection": "false",
   "RemoveSunberryKitchen": "false"
 }
