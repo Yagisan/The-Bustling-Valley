@@ -1,6 +1,6 @@
 {
   "IncludeinIntroductionQuest": "true",
-  "ExcludeFromPerfection": "false",
+  "ExcludeFromPerfection": "true",
   "ExcludeFishFromPerfection": "true",
   "FarmerJobTitle": "Farmer",
   "KrakensWords": "Wise",
