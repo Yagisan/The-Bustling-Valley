@@ -1,4 +1,5 @@
 {
+  "CFE_ZeroHearts": "false",
   "CFE_Abigail": "true",
   "CFE_Alex": "true",
   "CFE_Birdie": "true",
@@ -34,6 +35,7 @@
   "CFE_Vincent": "true",
   "CFE_Willy": "true",
   "CFE_Wizard": "true",
+  "CFE_Festivals_Y1": "true",
   "CFE_Festivals_Add": "true",
   "CFE_Festivals_Replace": "false"
 }
