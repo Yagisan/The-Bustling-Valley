@@ -4,5 +4,6 @@
   "Enable Green Peacock": "true",
   "Enable Black Peacock": "true",
   "Enable White Peacock": "true",
+  "Disable Special Order": "false",
   "Disable Meat Recipes": "true"
 }
