@@ -117,6 +117,7 @@ With [Birthday Knowledge Friendship](https://www.nexusmods.com/stardewvalley/mod
 - Updated [Distant Lands - A Small Witch Swamp Expansion](https://www.nexusmods.com/stardewvalley/mods/18109)
 - Updated [Susan of Emerald Farm - SVE Standalone NPC](https://www.nexusmods.com/stardewvalley/mods/45990)
 - Updated [Woodsman Hurst](https://www.nexusmods.com/stardewvalley/mods/45324)
+- Updated [Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059)
 
 ### Removals <!-- omit in toc -->
 
