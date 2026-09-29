@@ -207,5 +207,19 @@
   "FlowerDanceSprites": "True",
   "SCChelsea": "Off",
   "SCCody": "Off",
-  "SCFable": "Off"
+  "SCFable": "Off",
+  "SpouseRoomEdits": "True",
+  "MongolianMarlen": "False",
+  "TurkishRosalie": "False",
+  "MullnerSurnameChange": "True",
+  "GenderfluidWizard": "False",
+  "SamMullet": "False",
+  "ShaneStyledStubble": "Dynamic",
+  "GrandpaVariant": "True",
+  "GhostlyGrandpaVariant": "Blue",
+  "GrandpaSkintone": "1",
+  "GrandpaNoseType": "Long",
+  "GrandpaFacialHair": "ThickBeard",
+  "GrandpaHairColour": "LightGrey",
+  "GrandpaGlasses": "NoGlasses"
 }
