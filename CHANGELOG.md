@@ -72,6 +72,15 @@ With [Birthday Knowledge Friendship](https://www.nexusmods.com/stardewvalley/mod
 
 ### Known Issues
 
+[Standardized Seed Sprites](https://www.nexusmods.com/stardewvalley/mods/21305) does not support all crop mods. Known affected mods mods include:
+- [Bear Family Custom NPCs](https://www.nexusmods.com/stardewvalley/mods/16197) For example Stone Bramble.
+- [East Scarp Remastered](https://www.nexusmods.com/stardewvalley/mods/5787) Missing support for Biteback Melon.
+- [Crop Regrowth and Perennial Crops](https://www.nexusmods.com/stardewvalley/mods/4685) No support for any of the season changes.
+
+[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) has Kiwi do random farm visits. Some of this dialogue assumes the farmer is married, even if the farmer is not. Reported upstream https://discord.com/channels/783148418029715487/964558691930091610/1528652735639982203
+
+[Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508) and [Claire the Part-Timer - SVE Standalone NPC](https://www.nexusmods.com/stardewvalley/mods/47842) both provide a Nectarine tree. As per existing patches in [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508), and upstream's statements, I need to write my own patch to replace the Cornucopia Nectarine with Claire's Nectarine.
+
 ### Modifications <!-- omit in toc -->
 
 ### Additions <!-- omit in toc -->
