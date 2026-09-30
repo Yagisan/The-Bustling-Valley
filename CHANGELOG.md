@@ -54,7 +54,7 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ## 0.10.0
 
-**Released:** `DD MMM 2026`
+**Released:** `30 Sep 2026`
 
 ### Info <!-- omit in toc -->
 
