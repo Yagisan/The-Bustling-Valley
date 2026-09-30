@@ -62,11 +62,13 @@ Major update. New Game required.
 
 As per the overwhelming poll response on discord, the [Ecosystem Superpack Expansion](https://www.nexusmods.com/stardewvalley/mods/40376) was removed, and replaced with [Trolley - An Ecosystem Expansion](https://www.nexusmods.com/stardewvalley/mods/48918). This is the primary reason for a new farm event.
 
-Removed [Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615) as it simply no longer works as intended. Perfection changes will be disabled in other mods where possible, but as not all mods support this, it will now be much harder to get perfection, and claim your golden chicken reward.
+Removed [Perfection Tweaker](https://www.nexusmods.com/stardewvalley/mods/8615) as it simply no longer works as intended. Perfection changes will be disabled in other mods where possible, but as not all mods support this, it will now be much harder to get perfection, and claim your golden chicken reward. May Yoba have mercy on you for those meet every villager quests.
 
-Using  [Aba's Universal Loves Begone](https://www.nexusmods.com/stardewvalley/mods/50533) all *Universal* Loves and Likes have been removed from all NPCs. You now need to give the NPC specfic items they like or love. No more spamming the same items for everyone. You'll need to actually pick out gifts they like.
+Using  [Aba's Universal Loves Begone](https://www.nexusmods.com/stardewvalley/mods/50533) all *Universal* Loves and Likes have been removed from all NPCs. You now need to give the NPC specfic items they like or love. No more spamming the same items for everyone. You'll need to actually pick out gifts they like. The former universally loved items are now treated as neutral items. Yes, some NPCs are now much harder to find loved or liked goods for - this is not a bug.
 
 With [Birthday Knowledge Friendship](https://www.nexusmods.com/stardewvalley/mods/17974) you'll now need 4 hearts with a NPC before their birthday appears on the calender.
+
+[SinZational Speedy Solutions](https://www.nexusmods.com/stardewvalley/mods/37301) is inclyuded, but only for the audio processing improvements. Do not turn on the map caching it breaks several maps. In any case [Stardew Location Preload - Faster Map Loading](https://www.nexusmods.com/stardewvalley/mods/40517) will background load the maps before you need them.
 
 ### Known Issues
 
@@ -78,6 +80,7 @@ With [Birthday Knowledge Friendship](https://www.nexusmods.com/stardewvalley/mod
 - Added [Aba's Universal Loves Begone](https://www.nexusmods.com/stardewvalley/mods/50533)
 - Added [Birthday Knowledge Friendship](https://www.nexusmods.com/stardewvalley/mods/17974)
 - Added [Spouse's Pet Comes Along](https://www.nexusmods.com/stardewvalley/mods/50129)
+- Added [SinZational Speedy Solutions](https://www.nexusmods.com/stardewvalley/mods/37301)
 
 ### Updates <!-- omit in toc -->
 
