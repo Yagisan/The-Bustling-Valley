@@ -1,0 +1,9 @@
+{
+  "EnableAudioCueModificationCache": true,
+  "EnableAudioCueModificationParallelization": true,
+  "EnableSlowGameLocationLoaderBypass": false,
+  "EnableTBinSave": false,
+  "EnableTBinLoad": false,
+  "EnableImageCache": true,
+  "MapInMemoryThreshold": 10000
+}
