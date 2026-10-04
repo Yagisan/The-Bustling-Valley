@@ -2,12 +2,14 @@
 
 - [Changelog](#changelog)
   - [Semantic Versioning](#semantic-versioning)
-  - [0.10.0](#0100)
+  - [0.10.1](#0101)
     - [Known Issues](#known-issues)
-  - [0.9.2](#092)
+  - [0.10.0](#0100)
     - [Known Issues](#known-issues-1)
-  - [0.9.1](#091)
+  - [0.9.2](#092)
     - [Known Issues](#known-issues-2)
+  - [0.9.1](#091)
+    - [Known Issues](#known-issues-3)
   - [0.9.0](#090)
   - [0.8.18](#0818)
   - [0.8.17](#0817)
@@ -51,6 +53,37 @@ This modlist uses semantic versioning, where given a version number MAJOR.MINOR.
 **Major version zero (0.y.z) is for initial development. Anything MAY change at any time.** Read more about [Semantic Versioning here](https://semver.org/).
 
 Due to the nature of some of the larger mods included in this mod list, a MAJOR update may be required when updating. If that is the case, consider finishing your current game before updating.
+
+## 0.10.1
+
+**Released:** `DD MMM 2026`
+
+### Info <!-- omit in toc -->
+
+### Known Issues
+
+[Standardized Seed Sprites](https://www.nexusmods.com/stardewvalley/mods/21305) does not support all crop mods. Known affected mods mods include:
+- [Bear Family Custom NPCs](https://www.nexusmods.com/stardewvalley/mods/16197) For example Stone Bramble.
+- [East Scarp Remastered](https://www.nexusmods.com/stardewvalley/mods/5787) Missing support for Biteback Melon.
+- [Crop Regrowth and Perennial Crops](https://www.nexusmods.com/stardewvalley/mods/4685) No support for any of the season changes.
+
+[Ridgeside Village](https://www.nexusmods.com/stardewvalley/mods/7286) has Kiwi do random farm visits. Some of this dialogue assumes the farmer is married, even if the farmer is not. Reported upstream https://discord.com/channels/783148418029715487/964558691930091610/1528652735639982203
+
+[Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508) and [Claire the Part-Timer - SVE Standalone NPC](https://www.nexusmods.com/stardewvalley/mods/47842) both provide a Nectarine tree. As per existing patches in [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508), and upstream's statements, I need to write my own patch to replace the Cornucopia Nectarine with Claire's Nectarine.
+
+### Modifications <!-- omit in toc -->
+
+### Additions <!-- omit in toc -->
+
+- Added [Mod Name Tooltip](https://www.nexusmods.com/stardewvalley/mods/50688)
+- Added [Perfection Handbook](https://www.nexusmods.com/stardewvalley/mods/45150)
+
+### Updates <!-- omit in toc -->
+
+- Updated [Quest Helper](https://www.nexusmods.com/stardewvalley/mods/41150)
+- Updated [Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059)
+
+### Removals <!-- omit in toc -->
 
 ## 0.10.0
 
