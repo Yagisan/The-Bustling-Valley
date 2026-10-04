@@ -1,0 +1,21 @@
+{
+  "RowPerPage": 16,
+  "ShowHandbookKey": "RightShift + J",
+  "AutoExportCardPeriod": 7,
+  "CardWidth": 1480,
+  "StrictItemOwnedCheck": false,
+  "CookingFromFridgeOnly": true,
+  "EnableModNames": true,
+  "RemindersToggleKey": "LeftShift + J",
+  "RemindersEditModifierKey": "None",
+  "RemindersMaxCount": 12,
+  "RemindersDefaultExpanded": true,
+  "RemindersHUDPosition": {
+    "HorizontalAlignment": "Start",
+    "VerticalAlignment": "Start",
+    "Offset": {
+      "X": 64,
+      "Y": 96
+    }
+  }
+}
