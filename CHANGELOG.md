@@ -60,6 +60,8 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
+[Perfection Handbook](https://www.nexusmods.com/stardewvalley/mods/45150) exports will be found in the Mod Organizer overwrite folder.
+
 ### Known Issues
 
 [Standardized Seed Sprites](https://www.nexusmods.com/stardewvalley/mods/21305) does not support all crop mods. Known affected mods mods include:
