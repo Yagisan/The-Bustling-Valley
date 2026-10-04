@@ -265,6 +265,8 @@ Updating is like installing. You only have to make sure that you select the same
   - **O** to toggle.
 [Event Limiter](https://www.nexusmods.com/stardewvalley/mods/10735)
   - **L** to toggle the Limiter on and off.
+[Perfection Handbook](https://www.nexusmods.com/stardewvalley/mods/45150)
+  - **Right Shift + H** to open the handbook.
 
 # Modifying the mod list
 
