@@ -1,5 +1,5 @@
 {
-  "OnlyProcessWhenIdle": true,
+  "OnlyProcessWhenIdle": false,
   "IdleTicksThreshold": 60,
   "PauseTimerDuringCutscenes": false,
   "PauseTimerOnInput": true,
