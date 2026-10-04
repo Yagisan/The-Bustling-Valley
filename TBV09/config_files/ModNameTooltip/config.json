@@ -1,0 +1,22 @@
+{
+  "Toggle_Tooltip": "None",
+  "Toggle_HUD": "None",
+  "HoldToShow_HUD": "None",
+  "Enable_Tooltip": true,
+  "Enable_HUD": true,
+  "ShowHUDAboveTile": true,
+  "Enable_HUD_NPC": true,
+  "Enable_HUD_FarmAnimal": true,
+  "Enable_HUD_Object": true,
+  "Enable_HUD_Crop": true,
+  "Enable_HUD_WildTree": true,
+  "Enable_HUD_FruitTree": true,
+  "Enable_HUD_Building": true,
+  "Enable_HUD_Event": false,
+  "Enable_HUD_Location": false,
+  "Display_ModId": false,
+  "Display_ModSource": false,
+  "Color_SDV": null,
+  "Color_Mod": null,
+  "PreferDirectModId": true
+}
