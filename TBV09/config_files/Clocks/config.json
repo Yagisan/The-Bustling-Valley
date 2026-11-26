@@ -1,6 +1,6 @@
 {
   "ModEnabled": true,
-  "FixClocks": true,
+  "FixMapClocks": true,
   "SmoothMovement": true,
   "Alpha": 0.75,
   "HourHandColor": {
