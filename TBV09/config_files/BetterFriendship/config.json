@@ -5,8 +5,11 @@
   "IgnoreMaxedFriendships": true,
   "SpousePromptsOverride": false,
   "DisplayBubbles": true,
+  "BubbleScale": 1.0,
+  "BubbleFadeDuration": 200,
   "BubbleDisplayRange": 12,
   "GiftPreference": "like",
   "GiftCycleCount": 5,
-  "OnlyHighestQuality": true
+  "OnlyHighestQuality": true,
+  "OnlyKnownGiftTastes": false
 }
