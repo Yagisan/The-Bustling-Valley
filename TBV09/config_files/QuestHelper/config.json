@@ -1,5 +1,6 @@
 {
   "ModEnabled": true,
   "ShowQuestMarkers": true,
-  "ShowQuestDetails": true
+  "ShowQuestDetails": true,
+  "RebuildSocializeQuest": true
 }
