@@ -9,6 +9,7 @@
   "Rename Cheese Press": "false",
   "Retexture Cheese Press": "false",
   "Map Edits": "true",
+  "Enable Vanilla Recipe Changes": "true",
   "SVE Compat Patch": "false",
   "Require Items For Perfection": "false"
 }
