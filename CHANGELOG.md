@@ -60,7 +60,15 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 ### Info <!-- omit in toc -->
 
-[Perfection Handbook](https://www.nexusmods.com/stardewvalley/mods/45150) exports will be found in the Mod Organizer overwrite folder.
+This release supports a new [Perfection Handbook](https://www.nexusmods.com/stardewvalley/mods/45150) to properly track the perfection changes from a modded game. You can access it in game by pressing **Right Shift + J** to open the handbook. The exports screenshots it creates will be found in the Mod Organizer overwrite folder.
+
+This includes the tree update from [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508). For the smoothest upgrade experience you must do the following BEFORE you upgrade.
+
+Chop down any **olive bushes**, **bamboo crops**, **melaleuca**, **camphor**, **cinnamon**, and **eucalyptus** trees. This will give you back the seeds. Go to bed to save the game as normal. Update the Bustling Valley. Replant the items when you restart. Anything you missed will look like an error item in game. Chop those down with an axe, but you won't get the seeds back.
+
+The Camphor, Cinnamon, Melaleuca, and Eucalyptus trees are now "wild trees" (like Pine and Maple), which can be shaken for their produce items in more seasons as well as spread on their own. The Cinnamon Tree can be chopped down for Cinnamon items. Bamboo is now a "wild tree" that spreads faster than other wild trees. It can be chopped down for Bamboo instead of wood. Bamboo item is no longer a vegetable. These "wild trees" will only spread if placed on the farm. Olive is now a fruit tree instead of a bush. Cashew is now a spring fruit tree.
+
+[Flexible Cooking](https://www.nexusmods.com/stardewvalley/mods/38862) now includes upstream support for using crab pot items to make Sushi and Sashimi. As a result we have switched to the upstream method, and I have retired the Bustling Valley's personal patch.
 
 ### Known Issues
 
@@ -84,6 +92,24 @@ Due to the nature of some of the larger mods included in this mod list, a MAJOR 
 
 - Updated [Quest Helper](https://www.nexusmods.com/stardewvalley/mods/41150)
 - Updated [Diverse Stardew Valley - Seasonal Outfits (DSV)](https://www.nexusmods.com/stardewvalley/mods/17059)
+- Updated [Better Friendship](https://www.nexusmods.com/stardewvalley/mods/10287)
+- Updated [Better Ranching](https://www.nexusmods.com/stardewvalley/mods/859)
+- Updated [Extra Machine Configs](https://www.nexusmods.com/stardewvalley/mods/22256)
+- Updated [Canon-Friendly Dialogue Expansion](https://www.nexusmods.com/stardewvalley/mods/2544)
+- Updated [Downhill Project - Expanded Map for Custom NPCs](https://www.nexusmods.com/stardewvalley/mods/32872)
+- Updated [Ridgeside Rival Hearts - Jeric and Alex](https://www.nexusmods.com/stardewvalley/mods/9558)
+- Updated [Once Upon a Fleurine](https://www.nexusmods.com/stardewvalley/mods/33082)
+- Updated [Pelican Town Expanded](https://www.nexusmods.com/stardewvalley/mods/46883)
+- Updated [Spouse's Pet Comes Along](https://www.nexusmods.com/stardewvalley/mods/50129)
+- Updated [Spouses Move House](https://www.nexusmods.com/stardewvalley/mods/44103)
+- Updated [Star Crossed - A Rival Hearts and Marriage Mod](https://www.nexusmods.com/stardewvalley/mods/34252)
+- Updated [Woodsman Hurst](https://www.nexusmods.com/stardewvalley/mods/45324)
+- Updated [Mizu's Alpaca and Llama](https://www.nexusmods.com/stardewvalley/mods/47417)
+- Updated [Cornucopia - Artisan Machines](https://www.nexusmods.com/stardewvalley/mods/24842)
+- Updated [Cornucopia - Cooking Recipes](https://www.nexusmods.com/stardewvalley/mods/39057)
+- Updated [Cornucopia - More Crops](https://www.nexusmods.com/stardewvalley/mods/19508)
+- Updated [Clocks](https://www.nexusmods.com/stardewvalley/mods/47733)
+- Updated [Flexible Cooking](https://www.nexusmods.com/stardewvalley/mods/38862)
 
 ### Removals <!-- omit in toc -->
 
